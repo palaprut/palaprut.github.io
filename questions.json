@@ -1,0 +1,5319 @@
+[
+ {
+  "tense": "Present Simple",
+  "q": "She ___ coffee every morning.",
+  "answer": "drinks",
+  "choices": [
+   "drinks",
+   "drink",
+   "is drinking",
+   "drank"
+  ],
+  "level": "A1-A2",
+  "explain": "signal: every morning; เอกพจน์เติม s — โครงสร้าง: Subject + V1 (เอกพจน์เติม s/es) (บอกข้อเท็จจริง, กิจวัตร, ความจริงถาวร)"
+ },
+ {
+  "tense": "Present Simple",
+  "q": "The sun ___ in the east.",
+  "answer": "rises",
+  "choices": [
+   "rises",
+   "is rising",
+   "rose",
+   "rise"
+  ],
+  "level": "A1-A2",
+  "explain": "ความจริงทั่วไป — โครงสร้าง: Subject + V1 (เอกพจน์เติม s/es) (บอกข้อเท็จจริง, กิจวัตร, ความจริงถาวร)"
+ },
+ {
+  "tense": "Present Simple",
+  "q": "I ___ to work by bus.",
+  "answer": "go",
+  "choices": [
+   "go",
+   "goes",
+   "am going",
+   "went"
+  ],
+  "level": "A1-A2",
+  "explain": "I + V1 — โครงสร้าง: Subject + V1 (เอกพจน์เติม s/es) (บอกข้อเท็จจริง, กิจวัตร, ความจริงถาวร)"
+ },
+ {
+  "tense": "Present Simple",
+  "q": "Tom ___ football on Sundays.",
+  "answer": "plays",
+  "choices": [
+   "plays",
+   "play",
+   "is playing",
+   "played"
+  ],
+  "level": "A1-A2",
+  "explain": "on Sundays = กิจวัตร — โครงสร้าง: Subject + V1 (เอกพจน์เติม s/es) (บอกข้อเท็จจริง, กิจวัตร, ความจริงถาวร)"
+ },
+ {
+  "tense": "Present Simple",
+  "q": "My parents ___ in Bangkok.",
+  "answer": "live",
+  "choices": [
+   "live",
+   "lives",
+   "are living",
+   "lived"
+  ],
+  "level": "A1-A2",
+  "explain": "พหูพจน์ V1 — โครงสร้าง: Subject + V1 (เอกพจน์เติม s/es) (บอกข้อเท็จจริง, กิจวัตร, ความจริงถาวร)"
+ },
+ {
+  "tense": "Present Simple",
+  "q": "Water ___ at 100°C.",
+  "answer": "boils",
+  "choices": [
+   "boils",
+   "boil",
+   "is boiling",
+   "boiled"
+  ],
+  "level": "A1-A2",
+  "explain": "ความจริงวิทยาศาสตร์ — โครงสร้าง: Subject + V1 (เอกพจน์เติม s/es) (บอกข้อเท็จจริง, กิจวัตร, ความจริงถาวร)"
+ },
+ {
+  "tense": "Present Simple",
+  "q": "He usually ___ TV in the evening.",
+  "answer": "watches",
+  "choices": [
+   "watches",
+   "watch",
+   "is watching",
+   "watched"
+  ],
+  "level": "A1-A2",
+  "explain": "usually = กิจวัตร — โครงสร้าง: Subject + V1 (เอกพจน์เติม s/es) (บอกข้อเท็จจริง, กิจวัตร, ความจริงถาวร)"
+ },
+ {
+  "tense": "Present Simple",
+  "q": "Cats ___ milk.",
+  "answer": "like",
+  "choices": [
+   "like",
+   "likes",
+   "are liking",
+   "liked"
+  ],
+  "level": "A1-A2",
+  "explain": "พหูพจน์ V1; like = stative — โครงสร้าง: Subject + V1 (เอกพจน์เติม s/es) (บอกข้อเท็จจริง, กิจวัตร, ความจริงถาวร)"
+ },
+ {
+  "tense": "Present Simple",
+  "q": "She ___ not eat meat.",
+  "answer": "does",
+  "choices": [
+   "does",
+   "do",
+   "is",
+   "has"
+  ],
+  "level": "A1-A2",
+  "explain": "does not + V1 — โครงสร้าง: Subject + V1 (เอกพจน์เติม s/es) (บอกข้อเท็จจริง, กิจวัตร, ความจริงถาวร)"
+ },
+ {
+  "tense": "Present Simple",
+  "q": "___ you speak English?",
+  "answer": "Do",
+  "choices": [
+   "Do",
+   "Does",
+   "Are",
+   "Is"
+  ],
+  "level": "A1-A2",
+  "explain": "you + do — โครงสร้าง: Subject + V1 (เอกพจน์เติม s/es) (บอกข้อเท็จจริง, กิจวัตร, ความจริงถาวร)"
+ },
+ {
+  "tense": "Present Simple",
+  "q": "The train ___ at 7 a.m.",
+  "answer": "leaves",
+  "choices": [
+   "leaves",
+   "leave",
+   "is leaving",
+   "left"
+  ],
+  "level": "A1-A2",
+  "explain": "ตารางเวลา — โครงสร้าง: Subject + V1 (เอกพจน์เติม s/es) (บอกข้อเท็จจริง, กิจวัตร, ความจริงถาวร)"
+ },
+ {
+  "tense": "Present Simple",
+  "q": "My sister ___ her teeth twice a day.",
+  "answer": "brushes",
+  "choices": [
+   "brushes",
+   "brush",
+   "is brushing",
+   "brushed"
+  ],
+  "level": "A1-A2",
+  "explain": "twice a day — โครงสร้าง: Subject + V1 (เอกพจน์เติม s/es) (บอกข้อเท็จจริง, กิจวัตร, ความจริงถาวร)"
+ },
+ {
+  "tense": "Present Simple",
+  "q": "Birds ___ in the sky.",
+  "answer": "fly",
+  "choices": [
+   "fly",
+   "flies",
+   "are flying",
+   "flew"
+  ],
+  "level": "A1-A2",
+  "explain": "พหูพจน์ V1 — โครงสร้าง: Subject + V1 (เอกพจน์เติม s/es) (บอกข้อเท็จจริง, กิจวัตร, ความจริงถาวร)"
+ },
+ {
+  "tense": "Present Simple",
+  "q": "He ___ English fluently.",
+  "answer": "speaks",
+  "choices": [
+   "speaks",
+   "speak",
+   "is speaking",
+   "spoke"
+  ],
+  "level": "A1-A2",
+  "explain": "เอกพจน์ + s — โครงสร้าง: Subject + V1 (เอกพจน์เติม s/es) (บอกข้อเท็จจริง, กิจวัตร, ความจริงถาวร)"
+ },
+ {
+  "tense": "Present Simple",
+  "q": "We ___ dinner at 7 p.m.",
+  "answer": "have",
+  "choices": [
+   "have",
+   "has",
+   "are having",
+   "had"
+  ],
+  "level": "A1-A2",
+  "explain": "we + V1 — โครงสร้าง: Subject + V1 (เอกพจน์เติม s/es) (บอกข้อเท็จจริง, กิจวัตร, ความจริงถาวร)"
+ },
+ {
+  "tense": "Present Simple",
+  "q": "Ice ___ at 0°C.",
+  "answer": "melts",
+  "choices": [
+   "melts",
+   "melt",
+   "is melting",
+   "melted"
+  ],
+  "level": "A1-A2",
+  "explain": "ความจริงวิทยาศาสตร์ — โครงสร้าง: Subject + V1 (เอกพจน์เติม s/es) (บอกข้อเท็จจริง, กิจวัตร, ความจริงถาวร)"
+ },
+ {
+  "tense": "Present Simple",
+  "q": "She ___ her keys every day.",
+  "answer": "loses",
+  "choices": [
+   "loses",
+   "losing",
+   "is losing",
+   "lost"
+  ],
+  "level": "A1-A2",
+  "explain": "every day — โครงสร้าง: Subject + V1 (เอกพจน์เติม s/es) (บอกข้อเท็จจริง, กิจวัตร, ความจริงถาวร)"
+ },
+ {
+  "tense": "Present Simple",
+  "q": "She ___ that you are right.",
+  "answer": "believes",
+  "choices": [
+   "believes",
+   "is believing",
+   "believing",
+   "believed"
+  ],
+  "level": "B1",
+  "explain": "believe = stative — โครงสร้าง: Subject + V1 (เอกพจน์เติม s/es) (บอกข้อเท็จจริง, กิจวัตร, ความจริงถาวร)"
+ },
+ {
+  "tense": "Present Simple",
+  "q": "This soup ___ delicious.",
+  "answer": "tastes",
+  "choices": [
+   "tastes",
+   "is tasting",
+   "tasting",
+   "taste"
+  ],
+  "level": "B1",
+  "explain": "verb of senses — โครงสร้าง: Subject + V1 (เอกพจน์เติม s/es) (บอกข้อเท็จจริง, กิจวัตร, ความจริงถาวร)"
+ },
+ {
+  "tense": "Present Simple",
+  "q": "He ___ two languages.",
+  "answer": "knows",
+  "choices": [
+   "knows",
+   "is knowing",
+   "knowing",
+   "know"
+  ],
+  "level": "B1",
+  "explain": "know = stative — โครงสร้าง: Subject + V1 (เอกพจน์เติม s/es) (บอกข้อเท็จจริง, กิจวัตร, ความจริงถาวร)"
+ },
+ {
+  "tense": "Present Simple",
+  "q": "The film ___ at 8 p.m. tonight.",
+  "answer": "starts",
+  "choices": [
+   "starts",
+   "is starting",
+   "started",
+   "will start"
+  ],
+  "level": "B1",
+  "explain": "ตารางเวลาแม้อนาคต — โครงสร้าง: Subject + V1 (เอกพจน์เติม s/es) (บอกข้อเท็จจริง, กิจวัตร, ความจริงถาวร)"
+ },
+ {
+  "tense": "Present Simple",
+  "q": "If it ___ tomorrow, we'll stay home.",
+  "answer": "rains",
+  "choices": [
+   "rains",
+   "will rain",
+   "is raining",
+   "rained"
+  ],
+  "level": "B1",
+  "explain": "if-clause type 1 — โครงสร้าง: Subject + V1 (เอกพจน์เติม s/es) (บอกข้อเท็จจริง, กิจวัตร, ความจริงถาวร)"
+ },
+ {
+  "tense": "Present Simple",
+  "q": "Sugar ___ in water.",
+  "answer": "dissolves",
+  "choices": [
+   "dissolves",
+   "is dissolving",
+   "dissolved",
+   "dissolve"
+  ],
+  "level": "B1",
+  "explain": "ความจริงวิทยาศาสตร์ — โครงสร้าง: Subject + V1 (เอกพจน์เติม s/es) (บอกข้อเท็จจริง, กิจวัตร, ความจริงถาวร)"
+ },
+ {
+  "tense": "Present Simple",
+  "q": "She rarely ___ late.",
+  "answer": "arrives",
+  "choices": [
+   "arrives",
+   "is arriving",
+   "arrived",
+   "arrive"
+  ],
+  "level": "B1",
+  "explain": "rarely — โครงสร้าง: Subject + V1 (เอกพจน์เติม s/es) (บอกข้อเท็จจริง, กิจวัตร, ความจริงถาวร)"
+ },
+ {
+  "tense": "Present Simple",
+  "q": "They ___ that he is innocent.",
+  "answer": "think",
+  "choices": [
+   "think",
+   "are thinking",
+   "thought",
+   "thinking"
+  ],
+  "level": "B1",
+  "explain": "think = stative — โครงสร้าง: Subject + V1 (เอกพจน์เติม s/es) (บอกข้อเท็จจริง, กิจวัตร, ความจริงถาวร)"
+ },
+ {
+  "tense": "Present Simple",
+  "q": "Nobody ___ the answer.",
+  "answer": "knows",
+  "choices": [
+   "knows",
+   "know",
+   "is knowing",
+   "knew"
+  ],
+  "level": "B1",
+  "explain": "nobody เอกพจน์ — โครงสร้าง: Subject + V1 (เอกพจน์เติม s/es) (บอกข้อเท็จจริง, กิจวัตร, ความจริงถาวร)"
+ },
+ {
+  "tense": "Present Simple",
+  "q": "The bus ___ every 15 minutes.",
+  "answer": "comes",
+  "choices": [
+   "comes",
+   "is coming",
+   "came",
+   "come"
+  ],
+  "level": "B1",
+  "explain": "every 15 minutes — โครงสร้าง: Subject + V1 (เอกพจน์เติม s/es) (บอกข้อเท็จจริง, กิจวัตร, ความจริงถาวร)"
+ },
+ {
+  "tense": "Present Simple",
+  "q": "Sound ___ faster than light? No.",
+  "answer": "travels",
+  "choices": [
+   "travels",
+   "is traveling",
+   "traveled",
+   "travel"
+  ],
+  "level": "B1",
+  "explain": "ความจริง — โครงสร้าง: Subject + V1 (เอกพจน์เติม s/es) (บอกข้อเท็จจริง, กิจวัตร, ความจริงถาวร)"
+ },
+ {
+  "tense": "Present Simple",
+  "q": "Not only ___ he speak English, but he writes well.",
+  "answer": "does",
+  "choices": [
+   "does",
+   "is",
+   "has",
+   "do"
+  ],
+  "level": "B2-C1",
+  "explain": "Inversion Not only — โครงสร้าง: Subject + V1 (เอกพจน์เติม s/es) (บอกข้อเท็จจริง, กิจวัตร, ความจริงถาวร)"
+ },
+ {
+  "tense": "Present Simple",
+  "q": "Rarely ___ we see such kindness.",
+  "answer": "do",
+  "choices": [
+   "do",
+   "does",
+   "are",
+   "have"
+  ],
+  "level": "B2-C1",
+  "explain": "Inversion Rarely — โครงสร้าง: Subject + V1 (เอกพจน์เติม s/es) (บอกข้อเท็จจริง, กิจวัตร, ความจริงถาวร)"
+ },
+ {
+  "tense": "Present Simple",
+  "q": "It's essential that everyone ___ the meeting.",
+  "answer": "attend",
+  "choices": [
+   "attend",
+   "attends",
+   "is attending",
+   "attended"
+  ],
+  "level": "B2-C1",
+  "explain": "subjunctive — โครงสร้าง: Subject + V1 (เอกพจน์เติม s/es) (บอกข้อเท็จจริง, กิจวัตร, ความจริงถาวร)"
+ },
+ {
+  "tense": "Present Simple",
+  "q": "Should you ___ any problems, call me.",
+  "answer": "have",
+  "choices": [
+   "have",
+   "has",
+   "having",
+   "had"
+  ],
+  "level": "B2-C1",
+  "explain": "Inversion แทน if — โครงสร้าง: Subject + V1 (เอกพจน์เติม s/es) (บอกข้อเท็จจริง, กิจวัตร, ความจริงถาวร)"
+ },
+ {
+  "tense": "Present Simple",
+  "q": "The committee ___ that the rule be changed.",
+  "answer": "insists",
+  "choices": [
+   "insists",
+   "is insisting",
+   "insisted",
+   "insist"
+  ],
+  "level": "B2-C1",
+  "explain": "insist + subjunctive — โครงสร้าง: Subject + V1 (เอกพจน์เติม s/es) (บอกข้อเท็จจริง, กิจวัตร, ความจริงถาวร)"
+ },
+ {
+  "tense": "Present Simple",
+  "q": "Seldom ___ she complain about work.",
+  "answer": "does",
+  "choices": [
+   "does",
+   "do",
+   "is",
+   "has"
+  ],
+  "level": "B2-C1",
+  "explain": "Inversion seldom — โครงสร้าง: Subject + V1 (เอกพจน์เติม s/es) (บอกข้อเท็จจริง, กิจวัตร, ความจริงถาวร)"
+ },
+ {
+  "tense": "Present Continuous",
+  "q": "Look! The baby ___.",
+  "answer": "is crying",
+  "choices": [
+   "is crying",
+   "cries",
+   "cried",
+   "has cried"
+  ],
+  "level": "A1-A2",
+  "explain": "Look! = ตอนนี้ — โครงสร้าง: am/is/are + V-ing (กำลังเกิดขึ้นตอนนี้ หรือแผนที่นัดไว้ในอนาคตอันใกล้)"
+ },
+ {
+  "tense": "Present Continuous",
+  "q": "I ___ my homework now.",
+  "answer": "am doing",
+  "choices": [
+   "am doing",
+   "do",
+   "did",
+   "have done"
+  ],
+  "level": "A1-A2",
+  "explain": "now — โครงสร้าง: am/is/are + V-ing (กำลังเกิดขึ้นตอนนี้ หรือแผนที่นัดไว้ในอนาคตอันใกล้)"
+ },
+ {
+  "tense": "Present Continuous",
+  "q": "She ___ TV at the moment.",
+  "answer": "is watching",
+  "choices": [
+   "is watching",
+   "watches",
+   "watched",
+   "has watched"
+  ],
+  "level": "A1-A2",
+  "explain": "at the moment — โครงสร้าง: am/is/are + V-ing (กำลังเกิดขึ้นตอนนี้ หรือแผนที่นัดไว้ในอนาคตอันใกล้)"
+ },
+ {
+  "tense": "Present Continuous",
+  "q": "They ___ football right now.",
+  "answer": "are playing",
+  "choices": [
+   "are playing",
+   "play",
+   "played",
+   "have played"
+  ],
+  "level": "A1-A2",
+  "explain": "right now — โครงสร้าง: am/is/are + V-ing (กำลังเกิดขึ้นตอนนี้ หรือแผนที่นัดไว้ในอนาคตอันใกล้)"
+ },
+ {
+  "tense": "Present Continuous",
+  "q": "Listen! Someone ___ the piano.",
+  "answer": "is playing",
+  "choices": [
+   "is playing",
+   "plays",
+   "played",
+   "play"
+  ],
+  "level": "A1-A2",
+  "explain": "Listen! — โครงสร้าง: am/is/are + V-ing (กำลังเกิดขึ้นตอนนี้ หรือแผนที่นัดไว้ในอนาคตอันใกล้)"
+ },
+ {
+  "tense": "Present Continuous",
+  "q": "We ___ dinner now.",
+  "answer": "are having",
+  "choices": [
+   "are having",
+   "have",
+   "had",
+   "are"
+  ],
+  "level": "A1-A2",
+  "explain": "have=eat continuous ได้ — โครงสร้าง: am/is/are + V-ing (กำลังเกิดขึ้นตอนนี้ หรือแผนที่นัดไว้ในอนาคตอันใกล้)"
+ },
+ {
+  "tense": "Present Continuous",
+  "q": "He ___ a shower.",
+  "answer": "is taking",
+  "choices": [
+   "is taking",
+   "takes",
+   "took",
+   "take"
+  ],
+  "level": "A1-A2",
+  "explain": "กำลังทำ — โครงสร้าง: am/is/are + V-ing (กำลังเกิดขึ้นตอนนี้ หรือแผนที่นัดไว้ในอนาคตอันใกล้)"
+ },
+ {
+  "tense": "Present Continuous",
+  "q": "The children ___ in the garden.",
+  "answer": "are playing",
+  "choices": [
+   "are playing",
+   "play",
+   "played",
+   "plays"
+  ],
+  "level": "A1-A2",
+  "explain": "are + Ving — โครงสร้าง: am/is/are + V-ing (กำลังเกิดขึ้นตอนนี้ หรือแผนที่นัดไว้ในอนาคตอันใกล้)"
+ },
+ {
+  "tense": "Present Continuous",
+  "q": "I ___ for the bus.",
+  "answer": "am waiting",
+  "choices": [
+   "am waiting",
+   "wait",
+   "waits",
+   "waited"
+  ],
+  "level": "A1-A2",
+  "explain": "กำลังเกิด — โครงสร้าง: am/is/are + V-ing (กำลังเกิดขึ้นตอนนี้ หรือแผนที่นัดไว้ในอนาคตอันใกล้)"
+ },
+ {
+  "tense": "Present Continuous",
+  "q": "She ___ a beautiful dress today.",
+  "answer": "is wearing",
+  "choices": [
+   "is wearing",
+   "wears",
+   "wore",
+   "wear"
+  ],
+  "level": "A1-A2",
+  "explain": "today — โครงสร้าง: am/is/are + V-ing (กำลังเกิดขึ้นตอนนี้ หรือแผนที่นัดไว้ในอนาคตอันใกล้)"
+ },
+ {
+  "tense": "Present Continuous",
+  "q": "It ___ heavily outside.",
+  "answer": "is raining",
+  "choices": [
+   "is raining",
+   "rains",
+   "rained",
+   "rain"
+  ],
+  "level": "A1-A2",
+  "explain": "ตอนนี้ — โครงสร้าง: am/is/are + V-ing (กำลังเกิดขึ้นตอนนี้ หรือแผนที่นัดไว้ในอนาคตอันใกล้)"
+ },
+ {
+  "tense": "Present Continuous",
+  "q": "The dog ___ at the postman.",
+  "answer": "is barking",
+  "choices": [
+   "is barking",
+   "barks",
+   "barked",
+   "bark"
+  ],
+  "level": "A1-A2",
+  "explain": "กำลังเกิด — โครงสร้าง: am/is/are + V-ing (กำลังเกิดขึ้นตอนนี้ หรือแผนที่นัดไว้ในอนาคตอันใกล้)"
+ },
+ {
+  "tense": "Present Continuous",
+  "q": "My mother ___ a cake now.",
+  "answer": "is baking",
+  "choices": [
+   "is baking",
+   "bakes",
+   "baked",
+   "bake"
+  ],
+  "level": "A1-A2",
+  "explain": "now — โครงสร้าง: am/is/are + V-ing (กำลังเกิดขึ้นตอนนี้ หรือแผนที่นัดไว้ในอนาคตอันใกล้)"
+ },
+ {
+  "tense": "Present Continuous",
+  "q": "Jane ___ her homework at the moment.",
+  "answer": "is doing",
+  "choices": [
+   "is doing",
+   "does",
+   "did",
+   "done"
+  ],
+  "level": "A1-A2",
+  "explain": "at the moment — โครงสร้าง: am/is/are + V-ing (กำลังเกิดขึ้นตอนนี้ หรือแผนที่นัดไว้ในอนาคตอันใกล้)"
+ },
+ {
+  "tense": "Present Continuous",
+  "q": "The kids ___ upstairs now.",
+  "answer": "are sleeping",
+  "choices": [
+   "are sleeping",
+   "sleep",
+   "slept",
+   "sleeping"
+  ],
+  "level": "A1-A2",
+  "explain": "now — โครงสร้าง: am/is/are + V-ing (กำลังเกิดขึ้นตอนนี้ หรือแผนที่นัดไว้ในอนาคตอันใกล้)"
+ },
+ {
+  "tense": "Present Continuous",
+  "q": "We ___ English this year.",
+  "answer": "are studying",
+  "choices": [
+   "are studying",
+   "study",
+   "studied",
+   "have studied"
+  ],
+  "level": "B1",
+  "explain": "this year — โครงสร้าง: am/is/are + V-ing (กำลังเกิดขึ้นตอนนี้ หรือแผนที่นัดไว้ในอนาคตอันใกล้)"
+ },
+ {
+  "tense": "Present Continuous",
+  "q": "He ___ dinner with us tomorrow.",
+  "answer": "is having",
+  "choices": [
+   "is having",
+   "has",
+   "will have",
+   "had"
+  ],
+  "level": "B1",
+  "explain": "แผนอนาคต — โครงสร้าง: am/is/are + V-ing (กำลังเกิดขึ้นตอนนี้ หรือแผนที่นัดไว้ในอนาคตอันใกล้)"
+ },
+ {
+  "tense": "Present Continuous",
+  "q": "She ___ to Japan next week.",
+  "answer": "is flying",
+  "choices": [
+   "is flying",
+   "flies",
+   "flew",
+   "will fly"
+  ],
+  "level": "B1",
+  "explain": "แผนอนาคต — โครงสร้าง: am/is/are + V-ing (กำลังเกิดขึ้นตอนนี้ หรือแผนที่นัดไว้ในอนาคตอันใกล้)"
+ },
+ {
+  "tense": "Present Continuous",
+  "q": "Prices ___ these days.",
+  "answer": "are rising",
+  "choices": [
+   "are rising",
+   "rise",
+   "rose",
+   "have risen"
+  ],
+  "level": "B1",
+  "explain": "these days — โครงสร้าง: am/is/are + V-ing (กำลังเกิดขึ้นตอนนี้ หรือแผนที่นัดไว้ในอนาคตอันใกล้)"
+ },
+ {
+  "tense": "Present Continuous",
+  "q": "More people ___ electric cars nowadays.",
+  "answer": "are buying",
+  "choices": [
+   "are buying",
+   "buy",
+   "bought",
+   "have bought"
+  ],
+  "level": "B1",
+  "explain": "nowadays — โครงสร้าง: am/is/are + V-ing (กำลังเกิดขึ้นตอนนี้ หรือแผนที่นัดไว้ในอนาคตอันใกล้)"
+ },
+ {
+  "tense": "Present Continuous",
+  "q": "I ___ Tom for lunch tomorrow.",
+  "answer": "am meeting",
+  "choices": [
+   "am meeting",
+   "meet",
+   "met",
+   "will meet"
+  ],
+  "level": "B1",
+  "explain": "นัดหมายไว้ — โครงสร้าง: am/is/are + V-ing (กำลังเกิดขึ้นตอนนี้ หรือแผนที่นัดไว้ในอนาคตอันใกล้)"
+ },
+ {
+  "tense": "Present Continuous",
+  "q": "The economy ___ rapidly.",
+  "answer": "is growing",
+  "choices": [
+   "is growing",
+   "grows",
+   "grew",
+   "has grown"
+  ],
+  "level": "B1",
+  "explain": "แนวโน้ม — โครงสร้าง: am/is/are + V-ing (กำลังเกิดขึ้นตอนนี้ หรือแผนที่นัดไว้ในอนาคตอันใกล้)"
+ },
+ {
+  "tense": "Present Continuous",
+  "q": "She ___ with her parents until she finds a flat.",
+  "answer": "is staying",
+  "choices": [
+   "is staying",
+   "stays",
+   "stayed",
+   "has stayed"
+  ],
+  "level": "B1",
+  "explain": "ชั่วคราว — โครงสร้าง: am/is/are + V-ing (กำลังเกิดขึ้นตอนนี้ หรือแผนที่นัดไว้ในอนาคตอันใกล้)"
+ },
+ {
+  "tense": "Present Continuous",
+  "q": "They ___ the house this month.",
+  "answer": "are painting",
+  "choices": [
+   "are painting",
+   "paint",
+   "painted",
+   "have painted"
+  ],
+  "level": "B1",
+  "explain": "this month — โครงสร้าง: am/is/are + V-ing (กำลังเกิดขึ้นตอนนี้ หรือแผนที่นัดไว้ในอนาคตอันใกล้)"
+ },
+ {
+  "tense": "Present Continuous",
+  "q": "I ___ about changing jobs.",
+  "answer": "am thinking",
+  "choices": [
+   "am thinking",
+   "think",
+   "thought",
+   "have thought"
+  ],
+  "level": "B1",
+  "explain": "think พิจารณา — โครงสร้าง: am/is/are + V-ing (กำลังเกิดขึ้นตอนนี้ หรือแผนที่นัดไว้ในอนาคตอันใกล้)"
+ },
+ {
+  "tense": "Present Continuous",
+  "q": "He ___ silly today.",
+  "answer": "is being",
+  "choices": [
+   "is being",
+   "is",
+   "was",
+   "has been"
+  ],
+  "level": "B1",
+  "explain": "being + adj ชั่วคราว — โครงสร้าง: am/is/are + V-ing (กำลังเกิดขึ้นตอนนี้ หรือแผนที่นัดไว้ในอนาคตอันใกล้)"
+ },
+ {
+  "tense": "Present Continuous",
+  "q": "Kids these days ___ too much time on phones.",
+  "answer": "are spending",
+  "choices": [
+   "are spending",
+   "spend",
+   "spent",
+   "have spent"
+  ],
+  "level": "B1",
+  "explain": "แนวโน้ม — โครงสร้าง: am/is/are + V-ing (กำลังเกิดขึ้นตอนนี้ หรือแผนที่นัดไว้ในอนาคตอันใกล้)"
+ },
+ {
+  "tense": "Present Continuous",
+  "q": "She ___ better after the treatment.",
+  "answer": "is getting",
+  "choices": [
+   "is getting",
+   "gets",
+   "got",
+   "has got"
+  ],
+  "level": "B1",
+  "explain": "การเปลี่ยนแปลง — โครงสร้าง: am/is/are + V-ing (กำลังเกิดขึ้นตอนนี้ หรือแผนที่นัดไว้ในอนาคตอันใกล้)"
+ },
+ {
+  "tense": "Present Continuous",
+  "q": "The world ___ warmer every year.",
+  "answer": "is getting",
+  "choices": [
+   "is getting",
+   "gets",
+   "got",
+   "has got"
+  ],
+  "level": "B1",
+  "explain": "เปลี่ยนแปลงต่อเนื่อง — โครงสร้าง: am/is/are + V-ing (กำลังเกิดขึ้นตอนนี้ หรือแผนที่นัดไว้ในอนาคตอันใกล้)"
+ },
+ {
+  "tense": "Present Continuous",
+  "q": "You ___ very rude right now.",
+  "answer": "are being",
+  "choices": [
+   "are being",
+   "are",
+   "were",
+   "have been"
+  ],
+  "level": "B2-C1",
+  "explain": "being + adj — โครงสร้าง: am/is/are + V-ing (กำลังเกิดขึ้นตอนนี้ หรือแผนที่นัดไว้ในอนาคตอันใกล้)"
+ },
+ {
+  "tense": "Present Continuous",
+  "q": "More and more people ___ vegan diets.",
+  "answer": "are adopting",
+  "choices": [
+   "are adopting",
+   "adopt",
+   "adopted",
+   "have adopted"
+  ],
+  "level": "B2-C1",
+  "explain": "แนวโน้มสังคม — โครงสร้าง: am/is/are + V-ing (กำลังเกิดขึ้นตอนนี้ หรือแผนที่นัดไว้ในอนาคตอันใกล้)"
+ },
+ {
+  "tense": "Present Continuous",
+  "q": "The government ___ new policies these days.",
+  "answer": "is introducing",
+  "choices": [
+   "is introducing",
+   "introduces",
+   "introduced",
+   "has introduced"
+  ],
+  "level": "B2-C1",
+  "explain": "สถานการณ์ปัจจุบัน — โครงสร้าง: am/is/are + V-ing (กำลังเกิดขึ้นตอนนี้ หรือแผนที่นัดไว้ในอนาคตอันใกล้)"
+ },
+ {
+  "tense": "Present Continuous",
+  "q": "Something ___ me that he's lying.",
+  "answer": "is telling",
+  "choices": [
+   "is telling",
+   "tells",
+   "told",
+   "has told"
+  ],
+  "level": "B2-C1",
+  "explain": "ความรู้สึกตอนนั้น — โครงสร้าง: am/is/are + V-ing (กำลังเกิดขึ้นตอนนี้ หรือแผนที่นัดไว้ในอนาคตอันใกล้)"
+ },
+ {
+  "tense": "Present Continuous",
+  "q": "Technology ___ our lives at an incredible pace.",
+  "answer": "is changing",
+  "choices": [
+   "is changing",
+   "changes",
+   "changed",
+   "has changed"
+  ],
+  "level": "B2-C1",
+  "explain": "แนวโน้ม — โครงสร้าง: am/is/are + V-ing (กำลังเกิดขึ้นตอนนี้ หรือแผนที่นัดไว้ในอนาคตอันใกล้)"
+ },
+ {
+  "tense": "Present Perfect",
+  "q": "I have ___ my homework.",
+  "answer": "finished",
+  "choices": [
+   "finished",
+   "finish",
+   "finishing",
+   "was finishing"
+  ],
+  "level": "A1-A2",
+  "explain": "have + V3 — โครงสร้าง: have/has + V3 (เชื่อมอดีตกับปัจจุบัน เน้นผลลัพธ์ตอนนี้ ไม่เจาะจงเวลาที่เกิด)"
+ },
+ {
+  "tense": "Present Perfect",
+  "q": "She has ___ to Paris twice.",
+  "answer": "been",
+  "choices": [
+   "been",
+   "went",
+   "goes",
+   "going"
+  ],
+  "level": "A1-A2",
+  "explain": "twice — โครงสร้าง: have/has + V3 (เชื่อมอดีตกับปัจจุบัน เน้นผลลัพธ์ตอนนี้ ไม่เจาะจงเวลาที่เกิด)"
+ },
+ {
+  "tense": "Present Perfect",
+  "q": "He has already ___ his lunch.",
+  "answer": "eaten",
+  "choices": [
+   "eaten",
+   "ate",
+   "eating",
+   "eat"
+  ],
+  "level": "A1-A2",
+  "explain": "already + V3 — โครงสร้าง: have/has + V3 (เชื่อมอดีตกับปัจจุบัน เน้นผลลัพธ์ตอนนี้ ไม่เจาะจงเวลาที่เกิด)"
+ },
+ {
+  "tense": "Present Perfect",
+  "q": "I have never ___ sushi.",
+  "answer": "tried",
+  "choices": [
+   "tried",
+   "try",
+   "tries",
+   "trying"
+  ],
+  "level": "A1-A2",
+  "explain": "never + V3 — โครงสร้าง: have/has + V3 (เชื่อมอดีตกับปัจจุบัน เน้นผลลัพธ์ตอนนี้ ไม่เจาะจงเวลาที่เกิด)"
+ },
+ {
+  "tense": "Present Perfect",
+  "q": "Have you ever ___ to Japan?",
+  "answer": "been",
+  "choices": [
+   "been",
+   "go",
+   "went",
+   "going"
+  ],
+  "level": "A1-A2",
+  "explain": "ever — โครงสร้าง: have/has + V3 (เชื่อมอดีตกับปัจจุบัน เน้นผลลัพธ์ตอนนี้ ไม่เจาะจงเวลาที่เกิด)"
+ },
+ {
+  "tense": "Present Perfect",
+  "q": "She has not ___ her keys yet.",
+  "answer": "found",
+  "choices": [
+   "found",
+   "find",
+   "finds",
+   "finding"
+  ],
+  "level": "A1-A2",
+  "explain": "yet — โครงสร้าง: have/has + V3 (เชื่อมอดีตกับปัจจุบัน เน้นผลลัพธ์ตอนนี้ ไม่เจาะจงเวลาที่เกิด)"
+ },
+ {
+  "tense": "Present Perfect",
+  "q": "We ___ this movie before.",
+  "answer": "have seen",
+  "choices": [
+   "have seen",
+   "saw",
+   "see",
+   "are seeing"
+  ],
+  "level": "A1-A2",
+  "explain": "before — โครงสร้าง: have/has + V3 (เชื่อมอดีตกับปัจจุบัน เน้นผลลัพธ์ตอนนี้ ไม่เจาะจงเวลาที่เกิด)"
+ },
+ {
+  "tense": "Present Perfect",
+  "q": "My brother ___ his phone.",
+  "answer": "has lost",
+  "choices": [
+   "has lost",
+   "lost",
+   "loses",
+   "is losing"
+  ],
+  "level": "A1-A2",
+  "explain": "ผลลัพธ์ปัจจุบัน — โครงสร้าง: have/has + V3 (เชื่อมอดีตกับปัจจุบัน เน้นผลลัพธ์ตอนนี้ ไม่เจาะจงเวลาที่เกิด)"
+ },
+ {
+  "tense": "Present Perfect",
+  "q": "I ___ in Bangkok for 5 years.",
+  "answer": "have lived",
+  "choices": [
+   "have lived",
+   "live",
+   "lived",
+   "am living"
+  ],
+  "level": "A1-A2",
+  "explain": "for + ระยะเวลา — โครงสร้าง: have/has + V3 (เชื่อมอดีตกับปัจจุบัน เน้นผลลัพธ์ตอนนี้ ไม่เจาะจงเวลาที่เกิด)"
+ },
+ {
+  "tense": "Present Perfect",
+  "q": "She ___ here since 2020.",
+  "answer": "has worked",
+  "choices": [
+   "has worked",
+   "works",
+   "worked",
+   "is working"
+  ],
+  "level": "A1-A2",
+  "explain": "since — โครงสร้าง: have/has + V3 (เชื่อมอดีตกับปัจจุบัน เน้นผลลัพธ์ตอนนี้ ไม่เจาะจงเวลาที่เกิด)"
+ },
+ {
+  "tense": "Present Perfect",
+  "q": "We ___ each other since childhood.",
+  "answer": "have known",
+  "choices": [
+   "have known",
+   "know",
+   "knew",
+   "are knowing"
+  ],
+  "level": "A1-A2",
+  "explain": "since + stative — โครงสร้าง: have/has + V3 (เชื่อมอดีตกับปัจจุบัน เน้นผลลัพธ์ตอนนี้ ไม่เจาะจงเวลาที่เกิด)"
+ },
+ {
+  "tense": "Present Perfect",
+  "q": "The train has just ___.",
+  "answer": "left",
+  "choices": [
+   "left",
+   "leaves",
+   "leaving",
+   "leave"
+  ],
+  "level": "A1-A2",
+  "explain": "just + V3 — โครงสร้าง: have/has + V3 (เชื่อมอดีตกับปัจจุบัน เน้นผลลัพธ์ตอนนี้ ไม่เจาะจงเวลาที่เกิด)"
+ },
+ {
+  "tense": "Present Perfect",
+  "q": "Look! Someone ___ the window.",
+  "answer": "has broken",
+  "choices": [
+   "has broken",
+   "broke",
+   "breaks",
+   "is breaking"
+  ],
+  "level": "A1-A2",
+  "explain": "ผลลัพธ์ตอนนี้ — โครงสร้าง: have/has + V3 (เชื่อมอดีตกับปัจจุบัน เน้นผลลัพธ์ตอนนี้ ไม่เจาะจงเวลาที่เกิด)"
+ },
+ {
+  "tense": "Present Perfect",
+  "q": "She has ___ her homework already.",
+  "answer": "done",
+  "choices": [
+   "done",
+   "did",
+   "doing",
+   "do"
+  ],
+  "level": "A1-A2",
+  "explain": "already — โครงสร้าง: have/has + V3 (เชื่อมอดีตกับปัจจุบัน เน้นผลลัพธ์ตอนนี้ ไม่เจาะจงเวลาที่เกิด)"
+ },
+ {
+  "tense": "Present Perfect",
+  "q": "I ___ my wallet somewhere.",
+  "answer": "have left",
+  "choices": [
+   "have left",
+   "left",
+   "leave",
+   "am leaving"
+  ],
+  "level": "A1-A2",
+  "explain": "ผลลัพธ์ปัจจุบัน — โครงสร้าง: have/has + V3 (เชื่อมอดีตกับปัจจุบัน เน้นผลลัพธ์ตอนนี้ ไม่เจาะจงเวลาที่เกิด)"
+ },
+ {
+  "tense": "Present Perfect",
+  "q": "We ___ friends since school.",
+  "answer": "have been",
+  "choices": [
+   "have been",
+   "are",
+   "were",
+   "have"
+  ],
+  "level": "A1-A2",
+  "explain": "since — โครงสร้าง: have/has + V3 (เชื่อมอดีตกับปัจจุบัน เน้นผลลัพธ์ตอนนี้ ไม่เจาะจงเวลาที่เกิด)"
+ },
+ {
+  "tense": "Present Perfect",
+  "q": "She ___ that book already.",
+  "answer": "has read",
+  "choices": [
+   "has read",
+   "read",
+   "reads",
+   "is reading"
+  ],
+  "level": "A1-A2",
+  "explain": "already — โครงสร้าง: have/has + V3 (เชื่อมอดีตกับปัจจุบัน เน้นผลลัพธ์ตอนนี้ ไม่เจาะจงเวลาที่เกิด)"
+ },
+ {
+  "tense": "Present Perfect",
+  "q": "I ___ this book three times.",
+  "answer": "have read",
+  "choices": [
+   "have read",
+   "read",
+   "am reading",
+   "was reading"
+  ],
+  "level": "B1",
+  "explain": "three times — โครงสร้าง: have/has + V3 (เชื่อมอดีตกับปัจจุบัน เน้นผลลัพธ์ตอนนี้ ไม่เจาะจงเวลาที่เกิด)"
+ },
+ {
+  "tense": "Present Perfect",
+  "q": "Prices ___ recently.",
+  "answer": "have increased",
+  "choices": [
+   "have increased",
+   "increased",
+   "increase",
+   "are increasing"
+  ],
+  "level": "B1",
+  "explain": "recently — โครงสร้าง: have/has + V3 (เชื่อมอดีตกับปัจจุบัน เน้นผลลัพธ์ตอนนี้ ไม่เจาะจงเวลาที่เกิด)"
+ },
+ {
+  "tense": "Present Perfect",
+  "q": "So far, we ___ 10 chapters.",
+  "answer": "have covered",
+  "choices": [
+   "have covered",
+   "covered",
+   "cover",
+   "are covering"
+  ],
+  "level": "B1",
+  "explain": "so far — โครงสร้าง: have/has + V3 (เชื่อมอดีตกับปัจจุบัน เน้นผลลัพธ์ตอนนี้ ไม่เจาะจงเวลาที่เกิด)"
+ },
+ {
+  "tense": "Present Perfect",
+  "q": "She ___ him for years.",
+  "answer": "has loved",
+  "choices": [
+   "has loved",
+   "loved",
+   "loves",
+   "is loving"
+  ],
+  "level": "B1",
+  "explain": "for + stative — โครงสร้าง: have/has + V3 (เชื่อมอดีตกับปัจจุบัน เน้นผลลัพธ์ตอนนี้ ไม่เจาะจงเวลาที่เกิด)"
+ },
+ {
+  "tense": "Present Perfect",
+  "q": "This is the best film I have ever ___.",
+  "answer": "seen",
+  "choices": [
+   "seen",
+   "saw",
+   "see",
+   "seeing"
+  ],
+  "level": "B1",
+  "explain": "the best... ever + V3 — โครงสร้าง: have/has + V3 (เชื่อมอดีตกับปัจจุบัน เน้นผลลัพธ์ตอนนี้ ไม่เจาะจงเวลาที่เกิด)"
+ },
+ {
+  "tense": "Present Perfect",
+  "q": "I ___ many countries in my life.",
+  "answer": "have visited",
+  "choices": [
+   "have visited",
+   "visited",
+   "visit",
+   "am visiting"
+  ],
+  "level": "B1",
+  "explain": "in my life — โครงสร้าง: have/has + V3 (เชื่อมอดีตกับปัจจุบัน เน้นผลลัพธ์ตอนนี้ ไม่เจาะจงเวลาที่เกิด)"
+ },
+ {
+  "tense": "Present Perfect",
+  "q": "How long have you ___ him?",
+  "answer": "known",
+  "choices": [
+   "known",
+   "knew",
+   "know",
+   "knowing"
+  ],
+  "level": "B1",
+  "explain": "How long — โครงสร้าง: have/has + V3 (เชื่อมอดีตกับปัจจุบัน เน้นผลลัพธ์ตอนนี้ ไม่เจาะจงเวลาที่เกิด)"
+ },
+ {
+  "tense": "Present Perfect",
+  "q": "They ___ their car recently.",
+  "answer": "have sold",
+  "choices": [
+   "have sold",
+   "sold",
+   "sell",
+   "are selling"
+  ],
+  "level": "B1",
+  "explain": "recently — โครงสร้าง: have/has + V3 (เชื่อมอดีตกับปัจจุบัน เน้นผลลัพธ์ตอนนี้ ไม่เจาะจงเวลาที่เกิด)"
+ },
+ {
+  "tense": "Present Perfect",
+  "q": "She ___ up smoking.",
+  "answer": "has given",
+  "choices": [
+   "has given",
+   "gave",
+   "gives",
+   "is giving"
+  ],
+  "level": "B1",
+  "explain": "การเปลี่ยนแปลง — โครงสร้าง: have/has + V3 (เชื่อมอดีตกับปัจจุบัน เน้นผลลัพธ์ตอนนี้ ไม่เจาะจงเวลาที่เกิด)"
+ },
+ {
+  "tense": "Present Perfect",
+  "q": "The company ___ its profits this year.",
+  "answer": "has doubled",
+  "choices": [
+   "has doubled",
+   "doubled",
+   "doubles",
+   "is doubling"
+  ],
+  "level": "B1",
+  "explain": "this year — โครงสร้าง: have/has + V3 (เชื่อมอดีตกับปัจจุบัน เน้นผลลัพธ์ตอนนี้ ไม่เจาะจงเวลาที่เกิด)"
+ },
+ {
+  "tense": "Present Perfect",
+  "q": "The report has just ___ published.",
+  "answer": "been",
+  "choices": [
+   "been",
+   "was",
+   "is",
+   "be"
+  ],
+  "level": "B1",
+  "explain": "Passive — โครงสร้าง: have/has + V3 (เชื่อมอดีตกับปัจจุบัน เน้นผลลัพธ์ตอนนี้ ไม่เจาะจงเวลาที่เกิด)"
+ },
+ {
+  "tense": "Present Perfect",
+  "q": "Never before have I ___ such beauty.",
+  "answer": "seen",
+  "choices": [
+   "seen",
+   "saw",
+   "see",
+   "seeing"
+  ],
+  "level": "B2-C1",
+  "explain": "Inversion Never before — โครงสร้าง: have/has + V3 (เชื่อมอดีตกับปัจจุบัน เน้นผลลัพธ์ตอนนี้ ไม่เจาะจงเวลาที่เกิด)"
+ },
+ {
+  "tense": "Present Perfect",
+  "q": "Rarely have we ___ such courage.",
+  "answer": "witnessed",
+  "choices": [
+   "witnessed",
+   "witness",
+   "witnesses",
+   "witnessing"
+  ],
+  "level": "B2-C1",
+  "explain": "Inversion Rarely — โครงสร้าง: have/has + V3 (เชื่อมอดีตกับปัจจุบัน เน้นผลลัพธ์ตอนนี้ ไม่เจาะจงเวลาที่เกิด)"
+ },
+ {
+  "tense": "Present Perfect",
+  "q": "Not once has she ___ about it.",
+  "answer": "complained",
+  "choices": [
+   "complained",
+   "complain",
+   "complains",
+   "complaining"
+  ],
+  "level": "B2-C1",
+  "explain": "Inversion Not once — โครงสร้าง: have/has + V3 (เชื่อมอดีตกับปัจจุบัน เน้นผลลัพธ์ตอนนี้ ไม่เจาะจงเวลาที่เกิด)"
+ },
+ {
+  "tense": "Present Perfect",
+  "q": "This is the first time she ___ abroad.",
+  "answer": "has traveled",
+  "choices": [
+   "has traveled",
+   "traveled",
+   "travels",
+   "is traveling"
+  ],
+  "level": "B2-C1",
+  "explain": "the first time — โครงสร้าง: have/has + V3 (เชื่อมอดีตกับปัจจุบัน เน้นผลลัพธ์ตอนนี้ ไม่เจาะจงเวลาที่เกิด)"
+ },
+ {
+  "tense": "Present Perfect",
+  "q": "Little have they ___ what awaited them.",
+  "answer": "known",
+  "choices": [
+   "known",
+   "know",
+   "knew",
+   "knowing"
+  ],
+  "level": "B2-C1",
+  "explain": "Inversion Little — โครงสร้าง: have/has + V3 (เชื่อมอดีตกับปัจจุบัน เน้นผลลัพธ์ตอนนี้ ไม่เจาะจงเวลาที่เกิด)"
+ },
+ {
+  "tense": "Present Perfect",
+  "q": "Only recently ___ she realized the truth.",
+  "answer": "has",
+  "choices": [
+   "has",
+   "did",
+   "have",
+   "was"
+  ],
+  "level": "B2-C1",
+  "explain": "Only recently + inversion — โครงสร้าง: have/has + V3 (เชื่อมอดีตกับปัจจุบัน เน้นผลลัพธ์ตอนนี้ ไม่เจาะจงเวลาที่เกิด)"
+ },
+ {
+  "tense": "Present Perfect Continuous",
+  "q": "I ___ English for 5 years.",
+  "answer": "have been studying",
+  "choices": [
+   "have been studying",
+   "study",
+   "studied",
+   "am studying"
+  ],
+  "level": "A1-A2",
+  "explain": "have been + Ving + for — โครงสร้าง: have/has been + V-ing (เน้นความต่อเนื่องของการกระทำที่เริ่มในอดีตและยังดำเนินอยู่/เพิ่งจบ)"
+ },
+ {
+  "tense": "Present Perfect Continuous",
+  "q": "She ___ here since morning.",
+  "answer": "has been waiting",
+  "choices": [
+   "has been waiting",
+   "waits",
+   "waited",
+   "is waiting"
+  ],
+  "level": "A1-A2",
+  "explain": "since — โครงสร้าง: have/has been + V-ing (เน้นความต่อเนื่องของการกระทำที่เริ่มในอดีตและยังดำเนินอยู่/เพิ่งจบ)"
+ },
+ {
+  "tense": "Present Perfect Continuous",
+  "q": "They ___ football for 2 hours.",
+  "answer": "have been playing",
+  "choices": [
+   "have been playing",
+   "play",
+   "played",
+   "are playing"
+  ],
+  "level": "A1-A2",
+  "explain": "for — โครงสร้าง: have/has been + V-ing (เน้นความต่อเนื่องของการกระทำที่เริ่มในอดีตและยังดำเนินอยู่/เพิ่งจบ)"
+ },
+ {
+  "tense": "Present Perfect Continuous",
+  "q": "He ___ TV all afternoon.",
+  "answer": "has been watching",
+  "choices": [
+   "has been watching",
+   "watches",
+   "watched",
+   "is watching"
+  ],
+  "level": "A1-A2",
+  "explain": "all afternoon — โครงสร้าง: have/has been + V-ing (เน้นความต่อเนื่องของการกระทำที่เริ่มในอดีตและยังดำเนินอยู่/เพิ่งจบ)"
+ },
+ {
+  "tense": "Present Perfect Continuous",
+  "q": "We ___ the house all day.",
+  "answer": "have been cleaning",
+  "choices": [
+   "have been cleaning",
+   "cleaned",
+   "clean",
+   "are cleaning"
+  ],
+  "level": "A1-A2",
+  "explain": "all day — โครงสร้าง: have/has been + V-ing (เน้นความต่อเนื่องของการกระทำที่เริ่มในอดีตและยังดำเนินอยู่/เพิ่งจบ)"
+ },
+ {
+  "tense": "Present Perfect Continuous",
+  "q": "It ___ since Monday.",
+  "answer": "has been raining",
+  "choices": [
+   "has been raining",
+   "rains",
+   "rained",
+   "is raining"
+  ],
+  "level": "A1-A2",
+  "explain": "since — โครงสร้าง: have/has been + V-ing (เน้นความต่อเนื่องของการกระทำที่เริ่มในอดีตและยังดำเนินอยู่/เพิ่งจบ)"
+ },
+ {
+  "tense": "Present Perfect Continuous",
+  "q": "I ___ for you for 30 minutes.",
+  "answer": "have been waiting",
+  "choices": [
+   "have been waiting",
+   "waited",
+   "wait",
+   "am waiting"
+  ],
+  "level": "A1-A2",
+  "explain": "for — โครงสร้าง: have/has been + V-ing (เน้นความต่อเนื่องของการกระทำที่เริ่มในอดีตและยังดำเนินอยู่/เพิ่งจบ)"
+ },
+ {
+  "tense": "Present Perfect Continuous",
+  "q": "She ___ the guitar for years.",
+  "answer": "has been playing",
+  "choices": [
+   "has been playing",
+   "played",
+   "plays",
+   "is playing"
+  ],
+  "level": "A1-A2",
+  "explain": "for — โครงสร้าง: have/has been + V-ing (เน้นความต่อเนื่องของการกระทำที่เริ่มในอดีตและยังดำเนินอยู่/เพิ่งจบ)"
+ },
+ {
+  "tense": "Present Perfect Continuous",
+  "q": "How long have you ___ Thai?",
+  "answer": "been learning",
+  "choices": [
+   "been learning",
+   "learn",
+   "learned",
+   "learning"
+  ],
+  "level": "A1-A2",
+  "explain": "How long — โครงสร้าง: have/has been + V-ing (เน้นความต่อเนื่องของการกระทำที่เริ่มในอดีตและยังดำเนินอยู่/เพิ่งจบ)"
+ },
+ {
+  "tense": "Present Perfect Continuous",
+  "q": "They ___ in that house since 2010.",
+  "answer": "have been living",
+  "choices": [
+   "have been living",
+   "lived",
+   "live",
+   "are living"
+  ],
+  "level": "A1-A2",
+  "explain": "since — โครงสร้าง: have/has been + V-ing (เน้นความต่อเนื่องของการกระทำที่เริ่มในอดีตและยังดำเนินอยู่/เพิ่งจบ)"
+ },
+ {
+  "tense": "Present Perfect Continuous",
+  "q": "My hair is wet — I have been ___.",
+  "answer": "swimming",
+  "choices": [
+   "swimming",
+   "swim",
+   "swam",
+   "swum"
+  ],
+  "level": "A1-A2",
+  "explain": "ผลลัพธ์ — โครงสร้าง: have/has been + V-ing (เน้นความต่อเนื่องของการกระทำที่เริ่มในอดีตและยังดำเนินอยู่/เพิ่งจบ)"
+ },
+ {
+  "tense": "Present Perfect Continuous",
+  "q": "She ___ hard for the exam.",
+  "answer": "has been studying",
+  "choices": [
+   "has been studying",
+   "studied",
+   "studies",
+   "is studying"
+  ],
+  "level": "A1-A2",
+  "explain": "ต่อเนื่อง — โครงสร้าง: have/has been + V-ing (เน้นความต่อเนื่องของการกระทำที่เริ่มในอดีตและยังดำเนินอยู่/เพิ่งจบ)"
+ },
+ {
+  "tense": "Present Perfect Continuous",
+  "q": "I ___ this book for a week.",
+  "answer": "have been reading",
+  "choices": [
+   "have been reading",
+   "read",
+   "am reading",
+   "was reading"
+  ],
+  "level": "A1-A2",
+  "explain": "for — โครงสร้าง: have/has been + V-ing (เน้นความต่อเนื่องของการกระทำที่เริ่มในอดีตและยังดำเนินอยู่/เพิ่งจบ)"
+ },
+ {
+  "tense": "Present Perfect Continuous",
+  "q": "He ___ at the same company since 2015.",
+  "answer": "has been working",
+  "choices": [
+   "has been working",
+   "worked",
+   "works",
+   "is working"
+  ],
+  "level": "A1-A2",
+  "explain": "since — โครงสร้าง: have/has been + V-ing (เน้นความต่อเนื่องของการกระทำที่เริ่มในอดีตและยังดำเนินอยู่/เพิ่งจบ)"
+ },
+ {
+  "tense": "Present Perfect Continuous",
+  "q": "The dog ___ at the door for an hour.",
+  "answer": "has been barking",
+  "choices": [
+   "has been barking",
+   "barked",
+   "barks",
+   "is barking"
+  ],
+  "level": "A1-A2",
+  "explain": "for — โครงสร้าง: have/has been + V-ing (เน้นความต่อเนื่องของการกระทำที่เริ่มในอดีตและยังดำเนินอยู่/เพิ่งจบ)"
+ },
+ {
+  "tense": "Present Perfect Continuous",
+  "q": "My eyes hurt. I ___ all day.",
+  "answer": "have been reading",
+  "choices": [
+   "have been reading",
+   "read",
+   "am reading",
+   "was reading"
+  ],
+  "level": "B1",
+  "explain": "ผลลัพธ์ — โครงสร้าง: have/has been + V-ing (เน้นความต่อเนื่องของการกระทำที่เริ่มในอดีตและยังดำเนินอยู่/เพิ่งจบ)"
+ },
+ {
+  "tense": "Present Perfect Continuous",
+  "q": "You look tired. Have you ___?",
+  "answer": "been working",
+  "choices": [
+   "been working",
+   "worked",
+   "work",
+   "working"
+  ],
+  "level": "B1",
+  "explain": "เห็นผล — โครงสร้าง: have/has been + V-ing (เน้นความต่อเนื่องของการกระทำที่เริ่มในอดีตและยังดำเนินอยู่/เพิ่งจบ)"
+ },
+ {
+  "tense": "Present Perfect Continuous",
+  "q": "The kids are dirty. They ___ in the mud.",
+  "answer": "have been playing",
+  "choices": [
+   "have been playing",
+   "played",
+   "play",
+   "are playing"
+  ],
+  "level": "B1",
+  "explain": "ผลลัพธ์ — โครงสร้าง: have/has been + V-ing (เน้นความต่อเนื่องของการกระทำที่เริ่มในอดีตและยังดำเนินอยู่/เพิ่งจบ)"
+ },
+ {
+  "tense": "Present Perfect Continuous",
+  "q": "They ___ about that issue for hours.",
+  "answer": "have been arguing",
+  "choices": [
+   "have been arguing",
+   "argued",
+   "argue",
+   "are arguing"
+  ],
+  "level": "B1",
+  "explain": "for — โครงสร้าง: have/has been + V-ing (เน้นความต่อเนื่องของการกระทำที่เริ่มในอดีตและยังดำเนินอยู่/เพิ่งจบ)"
+ },
+ {
+  "tense": "Present Perfect Continuous",
+  "q": "We ___ to move to a new city.",
+  "answer": "have been thinking",
+  "choices": [
+   "have been thinking",
+   "thought",
+   "think",
+   "are thinking"
+  ],
+  "level": "B1",
+  "explain": "think พิจารณา — โครงสร้าง: have/has been + V-ing (เน้นความต่อเนื่องของการกระทำที่เริ่มในอดีตและยังดำเนินอยู่/เพิ่งจบ)"
+ },
+ {
+  "tense": "Present Perfect Continuous",
+  "q": "She ___ her thesis for months.",
+  "answer": "has been writing",
+  "choices": [
+   "has been writing",
+   "wrote",
+   "writes",
+   "is writing"
+  ],
+  "level": "B1",
+  "explain": "ยังไม่เสร็จ — โครงสร้าง: have/has been + V-ing (เน้นความต่อเนื่องของการกระทำที่เริ่มในอดีตและยังดำเนินอยู่/เพิ่งจบ)"
+ },
+ {
+  "tense": "Present Perfect Continuous",
+  "q": "The team ___ on this project all year.",
+  "answer": "has been working",
+  "choices": [
+   "has been working",
+   "worked",
+   "works",
+   "is working"
+  ],
+  "level": "B1",
+  "explain": "all year — โครงสร้าง: have/has been + V-ing (เน้นความต่อเนื่องของการกระทำที่เริ่มในอดีตและยังดำเนินอยู่/เพิ่งจบ)"
+ },
+ {
+  "tense": "Present Perfect Continuous",
+  "q": "My back hurts because I ___ all day.",
+  "answer": "have been sitting",
+  "choices": [
+   "have been sitting",
+   "sat",
+   "sit",
+   "am sitting"
+  ],
+  "level": "B1",
+  "explain": "ผลลัพธ์ — โครงสร้าง: have/has been + V-ing (เน้นความต่อเนื่องของการกระทำที่เริ่มในอดีตและยังดำเนินอยู่/เพิ่งจบ)"
+ },
+ {
+  "tense": "Present Perfect Continuous",
+  "q": "Prices ___ steadily this year.",
+  "answer": "have been rising",
+  "choices": [
+   "have been rising",
+   "rose",
+   "rise",
+   "are rising"
+  ],
+  "level": "B1",
+  "explain": "this year — โครงสร้าง: have/has been + V-ing (เน้นความต่อเนื่องของการกระทำที่เริ่มในอดีตและยังดำเนินอยู่/เพิ่งจบ)"
+ },
+ {
+  "tense": "Present Perfect Continuous",
+  "q": "She ___ jogging every morning lately.",
+  "answer": "has been going",
+  "choices": [
+   "has been going",
+   "went",
+   "goes",
+   "is going"
+  ],
+  "level": "B1",
+  "explain": "lately — โครงสร้าง: have/has been + V-ing (เน้นความต่อเนื่องของการกระทำที่เริ่มในอดีตและยังดำเนินอยู่/เพิ่งจบ)"
+ },
+ {
+  "tense": "Present Perfect Continuous",
+  "q": "I ___ trying to reach you all day!",
+  "answer": "have been",
+  "choices": [
+   "have been",
+   "was",
+   "am",
+   "did"
+  ],
+  "level": "B1",
+  "explain": "all day — โครงสร้าง: have/has been + V-ing (เน้นความต่อเนื่องของการกระทำที่เริ่มในอดีตและยังดำเนินอยู่/เพิ่งจบ)"
+ },
+ {
+  "tense": "Present Perfect Continuous",
+  "q": "We ___ getting complaints about the service.",
+  "answer": "have been",
+  "choices": [
+   "have been",
+   "were",
+   "are",
+   "did"
+  ],
+  "level": "B1",
+  "explain": "ต่อเนื่อง — โครงสร้าง: have/has been + V-ing (เน้นความต่อเนื่องของการกระทำที่เริ่มในอดีตและยังดำเนินอยู่/เพิ่งจบ)"
+ },
+ {
+  "tense": "Present Perfect Continuous",
+  "q": "It ___ snowing since last night.",
+  "answer": "has been",
+  "choices": [
+   "has been",
+   "was",
+   "is",
+   "have"
+  ],
+  "level": "B1",
+  "explain": "since — โครงสร้าง: have/has been + V-ing (เน้นความต่อเนื่องของการกระทำที่เริ่มในอดีตและยังดำเนินอยู่/เพิ่งจบ)"
+ },
+ {
+  "tense": "Present Perfect Continuous",
+  "q": "She ___ complaining a lot recently.",
+  "answer": "has been",
+  "choices": [
+   "has been",
+   "was",
+   "is",
+   "have"
+  ],
+  "level": "B1",
+  "explain": "recently — โครงสร้าง: have/has been + V-ing (เน้นความต่อเนื่องของการกระทำที่เริ่มในอดีตและยังดำเนินอยู่/เพิ่งจบ)"
+ },
+ {
+  "tense": "Present Perfect Continuous",
+  "q": "Not for years have I ___ so hard.",
+  "answer": "been working",
+  "choices": [
+   "been working",
+   "worked",
+   "work",
+   "working"
+  ],
+  "level": "B2-C1",
+  "explain": "Inversion Not for years — โครงสร้าง: have/has been + V-ing (เน้นความต่อเนื่องของการกระทำที่เริ่มในอดีตและยังดำเนินอยู่/เพิ่งจบ)"
+ },
+ {
+  "tense": "Present Perfect Continuous",
+  "q": "Only recently have scientists ___ this phenomenon.",
+  "answer": "been studying",
+  "choices": [
+   "been studying",
+   "studied",
+   "study",
+   "studying"
+  ],
+  "level": "B2-C1",
+  "explain": "Only recently — โครงสร้าง: have/has been + V-ing (เน้นความต่อเนื่องของการกระทำที่เริ่มในอดีตและยังดำเนินอยู่/เพิ่งจบ)"
+ },
+ {
+  "tense": "Present Perfect Continuous",
+  "q": "She ___ constantly complaining about her boss.",
+  "answer": "has been",
+  "choices": [
+   "has been",
+   "was",
+   "is",
+   "have"
+  ],
+  "level": "B2-C1",
+  "explain": "constantly — โครงสร้าง: have/has been + V-ing (เน้นความต่อเนื่องของการกระทำที่เริ่มในอดีตและยังดำเนินอยู่/เพิ่งจบ)"
+ },
+ {
+  "tense": "Present Perfect Continuous",
+  "q": "I ___ meaning to call you.",
+  "answer": "have been",
+  "choices": [
+   "have been",
+   "was",
+   "am",
+   "did"
+  ],
+  "level": "B2-C1",
+  "explain": "have been meaning to — โครงสร้าง: have/has been + V-ing (เน้นความต่อเนื่องของการกระทำที่เริ่มในอดีตและยังดำเนินอยู่/เพิ่งจบ)"
+ },
+ {
+  "tense": "Present Perfect Continuous",
+  "q": "They ___ negotiating for months.",
+  "answer": "have been",
+  "choices": [
+   "have been",
+   "were",
+   "are",
+   "did"
+  ],
+  "level": "B2-C1",
+  "explain": "ต่อเนื่อง — โครงสร้าง: have/has been + V-ing (เน้นความต่อเนื่องของการกระทำที่เริ่มในอดีตและยังดำเนินอยู่/เพิ่งจบ)"
+ },
+ {
+  "tense": "Past Simple",
+  "q": "I ___ my keys yesterday.",
+  "answer": "lost",
+  "choices": [
+   "lost",
+   "lose",
+   "have lost",
+   "was losing"
+  ],
+  "level": "A1-A2",
+  "explain": "yesterday → V2 — โครงสร้าง: V2 (กริยาช่องที่ 2) (เหตุการณ์จบแล้วในอดีต มักระบุเวลาชัดเจน)"
+ },
+ {
+  "tense": "Past Simple",
+  "q": "She ___ TV last night.",
+  "answer": "watched",
+  "choices": [
+   "watched",
+   "watches",
+   "has watched",
+   "was watching"
+  ],
+  "level": "A1-A2",
+  "explain": "last night — โครงสร้าง: V2 (กริยาช่องที่ 2) (เหตุการณ์จบแล้วในอดีต มักระบุเวลาชัดเจน)"
+ },
+ {
+  "tense": "Past Simple",
+  "q": "They ___ to Paris in 2020.",
+  "answer": "went",
+  "choices": [
+   "went",
+   "go",
+   "have gone",
+   "were going"
+  ],
+  "level": "A1-A2",
+  "explain": "in 2020 — โครงสร้าง: V2 (กริยาช่องที่ 2) (เหตุการณ์จบแล้วในอดีต มักระบุเวลาชัดเจน)"
+ },
+ {
+  "tense": "Past Simple",
+  "q": "He ___ his homework an hour ago.",
+  "answer": "finished",
+  "choices": [
+   "finished",
+   "finishes",
+   "has finished",
+   "was finishing"
+  ],
+  "level": "A1-A2",
+  "explain": "ago — โครงสร้าง: V2 (กริยาช่องที่ 2) (เหตุการณ์จบแล้วในอดีต มักระบุเวลาชัดเจน)"
+ },
+ {
+  "tense": "Past Simple",
+  "q": "We ___ pizza for dinner.",
+  "answer": "had",
+  "choices": [
+   "had",
+   "have",
+   "has",
+   "having"
+  ],
+  "level": "A1-A2",
+  "explain": "อดีต — โครงสร้าง: V2 (กริยาช่องที่ 2) (เหตุการณ์จบแล้วในอดีต มักระบุเวลาชัดเจน)"
+ },
+ {
+  "tense": "Past Simple",
+  "q": "I ___ born in 1990.",
+  "answer": "was",
+  "choices": [
+   "was",
+   "am",
+   "were",
+   "have been"
+  ],
+  "level": "A1-A2",
+  "explain": "in 1990 — โครงสร้าง: V2 (กริยาช่องที่ 2) (เหตุการณ์จบแล้วในอดีต มักระบุเวลาชัดเจน)"
+ },
+ {
+  "tense": "Past Simple",
+  "q": "She ___ the letter last week.",
+  "answer": "wrote",
+  "choices": [
+   "wrote",
+   "writes",
+   "has written",
+   "was writing"
+  ],
+  "level": "A1-A2",
+  "explain": "last week — โครงสร้าง: V2 (กริยาช่องที่ 2) (เหตุการณ์จบแล้วในอดีต มักระบุเวลาชัดเจน)"
+ },
+ {
+  "tense": "Past Simple",
+  "q": "They ___ the game 2-1.",
+  "answer": "won",
+  "choices": [
+   "won",
+   "win",
+   "have won",
+   "are winning"
+  ],
+  "level": "A1-A2",
+  "explain": "อดีต — โครงสร้าง: V2 (กริยาช่องที่ 2) (เหตุการณ์จบแล้วในอดีต มักระบุเวลาชัดเจน)"
+ },
+ {
+  "tense": "Past Simple",
+  "q": "I ___ up at 6 this morning.",
+  "answer": "got",
+  "choices": [
+   "got",
+   "get",
+   "have got",
+   "was getting"
+  ],
+  "level": "A1-A2",
+  "explain": "this morning (จบ) — โครงสร้าง: V2 (กริยาช่องที่ 2) (เหตุการณ์จบแล้วในอดีต มักระบุเวลาชัดเจน)"
+ },
+ {
+  "tense": "Past Simple",
+  "q": "Did you ___ my message?",
+  "answer": "get",
+  "choices": [
+   "get",
+   "got",
+   "gotten",
+   "getting"
+  ],
+  "level": "A1-A2",
+  "explain": "did + V1 — โครงสร้าง: V2 (กริยาช่องที่ 2) (เหตุการณ์จบแล้วในอดีต มักระบุเวลาชัดเจน)"
+ },
+ {
+  "tense": "Past Simple",
+  "q": "He didn't ___ the answer.",
+  "answer": "know",
+  "choices": [
+   "know",
+   "knew",
+   "known",
+   "knowing"
+  ],
+  "level": "A1-A2",
+  "explain": "didn't + V1 — โครงสร้าง: V2 (กริยาช่องที่ 2) (เหตุการณ์จบแล้วในอดีต มักระบุเวลาชัดเจน)"
+ },
+ {
+  "tense": "Past Simple",
+  "q": "We ___ to the beach last summer.",
+  "answer": "went",
+  "choices": [
+   "went",
+   "go",
+   "have gone",
+   "are going"
+  ],
+  "level": "A1-A2",
+  "explain": "last summer — โครงสร้าง: V2 (กริยาช่องที่ 2) (เหตุการณ์จบแล้วในอดีต มักระบุเวลาชัดเจน)"
+ },
+ {
+  "tense": "Past Simple",
+  "q": "She ___ tired after work.",
+  "answer": "was",
+  "choices": [
+   "was",
+   "is",
+   "were",
+   "has been"
+  ],
+  "level": "A1-A2",
+  "explain": "อดีต — โครงสร้าง: V2 (กริยาช่องที่ 2) (เหตุการณ์จบแล้วในอดีต มักระบุเวลาชัดเจน)"
+ },
+ {
+  "tense": "Past Simple",
+  "q": "My grandfather ___ in 2015.",
+  "answer": "died",
+  "choices": [
+   "died",
+   "dies",
+   "has died",
+   "was dying"
+  ],
+  "level": "A1-A2",
+  "explain": "in 2015 — โครงสร้าง: V2 (กริยาช่องที่ 2) (เหตุการณ์จบแล้วในอดีต มักระบุเวลาชัดเจน)"
+ },
+ {
+  "tense": "Past Simple",
+  "q": "I ___ my breakfast quickly.",
+  "answer": "ate",
+  "choices": [
+   "ate",
+   "eat",
+   "have eaten",
+   "was eating"
+  ],
+  "level": "A1-A2",
+  "explain": "อดีต — โครงสร้าง: V2 (กริยาช่องที่ 2) (เหตุการณ์จบแล้วในอดีต มักระบุเวลาชัดเจน)"
+ },
+ {
+  "tense": "Past Simple",
+  "q": "Where did you ___ last night?",
+  "answer": "go",
+  "choices": [
+   "go",
+   "went",
+   "gone",
+   "going"
+  ],
+  "level": "A1-A2",
+  "explain": "did + V1 — โครงสร้าง: V2 (กริยาช่องที่ 2) (เหตุการณ์จบแล้วในอดีต มักระบุเวลาชัดเจน)"
+ },
+ {
+  "tense": "Past Simple",
+  "q": "She ___ me the truth.",
+  "answer": "told",
+  "choices": [
+   "told",
+   "tells",
+   "has told",
+   "was telling"
+  ],
+  "level": "A1-A2",
+  "explain": "อดีต — โครงสร้าง: V2 (กริยาช่องที่ 2) (เหตุการณ์จบแล้วในอดีต มักระบุเวลาชัดเจน)"
+ },
+ {
+  "tense": "Past Simple",
+  "q": "The film ___ two hours ago.",
+  "answer": "started",
+  "choices": [
+   "started",
+   "starts",
+   "has started",
+   "is starting"
+  ],
+  "level": "B1",
+  "explain": "ago — โครงสร้าง: V2 (กริยาช่องที่ 2) (เหตุการณ์จบแล้วในอดีต มักระบุเวลาชัดเจน)"
+ },
+ {
+  "tense": "Past Simple",
+  "q": "When I ___ young, I loved chocolate.",
+  "answer": "was",
+  "choices": [
+   "was",
+   "am",
+   "were",
+   "have been"
+  ],
+  "level": "B1",
+  "explain": "When + Past Simple — โครงสร้าง: V2 (กริยาช่องที่ 2) (เหตุการณ์จบแล้วในอดีต มักระบุเวลาชัดเจน)"
+ },
+ {
+  "tense": "Past Simple",
+  "q": "She ___ him at the party yesterday.",
+  "answer": "met",
+  "choices": [
+   "met",
+   "meets",
+   "has met",
+   "was meeting"
+  ],
+  "level": "B1",
+  "explain": "yesterday — โครงสร้าง: V2 (กริยาช่องที่ 2) (เหตุการณ์จบแล้วในอดีต มักระบุเวลาชัดเจน)"
+ },
+ {
+  "tense": "Past Simple",
+  "q": "The Titanic ___ in 1912.",
+  "answer": "sank",
+  "choices": [
+   "sank",
+   "sinks",
+   "has sunk",
+   "was sinking"
+  ],
+  "level": "B1",
+  "explain": "in 1912 — โครงสร้าง: V2 (กริยาช่องที่ 2) (เหตุการณ์จบแล้วในอดีต มักระบุเวลาชัดเจน)"
+ },
+ {
+  "tense": "Past Simple",
+  "q": "He ___ his job last month.",
+  "answer": "quit",
+  "choices": [
+   "quit",
+   "quits",
+   "has quit",
+   "was quitting"
+  ],
+  "level": "B1",
+  "explain": "last month — โครงสร้าง: V2 (กริยาช่องที่ 2) (เหตุการณ์จบแล้วในอดีต มักระบุเวลาชัดเจน)"
+ },
+ {
+  "tense": "Past Simple",
+  "q": "I ___ your call this morning.",
+  "answer": "missed",
+  "choices": [
+   "missed",
+   "miss",
+   "have missed",
+   "was missing"
+  ],
+  "level": "B1",
+  "explain": "this morning — โครงสร้าง: V2 (กริยาช่องที่ 2) (เหตุการณ์จบแล้วในอดีต มักระบุเวลาชัดเจน)"
+ },
+ {
+  "tense": "Past Simple",
+  "q": "We ___ in Chiang Mai for three years.",
+  "answer": "lived",
+  "choices": [
+   "lived",
+   "live",
+   "have lived",
+   "are living"
+  ],
+  "level": "B1",
+  "explain": "for + จบแล้ว — โครงสร้าง: V2 (กริยาช่องที่ 2) (เหตุการณ์จบแล้วในอดีต มักระบุเวลาชัดเจน)"
+ },
+ {
+  "tense": "Past Simple",
+  "q": "She ___ her keys and had to break in.",
+  "answer": "lost",
+  "choices": [
+   "lost",
+   "loses",
+   "has lost",
+   "was losing"
+  ],
+  "level": "B1",
+  "explain": "narrative — โครงสร้าง: V2 (กริยาช่องที่ 2) (เหตุการณ์จบแล้วในอดีต มักระบุเวลาชัดเจน)"
+ },
+ {
+  "tense": "Past Simple",
+  "q": "They ___ each other in college.",
+  "answer": "met",
+  "choices": [
+   "met",
+   "meet",
+   "have met",
+   "are meeting"
+  ],
+  "level": "B1",
+  "explain": "in college — โครงสร้าง: V2 (กริยาช่องที่ 2) (เหตุการณ์จบแล้วในอดีต มักระบุเวลาชัดเจน)"
+ },
+ {
+  "tense": "Past Simple",
+  "q": "The teacher ___ us about history.",
+  "answer": "taught",
+  "choices": [
+   "taught",
+   "teaches",
+   "has taught",
+   "is teaching"
+  ],
+  "level": "B1",
+  "explain": "อดีต — โครงสร้าง: V2 (กริยาช่องที่ 2) (เหตุการณ์จบแล้วในอดีต มักระบุเวลาชัดเจน)"
+ },
+ {
+  "tense": "Past Simple",
+  "q": "I ___ to see the doctor yesterday.",
+  "answer": "went",
+  "choices": [
+   "went",
+   "go",
+   "have gone",
+   "was going"
+  ],
+  "level": "B1",
+  "explain": "yesterday — โครงสร้าง: V2 (กริยาช่องที่ 2) (เหตุการณ์จบแล้วในอดีต มักระบุเวลาชัดเจน)"
+ },
+ {
+  "tense": "Past Simple",
+  "q": "She ___ the door and left.",
+  "answer": "closed",
+  "choices": [
+   "closed",
+   "closes",
+   "has closed",
+   "was closing"
+  ],
+  "level": "B1",
+  "explain": "narrative — โครงสร้าง: V2 (กริยาช่องที่ 2) (เหตุการณ์จบแล้วในอดีต มักระบุเวลาชัดเจน)"
+ },
+ {
+  "tense": "Past Simple",
+  "q": "He ___ a big mistake.",
+  "answer": "made",
+  "choices": [
+   "made",
+   "makes",
+   "has made",
+   "was making"
+  ],
+  "level": "B1",
+  "explain": "อดีต — โครงสร้าง: V2 (กริยาช่องที่ 2) (เหตุการณ์จบแล้วในอดีต มักระบุเวลาชัดเจน)"
+ },
+ {
+  "tense": "Past Simple",
+  "q": "If I ___ you, I'd apologize.",
+  "answer": "were",
+  "choices": [
+   "were",
+   "was",
+   "am",
+   "have been"
+  ],
+  "level": "B2-C1",
+  "explain": "2nd cond: If I were you — โครงสร้าง: V2 (กริยาช่องที่ 2) (เหตุการณ์จบแล้วในอดีต มักระบุเวลาชัดเจน)"
+ },
+ {
+  "tense": "Past Simple",
+  "q": "I wish I ___ more time.",
+  "answer": "had",
+  "choices": [
+   "had",
+   "have",
+   "will have",
+   "would have"
+  ],
+  "level": "B2-C1",
+  "explain": "wish + Past Simple — โครงสร้าง: V2 (กริยาช่องที่ 2) (เหตุการณ์จบแล้วในอดีต มักระบุเวลาชัดเจน)"
+ },
+ {
+  "tense": "Past Simple",
+  "q": "It's time we ___.",
+  "answer": "left",
+  "choices": [
+   "left",
+   "leave",
+   "are leaving",
+   "have left"
+  ],
+  "level": "B2-C1",
+  "explain": "It's time + Past Simple — โครงสร้าง: V2 (กริยาช่องที่ 2) (เหตุการณ์จบแล้วในอดีต มักระบุเวลาชัดเจน)"
+ },
+ {
+  "tense": "Past Simple",
+  "q": "If only he ___ the truth.",
+  "answer": "knew",
+  "choices": [
+   "knew",
+   "knows",
+   "know",
+   "has known"
+  ],
+  "level": "B2-C1",
+  "explain": "If only + Past Simple — โครงสร้าง: V2 (กริยาช่องที่ 2) (เหตุการณ์จบแล้วในอดีต มักระบุเวลาชัดเจน)"
+ },
+ {
+  "tense": "Past Continuous",
+  "q": "I ___ TV when he called.",
+  "answer": "was watching",
+  "choices": [
+   "was watching",
+   "watched",
+   "have watched",
+   "am watching"
+  ],
+  "level": "A1-A2",
+  "explain": "when + Past Simple — โครงสร้าง: was/were + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอดีต หรือถูกเหตุการณ์อื่นขัดจังหวะ)"
+ },
+ {
+  "tense": "Past Continuous",
+  "q": "She ___ dinner at 8 last night.",
+  "answer": "was cooking",
+  "choices": [
+   "was cooking",
+   "cooked",
+   "has cooked",
+   "is cooking"
+  ],
+  "level": "A1-A2",
+  "explain": "at 8 last night — โครงสร้าง: was/were + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอดีต หรือถูกเหตุการณ์อื่นขัดจังหวะ)"
+ },
+ {
+  "tense": "Past Continuous",
+  "q": "They ___ football at 3 p.m.",
+  "answer": "were playing",
+  "choices": [
+   "were playing",
+   "played",
+   "play",
+   "have played"
+  ],
+  "level": "A1-A2",
+  "explain": "at 3 p.m. — โครงสร้าง: was/were + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอดีต หรือถูกเหตุการณ์อื่นขัดจังหวะ)"
+ },
+ {
+  "tense": "Past Continuous",
+  "q": "It ___ when we left.",
+  "answer": "was raining",
+  "choices": [
+   "was raining",
+   "rained",
+   "rains",
+   "has rained"
+  ],
+  "level": "A1-A2",
+  "explain": "when + Past Simple — โครงสร้าง: was/were + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอดีต หรือถูกเหตุการณ์อื่นขัดจังหวะ)"
+ },
+ {
+  "tense": "Past Continuous",
+  "q": "I ___ my homework when you came.",
+  "answer": "was doing",
+  "choices": [
+   "was doing",
+   "did",
+   "have done",
+   "do"
+  ],
+  "level": "A1-A2",
+  "explain": "when + Past Simple — โครงสร้าง: was/were + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอดีต หรือถูกเหตุการณ์อื่นขัดจังหวะ)"
+ },
+ {
+  "tense": "Past Continuous",
+  "q": "The kids ___ in the garden.",
+  "answer": "were playing",
+  "choices": [
+   "were playing",
+   "played",
+   "play",
+   "have played"
+  ],
+  "level": "A1-A2",
+  "explain": "อดีตต่อเนื่อง — โครงสร้าง: was/were + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอดีต หรือถูกเหตุการณ์อื่นขัดจังหวะ)"
+ },
+ {
+  "tense": "Past Continuous",
+  "q": "She ___ a book when I saw her.",
+  "answer": "was reading",
+  "choices": [
+   "was reading",
+   "read",
+   "reads",
+   "has read"
+  ],
+  "level": "A1-A2",
+  "explain": "when + Past Simple — โครงสร้าง: was/were + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอดีต หรือถูกเหตุการณ์อื่นขัดจังหวะ)"
+ },
+ {
+  "tense": "Past Continuous",
+  "q": "He ___ a shower at 7.",
+  "answer": "was taking",
+  "choices": [
+   "was taking",
+   "took",
+   "takes",
+   "has taken"
+  ],
+  "level": "A1-A2",
+  "explain": "at 7 — โครงสร้าง: was/were + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอดีต หรือถูกเหตุการณ์อื่นขัดจังหวะ)"
+ },
+ {
+  "tense": "Past Continuous",
+  "q": "We ___ home late last night.",
+  "answer": "were driving",
+  "choices": [
+   "were driving",
+   "drove",
+   "drive",
+   "have driven"
+  ],
+  "level": "A1-A2",
+  "explain": "last night — โครงสร้าง: was/were + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอดีต หรือถูกเหตุการณ์อื่นขัดจังหวะ)"
+ },
+ {
+  "tense": "Past Continuous",
+  "q": "They ___ dinner when the phone rang.",
+  "answer": "were having",
+  "choices": [
+   "were having",
+   "had",
+   "have",
+   "has had"
+  ],
+  "level": "A1-A2",
+  "explain": "when — โครงสร้าง: was/were + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอดีต หรือถูกเหตุการณ์อื่นขัดจังหวะ)"
+ },
+ {
+  "tense": "Past Continuous",
+  "q": "I ___ for the bus at 8 a.m.",
+  "answer": "was waiting",
+  "choices": [
+   "was waiting",
+   "waited",
+   "waits",
+   "have waited"
+  ],
+  "level": "A1-A2",
+  "explain": "at 8 a.m. — โครงสร้าง: was/were + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอดีต หรือถูกเหตุการณ์อื่นขัดจังหวะ)"
+ },
+ {
+  "tense": "Past Continuous",
+  "q": "The baby ___ all night.",
+  "answer": "was crying",
+  "choices": [
+   "was crying",
+   "cried",
+   "cries",
+   "has cried"
+  ],
+  "level": "A1-A2",
+  "explain": "all night — โครงสร้าง: was/were + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอดีต หรือถูกเหตุการณ์อื่นขัดจังหวะ)"
+ },
+ {
+  "tense": "Past Continuous",
+  "q": "She ___ her homework yesterday evening.",
+  "answer": "was doing",
+  "choices": [
+   "was doing",
+   "did",
+   "does",
+   "has done"
+  ],
+  "level": "A1-A2",
+  "explain": "yesterday evening — โครงสร้าง: was/were + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอดีต หรือถูกเหตุการณ์อื่นขัดจังหวะ)"
+ },
+ {
+  "tense": "Past Continuous",
+  "q": "I ___ in the park when it started raining.",
+  "answer": "was walking",
+  "choices": [
+   "was walking",
+   "walked",
+   "walk",
+   "have walked"
+  ],
+  "level": "A1-A2",
+  "explain": "when — โครงสร้าง: was/were + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอดีต หรือถูกเหตุการณ์อื่นขัดจังหวะ)"
+ },
+ {
+  "tense": "Past Continuous",
+  "q": "The traffic ___ heavy at 5 p.m.",
+  "answer": "was getting",
+  "choices": [
+   "was getting",
+   "got",
+   "gets",
+   "has got"
+  ],
+  "level": "A1-A2",
+  "explain": "at 5 p.m. — โครงสร้าง: was/were + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอดีต หรือถูกเหตุการณ์อื่นขัดจังหวะ)"
+ },
+ {
+  "tense": "Past Continuous",
+  "q": "While I ___, he was reading.",
+  "answer": "was cooking",
+  "choices": [
+   "was cooking",
+   "cooked",
+   "cook",
+   "have cooked"
+  ],
+  "level": "B1",
+  "explain": "while + Past Continuous — โครงสร้าง: was/were + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอดีต หรือถูกเหตุการณ์อื่นขัดจังหวะ)"
+ },
+ {
+  "tense": "Past Continuous",
+  "q": "They ___ TV while I was studying.",
+  "answer": "were watching",
+  "choices": [
+   "were watching",
+   "watched",
+   "watch",
+   "have watched"
+  ],
+  "level": "B1",
+  "explain": "while + parallel — โครงสร้าง: was/were + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอดีต หรือถูกเหตุการณ์อื่นขัดจังหวะ)"
+ },
+ {
+  "tense": "Past Continuous",
+  "q": "The sun ___ when we arrived.",
+  "answer": "was shining",
+  "choices": [
+   "was shining",
+   "shone",
+   "shines",
+   "has shone"
+  ],
+  "level": "B1",
+  "explain": "อดีตต่อเนื่อง — โครงสร้าง: was/were + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอดีต หรือถูกเหตุการณ์อื่นขัดจังหวะ)"
+ },
+ {
+  "tense": "Past Continuous",
+  "q": "She ___ her hair when I called.",
+  "answer": "was drying",
+  "choices": [
+   "was drying",
+   "dried",
+   "dries",
+   "has dried"
+  ],
+  "level": "B1",
+  "explain": "when — โครงสร้าง: was/were + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอดีต หรือถูกเหตุการณ์อื่นขัดจังหวะ)"
+ },
+ {
+  "tense": "Past Continuous",
+  "q": "The children ___ when the teacher entered.",
+  "answer": "were talking",
+  "choices": [
+   "were talking",
+   "talked",
+   "talk",
+   "have talked"
+  ],
+  "level": "B1",
+  "explain": "when — โครงสร้าง: was/were + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอดีต หรือถูกเหตุการณ์อื่นขัดจังหวะ)"
+ },
+ {
+  "tense": "Past Continuous",
+  "q": "I ___ about you yesterday.",
+  "answer": "was thinking",
+  "choices": [
+   "was thinking",
+   "thought",
+   "think",
+   "have thought"
+  ],
+  "level": "B1",
+  "explain": "yesterday — โครงสร้าง: was/were + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอดีต หรือถูกเหตุการณ์อื่นขัดจังหวะ)"
+ },
+ {
+  "tense": "Past Continuous",
+  "q": "He ___ his car when I saw him.",
+  "answer": "was washing",
+  "choices": [
+   "was washing",
+   "washed",
+   "washes",
+   "has washed"
+  ],
+  "level": "B1",
+  "explain": "when — โครงสร้าง: was/were + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอดีต หรือถูกเหตุการณ์อื่นขัดจังหวะ)"
+ },
+ {
+  "tense": "Past Continuous",
+  "q": "We ___ to music on the way home.",
+  "answer": "were listening",
+  "choices": [
+   "were listening",
+   "listened",
+   "listen",
+   "have listened"
+  ],
+  "level": "B1",
+  "explain": "on the way — โครงสร้าง: was/were + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอดีต หรือถูกเหตุการณ์อื่นขัดจังหวะ)"
+ },
+ {
+  "tense": "Past Continuous",
+  "q": "She ___ tea when the guests arrived.",
+  "answer": "was making",
+  "choices": [
+   "was making",
+   "made",
+   "makes",
+   "has made"
+  ],
+  "level": "B1",
+  "explain": "when — โครงสร้าง: was/were + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอดีต หรือถูกเหตุการณ์อื่นขัดจังหวะ)"
+ },
+ {
+  "tense": "Past Continuous",
+  "q": "The dog ___ at the door all evening.",
+  "answer": "was barking",
+  "choices": [
+   "was barking",
+   "barked",
+   "barks",
+   "has barked"
+  ],
+  "level": "B1",
+  "explain": "all evening — โครงสร้าง: was/were + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอดีต หรือถูกเหตุการณ์อื่นขัดจังหวะ)"
+ },
+ {
+  "tense": "Past Continuous",
+  "q": "They ___ the whole afternoon.",
+  "answer": "were arguing",
+  "choices": [
+   "were arguing",
+   "argued",
+   "argue",
+   "have argued"
+  ],
+  "level": "B1",
+  "explain": "the whole afternoon — โครงสร้าง: was/were + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอดีต หรือถูกเหตุการณ์อื่นขัดจังหวะ)"
+ },
+ {
+  "tense": "Past Continuous",
+  "q": "The workers ___ when the boss arrived.",
+  "answer": "were talking",
+  "choices": [
+   "were talking",
+   "talked",
+   "talk",
+   "have talked"
+  ],
+  "level": "B1",
+  "explain": "when — โครงสร้าง: was/were + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอดีต หรือถูกเหตุการณ์อื่นขัดจังหวะ)"
+ },
+ {
+  "tense": "Past Continuous",
+  "q": "I ___ getting worried.",
+  "answer": "was",
+  "choices": [
+   "was",
+   "is",
+   "were",
+   "am"
+  ],
+  "level": "B1",
+  "explain": "I + was — โครงสร้าง: was/were + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอดีต หรือถูกเหตุการณ์อื่นขัดจังหวะ)"
+ },
+ {
+  "tense": "Past Continuous",
+  "q": "Everyone ___ having a great time.",
+  "answer": "was",
+  "choices": [
+   "was",
+   "is",
+   "were",
+   "are"
+  ],
+  "level": "B1",
+  "explain": "everyone เอกพจน์ — โครงสร้าง: was/were + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอดีต หรือถูกเหตุการณ์อื่นขัดจังหวะ)"
+ },
+ {
+  "tense": "Past Continuous",
+  "q": "Little did I know he ___ me.",
+  "answer": "was watching",
+  "choices": [
+   "was watching",
+   "watched",
+   "watches",
+   "has watched"
+  ],
+  "level": "B2-C1",
+  "explain": "Little did I know — โครงสร้าง: was/were + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอดีต หรือถูกเหตุการณ์อื่นขัดจังหวะ)"
+ },
+ {
+  "tense": "Past Continuous",
+  "q": "She was always ___ about her problems.",
+  "answer": "complaining",
+  "choices": [
+   "complaining",
+   "complained",
+   "complains",
+   "complain"
+  ],
+  "level": "B2-C1",
+  "explain": "always + Past Continuous ตำหนิ — โครงสร้าง: was/were + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอดีต หรือถูกเหตุการณ์อื่นขัดจังหวะ)"
+ },
+ {
+  "tense": "Past Continuous",
+  "q": "He kept saying that he ___ his best.",
+  "answer": "was doing",
+  "choices": [
+   "was doing",
+   "did",
+   "does",
+   "has done"
+  ],
+  "level": "B2-C1",
+  "explain": "reported speech — โครงสร้าง: was/were + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอดีต หรือถูกเหตุการณ์อื่นขัดจังหวะ)"
+ },
+ {
+  "tense": "Past Continuous",
+  "q": "What ___ you ___ this time yesterday?",
+  "answer": "were doing",
+  "choices": [
+   "were doing",
+   "did do",
+   "are doing",
+   "have done"
+  ],
+  "level": "B1",
+  "explain": "this time yesterday — โครงสร้าง: was/were + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอดีต หรือถูกเหตุการณ์อื่นขัดจังหวะ)"
+ },
+ {
+  "tense": "Past Continuous",
+  "q": "No sooner was I sitting down than she ___ me.",
+  "answer": "was calling",
+  "choices": [
+   "was calling",
+   "called",
+   "calls",
+   "had called"
+  ],
+  "level": "B2-C1",
+  "explain": "ต่อเนื่องในอดีต — โครงสร้าง: was/were + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอดีต หรือถูกเหตุการณ์อื่นขัดจังหวะ)"
+ },
+ {
+  "tense": "Past Perfect",
+  "q": "By the time I arrived, she ___.",
+  "answer": "had left",
+  "choices": [
+   "had left",
+   "left",
+   "has left",
+   "was leaving"
+  ],
+  "level": "B1",
+  "explain": "by the time + Past Perfect — โครงสร้าง: had + V3 (เหตุการณ์ที่เกิดขึ้นและจบก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect",
+  "q": "When we got there, the film ___.",
+  "answer": "had started",
+  "choices": [
+   "had started",
+   "started",
+   "starts",
+   "was starting"
+  ],
+  "level": "A1-A2",
+  "explain": "when + Past Perfect — โครงสร้าง: had + V3 (เหตุการณ์ที่เกิดขึ้นและจบก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect",
+  "q": "I ___ never ___ him before.",
+  "answer": "had/seen",
+  "choices": [
+   "had/seen",
+   "did/see",
+   "have/seen",
+   "was/seeing"
+  ],
+  "level": "A1-A2",
+  "explain": "before + Past Perfect — โครงสร้าง: had + V3 (เหตุการณ์ที่เกิดขึ้นและจบก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect",
+  "q": "She ___ already ___ dinner.",
+  "answer": "had/eaten",
+  "choices": [
+   "had/eaten",
+   "did/eat",
+   "has/eaten",
+   "was/eating"
+  ],
+  "level": "A1-A2",
+  "explain": "already + Past Perfect — โครงสร้าง: had + V3 (เหตุการณ์ที่เกิดขึ้นและจบก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect",
+  "q": "After he ___ his homework, he went out.",
+  "answer": "had finished",
+  "choices": [
+   "had finished",
+   "finished",
+   "finishes",
+   "was finishing"
+  ],
+  "level": "A1-A2",
+  "explain": "After + Past Perfect — โครงสร้าง: had + V3 (เหตุการณ์ที่เกิดขึ้นและจบก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect",
+  "q": "The train ___ before we arrived.",
+  "answer": "had left",
+  "choices": [
+   "had left",
+   "left",
+   "leaves",
+   "was leaving"
+  ],
+  "level": "A1-A2",
+  "explain": "before + Past Perfect — โครงสร้าง: had + V3 (เหตุการณ์ที่เกิดขึ้นและจบก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect",
+  "q": "I realized I ___ my wallet.",
+  "answer": "had lost",
+  "choices": [
+   "had lost",
+   "lost",
+   "have lost",
+   "was losing"
+  ],
+  "level": "A1-A2",
+  "explain": "อดีตก่อนอดีต — โครงสร้าง: had + V3 (เหตุการณ์ที่เกิดขึ้นและจบก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect",
+  "q": "They ___ the movie before.",
+  "answer": "had seen",
+  "choices": [
+   "had seen",
+   "saw",
+   "see",
+   "have seen"
+  ],
+  "level": "A1-A2",
+  "explain": "before — โครงสร้าง: had + V3 (เหตุการณ์ที่เกิดขึ้นและจบก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect",
+  "q": "When she came home, we ___ dinner.",
+  "answer": "had eaten",
+  "choices": [
+   "had eaten",
+   "ate",
+   "eat",
+   "have eaten"
+  ],
+  "level": "A1-A2",
+  "explain": "when + Past Perfect — โครงสร้าง: had + V3 (เหตุการณ์ที่เกิดขึ้นและจบก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect",
+  "q": "He ___ never ___ abroad before.",
+  "answer": "had/been",
+  "choices": [
+   "had/been",
+   "did/be",
+   "has/been",
+   "was/being"
+  ],
+  "level": "A1-A2",
+  "explain": "never before — โครงสร้าง: had + V3 (เหตุการณ์ที่เกิดขึ้นและจบก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect",
+  "q": "I ___ my keys at home.",
+  "answer": "had left",
+  "choices": [
+   "had left",
+   "left",
+   "have left",
+   "was leaving"
+  ],
+  "level": "A1-A2",
+  "explain": "อดีตก่อนอดีต — โครงสร้าง: had + V3 (เหตุการณ์ที่เกิดขึ้นและจบก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect",
+  "q": "She ___ him before the party.",
+  "answer": "had met",
+  "choices": [
+   "had met",
+   "met",
+   "has met",
+   "was meeting"
+  ],
+  "level": "A1-A2",
+  "explain": "before + Past Perfect — โครงสร้าง: had + V3 (เหตุการณ์ที่เกิดขึ้นและจบก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect",
+  "q": "The rain ___ stopped by noon.",
+  "answer": "had",
+  "choices": [
+   "had",
+   "has",
+   "was",
+   "did"
+  ],
+  "level": "A1-A2",
+  "explain": "by + noon — โครงสร้าง: had + V3 (เหตุการณ์ที่เกิดขึ้นและจบก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect",
+  "q": "We ___ the work by 5 p.m.",
+  "answer": "had finished",
+  "choices": [
+   "had finished",
+   "finished",
+   "have finished",
+   "were finishing"
+  ],
+  "level": "A1-A2",
+  "explain": "by 5 p.m. — โครงสร้าง: had + V3 (เหตุการณ์ที่เกิดขึ้นและจบก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect",
+  "q": "Before she arrived, I ___ everything.",
+  "answer": "had prepared",
+  "choices": [
+   "had prepared",
+   "prepared",
+   "prepare",
+   "was preparing"
+  ],
+  "level": "B1",
+  "explain": "Before + Past Perfect — โครงสร้าง: had + V3 (เหตุการณ์ที่เกิดขึ้นและจบก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect",
+  "q": "He ___ for hours before he found it.",
+  "answer": "had searched",
+  "choices": [
+   "had searched",
+   "searched",
+   "searches",
+   "was searching"
+  ],
+  "level": "B1",
+  "explain": "before + Past Perfect — โครงสร้าง: had + V3 (เหตุการณ์ที่เกิดขึ้นและจบก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect",
+  "q": "I asked her if she ___ him.",
+  "answer": "had seen",
+  "choices": [
+   "had seen",
+   "saw",
+   "sees",
+   "has seen"
+  ],
+  "level": "B1",
+  "explain": "reported speech — โครงสร้าง: had + V3 (เหตุการณ์ที่เกิดขึ้นและจบก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect",
+  "q": "By 2020, they ___ in the same house for a decade.",
+  "answer": "had lived",
+  "choices": [
+   "had lived",
+   "lived",
+   "have lived",
+   "were living"
+  ],
+  "level": "B1",
+  "explain": "by 2020 — โครงสร้าง: had + V3 (เหตุการณ์ที่เกิดขึ้นและจบก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect",
+  "q": "The teacher realized we ___ the answer.",
+  "answer": "had known",
+  "choices": [
+   "had known",
+   "knew",
+   "know",
+   "have known"
+  ],
+  "level": "B1",
+  "explain": "อดีตก่อนอดีต — โครงสร้าง: had + V3 (เหตุการณ์ที่เกิดขึ้นและจบก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect",
+  "q": "She said she ___ the book.",
+  "answer": "had read",
+  "choices": [
+   "had read",
+   "read",
+   "reads",
+   "was reading"
+  ],
+  "level": "B1",
+  "explain": "reported speech — โครงสร้าง: had + V3 (เหตุการณ์ที่เกิดขึ้นและจบก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect",
+  "q": "We ___ just ___ when the guests arrived.",
+  "answer": "had/finished",
+  "choices": [
+   "had/finished",
+   "did/finish",
+   "have/finished",
+   "were/finishing"
+  ],
+  "level": "B1",
+  "explain": "just + Past Perfect — โครงสร้าง: had + V3 (เหตุการณ์ที่เกิดขึ้นและจบก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect",
+  "q": "It was the first time I ___ sushi.",
+  "answer": "had eaten",
+  "choices": [
+   "had eaten",
+   "ate",
+   "have eaten",
+   "was eating"
+  ],
+  "level": "B1",
+  "explain": "It was the first time + Past Perfect — โครงสร้าง: had + V3 (เหตุการณ์ที่เกิดขึ้นและจบก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect",
+  "q": "He ___ never ___ so beautiful a sunset.",
+  "answer": "had/seen",
+  "choices": [
+   "had/seen",
+   "did/see",
+   "has/seen",
+   "was/seeing"
+  ],
+  "level": "B1",
+  "explain": "never before — โครงสร้าง: had + V3 (เหตุการณ์ที่เกิดขึ้นและจบก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect",
+  "q": "The bus ___ by the time I got to the stop.",
+  "answer": "had left",
+  "choices": [
+   "had left",
+   "left",
+   "has left",
+   "was leaving"
+  ],
+  "level": "B1",
+  "explain": "by the time — โครงสร้าง: had + V3 (เหตุการณ์ที่เกิดขึ้นและจบก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect",
+  "q": "Once he ___ the letter, he tore it up.",
+  "answer": "had read",
+  "choices": [
+   "had read",
+   "read",
+   "reads",
+   "was reading"
+  ],
+  "level": "B1",
+  "explain": "Once + Past Perfect — โครงสร้าง: had + V3 (เหตุการณ์ที่เกิดขึ้นและจบก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect",
+  "q": "We ___ the house before the storm hit.",
+  "answer": "had cleaned",
+  "choices": [
+   "had cleaned",
+   "cleaned",
+   "have cleaned",
+   "were cleaning"
+  ],
+  "level": "B1",
+  "explain": "before + Past Perfect — โครงสร้าง: had + V3 (เหตุการณ์ที่เกิดขึ้นและจบก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect",
+  "q": "She wondered where he ___.",
+  "answer": "had gone",
+  "choices": [
+   "had gone",
+   "went",
+   "goes",
+   "was going"
+  ],
+  "level": "B1",
+  "explain": "reported — โครงสร้าง: had + V3 (เหตุการณ์ที่เกิดขึ้นและจบก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect",
+  "q": "Hardly had I ___ when the phone rang.",
+  "answer": "sat down",
+  "choices": [
+   "sat down",
+   "sat",
+   "sitting",
+   "sit"
+  ],
+  "level": "B2-C1",
+  "explain": "Hardly had I + V3 — โครงสร้าง: had + V3 (เหตุการณ์ที่เกิดขึ้นและจบก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect",
+  "q": "No sooner had she ___ than it started raining.",
+  "answer": "arrived",
+  "choices": [
+   "arrived",
+   "arrive",
+   "arrives",
+   "arriving"
+  ],
+  "level": "B2-C1",
+  "explain": "No sooner had + V3 — โครงสร้าง: had + V3 (เหตุการณ์ที่เกิดขึ้นและจบก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect",
+  "q": "Had I ___ that, I wouldn't have gone.",
+  "answer": "known",
+  "choices": [
+   "known",
+   "know",
+   "knew",
+   "have known"
+  ],
+  "level": "B2-C1",
+  "explain": "Inversion 3rd cond — โครงสร้าง: had + V3 (เหตุการณ์ที่เกิดขึ้นและจบก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect",
+  "q": "If she ___ studied harder, she would have passed.",
+  "answer": "had",
+  "choices": [
+   "had",
+   "has",
+   "would have",
+   "was"
+  ],
+  "level": "B2-C1",
+  "explain": "3rd conditional — โครงสร้าง: had + V3 (เหตุการณ์ที่เกิดขึ้นและจบก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect",
+  "q": "Never before ___ they ___ such disaster.",
+  "answer": "had/faced",
+  "choices": [
+   "had/faced",
+   "did/face",
+   "have/faced",
+   "were/facing"
+  ],
+  "level": "B2-C1",
+  "explain": "Never before + Past Perfect — โครงสร้าง: had + V3 (เหตุการณ์ที่เกิดขึ้นและจบก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect",
+  "q": "Not until he apologized ___ she ___ him.",
+  "answer": "had/forgiven",
+  "choices": [
+   "had/forgiven",
+   "did/forgive",
+   "has/forgiven",
+   "was/forgiving"
+  ],
+  "level": "B2-C1",
+  "explain": "Not until + inversion — โครงสร้าง: had + V3 (เหตุการณ์ที่เกิดขึ้นและจบก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect",
+  "q": "Scarcely ___ I ___ the door when it rang.",
+  "answer": "had/closed",
+  "choices": [
+   "had/closed",
+   "did/close",
+   "have/closed",
+   "was/closing"
+  ],
+  "level": "B2-C1",
+  "explain": "Scarcely had + V3 — โครงสร้าง: had + V3 (เหตุการณ์ที่เกิดขึ้นและจบก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect Continuous",
+  "q": "She was tired because she ___ all day.",
+  "answer": "had been working",
+  "choices": [
+   "had been working",
+   "worked",
+   "was working",
+   "has been working"
+  ],
+  "level": "B1",
+  "explain": "had been + Ving — โครงสร้าง: had been + V-ing (เน้นความต่อเนื่องของเหตุการณ์ที่เกิดก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect Continuous",
+  "q": "I ___ for you for an hour when you finally arrived.",
+  "answer": "had been waiting",
+  "choices": [
+   "had been waiting",
+   "waited",
+   "was waiting",
+   "have been waiting"
+  ],
+  "level": "B1",
+  "explain": "had been + Ving + for — โครงสร้าง: had been + V-ing (เน้นความต่อเนื่องของเหตุการณ์ที่เกิดก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect Continuous",
+  "q": "They ___ football for two hours before it rained.",
+  "answer": "had been playing",
+  "choices": [
+   "had been playing",
+   "played",
+   "were playing",
+   "have been playing"
+  ],
+  "level": "B1",
+  "explain": "for + before — โครงสร้าง: had been + V-ing (เน้นความต่อเนื่องของเหตุการณ์ที่เกิดก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect Continuous",
+  "q": "He ___ at the company for 10 years when he retired.",
+  "answer": "had been working",
+  "choices": [
+   "had been working",
+   "worked",
+   "was working",
+   "has been working"
+  ],
+  "level": "B1",
+  "explain": "for + when — โครงสร้าง: had been + V-ing (เน้นความต่อเนื่องของเหตุการณ์ที่เกิดก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect Continuous",
+  "q": "She ___ Thai for years before moving to Bangkok.",
+  "answer": "had been studying",
+  "choices": [
+   "had been studying",
+   "studied",
+   "was studying",
+   "has been studying"
+  ],
+  "level": "B1",
+  "explain": "for + before — โครงสร้าง: had been + V-ing (เน้นความต่อเนื่องของเหตุการณ์ที่เกิดก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect Continuous",
+  "q": "We ___ dinner when the phone rang.",
+  "answer": "had been having",
+  "choices": [
+   "had been having",
+   "had",
+   "were having",
+   "have been having"
+  ],
+  "level": "B1",
+  "explain": "when — โครงสร้าง: had been + V-ing (เน้นความต่อเนื่องของเหตุการณ์ที่เกิดก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect Continuous",
+  "q": "The road was wet because it ___.",
+  "answer": "had been raining",
+  "choices": [
+   "had been raining",
+   "rained",
+   "was raining",
+   "has been raining"
+  ],
+  "level": "A1-A2",
+  "explain": "ผลลัพธ์ในอดีต — โครงสร้าง: had been + V-ing (เน้นความต่อเนื่องของเหตุการณ์ที่เกิดก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect Continuous",
+  "q": "My eyes hurt — I ___ all evening.",
+  "answer": "had been reading",
+  "choices": [
+   "had been reading",
+   "read",
+   "was reading",
+   "have been reading"
+  ],
+  "level": "A1-A2",
+  "explain": "all evening — โครงสร้าง: had been + V-ing (เน้นความต่อเนื่องของเหตุการณ์ที่เกิดก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect Continuous",
+  "q": "The kids were dirty. They ___ in the mud.",
+  "answer": "had been playing",
+  "choices": [
+   "had been playing",
+   "played",
+   "were playing",
+   "have been playing"
+  ],
+  "level": "A1-A2",
+  "explain": "ผลลัพธ์ — โครงสร้าง: had been + V-ing (เน้นความต่อเนื่องของเหตุการณ์ที่เกิดก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect Continuous",
+  "q": "She ___ hard before the exam.",
+  "answer": "had been studying",
+  "choices": [
+   "had been studying",
+   "studied",
+   "was studying",
+   "has been studying"
+  ],
+  "level": "A1-A2",
+  "explain": "before — โครงสร้าง: had been + V-ing (เน้นความต่อเนื่องของเหตุการณ์ที่เกิดก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect Continuous",
+  "q": "He was out of breath because he ___.",
+  "answer": "had been running",
+  "choices": [
+   "had been running",
+   "ran",
+   "was running",
+   "has been running"
+  ],
+  "level": "A1-A2",
+  "explain": "ผลลัพธ์ — โครงสร้าง: had been + V-ing (เน้นความต่อเนื่องของเหตุการณ์ที่เกิดก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect Continuous",
+  "q": "I ___ for the bus for 20 minutes when it came.",
+  "answer": "had been waiting",
+  "choices": [
+   "had been waiting",
+   "waited",
+   "was waiting",
+   "have been waiting"
+  ],
+  "level": "A1-A2",
+  "explain": "for + when — โครงสร้าง: had been + V-ing (เน้นความต่อเนื่องของเหตุการณ์ที่เกิดก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect Continuous",
+  "q": "We ___ TV all night when the power went out.",
+  "answer": "had been watching",
+  "choices": [
+   "had been watching",
+   "watched",
+   "were watching",
+   "have been watching"
+  ],
+  "level": "A1-A2",
+  "explain": "all night — โครงสร้าง: had been + V-ing (เน้นความต่อเนื่องของเหตุการณ์ที่เกิดก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect Continuous",
+  "q": "She ___ the piano since she was five.",
+  "answer": "had been playing",
+  "choices": [
+   "had been playing",
+   "played",
+   "was playing",
+   "has been playing"
+  ],
+  "level": "A1-A2",
+  "explain": "since — โครงสร้าง: had been + V-ing (เน้นความต่อเนื่องของเหตุการณ์ที่เกิดก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect Continuous",
+  "q": "They ___ each other for years before they married.",
+  "answer": "had been dating",
+  "choices": [
+   "had been dating",
+   "dated",
+   "were dating",
+   "have been dating"
+  ],
+  "level": "A1-A2",
+  "explain": "for + before — โครงสร้าง: had been + V-ing (เน้นความต่อเนื่องของเหตุการณ์ที่เกิดก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect Continuous",
+  "q": "I ___ that book for months when I finally finished it.",
+  "answer": "had been reading",
+  "choices": [
+   "had been reading",
+   "read",
+   "was reading",
+   "have been reading"
+  ],
+  "level": "B1",
+  "explain": "for + when — โครงสร้าง: had been + V-ing (เน้นความต่อเนื่องของเหตุการณ์ที่เกิดก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect Continuous",
+  "q": "The workers ___ all day when the boss came.",
+  "answer": "had been working",
+  "choices": [
+   "had been working",
+   "worked",
+   "were working",
+   "have been working"
+  ],
+  "level": "B1",
+  "explain": "all day + when — โครงสร้าง: had been + V-ing (เน้นความต่อเนื่องของเหตุการณ์ที่เกิดก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect Continuous",
+  "q": "She ___ about him for weeks.",
+  "answer": "had been thinking",
+  "choices": [
+   "had been thinking",
+   "thought",
+   "was thinking",
+   "has been thinking"
+  ],
+  "level": "B1",
+  "explain": "for + weeks — โครงสร้าง: had been + V-ing (เน้นความต่อเนื่องของเหตุการณ์ที่เกิดก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect Continuous",
+  "q": "He ___ for that job for months when he got it.",
+  "answer": "had been applying",
+  "choices": [
+   "had been applying",
+   "applied",
+   "was applying",
+   "has been applying"
+  ],
+  "level": "B1",
+  "explain": "for + months — โครงสร้าง: had been + V-ing (เน้นความต่อเนื่องของเหตุการณ์ที่เกิดก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect Continuous",
+  "q": "We ___ that project for a year when they cut the budget.",
+  "answer": "had been working on",
+  "choices": [
+   "had been working on",
+   "worked on",
+   "were working on",
+   "have been working on"
+  ],
+  "level": "B1",
+  "explain": "for a year + when — โครงสร้าง: had been + V-ing (เน้นความต่อเนื่องของเหตุการณ์ที่เกิดก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect Continuous",
+  "q": "My legs ached because I ___ all day.",
+  "answer": "had been walking",
+  "choices": [
+   "had been walking",
+   "walked",
+   "was walking",
+   "have been walking"
+  ],
+  "level": "B1",
+  "explain": "ผลลัพธ์ — โครงสร้าง: had been + V-ing (เน้นความต่อเนื่องของเหตุการณ์ที่เกิดก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect Continuous",
+  "q": "The garden looked awful. Nobody ___ care of it.",
+  "answer": "had been taking",
+  "choices": [
+   "had been taking",
+   "took",
+   "was taking",
+   "has been taking"
+  ],
+  "level": "B1",
+  "explain": "ผลลัพธ์ — โครงสร้าง: had been + V-ing (เน้นความต่อเนื่องของเหตุการณ์ที่เกิดก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect Continuous",
+  "q": "She ___ jogging for an hour when she felt dizzy.",
+  "answer": "had been jogging",
+  "choices": [
+   "had been jogging",
+   "jogged",
+   "was jogging",
+   "has been jogging"
+  ],
+  "level": "B1",
+  "explain": "for an hour — โครงสร้าง: had been + V-ing (เน้นความต่อเนื่องของเหตุการณ์ที่เกิดก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect Continuous",
+  "q": "They ___ argue for hours before they made up.",
+  "answer": "had been arguing",
+  "choices": [
+   "had been arguing",
+   "argued",
+   "were arguing",
+   "have been arguing"
+  ],
+  "level": "B1",
+  "explain": "for hours — โครงสร้าง: had been + V-ing (เน้นความต่อเนื่องของเหตุการณ์ที่เกิดก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect Continuous",
+  "q": "I ___ TV for two hours when Mom called.",
+  "answer": "had been watching",
+  "choices": [
+   "had been watching",
+   "watched",
+   "was watching",
+   "have been watching"
+  ],
+  "level": "B1",
+  "explain": "for + when — โครงสร้าง: had been + V-ing (เน้นความต่อเนื่องของเหตุการณ์ที่เกิดก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect Continuous",
+  "q": "The team ___ the case for months before solving it.",
+  "answer": "had been investigating",
+  "choices": [
+   "had been investigating",
+   "investigated",
+   "was investigating",
+   "have been investigating"
+  ],
+  "level": "B1",
+  "explain": "for + before — โครงสร้าง: had been + V-ing (เน้นความต่อเนื่องของเหตุการณ์ที่เกิดก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect Continuous",
+  "q": "He said he ___ trying to reach me all day.",
+  "answer": "had been",
+  "choices": [
+   "had been",
+   "was",
+   "is",
+   "have been"
+  ],
+  "level": "B1",
+  "explain": "reported speech — โครงสร้าง: had been + V-ing (เน้นความต่อเนื่องของเหตุการณ์ที่เกิดก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect Continuous",
+  "q": "She was upset because she ___ waiting so long.",
+  "answer": "had been",
+  "choices": [
+   "had been",
+   "was",
+   "is",
+   "have been"
+  ],
+  "level": "B1",
+  "explain": "ผลลัพธ์ — โครงสร้าง: had been + V-ing (เน้นความต่อเนื่องของเหตุการณ์ที่เกิดก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect Continuous",
+  "q": "We ___ working on the report when the power failed.",
+  "answer": "had been",
+  "choices": [
+   "had been",
+   "were",
+   "are",
+   "have been"
+  ],
+  "level": "B1",
+  "explain": "when — โครงสร้าง: had been + V-ing (เน้นความต่อเนื่องของเหตุการณ์ที่เกิดก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect Continuous",
+  "q": "It ___ snowing for hours by the time we left.",
+  "answer": "had been",
+  "choices": [
+   "had been",
+   "was",
+   "is",
+   "has been"
+  ],
+  "level": "B1",
+  "explain": "by the time + for — โครงสร้าง: had been + V-ing (เน้นความต่อเนื่องของเหตุการณ์ที่เกิดก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect Continuous",
+  "q": "Not for years ___ he ___ so happily.",
+  "answer": "had/been living",
+  "choices": [
+   "had/been living",
+   "did/live",
+   "has/been living",
+   "was/living"
+  ],
+  "level": "B2-C1",
+  "explain": "Inversion Not for years — โครงสร้าง: had been + V-ing (เน้นความต่อเนื่องของเหตุการณ์ที่เกิดก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect Continuous",
+  "q": "Only after months of research ___ they ___ progress.",
+  "answer": "had/been making",
+  "choices": [
+   "had/been making",
+   "did/make",
+   "have/been making",
+   "were/making"
+  ],
+  "level": "B2-C1",
+  "explain": "Only after + inversion — โครงสร้าง: had been + V-ing (เน้นความต่อเนื่องของเหตุการณ์ที่เกิดก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect Continuous",
+  "q": "Had they ___ harder, they would have succeeded.",
+  "answer": "been trying",
+  "choices": [
+   "been trying",
+   "tried",
+   "try",
+   "tries"
+  ],
+  "level": "B2-C1",
+  "explain": "Inversion 3rd cond continuous — โครงสร้าง: had been + V-ing (เน้นความต่อเนื่องของเหตุการณ์ที่เกิดก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Past Perfect Continuous",
+  "q": "If it ___ raining, we would have gone out.",
+  "answer": "hadn't been",
+  "choices": [
+   "hadn't been",
+   "wasn't",
+   "weren't",
+   "hasn't been"
+  ],
+  "level": "B2-C1",
+  "explain": "3rd cond continuous — โครงสร้าง: had been + V-ing (เน้นความต่อเนื่องของเหตุการณ์ที่เกิดก่อนอีกเหตุการณ์หนึ่งในอดีต)"
+ },
+ {
+  "tense": "Future Simple",
+  "q": "I ___ help you tomorrow.",
+  "answer": "will",
+  "choices": [
+   "will",
+   "am",
+   "have",
+   "was"
+  ],
+  "level": "A1-A2",
+  "explain": "will + V1 — โครงสร้าง: will + V1 (การคาดการณ์ ตัดสินใจ หรือสัญญา ณ ขณะพูด)"
+ },
+ {
+  "tense": "Future Simple",
+  "q": "She ___ come to the party.",
+  "answer": "will",
+  "choices": [
+   "will",
+   "is",
+   "has",
+   "was"
+  ],
+  "level": "A1-A2",
+  "explain": "will + V1 — โครงสร้าง: will + V1 (การคาดการณ์ ตัดสินใจ หรือสัญญา ณ ขณะพูด)"
+ },
+ {
+  "tense": "Future Simple",
+  "q": "It ___ rain tonight.",
+  "answer": "will",
+  "choices": [
+   "will",
+   "is",
+   "has",
+   "was"
+  ],
+  "level": "A1-A2",
+  "explain": "will + V1 — โครงสร้าง: will + V1 (การคาดการณ์ ตัดสินใจ หรือสัญญา ณ ขณะพูด)"
+ },
+ {
+  "tense": "Future Simple",
+  "q": "We ___ travel to Japan next year.",
+  "answer": "will",
+  "choices": [
+   "will",
+   "are",
+   "have",
+   "were"
+  ],
+  "level": "A1-A2",
+  "explain": "next year — โครงสร้าง: will + V1 (การคาดการณ์ ตัดสินใจ หรือสัญญา ณ ขณะพูด)"
+ },
+ {
+  "tense": "Future Simple",
+  "q": "He ___ be 20 next month.",
+  "answer": "will",
+  "choices": [
+   "will",
+   "is",
+   "has",
+   "was"
+  ],
+  "level": "A1-A2",
+  "explain": "next month — โครงสร้าง: will + V1 (การคาดการณ์ ตัดสินใจ หรือสัญญา ณ ขณะพูด)"
+ },
+ {
+  "tense": "Future Simple",
+  "q": "I promise I ___ call you.",
+  "answer": "will",
+  "choices": [
+   "will",
+   "am",
+   "have",
+   "was"
+  ],
+  "level": "A1-A2",
+  "explain": "promise + will — โครงสร้าง: will + V1 (การคาดการณ์ ตัดสินใจ หรือสัญญา ณ ขณะพูด)"
+ },
+ {
+  "tense": "Future Simple",
+  "q": "They ___ arrive at 8 tomorrow.",
+  "answer": "will",
+  "choices": [
+   "will",
+   "are",
+   "have",
+   "were"
+  ],
+  "level": "A1-A2",
+  "explain": "tomorrow — โครงสร้าง: will + V1 (การคาดการณ์ ตัดสินใจ หรือสัญญา ณ ขณะพูด)"
+ },
+ {
+  "tense": "Future Simple",
+  "q": "Don't worry, I ___ do it.",
+  "answer": "will",
+  "choices": [
+   "will",
+   "am",
+   "have",
+   "was"
+  ],
+  "level": "A1-A2",
+  "explain": "spontaneous — โครงสร้าง: will + V1 (การคาดการณ์ ตัดสินใจ หรือสัญญา ณ ขณะพูด)"
+ },
+ {
+  "tense": "Future Simple",
+  "q": "The weather ___ be nice tomorrow.",
+  "answer": "will",
+  "choices": [
+   "will",
+   "is",
+   "has",
+   "was"
+  ],
+  "level": "A1-A2",
+  "explain": "tomorrow — โครงสร้าง: will + V1 (การคาดการณ์ ตัดสินใจ หรือสัญญา ณ ขณะพูด)"
+ },
+ {
+  "tense": "Future Simple",
+  "q": "I think it ___ snow tonight.",
+  "answer": "will",
+  "choices": [
+   "will",
+   "is",
+   "has",
+   "was"
+  ],
+  "level": "A1-A2",
+  "explain": "think + will — โครงสร้าง: will + V1 (การคาดการณ์ ตัดสินใจ หรือสัญญา ณ ขณะพูด)"
+ },
+ {
+  "tense": "Future Simple",
+  "q": "We ___ have pizza for dinner.",
+  "answer": "will",
+  "choices": [
+   "will",
+   "are",
+   "have",
+   "were"
+  ],
+  "level": "A1-A2",
+  "explain": "spontaneous decision — โครงสร้าง: will + V1 (การคาดการณ์ ตัดสินใจ หรือสัญญา ณ ขณะพูด)"
+ },
+ {
+  "tense": "Future Simple",
+  "q": "I ___ open the door for you.",
+  "answer": "will",
+  "choices": [
+   "will",
+   "am",
+   "have",
+   "was"
+  ],
+  "level": "A1-A2",
+  "explain": "offer — โครงสร้าง: will + V1 (การคาดการณ์ ตัดสินใจ หรือสัญญา ณ ขณะพูด)"
+ },
+ {
+  "tense": "Future Simple",
+  "q": "He ___ pass the exam easily.",
+  "answer": "will",
+  "choices": [
+   "will",
+   "is",
+   "has",
+   "was"
+  ],
+  "level": "A1-A2",
+  "explain": "prediction — โครงสร้าง: will + V1 (การคาดการณ์ ตัดสินใจ หรือสัญญา ณ ขณะพูด)"
+ },
+ {
+  "tense": "Future Simple",
+  "q": "___ you help me with this?",
+  "answer": "Will",
+  "choices": [
+   "Will",
+   "Are",
+   "Have",
+   "Were"
+  ],
+  "level": "A1-A2",
+  "explain": "request — โครงสร้าง: will + V1 (การคาดการณ์ ตัดสินใจ หรือสัญญา ณ ขณะพูด)"
+ },
+ {
+  "tense": "Future Simple",
+  "q": "I ___ be late tonight.",
+  "answer": "won't",
+  "choices": [
+   "won't",
+   "am not",
+   "have not",
+   "was not"
+  ],
+  "level": "A1-A2",
+  "explain": "won't = will not — โครงสร้าง: will + V1 (การคาดการณ์ ตัดสินใจ หรือสัญญา ณ ขณะพูด)"
+ },
+ {
+  "tense": "Future Simple",
+  "q": "Look at those clouds! It ___.",
+  "answer": "is going to rain",
+  "choices": [
+   "is going to rain",
+   "will rain",
+   "rains",
+   "is raining"
+  ],
+  "level": "B1",
+  "explain": "หลักฐาน → be going to — โครงสร้าง: will + V1 (การคาดการณ์ ตัดสินใจ หรือสัญญา ณ ขณะพูด)"
+ },
+ {
+  "tense": "Future Simple",
+  "q": "I ___ visit my grandma next weekend.",
+  "answer": "am going to",
+  "choices": [
+   "am going to",
+   "will",
+   "have",
+   "was"
+  ],
+  "level": "B1",
+  "explain": "แผนไว้แล้ว — โครงสร้าง: will + V1 (การคาดการณ์ ตัดสินใจ หรือสัญญา ณ ขณะพูด)"
+ },
+ {
+  "tense": "Future Simple",
+  "q": "She ___ study medicine in the future.",
+  "answer": "is going to",
+  "choices": [
+   "is going to",
+   "will",
+   "has",
+   "was"
+  ],
+  "level": "B1",
+  "explain": "ตั้งใจ — โครงสร้าง: will + V1 (การคาดการณ์ ตัดสินใจ หรือสัญญา ณ ขณะพูด)"
+ },
+ {
+  "tense": "Future Simple",
+  "q": "Watch out! You ___ fall.",
+  "answer": "are going to",
+  "choices": [
+   "are going to",
+   "will",
+   "have",
+   "were"
+  ],
+  "level": "B1",
+  "explain": "หลักฐาน — โครงสร้าง: will + V1 (การคาดการณ์ ตัดสินใจ หรือสัญญา ณ ขณะพูด)"
+ },
+ {
+  "tense": "Future Simple",
+  "q": "We ___ buy a new car next month.",
+  "answer": "are going to",
+  "choices": [
+   "are going to",
+   "will",
+   "have",
+   "were"
+  ],
+  "level": "B1",
+  "explain": "แผน — โครงสร้าง: will + V1 (การคาดการณ์ ตัดสินใจ หรือสัญญา ณ ขณะพูด)"
+ },
+ {
+  "tense": "Future Simple",
+  "q": "He ___ be a doctor when he grows up.",
+  "answer": "will",
+  "choices": [
+   "will",
+   "is",
+   "has",
+   "was"
+  ],
+  "level": "B1",
+  "explain": "prediction — โครงสร้าง: will + V1 (การคาดการณ์ ตัดสินใจ หรือสัญญา ณ ขณะพูด)"
+ },
+ {
+  "tense": "Future Simple",
+  "q": "If it rains, we ___ stay home.",
+  "answer": "will",
+  "choices": [
+   "will",
+   "are",
+   "have",
+   "were"
+  ],
+  "level": "B1",
+  "explain": "if type 1 — โครงสร้าง: will + V1 (การคาดการณ์ ตัดสินใจ หรือสัญญา ณ ขณะพูด)"
+ },
+ {
+  "tense": "Future Simple",
+  "q": "I ___ probably see him tomorrow.",
+  "answer": "will",
+  "choices": [
+   "will",
+   "am",
+   "have",
+   "was"
+  ],
+  "level": "B1",
+  "explain": "probably + will — โครงสร้าง: will + V1 (การคาดการณ์ ตัดสินใจ หรือสัญญา ณ ขณะพูด)"
+ },
+ {
+  "tense": "Future Simple",
+  "q": "Maybe she ___ come to the party.",
+  "answer": "will",
+  "choices": [
+   "will",
+   "is",
+   "has",
+   "was"
+  ],
+  "level": "B1",
+  "explain": "maybe + will — โครงสร้าง: will + V1 (การคาดการณ์ ตัดสินใจ หรือสัญญา ณ ขณะพูด)"
+ },
+ {
+  "tense": "Future Simple",
+  "q": "The concert ___ start at 8 p.m.",
+  "answer": "will",
+  "choices": [
+   "will",
+   "is",
+   "has",
+   "was"
+  ],
+  "level": "B1",
+  "explain": "future event — โครงสร้าง: will + V1 (การคาดการณ์ ตัดสินใจ หรือสัญญา ณ ขณะพูด)"
+ },
+ {
+  "tense": "Future Simple",
+  "q": "By tomorrow, I ___ know the answer.",
+  "answer": "will",
+  "choices": [
+   "will",
+   "am",
+   "have",
+   "was"
+  ],
+  "level": "B1",
+  "explain": "by tomorrow — โครงสร้าง: will + V1 (การคาดการณ์ ตัดสินใจ หรือสัญญา ณ ขณะพูด)"
+ },
+ {
+  "tense": "Future Simple",
+  "q": "Don't touch that! You ___ hurt yourself.",
+  "answer": "will",
+  "choices": [
+   "will",
+   "are",
+   "have",
+   "were"
+  ],
+  "level": "B1",
+  "explain": "warning — โครงสร้าง: will + V1 (การคาดการณ์ ตัดสินใจ หรือสัญญา ณ ขณะพูด)"
+ },
+ {
+  "tense": "Future Simple",
+  "q": "The train ___ leave in five minutes.",
+  "answer": "will",
+  "choices": [
+   "will",
+   "is",
+   "has",
+   "was"
+  ],
+  "level": "B1",
+  "explain": "near future — โครงสร้าง: will + V1 (การคาดการณ์ ตัดสินใจ หรือสัญญา ณ ขณะพูด)"
+ },
+ {
+  "tense": "Future Simple",
+  "q": "Prices ___ increase next year.",
+  "answer": "will",
+  "choices": [
+   "will",
+   "are",
+   "have",
+   "were"
+  ],
+  "level": "B1",
+  "explain": "prediction — โครงสร้าง: will + V1 (การคาดการณ์ ตัดสินใจ หรือสัญญา ณ ขณะพูด)"
+ },
+ {
+  "tense": "Future Simple",
+  "q": "She said she ___ come.",
+  "answer": "would",
+  "choices": [
+   "would",
+   "will",
+   "was",
+   "has"
+  ],
+  "level": "B2-C1",
+  "explain": "reported speech will→would — โครงสร้าง: will + V1 (การคาดการณ์ ตัดสินใจ หรือสัญญา ณ ขณะพูด)"
+ },
+ {
+  "tense": "Future Simple",
+  "q": "Only when he apologizes ___ I forgive him.",
+  "answer": "will",
+  "choices": [
+   "will",
+   "do",
+   "did",
+   "have"
+  ],
+  "level": "B2-C1",
+  "explain": "Inversion Only when — โครงสร้าง: will + V1 (การคาดการณ์ ตัดสินใจ หรือสัญญา ณ ขณะพูด)"
+ },
+ {
+  "tense": "Future Simple",
+  "q": "Should it rain, we ___ stay indoors.",
+  "answer": "will",
+  "choices": [
+   "will",
+   "would",
+   "have",
+   "are"
+  ],
+  "level": "B2-C1",
+  "explain": "Inversion Should — โครงสร้าง: will + V1 (การคาดการณ์ ตัดสินใจ หรือสัญญา ณ ขณะพูด)"
+ },
+ {
+  "tense": "Future Simple",
+  "q": "No matter what happens, I ___ support you.",
+  "answer": "will",
+  "choices": [
+   "will",
+   "am",
+   "have",
+   "was"
+  ],
+  "level": "B2-C1",
+  "explain": "No matter what — โครงสร้าง: will + V1 (การคาดการณ์ ตัดสินใจ หรือสัญญา ณ ขณะพูด)"
+ },
+ {
+  "tense": "Future Simple",
+  "q": "Come what may, we ___ succeed.",
+  "answer": "will",
+  "choices": [
+   "will",
+   "are",
+   "have",
+   "were"
+  ],
+  "level": "B2-C1",
+  "explain": "Come what may — โครงสร้าง: will + V1 (การคาดการณ์ ตัดสินใจ หรือสัญญา ณ ขณะพูด)"
+ },
+ {
+  "tense": "Future Continuous",
+  "q": "This time tomorrow, I ___ on the beach.",
+  "answer": "will be lying",
+  "choices": [
+   "will be lying",
+   "will lie",
+   "lie",
+   "am lying"
+  ],
+  "level": "B1",
+  "explain": "this time tomorrow — โครงสร้าง: will be + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Continuous",
+  "q": "At 8 p.m., we ___ dinner.",
+  "answer": "will be having",
+  "choices": [
+   "will be having",
+   "will have",
+   "have",
+   "are having"
+  ],
+  "level": "B1",
+  "explain": "at 8 p.m. — โครงสร้าง: will be + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Continuous",
+  "q": "I ___ for you at the station.",
+  "answer": "will be waiting",
+  "choices": [
+   "will be waiting",
+   "will wait",
+   "wait",
+   "am waiting"
+  ],
+  "level": "A1-A2",
+  "explain": "future action ongoing — โครงสร้าง: will be + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Continuous",
+  "q": "Don't call me at 9, I ___.",
+  "answer": "will be sleeping",
+  "choices": [
+   "will be sleeping",
+   "will sleep",
+   "sleep",
+   "am sleeping"
+  ],
+  "level": "A1-A2",
+  "explain": "at 9 — โครงสร้าง: will be + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Continuous",
+  "q": "This time next week, they ___ in Paris.",
+  "answer": "will be traveling",
+  "choices": [
+   "will be traveling",
+   "will travel",
+   "travel",
+   "are traveling"
+  ],
+  "level": "A1-A2",
+  "explain": "this time next week — โครงสร้าง: will be + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Continuous",
+  "q": "He ___ TV all evening.",
+  "answer": "will be watching",
+  "choices": [
+   "will be watching",
+   "will watch",
+   "watches",
+   "is watching"
+  ],
+  "level": "A1-A2",
+  "explain": "all evening — โครงสร้าง: will be + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Continuous",
+  "q": "We ___ at the party at midnight.",
+  "answer": "will be dancing",
+  "choices": [
+   "will be dancing",
+   "will dance",
+   "dance",
+   "are dancing"
+  ],
+  "level": "A1-A2",
+  "explain": "at midnight — โครงสร้าง: will be + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Continuous",
+  "q": "I ___ for the bus at 7 tomorrow.",
+  "answer": "will be waiting",
+  "choices": [
+   "will be waiting",
+   "will wait",
+   "wait",
+   "am waiting"
+  ],
+  "level": "A1-A2",
+  "explain": "at 7 tomorrow — โครงสร้าง: will be + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Continuous",
+  "q": "The kids ___ at the pool all afternoon.",
+  "answer": "will be playing",
+  "choices": [
+   "will be playing",
+   "will play",
+   "play",
+   "are playing"
+  ],
+  "level": "A1-A2",
+  "explain": "all afternoon — โครงสร้าง: will be + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Continuous",
+  "q": "She ___ her exam at this time tomorrow.",
+  "answer": "will be taking",
+  "choices": [
+   "will be taking",
+   "will take",
+   "take",
+   "is taking"
+  ],
+  "level": "A1-A2",
+  "explain": "this time tomorrow — โครงสร้าง: will be + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Continuous",
+  "q": "Tom ___ his work by 5 p.m.",
+  "answer": "will be finishing",
+  "choices": [
+   "will be finishing",
+   "will finish",
+   "finishes",
+   "is finishing"
+  ],
+  "level": "A1-A2",
+  "explain": "by 5 p.m. ต่อเนื่อง — โครงสร้าง: will be + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Continuous",
+  "q": "We ___ during the weekend.",
+  "answer": "will be traveling",
+  "choices": [
+   "will be traveling",
+   "will travel",
+   "travel",
+   "are traveling"
+  ],
+  "level": "A1-A2",
+  "explain": "during — โครงสร้าง: will be + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Continuous",
+  "q": "The team ___ hard next month.",
+  "answer": "will be training",
+  "choices": [
+   "will be training",
+   "will train",
+   "train",
+   "are training"
+  ],
+  "level": "A1-A2",
+  "explain": "next month — โครงสร้าง: will be + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Continuous",
+  "q": "I ___ Thai in September.",
+  "answer": "will be teaching",
+  "choices": [
+   "will be teaching",
+   "will teach",
+   "teach",
+   "am teaching"
+  ],
+  "level": "A1-A2",
+  "explain": "in September — โครงสร้าง: will be + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Continuous",
+  "q": "What ___ you ___ at 6 tomorrow?",
+  "answer": "will/be doing",
+  "choices": [
+   "will/be doing",
+   "will/do",
+   "do/do",
+   "are/doing"
+  ],
+  "level": "A1-A2",
+  "explain": "at 6 tomorrow — โครงสร้าง: will be + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Continuous",
+  "q": "The workers ___ on the road all day tomorrow.",
+  "answer": "will be working",
+  "choices": [
+   "will be working",
+   "will work",
+   "work",
+   "are working"
+  ],
+  "level": "B1",
+  "explain": "all day tomorrow — โครงสร้าง: will be + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Continuous",
+  "q": "Sorry, I can't come — I ___ my mother.",
+  "answer": "will be visiting",
+  "choices": [
+   "will be visiting",
+   "will visit",
+   "visit",
+   "am visiting"
+  ],
+  "level": "B1",
+  "explain": "future arrangement — โครงสร้าง: will be + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Continuous",
+  "q": "Don't worry, I ___ you at the airport.",
+  "answer": "will be picking up",
+  "choices": [
+   "will be picking up",
+   "will pick up",
+   "pick up",
+   "am picking up"
+  ],
+  "level": "B1",
+  "explain": "future arrangement — โครงสร้าง: will be + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Continuous",
+  "q": "The president ___ a speech at 10.",
+  "answer": "will be giving",
+  "choices": [
+   "will be giving",
+   "will give",
+   "gives",
+   "is giving"
+  ],
+  "level": "B1",
+  "explain": "future scheduled continuous — โครงสร้าง: will be + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Continuous",
+  "q": "This time next year, we ___ in our new house.",
+  "answer": "will be living",
+  "choices": [
+   "will be living",
+   "will live",
+   "live",
+   "are living"
+  ],
+  "level": "B1",
+  "explain": "this time next year — โครงสร้าง: will be + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Continuous",
+  "q": "He ___ his thesis for the next few months.",
+  "answer": "will be writing",
+  "choices": [
+   "will be writing",
+   "will write",
+   "writes",
+   "is writing"
+  ],
+  "level": "B1",
+  "explain": "for + future — โครงสร้าง: will be + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Continuous",
+  "q": "The kids ___ their exams next week.",
+  "answer": "will be taking",
+  "choices": [
+   "will be taking",
+   "will take",
+   "take",
+   "are taking"
+  ],
+  "level": "B1",
+  "explain": "next week — โครงสร้าง: will be + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Continuous",
+  "q": "I ___ TV when you arrive.",
+  "answer": "will be watching",
+  "choices": [
+   "will be watching",
+   "will watch",
+   "watch",
+   "am watching"
+  ],
+  "level": "B1",
+  "explain": "when + future — โครงสร้าง: will be + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Continuous",
+  "q": "We ___ on the beach while you work.",
+  "answer": "will be relaxing",
+  "choices": [
+   "will be relaxing",
+   "will relax",
+   "relax",
+   "are relaxing"
+  ],
+  "level": "B1",
+  "explain": "while + future — โครงสร้าง: will be + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Continuous",
+  "q": "She ___ dinner when the guests arrive.",
+  "answer": "will be cooking",
+  "choices": [
+   "will be cooking",
+   "will cook",
+   "cooks",
+   "is cooking"
+  ],
+  "level": "B1",
+  "explain": "when + future — โครงสร้าง: will be + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Continuous",
+  "q": "They ___ soccer at 4 p.m. tomorrow.",
+  "answer": "will be playing",
+  "choices": [
+   "will be playing",
+   "will play",
+   "play",
+   "are playing"
+  ],
+  "level": "B1",
+  "explain": "at 4 p.m. tomorrow — โครงสร้าง: will be + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Continuous",
+  "q": "I ___ my exam at this time next Friday.",
+  "answer": "will be taking",
+  "choices": [
+   "will be taking",
+   "will take",
+   "take",
+   "am taking"
+  ],
+  "level": "B1",
+  "explain": "this time next Friday — โครงสร้าง: will be + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Continuous",
+  "q": "Will you ___ home tonight?",
+  "answer": "be staying",
+  "choices": [
+   "be staying",
+   "stay",
+   "stays",
+   "stayed"
+  ],
+  "level": "B1",
+  "explain": "polite question — โครงสร้าง: will be + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Continuous",
+  "q": "The company ___ 500 workers by December.",
+  "answer": "will be employing",
+  "choices": [
+   "will be employing",
+   "will employ",
+   "employs",
+   "is employing"
+  ],
+  "level": "B1",
+  "explain": "by December — โครงสร้าง: will be + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Continuous",
+  "q": "Passengers ___ boarded at Gate 5.",
+  "answer": "will be being",
+  "choices": [
+   "will be being",
+   "will be",
+   "are",
+   "were"
+  ],
+  "level": "B2-C1",
+  "explain": "Passive Future Continuous — โครงสร้าง: will be + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Continuous",
+  "q": "I ___ constantly ___ about this for weeks.",
+  "answer": "will/be thinking",
+  "choices": [
+   "will/be thinking",
+   "will/think",
+   "do/think",
+   "am/thinking"
+  ],
+  "level": "B2-C1",
+  "explain": "constantly + future continuous — โครงสร้าง: will be + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Continuous",
+  "q": "By this time next month, prices ___ steadily.",
+  "answer": "will be rising",
+  "choices": [
+   "will be rising",
+   "will rise",
+   "rise",
+   "are rising"
+  ],
+  "level": "B2-C1",
+  "explain": "แนวโน้มอนาคต — โครงสร้าง: will be + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Continuous",
+  "q": "Not even ___ he ___ answering emails on his day off.",
+  "answer": "will/be",
+  "choices": [
+   "will/be",
+   "does/be",
+   "did/be",
+   "has/been"
+  ],
+  "level": "B2-C1",
+  "explain": "Inversion + future continuous — โครงสร้าง: will be + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Continuous",
+  "q": "Should you ___ me, I'll be at home.",
+  "answer": "be needing",
+  "choices": [
+   "be needing",
+   "need",
+   "needs",
+   "needed"
+  ],
+  "level": "B2-C1",
+  "explain": "Inversion Should — โครงสร้าง: will be + V-ing (กำลังเกิดขึ้น ณ จุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect",
+  "q": "By 2030, we ___ the project.",
+  "answer": "will have finished",
+  "choices": [
+   "will have finished",
+   "finish",
+   "will finish",
+   "have finished"
+  ],
+  "level": "B1",
+  "explain": "by + future — โครงสร้าง: will have + V3 (จะเสร็จสิ้นก่อนเวลาหรือเหตุการณ์หนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect",
+  "q": "By next year, she ___ 10 years here.",
+  "answer": "will have worked",
+  "choices": [
+   "will have worked",
+   "works",
+   "will work",
+   "has worked"
+  ],
+  "level": "B1",
+  "explain": "by next year — โครงสร้าง: will have + V3 (จะเสร็จสิ้นก่อนเวลาหรือเหตุการณ์หนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect",
+  "q": "I ___ the book by Friday.",
+  "answer": "will have read",
+  "choices": [
+   "will have read",
+   "read",
+   "will read",
+   "have read"
+  ],
+  "level": "B1",
+  "explain": "by Friday — โครงสร้าง: will have + V3 (จะเสร็จสิ้นก่อนเวลาหรือเหตุการณ์หนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect",
+  "q": "They ___ the house by Christmas.",
+  "answer": "will have painted",
+  "choices": [
+   "will have painted",
+   "paint",
+   "will paint",
+   "have painted"
+  ],
+  "level": "B1",
+  "explain": "by Christmas — โครงสร้าง: will have + V3 (จะเสร็จสิ้นก่อนเวลาหรือเหตุการณ์หนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect",
+  "q": "By the end of the year, I ___ my degree.",
+  "answer": "will have earned",
+  "choices": [
+   "will have earned",
+   "earn",
+   "will earn",
+   "have earned"
+  ],
+  "level": "B1",
+  "explain": "by the end of — โครงสร้าง: will have + V3 (จะเสร็จสิ้นก่อนเวลาหรือเหตุการณ์หนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect",
+  "q": "He ___ dinner by the time you arrive.",
+  "answer": "will have cooked",
+  "choices": [
+   "will have cooked",
+   "cooks",
+   "will cook",
+   "has cooked"
+  ],
+  "level": "B1",
+  "explain": "by the time — โครงสร้าง: will have + V3 (จะเสร็จสิ้นก่อนเวลาหรือเหตุการณ์หนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect",
+  "q": "We ___ our vacation by then.",
+  "answer": "will have taken",
+  "choices": [
+   "will have taken",
+   "take",
+   "will take",
+   "have taken"
+  ],
+  "level": "A1-A2",
+  "explain": "by then — โครงสร้าง: will have + V3 (จะเสร็จสิ้นก่อนเวลาหรือเหตุการณ์หนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect",
+  "q": "She ___ the marathon by noon.",
+  "answer": "will have finished",
+  "choices": [
+   "will have finished",
+   "finishes",
+   "will finish",
+   "has finished"
+  ],
+  "level": "A1-A2",
+  "explain": "by noon — โครงสร้าง: will have + V3 (จะเสร็จสิ้นก่อนเวลาหรือเหตุการณ์หนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect",
+  "q": "I ___ 30 by next month.",
+  "answer": "will have turned",
+  "choices": [
+   "will have turned",
+   "turn",
+   "will turn",
+   "have turned"
+  ],
+  "level": "A1-A2",
+  "explain": "by next month — โครงสร้าง: will have + V3 (จะเสร็จสิ้นก่อนเวลาหรือเหตุการณ์หนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect",
+  "q": "The train ___ by the time we arrive.",
+  "answer": "will have left",
+  "choices": [
+   "will have left",
+   "leaves",
+   "will leave",
+   "has left"
+  ],
+  "level": "A1-A2",
+  "explain": "by the time — โครงสร้าง: will have + V3 (จะเสร็จสิ้นก่อนเวลาหรือเหตุการณ์หนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect",
+  "q": "Tom ___ his homework by 8.",
+  "answer": "will have finished",
+  "choices": [
+   "will have finished",
+   "finishes",
+   "will finish",
+   "has finished"
+  ],
+  "level": "A1-A2",
+  "explain": "by 8 — โครงสร้าง: will have + V3 (จะเสร็จสิ้นก่อนเวลาหรือเหตุการณ์หนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect",
+  "q": "By tomorrow, I ___ my report.",
+  "answer": "will have written",
+  "choices": [
+   "will have written",
+   "write",
+   "will write",
+   "have written"
+  ],
+  "level": "A1-A2",
+  "explain": "by tomorrow — โครงสร้าง: will have + V3 (จะเสร็จสิ้นก่อนเวลาหรือเหตุการณ์หนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect",
+  "q": "We ___ the movie before you come.",
+  "answer": "will have seen",
+  "choices": [
+   "will have seen",
+   "see",
+   "will see",
+   "have seen"
+  ],
+  "level": "A1-A2",
+  "explain": "before — โครงสร้าง: will have + V3 (จะเสร็จสิ้นก่อนเวลาหรือเหตุการณ์หนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect",
+  "q": "She ___ lunch by 1 p.m.",
+  "answer": "will have had",
+  "choices": [
+   "will have had",
+   "has",
+   "will have",
+   "had"
+  ],
+  "level": "A1-A2",
+  "explain": "by 1 p.m. — โครงสร้าง: will have + V3 (จะเสร็จสิ้นก่อนเวลาหรือเหตุการณ์หนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect",
+  "q": "They ___ the room before the meeting.",
+  "answer": "will have cleaned",
+  "choices": [
+   "will have cleaned",
+   "clean",
+   "will clean",
+   "have cleaned"
+  ],
+  "level": "A1-A2",
+  "explain": "before — โครงสร้าง: will have + V3 (จะเสร็จสิ้นก่อนเวลาหรือเหตุการณ์หนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect",
+  "q": "I ___ the letter by next week.",
+  "answer": "will have sent",
+  "choices": [
+   "will have sent",
+   "send",
+   "will send",
+   "have sent"
+  ],
+  "level": "A1-A2",
+  "explain": "by next week — โครงสร้าง: will have + V3 (จะเสร็จสิ้นก่อนเวลาหรือเหตุการณ์หนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect",
+  "q": "My father ___ 50 by December.",
+  "answer": "will have turned",
+  "choices": [
+   "will have turned",
+   "turns",
+   "will turn",
+   "has turned"
+  ],
+  "level": "A1-A2",
+  "explain": "by December — โครงสร้าง: will have + V3 (จะเสร็จสิ้นก่อนเวลาหรือเหตุการณ์หนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect",
+  "q": "By the end of this week, we ___ 100 units.",
+  "answer": "will have sold",
+  "choices": [
+   "will have sold",
+   "sell",
+   "will sell",
+   "have sold"
+  ],
+  "level": "B1",
+  "explain": "by the end of — โครงสร้าง: will have + V3 (จะเสร็จสิ้นก่อนเวลาหรือเหตุการณ์หนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect",
+  "q": "He ___ his book by autumn.",
+  "answer": "will have completed",
+  "choices": [
+   "will have completed",
+   "completes",
+   "will complete",
+   "has completed"
+  ],
+  "level": "B1",
+  "explain": "by autumn — โครงสร้าง: will have + V3 (จะเสร็จสิ้นก่อนเวลาหรือเหตุการณ์หนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect",
+  "q": "By 2050, humans ___ many planets.",
+  "answer": "will have explored",
+  "choices": [
+   "will have explored",
+   "explore",
+   "will explore",
+   "have explored"
+  ],
+  "level": "B1",
+  "explain": "by 2050 — โครงสร้าง: will have + V3 (จะเสร็จสิ้นก่อนเวลาหรือเหตุการณ์หนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect",
+  "q": "The cake ___ by the time we sit down.",
+  "answer": "will have cooled",
+  "choices": [
+   "will have cooled",
+   "cools",
+   "will cool",
+   "has cooled"
+  ],
+  "level": "B1",
+  "explain": "by the time — โครงสร้าง: will have + V3 (จะเสร็จสิ้นก่อนเวลาหรือเหตุการณ์หนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect",
+  "q": "I ___ enough money by next year.",
+  "answer": "will have saved",
+  "choices": [
+   "will have saved",
+   "save",
+   "will save",
+   "have saved"
+  ],
+  "level": "B1",
+  "explain": "by next year — โครงสร้าง: will have + V3 (จะเสร็จสิ้นก่อนเวลาหรือเหตุการณ์หนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect",
+  "q": "She ___ this book three times by June.",
+  "answer": "will have read",
+  "choices": [
+   "will have read",
+   "reads",
+   "will read",
+   "has read"
+  ],
+  "level": "B1",
+  "explain": "by June + three times — โครงสร้าง: will have + V3 (จะเสร็จสิ้นก่อนเวลาหรือเหตุการณ์หนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect",
+  "q": "They ___ each other for 20 years by then.",
+  "answer": "will have known",
+  "choices": [
+   "will have known",
+   "know",
+   "will know",
+   "have known"
+  ],
+  "level": "B1",
+  "explain": "by then + for 20 — โครงสร้าง: will have + V3 (จะเสร็จสิ้นก่อนเวลาหรือเหตุการณ์หนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect",
+  "q": "The company ___ its target by December.",
+  "answer": "will have reached",
+  "choices": [
+   "will have reached",
+   "reaches",
+   "will reach",
+   "has reached"
+  ],
+  "level": "B1",
+  "explain": "by December — โครงสร้าง: will have + V3 (จะเสร็จสิ้นก่อนเวลาหรือเหตุการณ์หนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect",
+  "q": "By the time she graduates, she ___ several papers.",
+  "answer": "will have published",
+  "choices": [
+   "will have published",
+   "publishes",
+   "will publish",
+   "has published"
+  ],
+  "level": "B1",
+  "explain": "by the time — โครงสร้าง: will have + V3 (จะเสร็จสิ้นก่อนเวลาหรือเหตุการณ์หนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect",
+  "q": "He ___ his savings by the age of 40.",
+  "answer": "will have doubled",
+  "choices": [
+   "will have doubled",
+   "doubles",
+   "will double",
+   "has doubled"
+  ],
+  "level": "B1",
+  "explain": "by the age of — โครงสร้าง: will have + V3 (จะเสร็จสิ้นก่อนเวลาหรือเหตุการณ์หนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect",
+  "q": "We ___ the goal before the deadline.",
+  "answer": "will have achieved",
+  "choices": [
+   "will have achieved",
+   "achieve",
+   "will achieve",
+   "have achieved"
+  ],
+  "level": "B1",
+  "explain": "before the deadline — โครงสร้าง: will have + V3 (จะเสร็จสิ้นก่อนเวลาหรือเหตุการณ์หนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect",
+  "q": "I hope you ___ your mind by then.",
+  "answer": "will have changed",
+  "choices": [
+   "will have changed",
+   "change",
+   "will change",
+   "have changed"
+  ],
+  "level": "B1",
+  "explain": "by then — โครงสร้าง: will have + V3 (จะเสร็จสิ้นก่อนเวลาหรือเหตุการณ์หนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect",
+  "q": "By the end of the century, technology ___ enormously.",
+  "answer": "will have advanced",
+  "choices": [
+   "will have advanced",
+   "advances",
+   "will advance",
+   "has advanced"
+  ],
+  "level": "B1",
+  "explain": "by the end of — โครงสร้าง: will have + V3 (จะเสร็จสิ้นก่อนเวลาหรือเหตุการณ์หนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect",
+  "q": "Little ___ they ___ how much the world would change.",
+  "answer": "will/have realized",
+  "choices": [
+   "will/have realized",
+   "do/realize",
+   "did/realize",
+   "have/realized"
+  ],
+  "level": "B2-C1",
+  "explain": "Inversion Little — โครงสร้าง: will have + V3 (จะเสร็จสิ้นก่อนเวลาหรือเหตุการณ์หนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect",
+  "q": "Only by 2030 ___ we ___ this milestone.",
+  "answer": "will/have reached",
+  "choices": [
+   "will/have reached",
+   "do/reach",
+   "did/reach",
+   "have/reached"
+  ],
+  "level": "B2-C1",
+  "explain": "Only by + inversion — โครงสร้าง: will have + V3 (จะเสร็จสิ้นก่อนเวลาหรือเหตุการณ์หนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect",
+  "q": "The report ___ ___ published by then.",
+  "answer": "will have been",
+  "choices": [
+   "will have been",
+   "will be",
+   "is",
+   "has been"
+  ],
+  "level": "B2-C1",
+  "explain": "Passive Future Perfect — โครงสร้าง: will have + V3 (จะเสร็จสิ้นก่อนเวลาหรือเหตุการณ์หนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect",
+  "q": "Not until next year ___ the law ___ effect.",
+  "answer": "will/have taken",
+  "choices": [
+   "will/have taken",
+   "does/take",
+   "did/take",
+   "has/taken"
+  ],
+  "level": "B2-C1",
+  "explain": "Not until + inversion — โครงสร้าง: will have + V3 (จะเสร็จสิ้นก่อนเวลาหรือเหตุการณ์หนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect",
+  "q": "By the time you read this, I ___ ___ my journey.",
+  "answer": "will have begun",
+  "choices": [
+   "will have begun",
+   "begin",
+   "will begin",
+   "have begun"
+  ],
+  "level": "B2-C1",
+  "explain": "by the time — โครงสร้าง: will have + V3 (จะเสร็จสิ้นก่อนเวลาหรือเหตุการณ์หนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect Continuous",
+  "q": "By next month, I ___ here for a year.",
+  "answer": "will have been working",
+  "choices": [
+   "will have been working",
+   "will work",
+   "have worked",
+   "am working"
+  ],
+  "level": "B1",
+  "explain": "by + future + for — โครงสร้าง: will have been + V-ing (เน้นความต่อเนื่องของการกระทำจนถึงจุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect Continuous",
+  "q": "By 2030, she ___ Thai for a decade.",
+  "answer": "will have been studying",
+  "choices": [
+   "will have been studying",
+   "will study",
+   "has studied",
+   "is studying"
+  ],
+  "level": "B1",
+  "explain": "by 2030 + for — โครงสร้าง: will have been + V-ing (เน้นความต่อเนื่องของการกระทำจนถึงจุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect Continuous",
+  "q": "By tonight, we ___ for 8 hours.",
+  "answer": "will have been driving",
+  "choices": [
+   "will have been driving",
+   "will drive",
+   "have driven",
+   "are driving"
+  ],
+  "level": "B1",
+  "explain": "by tonight + for — โครงสร้าง: will have been + V-ing (เน้นความต่อเนื่องของการกระทำจนถึงจุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect Continuous",
+  "q": "He ___ for the same company for 30 years by 2028.",
+  "answer": "will have been working",
+  "choices": [
+   "will have been working",
+   "will work",
+   "has worked",
+   "is working"
+  ],
+  "level": "B1",
+  "explain": "for + by 2028 — โครงสร้าง: will have been + V-ing (เน้นความต่อเนื่องของการกระทำจนถึงจุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect Continuous",
+  "q": "By next week, they ___ for 3 months.",
+  "answer": "will have been dating",
+  "choices": [
+   "will have been dating",
+   "will date",
+   "have dated",
+   "are dating"
+  ],
+  "level": "B1",
+  "explain": "by next week + for — โครงสร้าง: will have been + V-ing (เน้นความต่อเนื่องของการกระทำจนถึงจุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect Continuous",
+  "q": "By 5 p.m., I ___ for 6 hours.",
+  "answer": "will have been waiting",
+  "choices": [
+   "will have been waiting",
+   "will wait",
+   "have waited",
+   "am waiting"
+  ],
+  "level": "B1",
+  "explain": "by 5 p.m. + for — โครงสร้าง: will have been + V-ing (เน้นความต่อเนื่องของการกระทำจนถึงจุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect Continuous",
+  "q": "She ___ the piano for 20 years by then.",
+  "answer": "will have been playing",
+  "choices": [
+   "will have been playing",
+   "will play",
+   "has played",
+   "is playing"
+  ],
+  "level": "B1",
+  "explain": "for 20 years + by then — โครงสร้าง: will have been + V-ing (เน้นความต่อเนื่องของการกระทำจนถึงจุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect Continuous",
+  "q": "We ___ this project for 2 years by December.",
+  "answer": "will have been working on",
+  "choices": [
+   "will have been working on",
+   "will work on",
+   "have worked on",
+   "are working on"
+  ],
+  "level": "B1",
+  "explain": "for 2 years + by December — โครงสร้าง: will have been + V-ing (เน้นความต่อเนื่องของการกระทำจนถึงจุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect Continuous",
+  "q": "By tomorrow, it ___ for a week.",
+  "answer": "will have been raining",
+  "choices": [
+   "will have been raining",
+   "will rain",
+   "has rained",
+   "is raining"
+  ],
+  "level": "B1",
+  "explain": "by tomorrow + for a week — โครงสร้าง: will have been + V-ing (เน้นความต่อเนื่องของการกระทำจนถึงจุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect Continuous",
+  "q": "Tom ___ at that company for 15 years by June.",
+  "answer": "will have been working",
+  "choices": [
+   "will have been working",
+   "will work",
+   "has worked",
+   "is working"
+  ],
+  "level": "B1",
+  "explain": "for 15 years + by June — โครงสร้าง: will have been + V-ing (เน้นความต่อเนื่องของการกระทำจนถึงจุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect Continuous",
+  "q": "By the end of the year, they ___ together for 5 years.",
+  "answer": "will have been living",
+  "choices": [
+   "will have been living",
+   "will live",
+   "have lived",
+   "are living"
+  ],
+  "level": "A1-A2",
+  "explain": "by the end of — โครงสร้าง: will have been + V-ing (เน้นความต่อเนื่องของการกระทำจนถึงจุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect Continuous",
+  "q": "I ___ English for 10 years by next summer.",
+  "answer": "will have been learning",
+  "choices": [
+   "will have been learning",
+   "will learn",
+   "have learned",
+   "am learning"
+  ],
+  "level": "A1-A2",
+  "explain": "for 10 years — โครงสร้าง: will have been + V-ing (เน้นความต่อเนื่องของการกระทำจนถึงจุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect Continuous",
+  "q": "She ___ this book for months by December.",
+  "answer": "will have been writing",
+  "choices": [
+   "will have been writing",
+   "will write",
+   "has written",
+   "is writing"
+  ],
+  "level": "A1-A2",
+  "explain": "for months — โครงสร้าง: will have been + V-ing (เน้นความต่อเนื่องของการกระทำจนถึงจุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect Continuous",
+  "q": "The kids ___ soccer for 3 hours by 6.",
+  "answer": "will have been playing",
+  "choices": [
+   "will have been playing",
+   "will play",
+   "have played",
+   "are playing"
+  ],
+  "level": "A1-A2",
+  "explain": "for 3 hours — โครงสร้าง: will have been + V-ing (เน้นความต่อเนื่องของการกระทำจนถึงจุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect Continuous",
+  "q": "We ___ for the bus for an hour by then.",
+  "answer": "will have been waiting",
+  "choices": [
+   "will have been waiting",
+   "will wait",
+   "have waited",
+   "are waiting"
+  ],
+  "level": "A1-A2",
+  "explain": "for an hour — โครงสร้าง: will have been + V-ing (เน้นความต่อเนื่องของการกระทำจนถึงจุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect Continuous",
+  "q": "He ___ TV for the whole evening by 10.",
+  "answer": "will have been watching",
+  "choices": [
+   "will have been watching",
+   "will watch",
+   "has watched",
+   "is watching"
+  ],
+  "level": "A1-A2",
+  "explain": "for the whole evening — โครงสร้าง: will have been + V-ing (เน้นความต่อเนื่องของการกระทำจนถึงจุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect Continuous",
+  "q": "By 3 p.m., I ___ for 4 hours straight.",
+  "answer": "will have been studying",
+  "choices": [
+   "will have been studying",
+   "will study",
+   "have studied",
+   "am studying"
+  ],
+  "level": "A1-A2",
+  "explain": "for 4 hours — โครงสร้าง: will have been + V-ing (เน้นความต่อเนื่องของการกระทำจนถึงจุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect Continuous",
+  "q": "The workers ___ all night by dawn.",
+  "answer": "will have been working",
+  "choices": [
+   "will have been working",
+   "will work",
+   "have worked",
+   "are working"
+  ],
+  "level": "A1-A2",
+  "explain": "all night — โครงสร้าง: will have been + V-ing (เน้นความต่อเนื่องของการกระทำจนถึงจุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect Continuous",
+  "q": "She ___ jogging for 30 minutes by the time we get there.",
+  "answer": "will have been going",
+  "choices": [
+   "will have been going",
+   "will go",
+   "has gone",
+   "is going"
+  ],
+  "level": "A1-A2",
+  "explain": "for 30 minutes — โครงสร้าง: will have been + V-ing (เน้นความต่อเนื่องของการกระทำจนถึงจุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect Continuous",
+  "q": "By next year, the team ___ on this for 5 years.",
+  "answer": "will have been focusing",
+  "choices": [
+   "will have been focusing",
+   "will focus",
+   "has focused",
+   "is focusing"
+  ],
+  "level": "A1-A2",
+  "explain": "for 5 years — โครงสร้าง: will have been + V-ing (เน้นความต่อเนื่องของการกระทำจนถึงจุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect Continuous",
+  "q": "By 2026, prices ___ for a decade.",
+  "answer": "will have been rising",
+  "choices": [
+   "will have been rising",
+   "will rise",
+   "have risen",
+   "are rising"
+  ],
+  "level": "B1",
+  "explain": "for a decade — โครงสร้าง: will have been + V-ing (เน้นความต่อเนื่องของการกระทำจนถึงจุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect Continuous",
+  "q": "I ___ my thesis for 6 months by graduation.",
+  "answer": "will have been writing",
+  "choices": [
+   "will have been writing",
+   "will write",
+   "have written",
+   "am writing"
+  ],
+  "level": "B1",
+  "explain": "for 6 months — โครงสร้าง: will have been + V-ing (เน้นความต่อเนื่องของการกระทำจนถึงจุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect Continuous",
+  "q": "By dinner, she ___ for 3 hours.",
+  "answer": "will have been cooking",
+  "choices": [
+   "will have been cooking",
+   "will cook",
+   "has cooked",
+   "is cooking"
+  ],
+  "level": "B1",
+  "explain": "by dinner + for — โครงสร้าง: will have been + V-ing (เน้นความต่อเนื่องของการกระทำจนถึงจุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect Continuous",
+  "q": "He ___ his book for 2 years by the deadline.",
+  "answer": "will have been writing",
+  "choices": [
+   "will have been writing",
+   "will write",
+   "has written",
+   "is writing"
+  ],
+  "level": "B1",
+  "explain": "by the deadline — โครงสร้าง: will have been + V-ing (เน้นความต่อเนื่องของการกระทำจนถึงจุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect Continuous",
+  "q": "By retirement, he ___ for 40 years.",
+  "answer": "will have been teaching",
+  "choices": [
+   "will have been teaching",
+   "will teach",
+   "has taught",
+   "is teaching"
+  ],
+  "level": "B1",
+  "explain": "by retirement — โครงสร้าง: will have been + V-ing (เน้นความต่อเนื่องของการกระทำจนถึงจุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect Continuous",
+  "q": "Kids ___ online for years by the time they turn 18.",
+  "answer": "will have been playing",
+  "choices": [
+   "will have been playing",
+   "will play",
+   "have played",
+   "are playing"
+  ],
+  "level": "B1",
+  "explain": "by the time — โครงสร้าง: will have been + V-ing (เน้นความต่อเนื่องของการกระทำจนถึงจุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect Continuous",
+  "q": "The company ___ profits for a decade by 2030.",
+  "answer": "will have been growing",
+  "choices": [
+   "will have been growing",
+   "will grow",
+   "has grown",
+   "is growing"
+  ],
+  "level": "B1",
+  "explain": "by 2030 — โครงสร้าง: will have been + V-ing (เน้นความต่อเนื่องของการกระทำจนถึงจุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect Continuous",
+  "q": "I ___ meaning to call you when we finally meet.",
+  "answer": "will have been",
+  "choices": [
+   "will have been",
+   "will be",
+   "have been",
+   "am"
+  ],
+  "level": "B1",
+  "explain": "when + future — โครงสร้าง: will have been + V-ing (เน้นความต่อเนื่องของการกระทำจนถึงจุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect Continuous",
+  "q": "She ___ complaining for hours by the time he calls.",
+  "answer": "will have been",
+  "choices": [
+   "will have been",
+   "will be",
+   "has been",
+   "is"
+  ],
+  "level": "B1",
+  "explain": "for hours — โครงสร้าง: will have been + V-ing (เน้นความต่อเนื่องของการกระทำจนถึงจุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect Continuous",
+  "q": "We ___ studying tenses for weeks by the test.",
+  "answer": "will have been",
+  "choices": [
+   "will have been",
+   "will be",
+   "have been",
+   "are"
+  ],
+  "level": "B1",
+  "explain": "by the test — โครงสร้าง: will have been + V-ing (เน้นความต่อเนื่องของการกระทำจนถึงจุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect Continuous",
+  "q": "Not for a moment ___ he ___ having second thoughts.",
+  "answer": "will/have been",
+  "choices": [
+   "will/have been",
+   "did/be",
+   "have/been",
+   "was/being"
+  ],
+  "level": "B2-C1",
+  "explain": "Inversion Not for a moment — โครงสร้าง: will have been + V-ing (เน้นความต่อเนื่องของการกระทำจนถึงจุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect Continuous",
+  "q": "Only after years ___ scientists ___ this discovery.",
+  "answer": "will/have been making",
+  "choices": [
+   "will/have been making",
+   "did/make",
+   "have/been making",
+   "were/making"
+  ],
+  "level": "B2-C1",
+  "explain": "Only after + inversion — โครงสร้าง: will have been + V-ing (เน้นความต่อเนื่องของการกระทำจนถึงจุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect Continuous",
+  "q": "By the time we meet again, I ___ ___ the truth.",
+  "answer": "will have been hiding",
+  "choices": [
+   "will have been hiding",
+   "hide",
+   "will hide",
+   "have hidden"
+  ],
+  "level": "B2-C1",
+  "explain": "by the time — โครงสร้าง: will have been + V-ing (เน้นความต่อเนื่องของการกระทำจนถึงจุดหนึ่งในอนาคต)"
+ },
+ {
+  "tense": "Future Perfect Continuous",
+  "q": "Should the trend continue, we ___ ___ this pattern for decades.",
+  "answer": "will have been observing",
+  "choices": [
+   "will have been observing",
+   "observe",
+   "will observe",
+   "have observed"
+  ],
+  "level": "B2-C1",
+  "explain": "Should + inversion — โครงสร้าง: will have been + V-ing (เน้นความต่อเนื่องของการกระทำจนถึงจุดหนึ่งในอนาคต)"
+ }
+]

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>🎓 English Tenses Master</title>
+<link rel="stylesheet" href="styles.css">
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+<div class="container">
+<div class="screen active" id="screen-home">
+<h1>🎓 English Tenses Master</h1>
+<p class="subtitle"><span id="total-count"></span> ข้อสอบสำหรับฝึกฝน 12 Tenses แบบ Interactive</p>
+<div class="mode-cards">
+<div class="mode-card" data-mode="set"><div style="font-size:48px">📚</div><h3>โหมดชุด</h3><p>เลือกทำทีละชุด</p></div>
+<div class="mode-card" data-mode="random"><div style="font-size:48px">🎲</div><h3>โหมดสุ่ม</h3><p>สุ่มจากคลังรวม</p></div>
+<div class="mode-card" data-mode="history"><div style="font-size:48px">📈</div><h3>ประวัติการทำ</h3><p>สถิติ + พัฒนาการ</p></div>
+</div>
+</div>
+
+<div class="screen" id="screen-sets">
+<button class="back-btn">◀ กลับหน้าแรก</button>
+<h2>📚 เลือกชุดข้อสอบ</h2>
+<div class="set-cards" id="set-cards"></div>
+</div>
+
+<div class="screen" id="screen-random">
+<button class="back-btn">◀ กลับหน้าแรก</button>
+<h2>🎲 โหมดสุ่ม</h2>
+<div class="config-section"><h3>เลือกระดับความยาก</h3>
+<div><button class="difficulty-btn" data-lvl="A1-A2">🟢 A1-A2</button><button class="difficulty-btn" data-lvl="B1">🟡 B1</button><button class="difficulty-btn" data-lvl="B2-C1">🔴 B2-C1</button><button class="difficulty-btn" data-lvl="Mixed">🌈 Mixed</button></div>
+</div>
+<div class="config-section"><h3>เลือกจำนวนข้อ</h3>
+<div><button class="count-btn" data-count="20">20</button><button class="count-btn" data-count="40">40</button><button class="count-btn" data-count="60">60</button><button class="count-btn" data-count="100">100</button></div>
+</div>
+<p id="random-status" style="text-align:center;color:#666;margin:20px 0"></p>
+<div style="text-align:center"><button id="random-start" class="start-btn" disabled>▶ เริ่มทำข้อสอบ</button></div>
+</div>
+
+<div class="screen" id="screen-quiz">
+<div style="display:flex;justify-content:flex-end;margin-bottom:10px"><button class="nav-btn" id="exit-quiz-btn" style="background:#f44336">❌ ออกจากข้อสอบ</button></div>
+<div class="progress-bar"><div class="progress-fill" id="progress-fill"></div></div>
+<div class="quiz-title" id="quiz-title"></div>
+<p class="quiz-info" id="quiz-info"></p>
+<div id="question-nav" class="question-nav"></div>
+<div class="question-badge-wrap" style="text-align:center"><span class="question-badge" id="question-badge"></span></div>
+<div class="question-text" id="question-text"></div>
+<div class="choices" id="choices"></div>
+<div class="nav-buttons">
+<button class="nav-btn" id="prev-btn">◀ ก่อนหน้า</button>
+<button class="nav-btn" id="next-btn">ถัดไป ▶</button>
+<button class="nav-btn" id="submit-btn" style="background:#4caf50">✓ ส่งคำตอบ</button>
+</div>
+</div>
+
+<div class="screen" id="screen-results">
+<div class="score-circle" id="score-circle"><div class="score-inner"><div class="score-num" id="score-num">0%</div><div id="score-fraction" style="font-size:14px;color:#666"></div></div></div>
+<div style="text-align:center;font-size:36px" id="score-emoji"></div>
+<p style="text-align:center;font-weight:500" id="score-encouragement"></p>
+<p class="comparison" id="score-comparison"></p>
+<div class="tabs"><button class="tab-btn active" data-tab="summary">📊 ภาพรวม</button><button class="tab-btn" data-tab="detail">📝 รายละเอียด</button></div>
+<div class="tab-panel active" id="tab-summary">
+<div class="summary-metrics" id="summary-metrics"></div>
+<div class="summary-dashboard">
+  <div class="summary-card compact"><h3>✅ ถูก vs ผิด</h3><div class="chart-wrap"><canvas id="chart-doughnut"></canvas></div></div>
+  <div class="summary-card compact"><h3>🎚️ คะแนนตามระดับความยาก</h3><div class="chart-wrap"><canvas id="chart-level"></canvas></div></div>
+  <div class="summary-card wide tense-card"><h3>Score by Tense</h3><div class="chart-wrap"><canvas id="chart-tense"></canvas></div></div>
+</div>
+<div class="insight-grid">
+  <div class="insight-card"><h3>📌 สรุปตามระดับความยาก</h3><div id="level-progress-container"></div></div>
+  <div class="insight-card"><h3>💡 จุดที่ควรทบทวน</h3><ul class="weak-list" id="weak-list"></ul></div>
+</div>
+</div>
+<div class="tab-panel" id="tab-detail"></div>
+<div class="results-bottom-spacer"></div>
+<div class="nav-buttons floating-result-nav" id="results-floating-nav" style="justify-content:center;gap:15px">
+<button class="nav-btn" id="retry-btn">🔄 ทำใหม่</button>
+<button class="nav-btn" id="home-btn" style="background:#764ba2">🏠 กลับหน้าแรก</button>
+</div>
+</div>
+
+<div class="screen" id="screen-history">
+<button class="back-btn">◀ กลับหน้าแรก</button>
+<h2>📈 ประวัติการทำ</h2>
+<div class="stat-cards" id="history-stats"></div>
+<h3>กราฟคะแนน</h3><canvas id="chart-history"></canvas>
+<h3>รายการประวัติ</h3><div id="history-list"></div>
+<div style="text-align:center;margin-top:20px"><button class="nav-btn" id="delete-history-btn" style="background:#f44336">🗑️ ลบประวัติทั้งหมด</button></div>
+</div>
+
+</div>
+</div>
+<div class="modal-overlay" id="app-modal-overlay" aria-hidden="true">
+  <div class="app-modal" role="dialog" aria-modal="true" aria-labelledby="app-modal-title">
+    <div class="modal-head"><div class="modal-icon" id="app-modal-icon">⚠️</div><div class="modal-title" id="app-modal-title">ยืนยันการทำรายการ</div></div>
+    <div class="modal-body" id="app-modal-message"></div>
+    <div class="modal-actions"><button class="modal-btn cancel" id="app-modal-cancel">ยกเลิก</button><button class="modal-btn ok" id="app-modal-ok">ตกลง</button></div>
+  </div>
+</div>
+<script src="app.js"></script>
+</body>
+</html>
