@@ -17,8 +17,48 @@ const HK = "tenses_history_v4";
 
 // ============ TEXT-TO-SPEECH (auto-read question) ============
 const TTS_KEY = "tenses_tts_autoread";
+const TTS_VOICE_KEY = "tenses_tts_voice";
 const isAutoReadEnabled = () => localStorage.getItem(TTS_KEY) === "1";
 const setAutoReadEnabled = on => localStorage.setItem(TTS_KEY, on ? "1" : "0");
+
+let ttsVoices = [];
+let ttsChosenVoice = null;
+
+// Rank voices so natural/neural cloud voices (Google, Microsoft "Online/Natural", Apple)
+// are offered before the old robotic offline/default engines.
+function voiceQualityScore(v){
+  const n = v.name.toLowerCase();
+  let score = 0;
+  if(/online|natural|neural/.test(n)) score += 100;
+  if(/google/.test(n)) score += 60;
+  if(/microsoft/.test(n) && /aria|jenny|guy|ryan/.test(n)) score += 60;
+  if(/samantha|daniel|karen|moira|tessa|alex/.test(n)) score += 40; // decent Apple voices
+  if(/^en-us|^en-gb|^en_/.test(v.lang.toLowerCase()) || v.lang.toLowerCase().startsWith("en")) score += 20;
+  if(/compact|espeak|robot/.test(n)) score -= 50;
+  return score;
+}
+
+function loadTtsVoices(){
+  ttsVoices = (window.speechSynthesis?.getVoices() || []).filter(v => v.lang && v.lang.toLowerCase().startsWith("en"));
+  if(ttsVoices.length === 0) ttsVoices = window.speechSynthesis?.getVoices() || [];
+  ttsVoices.sort((a,b) => voiceQualityScore(b) - voiceQualityScore(a));
+
+  const select = document.getElementById("tts-voice-select");
+  if(select){
+    const savedURI = localStorage.getItem(TTS_VOICE_KEY);
+    select.innerHTML = ttsVoices.map(v => `<option value="${esc(v.voiceURI)}">${esc(v.name)} (${esc(v.lang)})</option>`).join("");
+    const match = ttsVoices.find(v => v.voiceURI === savedURI);
+    ttsChosenVoice = match || ttsVoices[0] || null;
+    if(ttsChosenVoice) select.value = ttsChosenVoice.voiceURI;
+    select.style.display = ttsVoices.length > 1 ? "" : "none";
+  } else {
+    ttsChosenVoice = ttsVoices[0] || null;
+  }
+}
+if("speechSynthesis" in window){
+  loadTtsVoices();
+  window.speechSynthesis.onvoiceschanged = loadTtsVoices;
+}
 
 function speakText(text){
   if(!("speechSynthesis" in window)) return;
@@ -27,13 +67,22 @@ function speakText(text){
   // speech engine pauses there instead of skipping over them silently.
   const spoken = String(text).replace(/_+/g, " , , , ");
   const utter = new SpeechSynthesisUtterance(spoken);
-  utter.lang = "en-EN";
-  utter.rate = 0.9;
+  if(ttsChosenVoice){
+    utter.voice = ttsChosenVoice;
+    utter.lang = ttsChosenVoice.lang;
+  } else {
+    utter.lang = "en-US";
+  }
+  // rate close to natural speaking pace + a touch of pitch variation reads
+  // less flat/robotic than the previous fixed 0.9 rate with default pitch.
+  utter.rate = 0.95;
+  utter.pitch = 1.02;
   window.speechSynthesis.speak(utter);
 }
 
 // ============ UTILS ============
 const esc = s => String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const formatQuestionBlank = s => esc(s).replace(/_+/g, m => `<span class="blank-underscore">${m}</span>`);
 const shuffle = shuffleArr;
 const showScreen = id => {if("speechSynthesis" in window) window.speechSynthesis.cancel();document.querySelectorAll(".screen").forEach(s=>s.classList.remove("active"));document.getElementById(id).classList.add("active");};
 const levelClass = l => ({"A1-A2":"level-a12","B1":"level-b1","B2-C1":"level-b2c1"}[l]||"level-a12");
@@ -80,6 +129,7 @@ document.querySelectorAll(".mode-card").forEach(c => c.onclick = () => {
   const m = c.dataset.mode;
   if(m==="set"){initSets();showScreen("screen-sets");}
   else if(m==="random"){resetRandom();showScreen("screen-random");}
+  else if(m==="learn"){renderLearn();showScreen("screen-learn");}
   else {renderHistory();showScreen("screen-history");}
 });
 // document.querySelectorAll(".back-btn").forEach(b => b.onclick = () => showScreen("screen-home"));
@@ -169,13 +219,14 @@ function renderQuestion(){
   const titleEl = document.getElementById("quiz-title");
   if(titleEl){
     if(cq.mode === "set") titleEl.innerHTML = `<span class="pill">📖 Set ${esc(cq.params.setIndex)}</span>`;
+    else if(cq.mode === "tense") titleEl.innerHTML = `<span class="pill">🎯 ${esc(cq.params.tense)} • ${total} ข้อ</span>`;
     else titleEl.innerHTML = `<span class="pill">🎲 Random ${esc(cq.params.level || "Mixed")} • ${total} ข้อ</span>`;
   }
 
   document.getElementById("progress-fill").style.width = pct + "%";
   document.getElementById("quiz-info").textContent = `ข้อ ${cq.current + 1}/${total} • ตอบแล้ว ${answered}/${total}`;
   document.getElementById("question-badge").textContent = `${it.tense} • ${it.level}`;
-  document.getElementById("question-text").textContent = it.q;
+  document.getElementById("question-text").innerHTML = formatQuestionBlank(it.q);
 
   // Auto-read: only speak when we've actually moved to a different question,
   // not on every re-render (e.g. when just selecting a choice).
@@ -619,7 +670,7 @@ function renderHistory() {
             <div class="history-item${hasDetail ? " clickable" : ""}" data-idx="${originalIdx}">
                 <div>
                     <strong>${new Date(item.date).toLocaleString()}</strong><br>
-                    ${item.mode === "set" ? "โหมดชุด" : "โหมดสุ่ม"} • ถูก ${item.correct}/${item.total} • ผิด ${wrong} ข้อ
+                    ${item.mode === "set" ? "โหมดชุด" : item.mode === "tense" ? `เรียนรู้ • ${esc(item.params?.tense||"")}` : "โหมดสุ่ม"} • ถูก ${item.correct}/${item.total} • ผิด ${wrong} ข้อ
                 </div>
 
                 <div style="display:flex;align-items:center;gap:10px">
@@ -673,6 +724,190 @@ document.getElementById("delete-history-btn").onclick = async () => {
   }
 };
 
+// ============ LEARN MODE (เรียนรู้ Tense) ============
+const TENSE_INFO = {
+  "Present Simple": {group:"present", struct:"S + V1 (เอกพจน์เติม s/es)",
+    trick:"เรื่องปกติ ความจริงทั่วไป กิจวัตร สังเกต always, usually, every day"},
+  "Present Continuous": {group:"present", struct:"S + am/is/are + V-ing",
+    trick:"กำลังทำอยู่ตอนนี้ หรือแผนที่นัดไว้แล้ว สังเกต now, Look!, Listen!"},
+  "Present Perfect": {group:"present", struct:"S + have/has + V3",
+    trick:"เชื่อมอดีตกับปัจจุบัน เน้นผลลัพธ์ สังเกต already, just, yet, ever, since, for"},
+  "Present Perfect Continuous": {group:"present", struct:"S + have/has been + V-ing",
+    trick:"เน้นความต่อเนื่องจากอดีตถึงปัจจุบัน มักมี for/since กำกับ"},
+  "Past Simple": {group:"past", struct:"S + V2",
+    trick:"เหตุการณ์จบแล้วในอดีต มีเวลาชัดเจน เช่น yesterday, last week, ago"},
+  "Past Continuous": {group:"past", struct:"S + was/were + V-ing",
+    trick:"กำลังทำอยู่ ณ จุดหนึ่งในอดีต มักถูกอีกเหตุการณ์ขัดจังหวะ สังเกต when/while"},
+  "Past Perfect": {group:"past", struct:"S + had + V3",
+    trick:"เกิดและจบก่อนอีกเหตุการณ์ในอดีต (อดีตซ้อนอดีต) สังเกต before, after, by the time"},
+  "Past Perfect Continuous": {group:"past", struct:"S + had been + V-ing",
+    trick:"เน้นความต่อเนื่องก่อนอีกจุดหนึ่งในอดีต มักมี for + when/before"},
+  "Future Simple": {group:"future", struct:"S + will + V1",
+    trick:"คาดการณ์ ตัดสินใจฉับพลัน หรือสัญญา — ถ้าเป็นแผนไว้แล้วมักใช้ be going to แทน"},
+  "Future Continuous": {group:"future", struct:"S + will be + V-ing",
+    trick:"กำลังเกิดขึ้น ณ จุดหนึ่งในอนาคต สังเกต this time tomorrow, at 8 p.m. tomorrow"},
+  "Future Perfect": {group:"future", struct:"S + will have + V3",
+    trick:"จะเสร็จสมบูรณ์เมื่อถึงเวลาหนึ่งในอนาคต มักมี by + เวลาอนาคต"},
+  "Future Perfect Continuous": {group:"future", struct:"S + will have been + V-ing",
+    trick:"เน้นความต่อเนื่องนานเท่าไหร่เมื่อถึงจุดหนึ่งในอนาคต มักมีทั้ง by... และ for..."}
+};
+const TENSE_ORDER = ["Present Simple","Present Continuous","Present Perfect","Present Perfect Continuous",
+  "Past Simple","Past Continuous","Past Perfect","Past Perfect Continuous",
+  "Future Simple","Future Continuous","Future Perfect","Future Perfect Continuous"];
+
+function levelsForTense(tense){
+  const set = new Set(QUESTIONS.filter(q=>q.tense===tense).map(q=>q.level));
+  return ["A1-A2","B1","B2-C1"].filter(l=>set.has(l));
+}
+function examplesForTense(tense, n){
+  const pool = QUESTIONS.filter(q=>q.tense===tense);
+  return shuffle(pool.map((_,i)=>i)).slice(0,n).map(i=>pool[i]);
+}
+function tenseToThai(sentence, answer){
+  // ใช้ประโยคจริงพร้อมเติมคำตอบลงในช่องว่างเพื่อโชว์เป็นตัวอย่างที่สมบูรณ์
+  return String(sentence).replace(/_+/g, `<span class="highlight">${esc(answer)}</span>`);
+}
+
+function renderLearnGroup(containerId, group){
+  const el = document.getElementById(containerId);
+  if(!el) return;
+  const tenses = TENSE_ORDER.filter(t => TENSE_INFO[t].group === group);
+  el.innerHTML = `<div class="learn-card-grid">${tenses.map((t,idx)=>{
+    const info = TENSE_INFO[t];
+    const lvls = levelsForTense(t);
+    const exs = examplesForTense(t, 2);
+    const badges = lvls.map(l=>`<span class="badge-level ${levelClass(l)}">${esc(l)}</span>`).join("");
+    const exHtml = exs.map(q => `<div class="learn-example"><div class="ex-en">${tenseToThai(q.q, q.answer)}</div><div class="ex-th">${esc(q.explain.split(" — ")[0])}</div></div>`).join("");
+    return `<div class="learn-card" data-tense="${esc(t)}">
+      <div class="learn-card-header"><span>${idx+1}. ${esc(t)}</span><span class="learn-level-badges">${badges}</span></div>
+      <div class="learn-struct">${esc(info.struct)}</div>
+      ${exHtml || "<p style='color:#94a3b8;font-size:13px'>ไม่มีตัวอย่างในคลัง</p>"}
+      <div class="learn-trick"><strong>🔎 จุดสังเกต & วิธีใช้</strong>${esc(info.trick)}</div>
+      <div class="learn-card-actions">
+        <button class="learn-action-btn learn-view-btn" data-tense="${esc(t)}" type="button">📖 ดูตัวอย่างเพิ่มเติม</button>
+        <button class="learn-action-btn learn-try-btn" data-tense="${esc(t)}" type="button">🎯 ลองทำข้อสอบ</button>
+      </div>
+    </div>`;
+  }).join("")}</div>`;
+}
+
+function renderLearnSummaryTable(){
+  const body = document.getElementById("learn-summary-body");
+  if(!body) return;
+  const rows = [
+    {label:"Present", key:"present"},
+    {label:"Past", key:"past"},
+    {label:"Future", key:"future"}
+  ];
+  const cols = ["Simple","Continuous","Perfect","Perfect Continuous"];
+  body.innerHTML = rows.map(r=>{
+    const tds = cols.map(c=>{
+      const tenseName = `${r.label} ${c}`;
+      const info = TENSE_INFO[tenseName];
+      return `<td><span class="t-struct">${esc(info.struct)}</span><span class="t-desc">${esc(info.trick.split("สังเกต")[0].trim())}</span></td>`;
+    }).join("");
+    return `<tr><th>${r.label}</th>${tds}</tr>`;
+  }).join("");
+}
+
+function renderLearn(){
+  renderLearnGroup("learn-present", "present");
+  renderLearnGroup("learn-past", "past");
+  renderLearnGroup("learn-future", "future");
+  renderLearnSummaryTable();
+}
+
+function startTenseQuiz(tenseName){
+  const pool = QUESTIONS.map((q,i)=> q.tense===tenseName ? i : -1).filter(i=>i>=0);
+  if(pool.length === 0) return;
+  const count = Math.min(10, pool.length);
+  const pick = shuffle(pool).slice(0, count);
+  startQuiz("tense", {tense:tenseName}, pick);
+}
+
+document.querySelectorAll(".learn-tab-btn").forEach(b => b.onclick = () => {
+  document.querySelectorAll(".learn-tab-btn").forEach(x=>x.classList.remove("active"));
+  document.querySelectorAll(".learn-group").forEach(x=>x.classList.remove("active"));
+  b.classList.add("active");
+  document.getElementById("learn-" + b.dataset.group).classList.add("active");
+});
+
+// Event delegation for the "ดูตัวอย่าง" / "ลองทำข้อสอบ" buttons inside the freshly-rendered learn cards
+document.getElementById("screen-learn").addEventListener("click", (e) => {
+  const tryBtn = e.target.closest(".learn-try-btn");
+  if(tryBtn){ startTenseQuiz(tryBtn.dataset.tense); return; }
+  const viewBtn = e.target.closest(".learn-view-btn");
+  if(viewBtn){ openTenseModal(viewBtn.dataset.tense); return; }
+});
+
+// ============ TENSE DETAIL MODAL (ดูตัวอย่างแยกตามระดับ) ============
+const MODAL_LEVELS = ["A1-A2", "B1", "B2-C1"];
+let tenseModalState = {tense: null, level: null};
+
+function openTenseModal(tense){
+  if(!tense) return;
+  const overlay = document.getElementById("tense-modal-overlay");
+  const title = document.getElementById("tense-modal-title");
+  const levelsBar = document.getElementById("tense-modal-levels");
+  if(!overlay || !title || !levelsBar) return;
+
+  title.textContent = `📘 ${tense}`;
+  const available = levelsForTense(tense);
+  const startLevel = available[0] || MODAL_LEVELS[0];
+  tenseModalState = {tense, level: startLevel};
+
+  levelsBar.innerHTML = MODAL_LEVELS.map(l => {
+    const enabled = available.includes(l);
+    return `<button class="tense-lvl-btn ${lvlBar(l)} ${l===startLevel?"active":""}" data-lvl="${l}" ${enabled?"":"disabled"}>${l}</button>`;
+  }).join("");
+
+  levelsBar.querySelectorAll(".tense-lvl-btn").forEach(btn => {
+    btn.onclick = () => {
+      if(btn.disabled) return;
+      levelsBar.querySelectorAll(".tense-lvl-btn").forEach(b=>b.classList.remove("active"));
+      btn.classList.add("active");
+      tenseModalState.level = btn.dataset.lvl;
+      renderTenseModalBody();
+    };
+  });
+
+  renderTenseModalBody();
+  overlay.classList.add("active");
+  overlay.setAttribute("aria-hidden", "false");
+}
+
+function renderTenseModalBody(){
+  const body = document.getElementById("tense-modal-body");
+  if(!body) return;
+  const {tense, level} = tenseModalState;
+  const pool = QUESTIONS.filter(q => q.tense === tense && q.level === level);
+  if(pool.length === 0){
+    body.innerHTML = `<p class="tense-modal-empty">ยังไม่มีตัวอย่างในระดับ ${esc(level)} สำหรับ Tense นี้ครับ</p>`;
+    return;
+  }
+  const items = shuffle(pool.map((_, i) => i)).slice(0, 10).map(i => pool[i]);
+  body.innerHTML = `<div class="tense-example-grid">${items.map(q => `
+    <div class="tense-ex-card ${lvlBar(level)}">
+      <div class="tense-ex-en">${tenseToThai(q.q, q.answer)}</div>
+      <div class="tense-ex-explain">💡 ${esc(q.explain)}</div>
+    </div>`).join("")}</div>`;
+}
+
+function closeTenseModal(){
+  const overlay = document.getElementById("tense-modal-overlay");
+  if(!overlay) return;
+  overlay.classList.remove("active");
+  overlay.setAttribute("aria-hidden", "true");
+}
+
+document.getElementById("tense-modal-close")?.addEventListener("click", closeTenseModal);
+document.getElementById("tense-modal-overlay")?.addEventListener("click", (e) => {
+  if(e.target.id === "tense-modal-overlay") closeTenseModal();
+});
+document.addEventListener("keydown", (e) => {
+  if(e.key === "Escape") closeTenseModal();
+});
+
 // ============ INIT (load question bank, then boot the app) ============
 let historyChart = null;
 
@@ -692,6 +927,18 @@ async function initApp(){
   if(ttsToggle){
     ttsToggle.checked = isAutoReadEnabled();
     ttsToggle.onchange = () => setAutoReadEnabled(ttsToggle.checked);
+  }
+  const ttsVoiceSelect = document.getElementById("tts-voice-select");
+  if(ttsVoiceSelect){
+    loadTtsVoices(); // voices may already be ready by the time we get here
+    ttsVoiceSelect.onchange = () => {
+      const picked = ttsVoices.find(v => v.voiceURI === ttsVoiceSelect.value);
+      if(picked){
+        ttsChosenVoice = picked;
+        localStorage.setItem(TTS_VOICE_KEY, picked.voiceURI);
+        speakText("This is what I sound like now.");
+      }
+    };
   }
   const ttsReplayBtn = document.getElementById("tts-replay-btn");
   if(ttsReplayBtn){

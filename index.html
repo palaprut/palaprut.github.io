@@ -4,6 +4,9 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>🎓 English Tenses Master</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Prompt:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="styles.css">
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
@@ -12,6 +15,9 @@
 <div class="screen active" id="screen-home">
 <h1>🎓 English Tenses Master</h1>
 <p class="subtitle"><span id="total-count"></span> ข้อสอบสำหรับฝึกฝน 12 Tenses แบบ Interactive</p>
+<div class="mode-cards-learn">
+<div class="mode-card mode-card-learn" data-mode="learn"><div style="font-size:56px">📘</div><h3>เรียนรู้ Tense</h3><p>สรุป 12 Tense + ตัวอย่าง พร้อมดูรายละเอียดแยกตามระดับ</p></div>
+</div>
 <div class="mode-cards">
 <div class="mode-card" data-mode="set"><div style="font-size:48px">📚</div><h3>โหมดชุด</h3><p>เลือกทำทีละชุด</p></div>
 <div class="mode-card" data-mode="random"><div style="font-size:48px">🎲</div><h3>โหมดสุ่ม</h3><p>สุ่มจากคลังรวม</p></div>
@@ -44,6 +50,7 @@
   <span class="tts-toggle-label">🔊 อ่านอัตโนมัติ</span>
   <span class="tts-toggle"><input type="checkbox" id="tts-toggle"><span class="tts-toggle-slider"></span></span>
 </label>
+<select id="tts-voice-select" class="tts-voice-select" title="เลือกเสียงอ่าน"></select>
 <button class="nav-btn" id="exit-quiz-btn" style="background:#f44336">❌ ออกจากข้อสอบ</button>
 </div>
 <div class="progress-bar"><div class="progress-fill" id="progress-fill"></div></div>
@@ -60,6 +67,36 @@
 <button class="nav-btn" id="prev-btn">◀ ก่อนหน้า</button>
 <button class="nav-btn" id="next-btn">ถัดไป ▶</button>
 <button class="nav-btn" id="submit-btn" style="background:#4caf50">✓ ส่งคำตอบ</button>
+</div>
+</div>
+
+<div class="screen" id="screen-learn">
+<button class="back-btn">◀ กลับหน้าแรก</button>
+<h2>📘 เรียนรู้ 12 Tenses</h2>
+<p class="subtitle" style="margin:0 0 20px">สรุปโครงสร้าง + ตัวอย่างจริงจากคลังข้อสอบ + จุดสังเกต</p>
+
+<div class="learn-tabs">
+<button class="learn-tab-btn active" data-group="present">🟢 Present (ปัจจุบัน)</button>
+<button class="learn-tab-btn" data-group="past">🟠 Past (อดีต)</button>
+<button class="learn-tab-btn" data-group="future">🔵 Future (อนาคต)</button>
+</div>
+
+<div class="learn-group active" id="learn-present"></div>
+<div class="learn-group" id="learn-past"></div>
+<div class="learn-group" id="learn-future"></div>
+
+<h3 style="margin-top:35px">📋 ตารางสรุปรวม</h3>
+<div class="learn-table-wrap">
+<table class="learn-table">
+<thead><tr>
+<th></th>
+<th>Simple<br><span>(เรียบง่าย ทั่วไป)</span></th>
+<th>Continuous<br><span>(กำลังทำ)</span></th>
+<th>Perfect<br><span>(ทำเสร็จแล้ว/เคย)</span></th>
+<th>Perfect Cont.<br><span>(ต่อเนื่องมาเรื่อยๆ)</span></th>
+</tr></thead>
+<tbody id="learn-summary-body"></tbody>
+</table>
 </div>
 </div>
 
@@ -105,6 +142,17 @@
     <div class="modal-head"><div class="modal-icon" id="app-modal-icon">⚠️</div><div class="modal-title" id="app-modal-title">ยืนยันการทำรายการ</div></div>
     <div class="modal-body" id="app-modal-message"></div>
     <div class="modal-actions"><button class="modal-btn cancel" id="app-modal-cancel">ยกเลิก</button><button class="modal-btn ok" id="app-modal-ok">ตกลง</button></div>
+  </div>
+</div>
+
+<div class="modal-overlay" id="tense-modal-overlay" aria-hidden="true">
+  <div class="tense-modal" role="dialog" aria-modal="true" aria-labelledby="tense-modal-title">
+    <div class="tense-modal-header">
+      <div class="tense-modal-title" id="tense-modal-title"></div>
+      <button class="tense-modal-close" id="tense-modal-close" type="button" aria-label="ปิด">✕</button>
+    </div>
+    <div class="tense-modal-levels" id="tense-modal-levels"></div>
+    <div class="tense-modal-body" id="tense-modal-body"></div>
   </div>
 </div>
 <script src="app.js"></script>
