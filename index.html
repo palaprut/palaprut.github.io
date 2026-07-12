@@ -39,13 +39,22 @@
 </div>
 
 <div class="screen" id="screen-quiz">
-<div style="display:flex;justify-content:flex-end;margin-bottom:10px"><button class="nav-btn" id="exit-quiz-btn" style="background:#f44336">❌ ออกจากข้อสอบ</button></div>
+<div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:10px;gap:10px;flex-wrap:wrap">
+<label class="tts-toggle-wrap" for="tts-toggle">
+  <span class="tts-toggle-label">🔊 อ่านอัตโนมัติ</span>
+  <span class="tts-toggle"><input type="checkbox" id="tts-toggle"><span class="tts-toggle-slider"></span></span>
+</label>
+<button class="nav-btn" id="exit-quiz-btn" style="background:#f44336">❌ ออกจากข้อสอบ</button>
+</div>
 <div class="progress-bar"><div class="progress-fill" id="progress-fill"></div></div>
 <div class="quiz-title" id="quiz-title"></div>
 <p class="quiz-info" id="quiz-info"></p>
 <div id="question-nav" class="question-nav"></div>
 <div class="question-badge-wrap" style="text-align:center"><span class="question-badge" id="question-badge"></span></div>
+<div class="question-text-wrap" style="display:flex;align-items:center;gap:10px;justify-content:center">
 <div class="question-text" id="question-text"></div>
+<button class="tts-replay-btn" id="tts-replay-btn" type="button" title="ฟังซ้ำ">🔊 ฟังซ้ำ</button>
+</div>
 <div class="choices" id="choices"></div>
 <div class="nav-buttons">
 <button class="nav-btn" id="prev-btn">◀ ก่อนหน้า</button>

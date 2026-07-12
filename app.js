@@ -15,10 +15,27 @@ function shuffleArr(a){const r=[...a];for(let i=r.length-1;i>0;i--){const j=Math
 const state = {currentQuiz: null, chartInstances: {}};
 const HK = "tenses_history_v4";
 
+// ============ TEXT-TO-SPEECH (auto-read question) ============
+const TTS_KEY = "tenses_tts_autoread";
+const isAutoReadEnabled = () => localStorage.getItem(TTS_KEY) === "1";
+const setAutoReadEnabled = on => localStorage.setItem(TTS_KEY, on ? "1" : "0");
+
+function speakText(text){
+  if(!("speechSynthesis" in window)) return;
+  window.speechSynthesis.cancel(); // stop anything currently being read
+  // Replace underscores (blank spaces in the question) with spaced commas so the
+  // speech engine pauses there instead of skipping over them silently.
+  const spoken = String(text).replace(/_+/g, " , , , ");
+  const utter = new SpeechSynthesisUtterance(spoken);
+  utter.lang = "en-EN";
+  utter.rate = 0.9;
+  window.speechSynthesis.speak(utter);
+}
+
 // ============ UTILS ============
 const esc = s => String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const shuffle = shuffleArr;
-const showScreen = id => {document.querySelectorAll(".screen").forEach(s=>s.classList.remove("active"));document.getElementById(id).classList.add("active");};
+const showScreen = id => {if("speechSynthesis" in window) window.speechSynthesis.cancel();document.querySelectorAll(".screen").forEach(s=>s.classList.remove("active"));document.getElementById(id).classList.add("active");};
 const levelClass = l => ({"A1-A2":"level-a12","B1":"level-b1","B2-C1":"level-b2c1"}[l]||"level-a12");
 const lvlBar = l => ({"A1-A2":"lvl-a12","B1":"lvl-b1","B2-C1":"lvl-b2c1"}[l]||"lvl-a12");
 const getHist = () => {try{return JSON.parse(localStorage.getItem(HK))||[]}catch{return []}};
@@ -159,6 +176,13 @@ function renderQuestion(){
   document.getElementById("quiz-info").textContent = `ข้อ ${cq.current + 1}/${total} • ตอบแล้ว ${answered}/${total}`;
   document.getElementById("question-badge").textContent = `${it.tense} • ${it.level}`;
   document.getElementById("question-text").textContent = it.q;
+
+  // Auto-read: only speak when we've actually moved to a different question,
+  // not on every re-render (e.g. when just selecting a choice).
+  if(cq._lastSpokenIndex !== cq.current){
+    cq._lastSpokenIndex = cq.current;
+    if(isAutoReadEnabled()) speakText(it.q);
+  }
 
   const choices = document.getElementById("choices");
   choices.innerHTML = "";
@@ -598,15 +622,18 @@ function renderHistory() {
                     ${item.mode === "set" ? "โหมดชุด" : "โหมดสุ่ม"} • ถูก ${item.correct}/${item.total} • ผิด ${wrong} ข้อ
                 </div>
 
-                <span class="score-badge ${
-                    item.percentage >= 80
-                        ? "high"
-                        : item.percentage >= 60
-                        ? "mid"
-                        : "low"
-                }">
-                    ${item.percentage}%
-                </span>
+                <div style="display:flex;align-items:center;gap:10px">
+                    <span class="score-badge ${
+                        item.percentage >= 80
+                            ? "high"
+                            : item.percentage >= 60
+                            ? "mid"
+                            : "low"
+                    }">
+                        ${item.percentage}%
+                    </span>
+                    <button class="history-delete-btn" data-idx="${originalIdx}" title="ลบรายการนี้" type="button">🗑️</button>
+                </div>
             </div>
         `;
     });
@@ -615,7 +642,28 @@ function renderHistory() {
       el.onclick = () => viewHistoryResult(parseInt(el.dataset.idx, 10));
     });
 
+    list.querySelectorAll(".history-delete-btn").forEach(btn => {
+      btn.onclick = (e) => {
+        e.stopPropagation(); // don't also trigger the parent's "open detail" click
+        deleteHistoryItem(parseInt(btn.dataset.idx, 10));
+      };
+    });
+
     createHistoryChart(h);
+}
+
+async function deleteHistoryItem(idx){
+  const h = getHist();
+  const item = h[idx];
+  if(!item) return;
+  const ok = await customConfirm(
+    `ต้องการลบประวัติวันที่ ${new Date(item.date).toLocaleString()} (${item.correct}/${item.total}, ${item.percentage}%) ใช่หรือไม่?\nข้อมูลจะไม่สามารถกู้คืนได้`,
+    {title:"ลบรายการนี้", icon:"🗑️", okText:"ลบรายการนี้", cancelText:"ยกเลิก"}
+  );
+  if(!ok) return;
+  h.splice(idx, 1);
+  localStorage.setItem(HK, JSON.stringify(h));
+  renderHistory();
 }
 document.getElementById("delete-history-btn").onclick = async () => {
   const ok = await customConfirm("ต้องการลบประวัติทั้งหมดใช่หรือไม่?\nข้อมูลจะไม่สามารถกู้คืนได้", {title:"ลบประวัติทั้งหมด", icon:"🗑️", okText:"ลบทั้งหมด", cancelText:"ยกเลิก"});
@@ -638,6 +686,21 @@ async function initApp(){
   }
   buildSets();
   document.getElementById("total-count").textContent = QUESTIONS.length + "+";
+
+  // TTS controls
+  const ttsToggle = document.getElementById("tts-toggle");
+  if(ttsToggle){
+    ttsToggle.checked = isAutoReadEnabled();
+    ttsToggle.onchange = () => setAutoReadEnabled(ttsToggle.checked);
+  }
+  const ttsReplayBtn = document.getElementById("tts-replay-btn");
+  if(ttsReplayBtn){
+    ttsReplayBtn.onclick = () => {
+      const cq = state.currentQuiz;
+      if(cq && cq.items && cq.items[cq.current]) speakText(cq.items[cq.current].q);
+    };
+  }
+
   showScreen("screen-home");
 }
 
