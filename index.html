@@ -12,17 +12,66 @@
 </head>
 <body>
 <div class="container">
+<button id="settings-toggle-btn" type="button" title="เปิดการตั้งค่า" aria-label="เปิดการตั้งค่า">
+  <span class="settings-toggle-icon">⚙️</span>
+</button>
+<div class="settings-overlay" id="settings-overlay" aria-hidden="true">
+  <div class="settings-panel" role="dialog" aria-modal="true" aria-labelledby="settings-title">
+    <div class="settings-header">
+      <h3 id="settings-title">ตั้งค่า</h3>
+      <button id="settings-close-btn" class="settings-close-btn" type="button" aria-label="ปิดการตั้งค่า">✕</button>
+    </div>
+    <div class="settings-body">
+      <label class="settings-row" for="settings-tts-toggle">
+        <span class="settings-label">🔊 อ่านอัตโนมัติ</span>
+        <span class="tts-toggle"><input type="checkbox" id="settings-tts-toggle"><span class="tts-toggle-slider"></span></span>
+      </label>
+      <label class="settings-row" for="settings-tts-voice-select">
+        <span class="settings-label">🗣️ เลือกเสียงอ่าน</span>
+        <select id="settings-tts-voice-select" class="tts-voice-select settings-voice-select" title="เลือกเสียงอ่าน"></select>
+      </label>
+      <div class="settings-row settings-theme-row">
+        <span class="settings-label">🌙/☀️ ธีม</span>
+        <button id="settings-theme-btn" class="settings-theme-btn" type="button">สลับธีม</button>
+      </div>
+    </div>
+  </div>
+</div>
 <div class="screen active" id="screen-home">
-<h1>🎓 English Tenses Master</h1>
-<p class="subtitle"><span id="total-count"></span> ข้อสอบสำหรับฝึกฝน 12 Tenses แบบ Interactive</p>
-<div class="mode-cards-learn">
-<div class="mode-card mode-card-learn" data-mode="learn"><div style="font-size:56px">📘</div><h3>เรียนรู้ Tense</h3><p>สรุป 12 Tense + ตัวอย่าง พร้อมดูรายละเอียดแยกตามระดับ</p></div>
-</div>
-<div class="mode-cards">
-<div class="mode-card" data-mode="set"><div style="font-size:48px">📚</div><h3>โหมดชุด</h3><p>เลือกทำทีละชุด</p></div>
-<div class="mode-card" data-mode="random"><div style="font-size:48px">🎲</div><h3>โหมดสุ่ม</h3><p>สุ่มจากคลังรวม</p></div>
-<div class="mode-card" data-mode="history"><div style="font-size:48px">📈</div><h3>ประวัติการทำ</h3><p>สถิติ + พัฒนาการ</p></div>
-</div>
+<h1>🎓 English Study Hub</h1>
+<p class="subtitle">ฝึกฝน 12 Tenses และคำศัพท์ Oxford 5000 แบบ Interactive ในที่เดียว</p>
+
+<section class="home-section">
+  <div class="home-section-head home-section-head-vocab">
+    <span class="home-section-icon">📔</span>
+    <div>
+      <h2>คลังคำศัพท์</h2>
+      <p>Oxford 5000 • ปฏิทินท่องศัพท์ + Flashcard + แบบทดสอบท้ายสัปดาห์</p>
+    </div>
+  </div>
+  <div class="mode-cards">
+    <div class="mode-card mode-card-vocab" data-mode="vocab"><div style="font-size:48px">🗓️</div><h3>ปฏิทินท่องศัพท์</h3><p>ท่อง Flashcard รายวัน + สอบท้ายสัปดาห์</p></div>
+    <div class="mode-card mode-card-vocab" data-mode="vocab-stats"><div style="font-size:48px">📊</div><h3>สรุปภาพรวม</h3><p>ดูสถิติคำที่จำได้ + คะแนนแยกตามระดับ</p></div>
+  </div>
+</section>
+
+<section class="home-section">
+  <div class="home-section-head home-section-head-tenses">
+    <span class="home-section-icon">🎓</span>
+    <div>
+      <h2>English Tenses</h2>
+      <p><span id="total-count"></span> ข้อสอบสำหรับฝึกฝน 12 Tenses</p>
+    </div>
+  </div>
+  <div class="mode-cards-learn">
+    <div class="mode-card mode-card-learn" data-mode="learn"><div style="font-size:56px">📘</div><h3>เรียนรู้ Tense</h3><p>สรุป 12 Tense + ตัวอย่าง พร้อมดูรายละเอียดแยกตามระดับ</p></div>
+  </div>
+  <div class="mode-cards">
+    <div class="mode-card" data-mode="set"><div style="font-size:48px">📚</div><h3>โหมดชุด</h3><p>เลือกทำทีละชุด</p></div>
+    <div class="mode-card" data-mode="random"><div style="font-size:48px">🎲</div><h3>โหมดสุ่ม</h3><p>สุ่มจากคลังรวม</p></div>
+    <div class="mode-card" data-mode="history"><div style="font-size:48px">📈</div><h3>ประวัติการทำ</h3><p>สถิติ + พัฒนาการ</p></div>
+  </div>
+</section>
 </div>
 
 <div class="screen" id="screen-sets">
@@ -46,17 +95,15 @@
 
 <div class="screen" id="screen-quiz">
 <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:10px;gap:10px;flex-wrap:wrap">
-<label class="tts-toggle-wrap" for="tts-toggle">
-  <span class="tts-toggle-label">🔊 อ่านอัตโนมัติ</span>
-  <span class="tts-toggle"><input type="checkbox" id="tts-toggle"><span class="tts-toggle-slider"></span></span>
-</label>
-<select id="tts-voice-select" class="tts-voice-select" title="เลือกเสียงอ่าน"></select>
 <button class="nav-btn" id="exit-quiz-btn" style="background:#f44336">❌ ออกจากข้อสอบ</button>
 </div>
 <div class="progress-bar"><div class="progress-fill" id="progress-fill"></div></div>
 <div class="quiz-title" id="quiz-title"></div>
 <p class="quiz-info" id="quiz-info"></p>
+<details class="qnav-details" id="question-nav-details">
+<summary class="qnav-summary"><span>📋 แถบเลือกข้อ</span><span class="qnav-summary-count" id="question-nav-count"></span></summary>
 <div id="question-nav" class="question-nav"></div>
+</details>
 <div class="question-badge-wrap" style="text-align:center"><span class="question-badge" id="question-badge"></span></div>
 <div class="question-text-wrap" style="display:flex;align-items:center;gap:10px;justify-content:center">
 <div class="question-text" id="question-text"></div>
@@ -99,6 +146,169 @@
 </table>
 </div>
 </div>
+
+<div class="screen" id="screen-vocab">
+<button class="back-btn">◀ กลับหน้าแรก</button>
+<h2>📔 คลังคำศัพท์ Oxford 5000</h2>
+
+<!-- ===== VOCAB: SELECT (ปฏิทิน) ===== -->
+<div class="vocab-subscreen active" id="vocab-select">
+  <div class="vocab-cal-nav">
+    <button class="vocab-cal-nav-btn" id="vocabPrevMonth" type="button">◀</button>
+    <span class="vocab-cal-month-label" id="vocabMonthLabel"></span>
+    <button class="vocab-cal-nav-btn" id="vocabNextMonth" type="button">▶</button>
+  </div>
+  <div class="vocab-cal-grid">
+    <div class="vocab-cal-weekdays">
+      <span>Su</span><span>Mo</span><span>Tu</span><span>We</span><span>Th</span><span>Fr</span><span>Sa</span>
+    </div>
+    <div class="vocab-cal-days" id="vocabCalDays"></div>
+  </div>
+  <div class="vocab-cal-legend">
+    <span><span class="vocab-swatch plan"></span>วันท่องคำศัพท์</span>
+    <span><span class="vocab-swatch done"></span>ท่องครบแล้ว</span>
+    <span><span class="vocab-swatch quiz"></span>วันสอบท้ายสัปดาห์</span>
+    <span><span class="vocab-swatch quizdone"></span>สอบแล้ว</span>
+  </div>
+</div>
+
+<!-- ===== VOCAB: DECK (Flashcard) ===== -->
+<div class="vocab-subscreen" id="vocab-deck">
+  <button class="vocab-back-link" id="vocabBackToSelect" type="button">‹ กลับไปเลือกวัน</button>
+  <div class="vocab-eyebrow" id="vocabDeckEyebrow">Day 1</div>
+
+  <div class="vocab-progress-row">
+    <span id="vocabProgressLabel">1 / 10</span>
+    <span id="vocabKnownLabel">จำได้แล้ว: 0</span>
+  </div>
+  <div class="vocab-progress-track"><div class="vocab-progress-fill" id="vocabProgressFill"></div></div>
+
+  <div id="vocabCardArea">
+    <div class="vocab-card-stage">
+      <div class="vocab-card" id="vocabCard">
+        <div class="vocab-face vocab-front">
+          <div class="vocab-card-index">
+            <span id="vocabFrontIndex">#001</span>
+            <span class="vocab-level-tag" id="vocabFrontLevel">B2</span>
+          </div>
+          <div class="vocab-front-word">
+            <div class="vocab-word" id="vocabFrontWord">word</div>
+            <div class="vocab-pos" id="vocabFrontPos">n.</div>
+            <button class="tts-replay-btn vocab-tts-btn" id="vocabTtsBtn" type="button" title="ฟังคำอ่าน">🔊 ฟังคำอ่าน</button>
+          </div>
+          <div class="vocab-flip-hint">แตะเพื่อดูความหมาย</div>
+        </div>
+        <div class="vocab-face vocab-back">
+          <div class="vocab-card-index">
+            <span id="vocabBackIndex">#001</span>
+            <span class="vocab-level-tag" id="vocabBackLevel">B2</span>
+          </div>
+          <div class="vocab-back-content">
+            <div class="vocab-def-en" id="vocabDefEn"></div>
+            <div class="vocab-def-th" id="vocabDefTh"></div>
+            <div class="vocab-example" id="vocabExample"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="vocab-controls">
+      <button class="vocab-btn vocab-btn-again" id="vocabBtnAgain" type="button">↺ Again</button>
+      <button class="vocab-btn vocab-btn-known" id="vocabBtnKnown" type="button">✓ Know</button>
+    </div>
+    <div class="vocab-nav-row">
+      <button class="vocab-nav-btn" id="vocabBtnPrev" type="button">‹ ก่อนหน้า</button>
+      <button class="vocab-nav-btn vocab-nav-btn-shuffle" id="vocabBtnShuffleReset" type="button">⤭ สลับใหม่</button>
+      <button class="vocab-nav-btn" id="vocabBtnSkip" type="button">ข้าม ›</button>
+    </div>
+  </div>
+
+  <div class="vocab-done-box" id="vocabDoneBox" style="display:none">
+    <h3 id="vocabDoneHeading">เยี่ยมมาก! ครบวันนี้แล้ว 🎉</h3>
+    <p id="vocabDoneStats"></p>
+    <div class="vocab-done-actions">
+      <button class="vocab-btn vocab-btn-shuffle" id="vocabBtnRestart" type="button">ทบทวนวันนี้อีกครั้ง</button>
+      <button class="vocab-btn vocab-btn-known" id="vocabBtnBackFromDone" type="button">เลือกวันอื่น</button>
+    </div>
+  </div>
+</div>
+
+<!-- ===== VOCAB: QUIZ ===== -->
+<div class="vocab-subscreen" id="vocab-quiz">
+  <button class="vocab-back-link" id="vocabBackToSelectFromQuiz" type="button">‹ กลับไปเลือกวัน</button>
+  <div class="vocab-eyebrow" id="vocabQuizEyebrow">Week 1 • Quiz</div>
+  <h3 id="vocabQuizTitle">แบบทดสอบสัปดาห์ที่ 1</h3>
+  <p class="vocab-hint-text">เติมคำศัพท์ที่หายไปในประโยค จากคำที่ท่องมาตลอดสัปดาห์นี้</p>
+
+  <div class="vocab-progress-row">
+    <span id="vocabQuizProgressLabel">1 / 50</span>
+    <span id="vocabQuizScoreLabel">ตอบแล้ว: 0</span>
+  </div>
+  <div class="vocab-progress-track"><div class="vocab-progress-fill" id="vocabQuizProgressFill"></div></div>
+
+  <div id="vocabQuizArea">
+    <details class="qnav-details" id="vocabQuizNav-details">
+      <summary class="qnav-summary"><span>📋 แถบเลือกข้อ</span><span class="qnav-summary-count" id="vocabQuizNav-count"></span></summary>
+      <div id="vocabQuizNav" class="question-nav"></div>
+    </details>
+    <div class="vocab-quiz-card">
+      <div class="vocab-quiz-index" id="vocabQuizIndex">คำที่ 1 / 50</div>
+      <div class="vocab-quiz-sentence-wrap">
+        <div class="vocab-quiz-sentence" id="vocabQuizSentence"></div>
+        <button class="tts-replay-btn" id="vocabQuizTtsBtn" type="button" title="ฟังประโยค">🔊 ฟังประโยค</button>
+      </div>
+      <div class="vocab-quiz-options" id="vocabQuizOptions"></div>
+    </div>
+    <div class="nav-buttons">
+      <button class="nav-btn" id="vocabQuizPrevBtn">◀ ก่อนหน้า</button>
+      <button class="nav-btn" id="vocabQuizNextBtn">ถัดไป ▶</button>
+      <button class="nav-btn" id="vocabQuizSubmitBtn" style="background:#4caf50">✓ ส่งคำตอบ</button>
+    </div>
+  </div>
+
+  <div class="vocab-quiz-result" id="vocabQuizResult" style="display:none">
+    <div class="vocab-quiz-score" id="vocabQuizScoreBig">0/50</div>
+    <p id="vocabQuizResultText" class="vocab-hint-text"></p>
+    <div class="summary-dashboard" style="margin-top:16px">
+      <div class="summary-card compact"><h3>✅ จำได้ vs จำไม่ได้</h3><div class="chart-wrap"><canvas id="chart-vocab-quiz-doughnut"></canvas></div></div>
+      <div class="summary-card compact"><h3>📅 คำนั้นอยู่วันไหนบ้าง</h3><div class="chart-wrap"><canvas id="chart-vocab-quiz-byday"></canvas></div></div>
+    </div>
+    <div id="vocabQuizDetail" style="text-align:left;margin-top:18px"></div>
+    <div class="results-bottom-spacer"></div>
+    <div class="vocab-done-actions floating-result-nav" id="vocabQuiz-floating-nav">
+      <button class="vocab-btn vocab-btn-shuffle" id="vocabBtnQuizRetry" type="button">สอบใหม่</button>
+      <button class="vocab-btn vocab-btn-known" id="vocabBtnQuizBack" type="button">เลือกวันอื่น</button>
+    </div>
+  </div>
+</div>
+
+<!-- ===== VOCAB: STATS (สรุปภาพรวม) ===== -->
+<div class="vocab-subscreen" id="vocab-stats">
+  <button class="vocab-back-link" id="vocabBackToSelectFromStats" type="button">‹ กลับไปเลือกวัน</button>
+  <div class="vocab-eyebrow">Overview</div>
+  <h3>📊 สรุปภาพรวมการจำคำศัพท์</h3>
+  <p class="vocab-hint-text">ดูว่าวันไหนจำคำศัพท์ไม่ได้กี่คำ และทำแบบทดสอบระดับไหนได้ดีแค่ไหน</p>
+
+  <div class="summary-metrics" id="vocabStatsMetrics"></div>
+
+  <div class="summary-dashboard">
+    <div class="summary-card wide">
+      <h3>📅 คำที่ยังจำไม่ได้ในแต่ละวัน</h3>
+      <div class="chart-wrap"><canvas id="chart-vocab-days"></canvas></div>
+    </div>
+    <div class="summary-card compact">
+      <h3>🎚️ ผลแบบทดสอบตามระดับคำศัพท์</h3>
+      <div class="chart-wrap"><canvas id="chart-vocab-level"></canvas></div>
+    </div>
+    <div class="summary-card compact">
+      <h3>✅ คำที่จำได้ทั้งหมด</h3>
+      <div class="chart-wrap"><canvas id="chart-vocab-known"></canvas></div>
+    </div>
+  </div>
+  <p id="vocabStatsEmpty" class="vocab-hint-text" style="text-align:center;display:none;margin-top:20px">ยังไม่มีข้อมูล ลองไปท่องคำศัพท์หรือทำแบบทดสอบก่อนนะครับ 😊</p>
+</div>
+</div>
+<!-- </div> -->
 
 <div class="screen" id="screen-results">
 <div class="score-circle" id="score-circle"><div class="score-inner"><div class="score-num" id="score-num">0%</div><div id="score-fraction" style="font-size:14px;color:#666"></div></div></div>

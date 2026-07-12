@@ -1,0 +1,902 @@
+[
+  [
+    1,
+    "abolish",
+    "v.",
+    "C1",
+    "to officially end a law, system, or institution",
+    "ยกเลิก (กฎหมาย/ระบบ)",
+    "The new government voted to abolish the tax."
+  ],
+  [
+    2,
+    "absorb",
+    "v.",
+    "B2",
+    "to take in a substance, or to fully understand and use information",
+    "ดูดซับ / ทำความเข้าใจอย่างเต็มที่",
+    "The sponge absorbed all the water."
+  ],
+  [
+    3,
+    "accelerate",
+    "v.",
+    "C1",
+    "to happen faster, or make something happen faster",
+    "เร่งความเร็ว",
+    "The car accelerated onto the highway."
+  ],
+  [
+    4,
+    "accommodate",
+    "v.",
+    "B2",
+    "to have enough space for, or to adjust to fit someone's needs",
+    "รองรับ / ปรับให้เข้ากับ",
+    "The hotel can accommodate 200 guests."
+  ],
+  [
+    5,
+    "accumulate",
+    "v.",
+    "C1",
+    "to gradually collect or increase in amount over time",
+    "สะสม",
+    "Dust had accumulated on the shelves."
+  ],
+  [
+    6,
+    "acknowledge",
+    "v.",
+    "C1",
+    "to admit that something is true, or to show you noticed someone",
+    "ยอมรับ / รับทราบ",
+    "She acknowledged her mistake immediately."
+  ],
+  [
+    7,
+    "adequate",
+    "adj.",
+    "B2",
+    "enough in quantity or good enough in quality",
+    "เพียงพอ",
+    "We didn't have adequate time to prepare."
+  ],
+  [
+    8,
+    "adjacent",
+    "adj.",
+    "C1",
+    "next to or very near something",
+    "ที่อยู่ติดกัน",
+    "The park is adjacent to the library."
+  ],
+  [
+    9,
+    "adolescent",
+    "n.",
+    "C1",
+    "a young person between childhood and adulthood",
+    "วัยรุ่น",
+    "Adolescents often seek more independence."
+  ],
+  [
+    10,
+    "advocate",
+    "n./v.",
+    "C1",
+    "a person who publicly supports a cause; to publicly support something",
+    "ผู้สนับสนุน / สนับสนุนอย่างเปิดเผย",
+    "She is an advocate for children's rights."
+  ],
+  [
+    11,
+    "aesthetic",
+    "adj.",
+    "C1",
+    "relating to beauty or artistic appreciation",
+    "ด้านความสวยงาม",
+    "The design has a very modern aesthetic."
+  ],
+  [
+    12,
+    "aggression",
+    "n.",
+    "C1",
+    "angry or violent behavior toward others",
+    "ความก้าวร้าว",
+    "The dog showed signs of aggression."
+  ],
+  [
+    13,
+    "align",
+    "v.",
+    "C1",
+    "to arrange in a line, or to bring into agreement",
+    "จัดให้ตรงแนว / สอดคล้องกัน",
+    "Our goals need to align with the company's mission."
+  ],
+  [
+    14,
+    "allocate",
+    "v.",
+    "C1",
+    "to officially give something for a particular purpose",
+    "จัดสรร",
+    "The budget was allocated to education."
+  ],
+  [
+    15,
+    "ambiguous",
+    "adj.",
+    "C1",
+    "having more than one possible meaning; unclear",
+    "กำกวม",
+    "The instructions were ambiguous and confusing."
+  ],
+  [
+    16,
+    "anticipate",
+    "v.",
+    "B2",
+    "to expect something and prepare for it",
+    "คาดการณ์ล่วงหน้า",
+    "We anticipate high demand this year."
+  ],
+  [
+    17,
+    "anxiety",
+    "n.",
+    "B2",
+    "a feeling of worry or nervousness",
+    "ความวิตกกังวล",
+    "Public speaking causes him a lot of anxiety."
+  ],
+  [
+    18,
+    "applicable",
+    "adj.",
+    "C1",
+    "relevant or able to be applied to a situation",
+    "ใช้ได้กับ / เกี่ยวข้อง",
+    "This rule is applicable to all employees."
+  ],
+  [
+    19,
+    "appreciation",
+    "n.",
+    "C1",
+    "recognition of the value of something; gratitude",
+    "ความรู้คุณค่า / ความซาบซึ้ง",
+    "Thank you for your appreciation of our work."
+  ],
+  [
+    20,
+    "arbitrary",
+    "adj.",
+    "C1",
+    "based on random choice rather than reason",
+    "ตามอำเภอใจ",
+    "The decision seemed completely arbitrary."
+  ],
+  [
+    21,
+    "articulate",
+    "v./adj.",
+    "C1",
+    "to express ideas clearly; able to speak fluently and clearly",
+    "แสดงความคิดอย่างชัดเจน / พูดจาชัดเจน",
+    "She articulated her concerns very clearly."
+  ],
+  [
+    22,
+    "aspiration",
+    "n.",
+    "C1",
+    "a strong hope or ambition to achieve something",
+    "ความมุ่งมาดปรารถนา",
+    "His aspiration is to become a doctor."
+  ],
+  [
+    23,
+    "assumption",
+    "n.",
+    "B2",
+    "something believed to be true without proof",
+    "ข้อสันนิษฐาน",
+    "We made an assumption that they'd agree."
+  ],
+  [
+    24,
+    "attain",
+    "v.",
+    "C1",
+    "to succeed in achieving something, usually after effort",
+    "บรรลุ (เป้าหมาย)",
+    "She worked hard to attain her degree."
+  ],
+  [
+    25,
+    "attribute",
+    "v./n.",
+    "C1",
+    "to say something is caused by; a quality or feature",
+    "ระบุว่าเป็นเพราะ / คุณลักษณะ",
+    "He attributed his success to hard work."
+  ],
+  [
+    26,
+    "authentic",
+    "adj.",
+    "C1",
+    "genuine and real, not fake or copied",
+    "แท้จริง",
+    "This restaurant serves authentic Italian food."
+  ],
+  [
+    27,
+    "autonomy",
+    "n.",
+    "C1",
+    "the ability to act and make decisions independently",
+    "การปกครองตนเอง / อิสระในการตัดสินใจ",
+    "The team was given full autonomy over the project."
+  ],
+  [
+    28,
+    "awareness",
+    "n.",
+    "B2",
+    "knowledge or understanding of a situation",
+    "ความตระหนักรู้",
+    "The campaign raised awareness about climate change."
+  ],
+  [
+    29,
+    "bias",
+    "n.",
+    "B2",
+    "an unfair preference for or against something",
+    "อคติ",
+    "The report showed clear political bias."
+  ],
+  [
+    30,
+    "boundary",
+    "n.",
+    "C1",
+    "a line that marks a limit or edge",
+    "ขอบเขต",
+    "It's important to set boundaries at work."
+  ],
+  [
+    31,
+    "breakthrough",
+    "n.",
+    "C1",
+    "an important discovery or development",
+    "ความก้าวหน้าครั้งสำคัญ",
+    "Scientists made a breakthrough in cancer research."
+  ],
+  [
+    32,
+    "capability",
+    "n.",
+    "C1",
+    "the ability to do something",
+    "ความสามารถ / ศักยภาพ",
+    "The new phone has impressive capabilities."
+  ],
+  [
+    33,
+    "clarify",
+    "v.",
+    "B2",
+    "to make something clearer or easier to understand",
+    "ชี้แจงให้ชัดเจน",
+    "Could you clarify what you mean?"
+  ],
+  [
+    34,
+    "coincide",
+    "v.",
+    "C1",
+    "to happen at the same time as something else",
+    "เกิดขึ้นพร้อมกัน",
+    "The meeting coincides with the holiday."
+  ],
+  [
+    35,
+    "collaborate",
+    "v.",
+    "C1",
+    "to work together with others to achieve something",
+    "ร่วมมือกัน",
+    "The two companies collaborated on the project."
+  ],
+  [
+    36,
+    "comprehensive",
+    "adj.",
+    "B2",
+    "complete and including everything necessary",
+    "ครอบคลุมอย่างสมบูรณ์",
+    "We offer a comprehensive health insurance plan."
+  ],
+  [
+    37,
+    "compromise",
+    "n./v.",
+    "C1",
+    "an agreement where each side gives up something; to reach such an agreement",
+    "การประนีประนอม / ประนีประนอม",
+    "They reached a compromise after long talks."
+  ],
+  [
+    38,
+    "consecutive",
+    "adj.",
+    "C1",
+    "following one after another without interruption",
+    "ติดต่อกัน",
+    "She won the award for three consecutive years."
+  ],
+  [
+    39,
+    "consensus",
+    "n.",
+    "C1",
+    "general agreement among a group",
+    "ความเห็นพ้องต้องกัน",
+    "The team reached a consensus on the plan."
+  ],
+  [
+    40,
+    "constitute",
+    "v.",
+    "C1",
+    "to be a part of, or to form or make up something",
+    "ประกอบขึ้นเป็น",
+    "Women constitute half of the workforce."
+  ],
+  [
+    41,
+    "contradict",
+    "v.",
+    "C1",
+    "to say the opposite of, or to be inconsistent with",
+    "ขัดแย้งกับ",
+    "His actions contradict his words."
+  ],
+  [
+    42,
+    "contribute",
+    "v.",
+    "B2",
+    "to give something, especially money, help, or ideas",
+    "มีส่วนร่วม / บริจาค",
+    "Everyone contributed ideas to the discussion."
+  ],
+  [
+    43,
+    "controversial",
+    "adj.",
+    "B2",
+    "causing public disagreement or argument",
+    "เป็นที่ถกเถียง",
+    "It was a controversial decision."
+  ],
+  [
+    44,
+    "convey",
+    "v.",
+    "B2",
+    "to communicate or express an idea or feeling",
+    "สื่อความหมาย / ถ่ายทอด",
+    "The painting conveys a sense of sadness."
+  ],
+  [
+    45,
+    "credible",
+    "adj.",
+    "C1",
+    "able to be believed or trusted",
+    "น่าเชื่อถือ",
+    "We need a credible source for this claim."
+  ],
+  [
+    46,
+    "criteria",
+    "n.",
+    "B2",
+    "standards used to judge or decide something",
+    "เกณฑ์",
+    "The applicant met all the criteria."
+  ],
+  [
+    47,
+    "crucial",
+    "adj.",
+    "B2",
+    "extremely important; essential",
+    "สำคัญมาก",
+    "Sleep is crucial for good health."
+  ],
+  [
+    48,
+    "cultivate",
+    "v.",
+    "C1",
+    "to grow crops, or to develop a skill or relationship",
+    "เพาะปลูก / บ่มเพาะ",
+    "She worked hard to cultivate new relationships."
+  ],
+  [
+    49,
+    "deduce",
+    "v.",
+    "C1",
+    "to reach a conclusion using logic and evidence",
+    "อนุมาน / สรุปด้วยเหตุผล",
+    "From the clues, he deduced the answer."
+  ],
+  [
+    50,
+    "deliberate",
+    "adj./v.",
+    "C1",
+    "done on purpose; to think carefully about something",
+    "จงใจ / ไตร่ตรอง",
+    "It was a deliberate attempt to mislead us."
+  ],
+  [
+    51,
+    "demonstrate",
+    "v.",
+    "B2",
+    "to clearly show that something is true, or to show how to do something",
+    "แสดงให้เห็น / สาธิต",
+    "The results demonstrate a clear improvement."
+  ],
+  [
+    52,
+    "derive",
+    "v.",
+    "B2",
+    "to obtain or develop something from a particular source",
+    "ได้มาจาก",
+    "This word derives from Latin."
+  ],
+  [
+    53,
+    "diminish",
+    "v.",
+    "C1",
+    "to become or make something smaller or less important",
+    "ลดลง / ทำให้น้อยลง",
+    "His influence has diminished over time."
+  ],
+  [
+    54,
+    "discrepancy",
+    "n.",
+    "C1",
+    "a difference between things that should be the same",
+    "ความคลาดเคลื่อน",
+    "There's a discrepancy between the two reports."
+  ],
+  [
+    55,
+    "distinct",
+    "adj.",
+    "B2",
+    "clearly different or separate; easily noticeable",
+    "ชัดเจน / แตกต่างอย่างเห็นได้ชัด",
+    "The two proposals are quite distinct."
+  ],
+  [
+    56,
+    "diverse",
+    "adj.",
+    "B2",
+    "showing a variety; very different from one another",
+    "หลากหลาย",
+    "Our team has a diverse range of skills."
+  ],
+  [
+    57,
+    "dominant",
+    "adj.",
+    "B2",
+    "more powerful, important, or noticeable than others",
+    "มีอิทธิพลเหนือกว่า",
+    "English is the dominant language in business."
+  ],
+  [
+    58,
+    "elaborate",
+    "adj./v.",
+    "C1",
+    "very detailed and complex; to explain in more detail",
+    "ซับซ้อน / อธิบายเพิ่มเติม",
+    "Could you elaborate on that point?"
+  ],
+  [
+    59,
+    "eliminate",
+    "v.",
+    "B2",
+    "to completely remove or get rid of something",
+    "กำจัด / ขจัดออก",
+    "We need to eliminate unnecessary steps."
+  ],
+  [
+    60,
+    "emerge",
+    "v.",
+    "B2",
+    "to appear or come out from somewhere, or become known",
+    "ปรากฏขึ้น / ปรากฏชัด",
+    "New evidence has emerged in the case."
+  ],
+  [
+    61,
+    "empirical",
+    "adj.",
+    "C1",
+    "based on observation or experiment, not just theory",
+    "เชิงประจักษ์ (จากการสังเกต/ทดลอง)",
+    "The theory is supported by empirical data."
+  ],
+  [
+    62,
+    "enhance",
+    "v.",
+    "B2",
+    "to improve the quality or value of something",
+    "เพิ่มพูน / ทำให้ดีขึ้น",
+    "This update will enhance the app's performance."
+  ],
+  [
+    63,
+    "enormous",
+    "adj.",
+    "B2",
+    "extremely large in size or amount",
+    "มหาศาล / ใหญ่โต",
+    "The company made an enormous profit."
+  ],
+  [
+    64,
+    "equivalent",
+    "n./adj.",
+    "B2",
+    "something equal in value or meaning to something else",
+    "สิ่งที่เทียบเท่ากัน",
+    "One kilometer is roughly equivalent to 0.6 miles."
+  ],
+  [
+    65,
+    "establish",
+    "v.",
+    "B2",
+    "to start an organization, or to prove/confirm something",
+    "ก่อตั้ง / พิสูจน์ให้เป็นที่ยอมรับ",
+    "The company was established in 1990."
+  ],
+  [
+    66,
+    "evaluate",
+    "v.",
+    "B2",
+    "to judge or calculate the quality or value of something",
+    "ประเมินค่า",
+    "We need to evaluate the results carefully."
+  ],
+  [
+    67,
+    "exceed",
+    "v.",
+    "B2",
+    "to be greater than a number or limit",
+    "เกินกว่า",
+    "Sales exceeded our expectations this year."
+  ],
+  [
+    68,
+    "explicit",
+    "adj.",
+    "C1",
+    "stated clearly and in detail, leaving no doubt",
+    "ชัดเจน / ระบุตรงไปตรงมา",
+    "She gave explicit instructions."
+  ],
+  [
+    69,
+    "exploit",
+    "v.",
+    "B2",
+    "to use something fully, or to treat someone unfairly for gain",
+    "ใช้ประโยชน์ / เอาเปรียบ",
+    "The company exploited a loophole in the law."
+  ],
+  [
+    70,
+    "facilitate",
+    "v.",
+    "C1",
+    "to make a process easier",
+    "ทำให้ง่ายขึ้น / อำนวยความสะดวก",
+    "Technology can facilitate learning."
+  ],
+  [
+    71,
+    "feasible",
+    "adj.",
+    "N/A",
+    "possible to do easily or practically",
+    "เป็นไปได้ในทางปฏิบัติ",
+    "Is this plan financially feasible?"
+  ],
+  [
+    72,
+    "fluctuate",
+    "v.",
+    "N/A",
+    "to change frequently and irregularly in level or amount",
+    "ผันผวนขึ้นลง",
+    "Oil prices fluctuate constantly."
+  ],
+  [
+    73,
+    "fundamental",
+    "adj.",
+    "N/A",
+    "forming a necessary base or core; essential",
+    "พื้นฐาน / จำเป็นอย่างยิ่ง",
+    "Trust is fundamental to any relationship."
+  ],
+  [
+    74,
+    "genuine",
+    "adj.",
+    "B2",
+    "real and authentic; sincere",
+    "แท้จริง / จริงใจ",
+    "He showed genuine concern for her wellbeing."
+  ],
+  [
+    75,
+    "hypothesis",
+    "n.",
+    "B2",
+    "an idea suggested as a starting point for further investigation",
+    "สมมติฐาน",
+    "The scientist tested her hypothesis."
+  ],
+  [
+    76,
+    "implement",
+    "v.",
+    "B2",
+    "to put a plan or decision into effect",
+    "นำไปปฏิบัติ / ดำเนินการ",
+    "The new policy will be implemented next month."
+  ],
+  [
+    77,
+    "implication",
+    "n.",
+    "B2",
+    "a possible effect or result; something suggested indirectly",
+    "ผลกระทบที่ตามมา / นัยยะ",
+    "We must consider the implications of this decision."
+  ],
+  [
+    78,
+    "inevitable",
+    "adj.",
+    "B2",
+    "certain to happen; unavoidable",
+    "หลีกเลี่ยงไม่ได้",
+    "Change is inevitable in every industry."
+  ],
+  [
+    79,
+    "infer",
+    "v.",
+    "B2",
+    "to reach a conclusion based on evidence, not direct statement",
+    "อนุมานจากหลักฐาน",
+    "From her tone, I inferred she was upset."
+  ],
+  [
+    80,
+    "integrate",
+    "v.",
+    "B2",
+    "to combine two or more things to work together as one",
+    "ผสมผสาน / รวมเข้าด้วยกัน",
+    "The new system integrates well with existing software."
+  ],
+  [
+    81,
+    "intervene",
+    "v.",
+    "C1",
+    "to become involved in a situation to change its outcome",
+    "เข้าแทรกแซง",
+    "The government intervened to stop the strike."
+  ],
+  [
+    82,
+    "legitimate",
+    "adj.",
+    "C1",
+    "allowed by law, or reasonable and justified",
+    "ถูกกฎหมาย / มีเหตุผลอันสมควร",
+    "She has a legitimate reason for being late."
+  ],
+  [
+    83,
+    "manipulate",
+    "v.",
+    "C1",
+    "to control or influence someone/something skillfully, often unfairly",
+    "บิดเบือน / ควบคุมอย่างมีเล่ห์เหลี่ยม",
+    "He manipulated the data to support his claim."
+  ],
+  [
+    84,
+    "mitigate",
+    "v.",
+    "N/A",
+    "to make something less severe or harmful",
+    "บรรเทาความรุนแรง",
+    "These measures will mitigate flood damage."
+  ],
+  [
+    85,
+    "notion",
+    "n.",
+    "N/A",
+    "a belief or idea about something",
+    "แนวคิด / ความคิดเห็น",
+    "I reject the notion that money buys happiness."
+  ],
+  [
+    86,
+    "obsolete",
+    "adj.",
+    "N/A",
+    "no longer used because something newer exists",
+    "ล้าสมัย / เลิกใช้แล้ว",
+    "This technology quickly became obsolete."
+  ],
+  [
+    87,
+    "perceive",
+    "v.",
+    "B2",
+    "to notice or become aware of something, or to interpret it a certain way",
+    "รับรู้ / มองว่า",
+    "She perceived the comment as an insult."
+  ],
+  [
+    88,
+    "persistent",
+    "adj.",
+    "C1",
+    "continuing firmly despite difficulty or opposition",
+    "ดื้อรั้น / ทำต่อเนื่องไม่ลดละ",
+    "He was persistent in pursuing his goals."
+  ],
+  [
+    89,
+    "plausible",
+    "adj.",
+    "N/A",
+    "seeming reasonable or probably true",
+    "น่าเชื่อถือ / เป็นไปได้",
+    "Her explanation sounded plausible."
+  ],
+  [
+    90,
+    "precise",
+    "adj.",
+    "B2",
+    "exact and accurate",
+    "แม่นยำ",
+    "We need precise measurements for this project."
+  ],
+  [
+    91,
+    "predominant",
+    "adj.",
+    "N/A",
+    "main or most noticeable; most common",
+    "เด่นที่สุด / เป็นส่วนใหญ่",
+    "Blue is the predominant color in this design."
+  ],
+  [
+    92,
+    "prevalent",
+    "n.",
+    "C1",
+    "widespread or common at a particular time",
+    "แพร่หลาย",
+    "This disease is prevalent in rural areas."
+  ],
+  [
+    93,
+    "prioritize",
+    "v.",
+    "N/A",
+    "to treat something as more important than other things",
+    "จัดลำดับความสำคัญ",
+    "You need to prioritize your tasks."
+  ],
+  [
+    94,
+    "prominent",
+    "adj.",
+    "C1",
+    "important and well-known; easily noticeable",
+    "มีชื่อเสียง / โดดเด่น",
+    "She is a prominent figure in politics."
+  ],
+  [
+    95,
+    "reluctant",
+    "adj.",
+    "C1",
+    "unwilling and hesitant to do something",
+    "ไม่เต็มใจ / ลังเล",
+    "He was reluctant to share his opinion."
+  ],
+  [
+    96,
+    "scrutiny",
+    "n.",
+    "C1",
+    "careful and thorough examination",
+    "การตรวจสอบอย่างละเอียด",
+    "The company's finances came under scrutiny."
+  ],
+  [
+    97,
+    "substantial",
+    "adj.",
+    "C1",
+    "large in amount, size, or importance",
+    "มากพอสมควร / สำคัญ",
+    "They made a substantial investment in research."
+  ],
+  [
+    98,
+    "tentative",
+    "adj.",
+    "N/A",
+    "not certain or fixed; provisional",
+    "ยังไม่แน่นอน / ชั่วคราว",
+    "We have a tentative agreement in place."
+  ],
+  [
+    99,
+    "underlying",
+    "adj.",
+    "C1",
+    "the true or basic cause or nature of something, often hidden",
+    "ที่ซ่อนอยู่เบื้องหลัง / รากฐาน",
+    "We need to address the underlying issue."
+  ],
+  [
+    100,
+    "viable",
+    "adj.",
+    "C1",
+    "capable of working successfully; practical",
+    "สามารถทำได้จริง / มีชีวิตรอดได้",
+    "Is this business plan financially viable?"
+  ]
+]

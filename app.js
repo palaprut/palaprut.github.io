@@ -1,3 +1,66 @@
+// ============ DAY / NIGHT THEME ============
+const THEME_KEY = "tenses_theme";
+function applyTheme(theme){
+  document.documentElement.setAttribute("data-theme", theme);
+  const icon = document.querySelector("#settings-toggle-btn .settings-toggle-icon");
+  if(icon) icon.textContent = theme === "dark" ? "☀️" : "⚙️";
+}
+function getInitialTheme(){
+  const saved = localStorage.getItem(THEME_KEY);
+  if(saved === "dark" || saved === "light") return saved;
+  return window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+}
+applyTheme(getInitialTheme());
+document.addEventListener("DOMContentLoaded", () => {
+  const settingsBtn = document.getElementById("settings-toggle-btn");
+  const settingsOverlay = document.getElementById("settings-overlay");
+  const settingsCloseBtn = document.getElementById("settings-close-btn");
+  const settingsThemeBtn = document.getElementById("settings-theme-btn");
+  const settingsTtsToggle = document.getElementById("settings-tts-toggle");
+  const settingsVoiceSelect = document.getElementById("settings-tts-voice-select");
+  if(settingsBtn){
+    settingsBtn.onclick = () => {
+      if(settingsOverlay){
+        settingsOverlay.classList.add("active");
+        settingsOverlay.setAttribute("aria-hidden", "false");
+      }
+    };
+  }
+  const closeSettings = () => {
+    if(settingsOverlay){
+      settingsOverlay.classList.remove("active");
+      settingsOverlay.setAttribute("aria-hidden", "true");
+    }
+  };
+  if(settingsCloseBtn) settingsCloseBtn.onclick = closeSettings;
+  if(settingsOverlay) settingsOverlay.onclick = e => { if(e.target === settingsOverlay) closeSettings(); };
+  document.addEventListener("keydown", e => { if(e.key === "Escape") closeSettings(); });
+  if(settingsThemeBtn){
+    settingsThemeBtn.onclick = () => {
+      const current = document.documentElement.getAttribute("data-theme") === "dark" ? "dark" : "light";
+      const next = current === "dark" ? "light" : "dark";
+      localStorage.setItem(THEME_KEY, next);
+      applyTheme(next);
+      settingsThemeBtn.classList.remove("spin"); void settingsThemeBtn.offsetWidth; settingsThemeBtn.classList.add("spin");
+    };
+  }
+  if(settingsTtsToggle){
+    settingsTtsToggle.checked = isAutoReadEnabled();
+    settingsTtsToggle.onchange = () => setAutoReadEnabled(settingsTtsToggle.checked);
+  }
+  if(settingsVoiceSelect){
+    settingsVoiceSelect.onchange = () => {
+      const picked = ttsVoices.find(v => v.voiceURI === settingsVoiceSelect.value);
+      if(picked){
+        ttsChosenVoice = picked;
+        localStorage.setItem(TTS_VOICE_KEY, picked.voiceURI);
+        speakText("This is what I sound like now.");
+      }
+    };
+  }
+  applyTheme(getInitialTheme());
+});
+
 // ============ BUILD SETS (round-robin) ============
 // QUESTIONS is populated asynchronously from questions.json (see initApp() at bottom of this file)
 let QUESTIONS = [];
@@ -19,7 +82,15 @@ const HK = "tenses_history_v4";
 const TTS_KEY = "tenses_tts_autoread";
 const TTS_VOICE_KEY = "tenses_tts_voice";
 const isAutoReadEnabled = () => localStorage.getItem(TTS_KEY) === "1";
-const setAutoReadEnabled = on => localStorage.setItem(TTS_KEY, on ? "1" : "0");
+function syncTtsToggleUI(){
+  document.querySelectorAll(".tts-toggle input").forEach(toggle => {
+    toggle.checked = isAutoReadEnabled();
+  });
+}
+const setAutoReadEnabled = on => {
+  localStorage.setItem(TTS_KEY, on ? "1" : "0");
+  syncTtsToggleUI();
+};
 
 let ttsVoices = [];
 let ttsChosenVoice = null;
@@ -43,16 +114,21 @@ function loadTtsVoices(){
   if(ttsVoices.length === 0) ttsVoices = window.speechSynthesis?.getVoices() || [];
   ttsVoices.sort((a,b) => voiceQualityScore(b) - voiceQualityScore(a));
 
-  const select = document.getElementById("tts-voice-select");
-  if(select){
-    const savedURI = localStorage.getItem(TTS_VOICE_KEY);
+  const savedURI = localStorage.getItem(TTS_VOICE_KEY);
+  const selects = Array.from(document.querySelectorAll(".tts-voice-select"));
+  selects.forEach(select => {
     select.innerHTML = ttsVoices.map(v => `<option value="${esc(v.voiceURI)}">${esc(v.name)} (${esc(v.lang)})</option>`).join("");
     const match = ttsVoices.find(v => v.voiceURI === savedURI);
-    ttsChosenVoice = match || ttsVoices[0] || null;
-    if(ttsChosenVoice) select.value = ttsChosenVoice.voiceURI;
+    const picked = match || ttsChosenVoice || ttsVoices[0] || null;
+    if(picked){
+      ttsChosenVoice = picked;
+      select.value = picked.voiceURI;
+    }
     select.style.display = ttsVoices.length > 1 ? "" : "none";
-  } else {
-    ttsChosenVoice = ttsVoices[0] || null;
+  });
+
+  if(selects.length === 0){
+    ttsChosenVoice = ttsVoices.find(v => v.voiceURI === savedURI) || ttsVoices[0] || null;
   }
 }
 if("speechSynthesis" in window){
@@ -84,7 +160,18 @@ function speakText(text){
 const esc = s => String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const formatQuestionBlank = s => esc(s).replace(/_+/g, m => `<span class="blank-underscore">${m}</span>`);
 const shuffle = shuffleArr;
-const showScreen = id => {if("speechSynthesis" in window) window.speechSynthesis.cancel();document.querySelectorAll(".screen").forEach(s=>s.classList.remove("active"));document.getElementById(id).classList.add("active");};
+const showScreen = id => {
+  if ("speechSynthesis" in window) window.speechSynthesis.cancel();
+  const container = document.querySelector('.container');
+  document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+  const el = document.getElementById(id);
+  if (el) el.classList.add('active');
+  // when showing results, make the outer container act as the results card
+  if (container) {
+    if (id === 'screen-results') container.classList.add('is-results');
+    else container.classList.remove('is-results');
+  }
+};
 const levelClass = l => ({"A1-A2":"level-a12","B1":"level-b1","B2-C1":"level-b2c1"}[l]||"level-a12");
 const lvlBar = l => ({"A1-A2":"lvl-a12","B1":"lvl-b1","B2-C1":"lvl-b2c1"}[l]||"lvl-a12");
 const getHist = () => {try{return JSON.parse(localStorage.getItem(HK))||[]}catch{return []}};
@@ -130,6 +217,8 @@ document.querySelectorAll(".mode-card").forEach(c => c.onclick = () => {
   if(m==="set"){initSets();showScreen("screen-sets");}
   else if(m==="random"){resetRandom();showScreen("screen-random");}
   else if(m==="learn"){renderLearn();showScreen("screen-learn");}
+  else if(m==="vocab"){openVocabHome();showScreen("screen-vocab");}
+  else if(m==="vocab-stats"){if(!vocabState) vocabState = buildVocabStructure();showScreen("screen-vocab");showVocabSub("vocab-stats");renderVocabStats();}
   else {renderHistory();showScreen("screen-history");}
 });
 // document.querySelectorAll(".back-btn").forEach(b => b.onclick = () => showScreen("screen-home"));
@@ -263,6 +352,10 @@ function renderQuestionNav(){
         document.getElementById("question-nav");
 
     if(!nav || !cq) return;
+
+    const answeredCount = cq.answers.filter(a => a !== null).length;
+    const countEl = document.getElementById("question-nav-count");
+    if(countEl) countEl.textContent = `${cq.current+1}/${cq.items.length} • ตอบแล้ว ${answeredCount}`;
 
     nav.innerHTML = "";
 
@@ -908,6 +1001,622 @@ document.addEventListener("keydown", (e) => {
   if(e.key === "Escape") closeTenseModal();
 });
 
+// ============ VOCAB MODULE (คลังคำศัพท์ Oxford 5000) ============
+// ข้อมูลคำศัพท์โหลดจาก words.json (ดูใน initApp) — โครงสร้างแต่ละคำ:
+// [no, word, pos, level, defEn, defTh, example]
+let VOCAB_WORDS = [];
+let vocabState = null;
+const VOCAB_MONTHS_TH = ["มกราคม","กุมภาพันธ์","มีนาคม","เมษายน","พฤษภาคม","มิถุนายน","กรกฎาคม","สิงหาคม","กันยายน","ตุลาคม","พฤศจิกายน","ธันวาคม"];
+
+// ---- Persistent stats: per-day flashcard recall + per-level quiz performance ----
+const VOCAB_DAY_STATS_KEY = "tenses_vocab_day_stats_v1";
+const VOCAB_LEVEL_STATS_KEY = "tenses_vocab_level_stats_v1";
+const getVocabDayStats = () => { try{ return JSON.parse(localStorage.getItem(VOCAB_DAY_STATS_KEY)) || {}; }catch{ return {}; } };
+const saveVocabDayStat = (dayIndex, known, total) => {
+  const all = getVocabDayStats();
+  all[dayIndex] = {known, total};
+  localStorage.setItem(VOCAB_DAY_STATS_KEY, JSON.stringify(all));
+};
+const getVocabLevelStats = () => { try{ return JSON.parse(localStorage.getItem(VOCAB_LEVEL_STATS_KEY)) || {}; }catch{ return {}; } };
+const addVocabLevelStats = (byLevel) => {
+  const all = getVocabLevelStats();
+  Object.entries(byLevel).forEach(([lvl, v]) => {
+    all[lvl] = all[lvl] || {correct:0, total:0};
+    all[lvl].correct += v.correct;
+    all[lvl].total += v.total;
+  });
+  localStorage.setItem(VOCAB_LEVEL_STATS_KEY, JSON.stringify(all));
+};
+
+function buildVocabStructure(){
+  const WORDS_PER_DAY = 10;
+  const DAYS_PER_WEEK = 5;
+  const days = [];
+  for(let i=0;i<VOCAB_WORDS.length;i+=WORDS_PER_DAY) days.push(VOCAB_WORDS.slice(i, i+WORDS_PER_DAY));
+
+  const today = new Date();
+  today.setHours(0,0,0,0);
+  const isWeekend = d => d.getDay() === 0 || d.getDay() === 6;
+
+  // จัดวันท่องศัพท์ให้ตรงกับวันจันทร์-ศุกร์จริง เริ่มจากวันนี้
+  const studyDates = [];
+  {
+    let cursor = new Date(today);
+    while(studyDates.length < days.length){
+      if(!isWeekend(cursor)) studyDates.push(new Date(cursor));
+      cursor.setDate(cursor.getDate() + 1);
+    }
+  }
+  const dateKey = d => `${d.getFullYear()}-${d.getMonth()+1}-${d.getDate()}`;
+  const dateToDayIndex = {};
+  studyDates.forEach((d, i) => { dateToDayIndex[dateKey(d)] = i; });
+
+  // จัดกลุ่มวันท่องศัพท์เป็นสัปดาห์ละ 5 วัน แล้วหาวันสอบ (เสาร์-อาทิตย์ถัดไป)
+  const weeks = [];
+  for(let i=0;i<days.length;i+=DAYS_PER_WEEK){
+    weeks.push({dayIndices: Array.from({length: Math.min(DAYS_PER_WEEK, days.length-i)}, (_,k)=>i+k)});
+  }
+  const nextSaturdayAfter = d => { const c = new Date(d); do{ c.setDate(c.getDate()+1); } while(c.getDay() !== 6); return c; };
+  weeks.forEach(w => {
+    const lastDate = studyDates[w.dayIndices[w.dayIndices.length-1]];
+    const sat = nextSaturdayAfter(lastDate);
+    const sun = new Date(sat); sun.setDate(sun.getDate()+1);
+    w.quizDates = [sat, sun];
+  });
+  const dateToQuizWeek = {};
+  weeks.forEach((w, wi) => { w.quizDates.forEach(d => { dateToQuizWeek[dateKey(d)] = wi; }); });
+
+  return {
+    days, weeks, dateKey, dateToDayIndex, dateToQuizWeek, today,
+    dayCompleted: new Array(days.length).fill(false),
+    quizCompleted: new Array(weeks.length).fill(false),
+    viewYear: today.getFullYear(), viewMonth: today.getMonth(),
+    currentDay: 0, dayIndices: [], pos: 0, known: new Set(), flipped: false,
+    quizWeekIndex: 0, quizQuestions: [], quizPos: 0, quizScore: 0, quizAnswered: false,
+    _lastSpokenCardKey: null, _lastSpokenQuizKey: null
+  };
+}
+
+function showVocabSub(id){
+  document.querySelectorAll("#screen-vocab .vocab-subscreen").forEach(s => s.classList.remove("active"));
+  const target = document.getElementById(id);
+  if(target) target.classList.add("active");
+}
+
+document.getElementById("vocabBackToSelectFromStats").onclick = () => openVocabHome();
+
+function renderVocabStats(){
+  const dayStats = getVocabDayStats();
+  const levelStats = getVocabLevelStats();
+  const dayEntries = Object.entries(dayStats).sort((a,b) => Number(a[0]) - Number(b[0]));
+  const hasData = dayEntries.length > 0 || Object.keys(levelStats).length > 0;
+  document.getElementById("vocabStatsEmpty").style.display = hasData ? "none" : "block";
+
+  // Metrics
+  const totalKnown = dayEntries.reduce((s,[,v]) => s+v.known, 0);
+  const totalWords = dayEntries.reduce((s,[,v]) => s+v.total, 0);
+  const totalNotYet = totalWords - totalKnown;
+  const daysAttempted = dayEntries.length;
+  const quizTotal = Object.values(levelStats).reduce((s,v)=>s+v.total,0);
+  const quizCorrect = Object.values(levelStats).reduce((s,v)=>s+v.correct,0);
+  const quizPct = quizTotal ? Math.round((quizCorrect/quizTotal)*100) : 0;
+  document.getElementById("vocabStatsMetrics").innerHTML = `
+    <div class="summary-metric"><div class="metric-label">คำที่จำได้แล้ว</div><div class="metric-value">${totalKnown}</div><div class="metric-sub">จาก ${totalWords} คำ (${daysAttempted} วัน)</div></div>
+    <div class="summary-metric"><div class="metric-label">คำที่ยังจำไม่ได้</div><div class="metric-value">${totalNotYet}</div><div class="metric-sub">รวมทุกวันที่ท่องแล้ว</div></div>
+    <div class="summary-metric"><div class="metric-label">คะแนนแบบทดสอบเฉลี่ย</div><div class="metric-value">${quizPct}%</div><div class="metric-sub">${quizCorrect}/${quizTotal} ข้อ</div></div>
+    <div class="summary-metric"><div class="metric-label">ระดับที่ทำแบบทดสอบแล้ว</div><div class="metric-value" style="font-size:23px">${Object.keys(levelStats).length}</div><div class="metric-sub">ระดับคำศัพท์</div></div>`;
+
+  // Chart 1: words not-yet-known per day
+  try {
+    destroyChart("vd");
+    const labels = dayEntries.map(([d]) => "Day " + (Number(d)+1));
+    const notKnown = dayEntries.map(([,v]) => v.total - v.known);
+    const known = dayEntries.map(([,v]) => v.known);
+    state.chartInstances.vd = new Chart(document.getElementById("chart-vocab-days"), {
+      type:"bar",
+      data:{labels, datasets:[
+        {label:"จำได้แล้ว", data:known, backgroundColor:"#22c55e", borderRadius:6, borderSkipped:false},
+        {label:"ยังจำไม่ได้", data:notKnown, backgroundColor:"#ef4444", borderRadius:6, borderSkipped:false}
+      ]},
+      options:{
+        responsive:true, maintainAspectRatio:false, animation:{duration:850, easing:"easeOutQuart"},
+        plugins:{legend:{position:"top", labels:{usePointStyle:true, pointStyle:"rectRounded", boxWidth:18, boxHeight:8, padding:16, font:{family:"Prompt", size:12, weight:"600"}}}},
+        datasets:{bar:{barPercentage:.7, categoryPercentage:.6}},
+        scales:{
+          x:{stacked:true, grid:{display:false, drawBorder:false}, ticks:{font:{family:"Prompt", size:11}}},
+          y:{stacked:true, beginAtZero:true, ticks:{precision:0, font:{family:"Prompt", size:11}}, grid:{color:"rgba(102,112,133,.14)", drawBorder:false}}
+        }
+      }
+    });
+  } catch(err) { console.error("chart-vocab-days failed:", err); }
+
+  // Chart 2: quiz performance by level
+  try {
+    destroyChart("vl");
+    const levels = Object.keys(levelStats).sort();
+    const pcts = levels.map(l => levelStats[l].total ? Math.round((levelStats[l].correct/levelStats[l].total)*100) : 0);
+    state.chartInstances.vl = new Chart(document.getElementById("chart-vocab-level"), {
+      type:"bar",
+      data:{labels:levels, datasets:[{
+        label:"% ถูก", data:pcts,
+        backgroundColor:levels.map(l => l==="C1" ? "#f59e0b" : "#3b82f6"),
+        borderRadius:9, borderSkipped:false
+      }]},
+      options:{
+        responsive:true, maintainAspectRatio:false, animation:{duration:850, easing:"easeOutQuart"},
+        plugins:{
+          legend:{display:false},
+          tooltip:{callbacks:{label:(ctx)=>{ const l=levels[ctx.dataIndex]; const v=levelStats[l]; return `${v.correct}/${v.total} (${ctx.raw}%)`; }}}
+        },
+        datasets:{bar:{barPercentage:.55, categoryPercentage:.6}},
+        scales:{
+          x:{grid:{display:false, drawBorder:false}, ticks:{font:{family:"Prompt", size:12, weight:"600"}}},
+          y:{beginAtZero:true, max:100, ticks:{callback:v=>v+"%", font:{family:"Prompt", size:11}}, grid:{color:"rgba(102,112,133,.14)", drawBorder:false}}
+        }
+      }
+    });
+  } catch(err) { console.error("chart-vocab-level failed:", err); }
+
+  // Chart 3: overall known vs not-yet-known doughnut
+  try {
+    destroyChart("vk");
+    state.chartInstances.vk = new Chart(document.getElementById("chart-vocab-known"), {
+      type:"doughnut",
+      data:{labels:["จำได้แล้ว","ยังจำไม่ได้"], datasets:[{
+        data:[totalKnown, totalNotYet],
+        backgroundColor:["#22c55e","#ef4444"],
+        borderColor:"#ffffff", borderWidth:5, hoverOffset:8, spacing:2
+      }]},
+      options:{
+        responsive:true, maintainAspectRatio:false, cutout:"64%",
+        animation:{duration:850, easing:"easeOutQuart"},
+        plugins:{legend:{position:"bottom", labels:{usePointStyle:true, pointStyle:"circle", boxWidth:9, boxHeight:9, padding:18, font:{family:"Prompt", size:12, weight:"600"}}}}
+      }
+    });
+  } catch(err) { console.error("chart-vocab-known failed:", err); }
+}
+
+function openVocabHome(){
+  if(!vocabState) vocabState = buildVocabStructure();
+  showVocabSub("vocab-select");
+  renderVocabCalendar();
+}
+
+function renderVocabCalendar(){
+  const st = vocabState;
+  document.getElementById("vocabMonthLabel").textContent = `${VOCAB_MONTHS_TH[st.viewMonth]} ${st.viewYear}`;
+  const calDays = document.getElementById("vocabCalDays");
+  calDays.innerHTML = "";
+
+  const firstOfMonth = new Date(st.viewYear, st.viewMonth, 1);
+  const startWeekday = firstOfMonth.getDay();
+  const daysInMonth = new Date(st.viewYear, st.viewMonth+1, 0).getDate();
+
+  for(let i=0;i<startWeekday;i++){
+    const empty = document.createElement("div");
+    empty.className = "vocab-cal-cell empty";
+    calDays.appendChild(empty);
+  }
+  for(let d=1; d<=daysInMonth; d++){
+    const cellDate = new Date(st.viewYear, st.viewMonth, d);
+    const key = st.dateKey(cellDate);
+    const isToday = key === st.dateKey(st.today);
+    const dayIdx = st.dateToDayIndex.hasOwnProperty(key) ? st.dateToDayIndex[key] : null;
+    const quizWeek = st.dateToQuizWeek.hasOwnProperty(key) ? st.dateToQuizWeek[key] : null;
+
+    const cell = document.createElement("div");
+    let cls = "vocab-cal-cell" + (isToday ? " today" : "");
+    let tagHtml = "";
+    if(dayIdx !== null){
+      cls += " study" + (st.dayCompleted[dayIdx] ? " complete" : "");
+      tagHtml = `<span class="vocab-day-tag">Day ${dayIdx+1}</span>`;
+    } else if(quizWeek !== null){
+      cls += " quiz" + (st.quizCompleted[quizWeek] ? " complete" : "");
+      tagHtml = `<span class="vocab-day-tag">สอบ Wk${quizWeek+1}</span>`;
+    }
+    cell.className = cls;
+    cell.innerHTML = `<span class="vocab-date-num">${d}</span>${tagHtml}`;
+    if(dayIdx !== null) cell.onclick = () => openVocabDay(dayIdx);
+    else if(quizWeek !== null) cell.onclick = () => openVocabQuiz(quizWeek);
+    calDays.appendChild(cell);
+  }
+}
+
+document.getElementById("vocabPrevMonth").onclick = () => {
+  const st = vocabState; if(!st) return;
+  st.viewMonth--; if(st.viewMonth < 0){ st.viewMonth = 11; st.viewYear--; }
+  renderVocabCalendar();
+};
+document.getElementById("vocabNextMonth").onclick = () => {
+  const st = vocabState; if(!st) return;
+  st.viewMonth++; if(st.viewMonth > 11){ st.viewMonth = 0; st.viewYear++; }
+  renderVocabCalendar();
+};
+
+// ---- Flashcard deck ----
+function openVocabDay(i){
+  const st = vocabState;
+  st.currentDay = i;
+  st.dayIndices = st.days[i].map((_,idx)=>idx);
+  st.pos = 0;
+  st.known = new Set();
+  document.getElementById("vocabDeckEyebrow").textContent = "Day " + (i+1);
+  document.getElementById("vocabDoneHeading").textContent = `เยี่ยมมาก! ครบวันที่ ${i+1} แล้ว 🎉`;
+  showVocabSub("vocab-deck");
+  renderVocabCard();
+}
+
+function renderVocabCard(){
+  const st = vocabState;
+  const dayWords = st.days[st.currentDay];
+  const cardArea = document.getElementById("vocabCardArea");
+  const doneBox = document.getElementById("vocabDoneBox");
+
+  if(st.pos >= st.dayIndices.length){
+    cardArea.style.display = "none";
+    doneBox.style.display = "block";
+    document.getElementById("vocabDoneStats").textContent = `จำได้แล้ว ${st.known.size} จาก ${dayWords.length} คำ`;
+    if(st.known.size >= dayWords.length) st.dayCompleted[st.currentDay] = true;
+    saveVocabDayStat(st.currentDay, st.known.size, dayWords.length);
+    return;
+  }
+  cardArea.style.display = "block";
+  doneBox.style.display = "none";
+
+  const w = dayWords[st.dayIndices[st.pos]];
+  const [num, word, pos, level, defEn, defTh, example] = w;
+  document.getElementById("vocabFrontIndex").textContent = "#" + String(num).padStart(3,"0");
+  document.getElementById("vocabBackIndex").textContent = "#" + String(num).padStart(3,"0");
+  document.getElementById("vocabFrontWord").textContent = word;
+  document.getElementById("vocabFrontPos").textContent = pos;
+  const lvlText = level === "N/A" ? "C1" : level;
+  document.getElementById("vocabFrontLevel").textContent = lvlText;
+  document.getElementById("vocabBackLevel").textContent = lvlText;
+  document.getElementById("vocabDefEn").textContent = defEn;
+  document.getElementById("vocabDefTh").textContent = defTh;
+  document.getElementById("vocabExample").innerHTML = "“" + vocabFillSentence(example, word) + "”";
+
+  document.getElementById("vocabProgressLabel").textContent = (st.pos+1) + " / " + st.dayIndices.length;
+  document.getElementById("vocabKnownLabel").textContent = "จำได้แล้ว: " + st.known.size;
+  document.getElementById("vocabProgressFill").style.width = Math.round((st.pos/st.dayIndices.length)*100) + "%";
+
+  if(isAutoReadEnabled()){
+    const cardKey = `${st.currentDay}:${st.dayIndices[st.pos]}`;
+    if(st._lastSpokenCardKey !== cardKey){
+      st._lastSpokenCardKey = cardKey;
+      speakText(word);
+    }
+  }
+
+  st.flipped = false;
+  document.getElementById("vocabCard").classList.remove("flipped");
+}
+
+document.getElementById("vocabCard").onclick = () => {
+  const st = vocabState; if(!st) return;
+  st.flipped = !st.flipped;
+  document.getElementById("vocabCard").classList.toggle("flipped", st.flipped);
+};
+document.getElementById("vocabBtnKnown").onclick = (e) => {
+  e.stopPropagation();
+  const st = vocabState;
+  st.known.add(st.dayIndices[st.pos]);
+  st.pos++;
+  renderVocabCard();
+};
+document.getElementById("vocabBtnAgain").onclick = (e) => {
+  e.stopPropagation();
+  const st = vocabState;
+  const cur = st.dayIndices[st.pos];
+  st.dayIndices.splice(st.pos, 1);
+  st.dayIndices.push(cur);
+  renderVocabCard();
+};
+document.getElementById("vocabBtnPrev").onclick = () => {
+  const st = vocabState; if(st.pos > 0){ st.pos--; renderVocabCard(); }
+};
+document.getElementById("vocabBtnSkip").onclick = () => {
+  const st = vocabState; if(st.pos < st.dayIndices.length-1){ st.pos++; renderVocabCard(); }
+};
+document.getElementById("vocabBtnShuffleReset").onclick = () => {
+  const st = vocabState;
+  st.dayIndices = shuffle(st.dayIndices);
+  st.pos = 0;
+  renderVocabCard();
+};
+document.getElementById("vocabBtnRestart").onclick = () => {
+  const st = vocabState;
+  st.dayIndices = st.days[st.currentDay].map((_,idx)=>idx);
+  st.pos = 0;
+  st.known = new Set();
+  renderVocabCard();
+};
+document.getElementById("vocabBtnBackFromDone").onclick = () => openVocabHome();
+document.getElementById("vocabBackToSelect").onclick = () => openVocabHome();
+document.getElementById("vocabBackToSelectFromQuiz").onclick = () => openVocabHome();
+
+document.addEventListener("keydown", (e) => {
+  const screenVocab = document.getElementById("screen-vocab");
+  const deckSub = document.getElementById("vocab-deck");
+  if(!screenVocab.classList.contains("active") || !deckSub.classList.contains("active")) return;
+  if(e.code === "Space"){ e.preventDefault(); document.getElementById("vocabCard").click(); }
+  if(e.key === "ArrowRight") document.getElementById("vocabBtnSkip").click();
+  if(e.key === "ArrowLeft") document.getElementById("vocabBtnPrev").click();
+});
+
+// ---- Quiz (แบบทดสอบท้ายสัปดาห์) ----
+// คืนค่า {words, days} ที่เรียงลำดับตรงกัน (shuffle ไปด้วยกัน) เพื่อให้รู้ว่าแต่ละคำมาจาก Day ไหน
+function buildVocabQuizQuestions(weekIndex){
+  const st = vocabState;
+  const dayIdxs = st.weeks[weekIndex].dayIndices;
+  let pool = [];
+  let dayMap = [];
+  dayIdxs.forEach(di => {
+    st.days[di].forEach(w => { pool.push(w); dayMap.push(di); });
+  });
+  const order = shuffle(pool.map((_,i)=>i));
+  return {words: order.map(i=>pool[i]), days: order.map(i=>dayMap[i])};
+}
+
+// สลับ quizQuestions + quizDayIndex ไปพร้อมกันเพื่อรักษาความสัมพันธ์คำ<->วัน
+function shuffleVocabQuizOrder(st){
+  const idx = shuffle(st.quizQuestions.map((_,i)=>i));
+  st.quizQuestions = idx.map(i=>st.quizQuestions[i]);
+  st.quizDayIndex = idx.map(i=>st.quizDayIndex[i]);
+}
+
+function openVocabQuiz(weekIndex){
+  const st = vocabState;
+  st.quizWeekIndex = weekIndex;
+  const built = buildVocabQuizQuestions(weekIndex);
+  st.quizQuestions = built.words;
+  st.quizDayIndex = built.days;
+  st.quizAnswers = new Array(st.quizQuestions.length).fill(null);
+  st.quizChoices = st.quizQuestions.map(w => vocabBuildChoices(w[1], st.quizQuestions));
+  st.quizPos = 0;
+  st.quizScore = 0;
+  document.getElementById("vocabQuizEyebrow").textContent = "Week " + (weekIndex+1) + " • Quiz";
+  document.getElementById("vocabQuizTitle").textContent = "แบบทดสอบสัปดาห์ที่ " + (weekIndex+1);
+  showVocabSub("vocab-quiz");
+  document.getElementById("vocabQuizArea").style.display = "block";
+  document.getElementById("vocabQuizResult").style.display = "none";
+  renderVocabQuiz();
+}
+
+function vocabWordRegex(word){
+  const escaped = word.replace(/[.*+?^${}()|[\]\\]/g,"\\$&");
+  // Match the base word plus any trailing letters (covers -s/-es/-ed/-ing inflections,
+  // e.g. "absorb" -> "absorbed", "accelerate" -> "accelerated") so the answer word is
+  // always found and blanked out, even when the sentence uses a conjugated form.
+  return new RegExp("\\b" + escaped + "[a-z]*", "i");
+}
+
+function vocabBlankSentence(sentence, word){
+  const re = vocabWordRegex(word);
+  if(!re.test(sentence)){
+    // Fallback: no match at all (shouldn't normally happen) — blank the whole sentence's
+    // last word rather than risk leaking the answer.
+    return esc(sentence);
+  }
+  const marked = sentence.replace(re, "@@VOCABBLANK@@");
+  return esc(marked).replace("@@VOCABBLANK@@", `<span class="vocab-quiz-blank">&nbsp;</span>`);
+}
+
+// สร้างข้อความสำหรับอ่านออกเสียง โดยแทนคำเฉลยด้วยช่องว่าง เพื่อไม่ให้เผยคำตอบ
+function vocabQuizSpokenText(sentence, word){
+  const re = vocabWordRegex(word);
+  if(!re.test(sentence)) return sentence;
+  return sentence.replace(re, "____");
+}
+
+const vocabLevelClass = l => l === "C1" ? "level-b2c1" : l === "B2" ? "level-b1" : "level-a12";
+const vocabLevelText = l => l === "N/A" ? "C1" : l;
+
+function vocabFillSentence(sentence, word){
+  const re = vocabWordRegex(word);
+  const match = sentence.match(re);
+  if(!match) return esc(sentence);
+  const marked = sentence.replace(re, "@@VOCABFILL@@");
+  return esc(marked).replace("@@VOCABFILL@@", `<span class="highlight">${esc(match[0])}</span>`);
+}
+
+function vocabBuildChoices(correctWord, pool){
+  const words = pool.map(w => w[1]).filter(w => w.toLowerCase() !== correctWord.toLowerCase());
+  const distractors = shuffle(words).slice(0, 3);
+  return shuffle([correctWord, ...distractors]);
+}
+
+function renderVocabQuiz(){
+  const st = vocabState;
+  const total = st.quizQuestions.length;
+  if(st.quizPos < 0) st.quizPos = 0;
+  if(st.quizPos >= total) st.quizPos = total - 1;
+
+  const w = st.quizQuestions[st.quizPos];
+  const [num, word, pos, level, defEn, defTh, example] = w;
+  const answered = st.quizAnswers.filter(a => a !== null).length;
+
+  document.getElementById("vocabQuizIndex").textContent = `คำที่ ${st.quizPos+1} / ${total}`;
+  document.getElementById("vocabQuizSentence").innerHTML = vocabBlankSentence(example, word);
+
+  const choices = st.quizChoices[st.quizPos];
+  const optionsBox = document.getElementById("vocabQuizOptions");
+  optionsBox.innerHTML = "";
+  choices.forEach(choice => {
+    const btn = document.createElement("button");
+    btn.className = "vocab-quiz-option" + (st.quizAnswers[st.quizPos] === choice ? " selected" : "");
+    btn.textContent = choice;
+    btn.onclick = () => {
+      st.quizAnswers[st.quizPos] = choice;
+      renderVocabQuiz();
+    };
+    optionsBox.appendChild(btn);
+  });
+
+  document.getElementById("vocabQuizProgressLabel").textContent = `${st.quizPos+1} / ${total} • ตอบแล้ว ${answered}/${total}`;
+  document.getElementById("vocabQuizScoreLabel").textContent = "ตอบแล้ว: " + answered;
+  document.getElementById("vocabQuizProgressFill").style.width = Math.round(((st.quizPos+1)/total)*100) + "%";
+
+  if(isAutoReadEnabled()){
+    const quizKey = `${st.quizWeekIndex}:${st.quizPos}`;
+    if(st._lastSpokenQuizKey !== quizKey){
+      st._lastSpokenQuizKey = quizKey;
+      speakText(vocabQuizSpokenText(example, word));
+    }
+  }
+
+  document.getElementById("vocabQuizPrevBtn").disabled = st.quizPos === 0;
+  document.getElementById("vocabQuizNextBtn").disabled = st.quizPos === total - 1;
+
+  renderVocabQuizNav();
+}
+
+function renderVocabQuizNav(){
+  const st = vocabState;
+  const nav = document.getElementById("vocabQuizNav");
+  if(!nav) return;
+  const answeredCount = st.quizAnswers.filter(a => a !== null).length;
+  const countEl = document.getElementById("vocabQuizNav-count");
+  if(countEl) countEl.textContent = `${st.quizPos+1}/${st.quizQuestions.length} • ตอบแล้ว ${answeredCount}`;
+  nav.innerHTML = "";
+  st.quizQuestions.forEach((_, index) => {
+    const btn = document.createElement("button");
+    btn.classList.add("q-nav-btn");
+    if(index === st.quizPos) btn.classList.add("current");
+    else if(st.quizAnswers[index] !== null) btn.classList.add("answered");
+    else btn.classList.add("unanswered");
+    btn.textContent = index + 1;
+    btn.onclick = () => { st.quizPos = index; renderVocabQuiz(); };
+    nav.appendChild(btn);
+  });
+}
+
+document.getElementById("vocabQuizPrevBtn").onclick = () => {
+  const st = vocabState; if(!st) return;
+  st.quizPos = Math.max(0, st.quizPos - 1);
+  renderVocabQuiz();
+};
+document.getElementById("vocabQuizNextBtn").onclick = () => {
+  const st = vocabState; if(!st) return;
+  st.quizPos = Math.min(st.quizQuestions.length - 1, st.quizPos + 1);
+  renderVocabQuiz();
+};
+document.getElementById("vocabQuizSubmitBtn").onclick = async () => {
+  const st = vocabState; if(!st) return;
+  const un = st.quizAnswers.filter(a => a === null).length;
+  if(un > 0){
+    const ok = await customConfirm(`ยังตอบไม่ครบ ${un} คำ\nต้องการส่งคำตอบเลยหรือไม่?`, {title:"ส่งคำตอบ", icon:"📝", okText:"ส่งคำตอบ", cancelText:"กลับไปทำต่อ"});
+    if(!ok) return;
+  }
+  finishVocabQuiz();
+};
+
+function finishVocabQuiz(){
+  const st = vocabState;
+  st.quizScore = st.quizQuestions.reduce((sum, w, i) => sum + (st.quizAnswers[i] && st.quizAnswers[i].toLowerCase() === w[1].toLowerCase() ? 1 : 0), 0);
+  st.quizCompleted[st.quizWeekIndex] = true;
+  const total = st.quizQuestions.length;
+  const pct = total ? Math.round((st.quizScore/total)*100) : 0;
+
+  const byLevel = {};
+  st.quizQuestions.forEach((w, i) => {
+    const lvl = vocabLevelText(w[3]);
+    byLevel[lvl] = byLevel[lvl] || {correct:0, total:0};
+    byLevel[lvl].total++;
+    if(st.quizAnswers[i] && st.quizAnswers[i].toLowerCase() === w[1].toLowerCase()) byLevel[lvl].correct++;
+  });
+  addVocabLevelStats(byLevel);
+
+  document.getElementById("vocabQuizArea").style.display = "none";
+  document.getElementById("vocabQuizResult").style.display = "block";
+  document.getElementById("vocabQuizScoreBig").textContent = st.quizScore + "/" + total;
+  document.getElementById("vocabQuizResultText").textContent = `ตอบถูก ${pct}% ของคำศัพท์สัปดาห์นี้`;
+
+  // Doughnut: จำได้ (ตอบถูก) vs จำไม่ได้ (ตอบผิด/ไม่ได้ตอบ)
+  try {
+    destroyChart("vqd");
+    state.chartInstances.vqd = new Chart(document.getElementById("chart-vocab-quiz-doughnut"), {
+      type:"doughnut",
+      data:{labels:["จำได้","จำไม่ได้"], datasets:[{
+        data:[st.quizScore, total - st.quizScore],
+        backgroundColor:["#22c55e","#ef4444"],
+        borderColor:"#ffffff", borderWidth:5, hoverOffset:8, spacing:2
+      }]},
+      options:{
+        responsive:true, maintainAspectRatio:false, cutout:"64%",
+        animation:{duration:850, easing:"easeOutQuart"},
+        plugins:{legend:{position:"bottom", labels:{usePointStyle:true, pointStyle:"circle", boxWidth:9, boxHeight:9, padding:18, font:{family:"Prompt", size:12, weight:"600"}}}}
+      }
+    });
+  } catch(err) { console.error("chart-vocab-quiz-doughnut failed:", err); }
+
+  // Bar: คำนั้นอยู่วันไหนบ้าง — ผลถูก/ผิดแยกตามวันที่ท่องคำนั้นมา
+  try {
+    const dayIdxs = st.weeks[st.quizWeekIndex].dayIndices;
+    const byDay = {};
+    dayIdxs.forEach(di => { byDay[di] = {correct:0, total:0}; });
+    st.quizQuestions.forEach((w, i) => {
+      const di = st.quizDayIndex[i];
+      byDay[di].total++;
+      if(st.quizAnswers[i] && st.quizAnswers[i].toLowerCase() === w[1].toLowerCase()) byDay[di].correct++;
+    });
+    const labels = dayIdxs.map(di => "Day " + (di+1));
+    const correctData = dayIdxs.map(di => byDay[di].correct);
+    const wrongData = dayIdxs.map(di => byDay[di].total - byDay[di].correct);
+    destroyChart("vqbd");
+    state.chartInstances.vqbd = new Chart(document.getElementById("chart-vocab-quiz-byday"), {
+      type:"bar",
+      data:{labels, datasets:[
+        {label:"จำได้", data:correctData, backgroundColor:"#22c55e", borderRadius:6, borderSkipped:false},
+        {label:"จำไม่ได้", data:wrongData, backgroundColor:"#ef4444", borderRadius:6, borderSkipped:false}
+      ]},
+      options:{
+        responsive:true, maintainAspectRatio:false, animation:{duration:850, easing:"easeOutQuart"},
+        plugins:{legend:{position:"top", labels:{usePointStyle:true, pointStyle:"rectRounded", boxWidth:18, boxHeight:8, padding:16, font:{family:"Prompt", size:12, weight:"600"}}}},
+        datasets:{bar:{barPercentage:.6, categoryPercentage:.6}},
+        scales:{
+          x:{stacked:true, grid:{display:false, drawBorder:false}, ticks:{font:{family:"Prompt", size:12, weight:"600"}}},
+          y:{stacked:true, beginAtZero:true, ticks:{precision:0, font:{family:"Prompt", size:11}}, grid:{color:"rgba(102,112,133,.14)", drawBorder:false}}
+        }
+      }
+    });
+  } catch(err) { console.error("chart-vocab-quiz-byday failed:", err); }
+
+  const detail = document.getElementById("vocabQuizDetail");
+  detail.innerHTML = "";
+  st.quizQuestions.forEach((w, i) => {
+    const [num, word, pos, level, defEn, defTh, example] = w;
+    const ua = st.quizAnswers[i];
+    const ok = ua && ua.toLowerCase() === word.toLowerCase();
+    const dayTag = (st.quizDayIndex && st.quizDayIndex[i] !== undefined) ? `Day ${st.quizDayIndex[i]+1}` : "";
+    detail.innerHTML += `<div class="result-item ${ok?"correct":"incorrect"}">
+      <div style="margin-bottom:8px">
+        <span style="font-size:20px">${ok?"✅":"❌"}</span>
+        <span class="badge-tense">${esc(word)}</span>
+        ${dayTag ? `<span class="badge-tense">${esc(dayTag)}</span>` : ""}
+        <span class="badge-level ${vocabLevelClass(level)}">${esc(vocabLevelText(level))}</span>
+      </div>
+      <div style="font-weight:500;margin-bottom:8px">${i+1}. ${vocabFillSentence(example, word)}</div>
+      <div>คำตอบของคุณ: <strong style="color:${ok?"#4caf50":"#f44336"}">${esc(ua || "(ไม่ได้ตอบ)")}</strong></div>
+      ${!ok ? `<div>คำตอบที่ถูก: <strong style="color:#4caf50">${esc(word)}</strong></div>` : ""}
+      <div class="explain-box">💡 ${esc(defEn)} — ${esc(defTh)}</div>
+    </div>`;
+  });
+}
+
+document.getElementById("vocabBtnQuizRetry").onclick = () => {
+  const st = vocabState;
+  shuffleVocabQuizOrder(st);
+  st.quizAnswers = new Array(st.quizQuestions.length).fill(null);
+  st.quizChoices = st.quizQuestions.map(w => vocabBuildChoices(w[1], st.quizQuestions));
+  st.quizPos = 0;
+  st.quizScore = 0;
+  document.getElementById("vocabQuizArea").style.display = "block";
+  document.getElementById("vocabQuizResult").style.display = "none";
+  renderVocabQuiz();
+};
+document.getElementById("vocabBtnQuizBack").onclick = () => openVocabHome();
+
 // ============ INIT (load question bank, then boot the app) ============
 let historyChart = null;
 
@@ -920,19 +1629,27 @@ async function initApp(){
     QUESTIONS = [];
   }
   buildSets();
+
+  try {
+    const vRes = await fetch("words.json");
+    VOCAB_WORDS = await vRes.json();
+  } catch (err) {
+    console.error("โหลดคลังคำศัพท์ (words.json) ไม่สำเร็จ:", err);
+    VOCAB_WORDS = [];
+  }
   document.getElementById("total-count").textContent = QUESTIONS.length + "+";
 
   // TTS controls
-  const ttsToggle = document.getElementById("tts-toggle");
-  if(ttsToggle){
-    ttsToggle.checked = isAutoReadEnabled();
-    ttsToggle.onchange = () => setAutoReadEnabled(ttsToggle.checked);
+  loadTtsVoices();
+  const settingsTtsToggle = document.getElementById("settings-tts-toggle");
+  if(settingsTtsToggle){
+    settingsTtsToggle.checked = isAutoReadEnabled();
+    settingsTtsToggle.onchange = () => setAutoReadEnabled(settingsTtsToggle.checked);
   }
-  const ttsVoiceSelect = document.getElementById("tts-voice-select");
-  if(ttsVoiceSelect){
-    loadTtsVoices(); // voices may already be ready by the time we get here
-    ttsVoiceSelect.onchange = () => {
-      const picked = ttsVoices.find(v => v.voiceURI === ttsVoiceSelect.value);
+  const settingsVoiceSelect = document.getElementById("settings-tts-voice-select");
+  if(settingsVoiceSelect){
+    settingsVoiceSelect.onchange = () => {
+      const picked = ttsVoices.find(v => v.voiceURI === settingsVoiceSelect.value);
       if(picked){
         ttsChosenVoice = picked;
         localStorage.setItem(TTS_VOICE_KEY, picked.voiceURI);
@@ -945,6 +1662,26 @@ async function initApp(){
     ttsReplayBtn.onclick = () => {
       const cq = state.currentQuiz;
       if(cq && cq.items && cq.items[cq.current]) speakText(cq.items[cq.current].q);
+    };
+  }
+
+  const vocabTtsBtn = document.getElementById("vocabTtsBtn");
+  if(vocabTtsBtn){
+    vocabTtsBtn.onclick = (e) => {
+      e.stopPropagation();
+      const st = vocabState;
+      if(!st) return;
+      const w = st.days[st.currentDay][st.dayIndices[st.pos]];
+      if(w) speakText(w[1]);
+    };
+  }
+  const vocabQuizTtsBtn = document.getElementById("vocabQuizTtsBtn");
+  if(vocabQuizTtsBtn){
+    vocabQuizTtsBtn.onclick = () => {
+      const st = vocabState;
+      if(!st || !st.quizQuestions || !st.quizQuestions[st.quizPos]) return;
+      const w = st.quizQuestions[st.quizPos];
+      speakText(vocabQuizSpokenText(w[6], w[1]));
     };
   }
 
