@@ -1772,7 +1772,6 @@ async function initApp(){
     console.error("โหลดคลังข้อสอบ (questions.json) ไม่สำเร็จ:", err);
     QUESTIONS = [];
   }
-  buildSets();
 
   try {
     const vRes = await fetch("words.json");
@@ -1782,6 +1781,9 @@ async function initApp(){
     console.error("โหลดคลังคำศัพท์ (words.json) ไม่สำเร็จ:", err);
     VOCAB_WORDS = [];
   }
+
+  buildSets();
+
   document.getElementById("total-count").textContent = QUESTIONS.length + "+";
 
   // TTS controls
