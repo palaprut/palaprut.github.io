@@ -1,0 +1,4291 @@
+{
+  "version": 2,
+  "source": "Oxford 3000",
+  "batch": 6,
+  "level": "Mixed",
+  "totalWords": 100,
+  "metadata": {
+    "created": "2026-07-13",
+    "language": "en",
+    "description": "Batch 06 of 50 — Oxford 3000 words 501-600"
+  },
+  "words": [
+    {
+      "id": 501,
+      "word": "combination",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "two or more things joined together",
+      "definitionTh": "การรวมกัน / ชุดผสม",
+      "example": "The dish uses a combination of spices.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "mixture",
+          "level": "B2"
+        },
+        {
+          "word": "blend",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [
+          "combine"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "combination example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 100
+    },
+    {
+      "id": 502,
+      "word": "combine",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to join two or more things together",
+      "definitionTh": "รวม / ผสม",
+      "example": "Combine the flour and sugar.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "join",
+          "level": "B1"
+        },
+        {
+          "word": "mix",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "separate",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "combination"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "combine example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 99
+    },
+    {
+      "id": 503,
+      "word": "come",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to move toward a place or person",
+      "definitionTh": "มา",
+      "example": "Please come to my office.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "arrive",
+          "level": "A1"
+        },
+        {
+          "word": "approach",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "go",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "come example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 98
+    },
+    {
+      "id": 504,
+      "word": "comedy",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "entertainment intended to make people laugh",
+      "definitionTh": "เรื่องตลก / ละครตลก",
+      "example": "We watched a comedy last night.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "humor",
+          "level": "A2"
+        },
+        {
+          "word": "comic play",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "tragedy",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "comedy example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 97
+    },
+    {
+      "id": 505,
+      "word": "comfort",
+      "pos": "n., v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a state of ease; to make someone feel better",
+      "definitionTh": "ความสบาย / ปลอบโยน",
+      "example": "Her words gave me comfort.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "ease",
+          "level": "B2"
+        },
+        {
+          "word": "console",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "discomfort",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "comfortable"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "comfort example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 96
+    },
+    {
+      "id": 506,
+      "word": "comfortable",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "feeling physically relaxed and free from pain",
+      "definitionTh": "สบาย",
+      "example": "This chair is very comfortable.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "cozy",
+          "level": "A2"
+        },
+        {
+          "word": "relaxed",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "uncomfortable",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "comfort"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "comfortably"
+        ]
+      },
+      "collocations": [
+        "comfortable example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 95
+    },
+    {
+      "id": 507,
+      "word": "command",
+      "pos": "n., v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "an order; to give an order",
+      "definitionTh": "คำสั่ง / สั่ง",
+      "example": "The officer gave a clear command.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "order",
+          "level": "B2"
+        },
+        {
+          "word": "direct",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "command example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 94
+    },
+    {
+      "id": 508,
+      "word": "comment",
+      "pos": "n., v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a spoken or written opinion; to express an opinion",
+      "definitionTh": "ความคิดเห็น / แสดงความคิดเห็น",
+      "example": "She made a helpful comment.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "remark",
+          "level": "A2"
+        },
+        {
+          "word": "observation",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "comment example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 93
+    },
+    {
+      "id": 509,
+      "word": "commercial",
+      "pos": "adj., n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "related to business; a radio or television advertisement",
+      "definitionTh": "เชิงพาณิชย์ / โฆษณา",
+      "example": "The building is used for commercial purposes.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "business",
+          "level": "B1"
+        },
+        {
+          "word": "advertisement",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "noncommercial",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "commercially"
+        ]
+      },
+      "collocations": [
+        "commercial example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 92
+    },
+    {
+      "id": 510,
+      "word": "commission",
+      "pos": "n., v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a payment for selling something; to formally request work",
+      "definitionTh": "ค่านายหน้า / ว่าจ้าง",
+      "example": "She earns a commission on each sale.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "fee",
+          "level": "B2"
+        },
+        {
+          "word": "authorize",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "commission example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 91
+    },
+    {
+      "id": 511,
+      "word": "commit",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to do an action or promise to do something",
+      "definitionTh": "กระทำ / มุ่งมั่น",
+      "example": "The company committed to reducing waste.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "pledge",
+          "level": "B1"
+        },
+        {
+          "word": "devote",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "commitment"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "commit example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 90
+    },
+    {
+      "id": 512,
+      "word": "commitment",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a promise or firm decision to do something",
+      "definitionTh": "คำมั่น / ความมุ่งมั่น",
+      "example": "The project requires full commitment.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "promise",
+          "level": "B2"
+        },
+        {
+          "word": "dedication",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [
+          "commit"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "commitment example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 89
+    },
+    {
+      "id": 513,
+      "word": "committee",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a group chosen to make decisions",
+      "definitionTh": "คณะกรรมการ",
+      "example": "The committee approved the proposal.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "panel",
+          "level": "B2"
+        },
+        {
+          "word": "board",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "committee example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 88
+    },
+    {
+      "id": 514,
+      "word": "common",
+      "pos": "adj., n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "happening often or shared by several people",
+      "definitionTh": "ทั่วไป / ร่วมกัน",
+      "example": "This is a common mistake.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "usual",
+          "level": "A1"
+        },
+        {
+          "word": "ordinary",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "rare",
+          "level": "A1"
+        },
+        {
+          "word": "unusual",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "commonly"
+        ]
+      },
+      "collocations": [
+        "common example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 87
+    },
+    {
+      "id": 515,
+      "word": "commonly",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "often or usually",
+      "definitionTh": "โดยทั่วไป / มักจะ",
+      "example": "This word is commonly used.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "usually",
+          "level": "B2"
+        },
+        {
+          "word": "frequently",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "rarely",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "common"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "commonly example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 86
+    },
+    {
+      "id": 516,
+      "word": "communicate",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to share information or ideas",
+      "definitionTh": "สื่อสาร",
+      "example": "We communicate by email.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "convey",
+          "level": "A2"
+        },
+        {
+          "word": "connect",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "communication"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "communicate example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 85
+    },
+    {
+      "id": 517,
+      "word": "communication",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "the exchange of information or ideas",
+      "definitionTh": "การสื่อสาร",
+      "example": "Good communication improves teamwork.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "contact",
+          "level": "B1"
+        },
+        {
+          "word": "exchange",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [
+          "communicate"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "communication example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 84
+    },
+    {
+      "id": 518,
+      "word": "community",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "people living in one area or sharing interests",
+      "definitionTh": "ชุมชน",
+      "example": "The local community supported the project.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "society",
+          "level": "A2"
+        },
+        {
+          "word": "neighborhood",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "community example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 83
+    },
+    {
+      "id": 519,
+      "word": "company",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a business organization",
+      "definitionTh": "บริษัท",
+      "example": "She works for a software company.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "business",
+          "level": "A1"
+        },
+        {
+          "word": "firm",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "company example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 82
+    },
+    {
+      "id": 520,
+      "word": "compare",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to examine how things are similar or different",
+      "definitionTh": "เปรียบเทียบ",
+      "example": "Compare the two results carefully.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "contrast",
+          "level": "A1"
+        },
+        {
+          "word": "evaluate",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "comparison"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "compare example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 81
+    },
+    {
+      "id": 521,
+      "word": "comparison",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "the act of examining similarities and differences",
+      "definitionTh": "การเปรียบเทียบ",
+      "example": "The report includes a price comparison.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "contrast",
+          "level": "B1"
+        },
+        {
+          "word": "evaluation",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [
+          "compare"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "comparison example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 80
+    },
+    {
+      "id": 522,
+      "word": "compete",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to try to win against others",
+      "definitionTh": "แข่งขัน",
+      "example": "Several teams will compete.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "contest",
+          "level": "A2"
+        },
+        {
+          "word": "rival",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "cooperate",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "competition",
+          "competitor"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "compete example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 79
+    },
+    {
+      "id": 523,
+      "word": "competition",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "an event or situation in which people compete",
+      "definitionTh": "การแข่งขัน",
+      "example": "She won the singing competition.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "contest",
+          "level": "A2"
+        },
+        {
+          "word": "tournament",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [
+          "compete"
+        ],
+        "adjective": [
+          "competitive"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "competition example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 78
+    },
+    {
+      "id": 524,
+      "word": "competitive",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "trying strongly to win or be more successful",
+      "definitionTh": "มีการแข่งขันสูง",
+      "example": "The market is highly competitive.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "rivalrous",
+          "level": "B1"
+        },
+        {
+          "word": "ambitious",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "cooperative",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "competition"
+        ],
+        "verb": [
+          "compete"
+        ],
+        "adjective": [],
+        "adverb": [
+          "competitively"
+        ]
+      },
+      "collocations": [
+        "competitive example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 77
+    },
+    {
+      "id": 525,
+      "word": "competitor",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a person or company competing against another",
+      "definitionTh": "คู่แข่ง",
+      "example": "Our main competitor reduced its prices.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "rival",
+          "level": "B1"
+        },
+        {
+          "word": "opponent",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "competition"
+        ],
+        "verb": [
+          "compete"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "competitor example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 76
+    },
+    {
+      "id": 526,
+      "word": "complain",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to say that you are unhappy about something",
+      "definitionTh": "บ่น / ร้องเรียน",
+      "example": "Customers complained about the delay.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "protest",
+          "level": "A2"
+        },
+        {
+          "word": "object",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "complaint"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "complain example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 75
+    },
+    {
+      "id": 527,
+      "word": "complaint",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a statement that something is wrong or unsatisfactory",
+      "definitionTh": "คำร้องเรียน",
+      "example": "We received a customer complaint.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "grievance",
+          "level": "B1"
+        },
+        {
+          "word": "protest",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [
+          "complain"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "complaint example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 74
+    },
+    {
+      "id": 528,
+      "word": "complete",
+      "pos": "adj., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "having all parts; to finish something",
+      "definitionTh": "สมบูรณ์ / ทำให้เสร็จ",
+      "example": "Please complete the form.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "finish",
+          "level": "A1"
+        },
+        {
+          "word": "whole",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "incomplete",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "completely"
+        ]
+      },
+      "collocations": [
+        "complete example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 73
+    },
+    {
+      "id": 529,
+      "word": "completely",
+      "pos": "adv.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "in every way or fully",
+      "definitionTh": "อย่างสมบูรณ์",
+      "example": "The room was completely empty.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "fully",
+          "level": "A2"
+        },
+        {
+          "word": "entirely",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "partly",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "complete"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "completely example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 72
+    },
+    {
+      "id": 530,
+      "word": "complex",
+      "pos": "adj., n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "having many connected parts and difficult to understand",
+      "definitionTh": "ซับซ้อน",
+      "example": "The system is very complex.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "complicated",
+          "level": "B1"
+        },
+        {
+          "word": "intricate",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "simple",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "complex example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 71
+    },
+    {
+      "id": 531,
+      "word": "complicated",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "difficult to understand or deal with",
+      "definitionTh": "ยุ่งยาก / ซับซ้อน",
+      "example": "The instructions are complicated.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "complex",
+          "level": "B2"
+        },
+        {
+          "word": "difficult",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "simple",
+          "level": "B2"
+        },
+        {
+          "word": "easy",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "complicated example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 70
+    },
+    {
+      "id": 532,
+      "word": "component",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "one part of a larger system",
+      "definitionTh": "ส่วนประกอบ",
+      "example": "The sensor is a key component.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "part",
+          "level": "B2"
+        },
+        {
+          "word": "element",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "component example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 69
+    },
+    {
+      "id": 533,
+      "word": "computer",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an electronic machine that stores and processes information",
+      "definitionTh": "คอมพิวเตอร์",
+      "example": "I use a computer at work.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "PC",
+          "level": "A1"
+        },
+        {
+          "word": "machine",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "computer example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 68
+    },
+    {
+      "id": 534,
+      "word": "concentrate",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to give all your attention to something",
+      "definitionTh": "มีสมาธิ / ทำให้เข้มข้น",
+      "example": "Please concentrate on the task.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "focus",
+          "level": "B1"
+        },
+        {
+          "word": "attend",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "distract",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "concentration"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "concentrate example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 67
+    },
+    {
+      "id": 535,
+      "word": "concentration",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the ability to focus attention",
+      "definitionTh": "สมาธิ / ความเข้มข้น",
+      "example": "This work requires concentration.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "focus",
+          "level": "B2"
+        },
+        {
+          "word": "attention",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "distraction",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [
+          "concentrate"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "concentration example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 66
+    },
+    {
+      "id": 536,
+      "word": "concept",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "an idea or general principle",
+      "definitionTh": "แนวคิด",
+      "example": "The concept is easy to understand.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "idea",
+          "level": "B2"
+        },
+        {
+          "word": "notion",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "concept example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 65
+    },
+    {
+      "id": 537,
+      "word": "concern",
+      "pos": "n., v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a worry; to relate to or worry someone",
+      "definitionTh": "ความกังวล / เกี่ยวข้อง",
+      "example": "Safety is our main concern.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "worry",
+          "level": "B2"
+        },
+        {
+          "word": "issue",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "reassurance",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "concerned"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "concern example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 64
+    },
+    {
+      "id": 538,
+      "word": "concerned",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "worried or involved with something",
+      "definitionTh": "กังวล / เกี่ยวข้อง",
+      "example": "We are concerned about safety.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "worried",
+          "level": "B2"
+        },
+        {
+          "word": "involved",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unconcerned",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "concern"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "concerned example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 63
+    },
+    {
+      "id": 539,
+      "word": "concert",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a public performance of music",
+      "definitionTh": "คอนเสิร์ต",
+      "example": "We went to a concert.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "performance",
+          "level": "A1"
+        },
+        {
+          "word": "show",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "concert example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 62
+    },
+    {
+      "id": 540,
+      "word": "conclude",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to decide after considering information; to end",
+      "definitionTh": "สรุป / จบ",
+      "example": "The report concludes that the plan is effective.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "deduce",
+          "level": "B1"
+        },
+        {
+          "word": "finish",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "begin",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "conclusion"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "conclude example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 61
+    },
+    {
+      "id": 541,
+      "word": "conclusion",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a final decision or the end of something",
+      "definitionTh": "ข้อสรุป / ตอนจบ",
+      "example": "We reached the same conclusion.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "result",
+          "level": "B1"
+        },
+        {
+          "word": "ending",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "beginning",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [
+          "conclude"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "conclusion example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 60
+    },
+    {
+      "id": 542,
+      "word": "condition",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the state of something; a requirement",
+      "definitionTh": "สภาพ / เงื่อนไข",
+      "example": "The machine is in good condition.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "state",
+          "level": "A2"
+        },
+        {
+          "word": "requirement",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "condition example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 59
+    },
+    {
+      "id": 543,
+      "word": "conduct",
+      "pos": "v., n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to organize or carry out; behavior",
+      "definitionTh": "ดำเนินการ / ความประพฤติ",
+      "example": "They conducted a safety inspection.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "carry out",
+          "level": "B2"
+        },
+        {
+          "word": "behavior",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "conduct example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 58
+    },
+    {
+      "id": 544,
+      "word": "conference",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a formal meeting for discussion",
+      "definitionTh": "การประชุม",
+      "example": "She spoke at an international conference.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "meeting",
+          "level": "A2"
+        },
+        {
+          "word": "convention",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "conference example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 57
+    },
+    {
+      "id": 545,
+      "word": "confidence",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "belief in your own ability or trust in someone",
+      "definitionTh": "ความมั่นใจ",
+      "example": "She answered with confidence.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "self-assurance",
+          "level": "B2"
+        },
+        {
+          "word": "trust",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "doubt",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "confident"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "confidence example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 56
+    },
+    {
+      "id": 546,
+      "word": "confident",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "sure about your ability or something happening",
+      "definitionTh": "มั่นใจ",
+      "example": "He is confident about the result.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "certain",
+          "level": "B1"
+        },
+        {
+          "word": "self-assured",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "uncertain",
+          "level": "B1"
+        },
+        {
+          "word": "nervous",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "confidence"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "confidently"
+        ]
+      },
+      "collocations": [
+        "confident example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 55
+    },
+    {
+      "id": 547,
+      "word": "confirm",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to state or show that something is true",
+      "definitionTh": "ยืนยัน",
+      "example": "Please confirm your booking.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "verify",
+          "level": "B1"
+        },
+        {
+          "word": "validate",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "deny",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "confirmation"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "confirm example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 54
+    },
+    {
+      "id": 548,
+      "word": "conflict",
+      "pos": "n., v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a serious disagreement; to be incompatible",
+      "definitionTh": "ความขัดแย้ง / ขัดแย้ง",
+      "example": "The two reports conflict with each other.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "dispute",
+          "level": "B2"
+        },
+        {
+          "word": "clash",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "agreement",
+          "level": "B2"
+        },
+        {
+          "word": "harmony",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "conflict example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 53
+    },
+    {
+      "id": 549,
+      "word": "confuse",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to make someone unable to understand clearly",
+      "definitionTh": "ทำให้สับสน",
+      "example": "The instructions confused me.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "puzzle",
+          "level": "B1"
+        },
+        {
+          "word": "bewilder",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "clarify",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "confusion"
+        ],
+        "verb": [],
+        "adjective": [
+          "confused",
+          "confusing"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "confuse example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 52
+    },
+    {
+      "id": 550,
+      "word": "confused",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "unable to understand clearly",
+      "definitionTh": "สับสน",
+      "example": "I was confused by the question.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "puzzled",
+          "level": "B1"
+        },
+        {
+          "word": "uncertain",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "clear",
+          "level": "B1"
+        },
+        {
+          "word": "certain",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "confusion"
+        ],
+        "verb": [
+          "confuse"
+        ],
+        "adjective": [
+          "confusing"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "confused example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 51
+    },
+    {
+      "id": 551,
+      "word": "confusing",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "difficult to understand",
+      "definitionTh": "ทำให้สับสน",
+      "example": "The map is confusing.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "unclear",
+          "level": "B2"
+        },
+        {
+          "word": "puzzling",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "clear",
+          "level": "B2"
+        },
+        {
+          "word": "simple",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "confusion"
+        ],
+        "verb": [
+          "confuse"
+        ],
+        "adjective": [
+          "confused"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "confusing example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 50
+    },
+    {
+      "id": 552,
+      "word": "connect",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to join or link things together",
+      "definitionTh": "เชื่อมต่อ",
+      "example": "Connect the cable to the computer.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "join",
+          "level": "A2"
+        },
+        {
+          "word": "link",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "disconnect",
+          "level": "A2"
+        },
+        {
+          "word": "separate",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "connection"
+        ],
+        "verb": [],
+        "adjective": [
+          "connected"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "connect example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 49
+    },
+    {
+      "id": 553,
+      "word": "connected",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "joined or related",
+      "definitionTh": "เชื่อมต่อ / เกี่ยวข้อง",
+      "example": "The devices are connected.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "linked",
+          "level": "A2"
+        },
+        {
+          "word": "related",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "disconnected",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "connection"
+        ],
+        "verb": [
+          "connect"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "connected example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 48
+    },
+    {
+      "id": 554,
+      "word": "connection",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a link or relationship between things",
+      "definitionTh": "การเชื่อมต่อ / ความสัมพันธ์",
+      "example": "Check the network connection.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "link",
+          "level": "B1"
+        },
+        {
+          "word": "relationship",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "disconnection",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [
+          "connect"
+        ],
+        "adjective": [
+          "connected"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "connection example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 47
+    },
+    {
+      "id": 555,
+      "word": "conscious",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "awake and aware of what is happening",
+      "definitionTh": "มีสติ / ตระหนักรู้",
+      "example": "He remained conscious after the accident.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "aware",
+          "level": "B2"
+        },
+        {
+          "word": "awake",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unconscious",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "consciousness"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "conscious example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 46
+    },
+    {
+      "id": 556,
+      "word": "consequence",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a result of an action or situation",
+      "definitionTh": "ผลที่ตามมา",
+      "example": "Every decision has consequences.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "result",
+          "level": "B1"
+        },
+        {
+          "word": "effect",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "cause",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "consequence example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 45
+    },
+    {
+      "id": 557,
+      "word": "conservative",
+      "pos": "adj., n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "favoring traditional values and gradual change",
+      "definitionTh": "อนุรักษนิยม",
+      "example": "They took a conservative approach.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "traditional",
+          "level": "B2"
+        },
+        {
+          "word": "cautious",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "radical",
+          "level": "B2"
+        },
+        {
+          "word": "progressive",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "conservative example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 44
+    },
+    {
+      "id": 558,
+      "word": "consider",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to think carefully about something",
+      "definitionTh": "พิจารณา",
+      "example": "Please consider all the options.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "think about",
+          "level": "A2"
+        },
+        {
+          "word": "examine",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "consideration"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "consider example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 43
+    },
+    {
+      "id": 559,
+      "word": "consideration",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "careful thought about something",
+      "definitionTh": "การพิจารณา",
+      "example": "Safety is an important consideration.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "thought",
+          "level": "B2"
+        },
+        {
+          "word": "attention",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [
+          "consider"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "consideration example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 42
+    },
+    {
+      "id": 560,
+      "word": "consist",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to be made of particular parts",
+      "definitionTh": "ประกอบด้วย",
+      "example": "The team consists of five people.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "comprise",
+          "level": "B1"
+        },
+        {
+          "word": "contain",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "consist example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 41
+    },
+    {
+      "id": 561,
+      "word": "consistent",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "always behaving or happening in a similar way",
+      "definitionTh": "สม่ำเสมอ / สอดคล้อง",
+      "example": "The results are consistent.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "steady",
+          "level": "B2"
+        },
+        {
+          "word": "uniform",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "inconsistent",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "consistency"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "consistently"
+        ]
+      },
+      "collocations": [
+        "consistent example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 40
+    },
+    {
+      "id": 562,
+      "word": "constant",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "continuing without stopping or changing",
+      "definitionTh": "คงที่ / ต่อเนื่อง",
+      "example": "The machine makes a constant noise.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "continuous",
+          "level": "B2"
+        },
+        {
+          "word": "steady",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "variable",
+          "level": "B2"
+        },
+        {
+          "word": "changing",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "constantly"
+        ]
+      },
+      "collocations": [
+        "constant example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 39
+    },
+    {
+      "id": 563,
+      "word": "constantly",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "continuously or very often",
+      "definitionTh": "อย่างต่อเนื่อง",
+      "example": "The temperature is constantly monitored.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "continually",
+          "level": "B2"
+        },
+        {
+          "word": "always",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "occasionally",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "constant"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "constantly example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 38
+    },
+    {
+      "id": 564,
+      "word": "construct",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to build something",
+      "definitionTh": "ก่อสร้าง",
+      "example": "They will construct a new bridge.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "build",
+          "level": "B2"
+        },
+        {
+          "word": "erect",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "demolish",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "construction"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "construct example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 37
+    },
+    {
+      "id": 565,
+      "word": "construction",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the process of building something",
+      "definitionTh": "การก่อสร้าง",
+      "example": "The road is under construction.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "building",
+          "level": "B2"
+        },
+        {
+          "word": "assembly",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "demolition",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [
+          "construct"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "construction example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 36
+    },
+    {
+      "id": 566,
+      "word": "consume",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to use, eat, or drink something",
+      "definitionTh": "บริโภค / ใช้",
+      "example": "The process consumes a lot of energy.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "use",
+          "level": "B1"
+        },
+        {
+          "word": "eat",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "produce",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "consumer",
+          "consumption"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "consume example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 35
+    },
+    {
+      "id": 567,
+      "word": "consumer",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a person who buys or uses goods and services",
+      "definitionTh": "ผู้บริโภค",
+      "example": "Consumers want reliable products.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "customer",
+          "level": "B1"
+        },
+        {
+          "word": "buyer",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "producer",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "consumption"
+        ],
+        "verb": [
+          "consume"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "consumer example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 34
+    },
+    {
+      "id": 568,
+      "word": "contact",
+      "pos": "n., v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "communication with someone; to communicate",
+      "definitionTh": "การติดต่อ / ติดต่อ",
+      "example": "Please contact the service team.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "communication",
+          "level": "B1"
+        },
+        {
+          "word": "reach",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "contact example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 33
+    },
+    {
+      "id": 569,
+      "word": "contain",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to have something inside",
+      "definitionTh": "บรรจุ / มี",
+      "example": "This box contains tools.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "hold",
+          "level": "A2"
+        },
+        {
+          "word": "include",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "exclude",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "container"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "contain example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 32
+    },
+    {
+      "id": 570,
+      "word": "container",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "an object used to hold or store things",
+      "definitionTh": "ภาชนะ / ตู้คอนเทนเนอร์",
+      "example": "Put the food in a sealed container.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "box",
+          "level": "B1"
+        },
+        {
+          "word": "vessel",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [
+          "contain"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "container example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 31
+    },
+    {
+      "id": 571,
+      "word": "contemporary",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "belonging to the present time",
+      "definitionTh": "ร่วมสมัย",
+      "example": "The museum displays contemporary art.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "modern",
+          "level": "B2"
+        },
+        {
+          "word": "current",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "ancient",
+          "level": "B2"
+        },
+        {
+          "word": "old-fashioned",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "contemporary example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 30
+    },
+    {
+      "id": 572,
+      "word": "content1",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "the information or material in something",
+      "definitionTh": "เนื้อหา",
+      "example": "The course content is useful.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "material",
+          "level": "B1"
+        },
+        {
+          "word": "information",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "content1 example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 29
+    },
+    {
+      "id": 573,
+      "word": "contest",
+      "pos": "n., v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a competition; to challenge a decision",
+      "definitionTh": "การแข่งขัน / โต้แย้ง",
+      "example": "She entered a writing contest.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "competition",
+          "level": "B2"
+        },
+        {
+          "word": "challenge",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "contest example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 28
+    },
+    {
+      "id": 574,
+      "word": "context",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the situation that helps explain meaning",
+      "definitionTh": "บริบท",
+      "example": "The word has a different meaning in this context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "setting",
+          "level": "A2"
+        },
+        {
+          "word": "background",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "context example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 27
+    },
+    {
+      "id": 575,
+      "word": "continent",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "one of the large land areas of the world",
+      "definitionTh": "ทวีป",
+      "example": "Asia is the largest continent.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "landmass",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "continent example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 26
+    },
+    {
+      "id": 576,
+      "word": "continue",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to keep happening or doing something",
+      "definitionTh": "ดำเนินต่อ",
+      "example": "Please continue your work.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "carry on",
+          "level": "A2"
+        },
+        {
+          "word": "proceed",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "stop",
+          "level": "A2"
+        },
+        {
+          "word": "end",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "continuous"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "continue example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 25
+    },
+    {
+      "id": 577,
+      "word": "continuous",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "happening without stopping",
+      "definitionTh": "ต่อเนื่อง",
+      "example": "The line runs in continuous operation.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "uninterrupted",
+          "level": "B1"
+        },
+        {
+          "word": "constant",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "intermittent",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [
+          "continue"
+        ],
+        "adjective": [],
+        "adverb": [
+          "continuously"
+        ]
+      },
+      "collocations": [
+        "continuous example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 24
+    },
+    {
+      "id": 578,
+      "word": "contract",
+      "pos": "n., v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a legal agreement; to become smaller",
+      "definitionTh": "สัญญา / หดตัว",
+      "example": "They signed a two-year contract.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "agreement",
+          "level": "B2"
+        },
+        {
+          "word": "deal",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "contract example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 23
+    },
+    {
+      "id": 579,
+      "word": "contrast",
+      "pos": "n., v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a clear difference; to compare differences",
+      "definitionTh": "ความแตกต่าง / เปรียบเทียบความต่าง",
+      "example": "The contrast between the colors is strong.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "difference",
+          "level": "B1"
+        },
+        {
+          "word": "distinction",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "similarity",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "contrast example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 22
+    },
+    {
+      "id": 580,
+      "word": "contribute",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to give something or help achieve a result",
+      "definitionTh": "มีส่วนร่วม / สนับสนุน",
+      "example": "Everyone contributed to the project.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "donate",
+          "level": "B2"
+        },
+        {
+          "word": "add",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "contribution"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "contribute example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 21
+    },
+    {
+      "id": 581,
+      "word": "contribution",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "something given or done to help",
+      "definitionTh": "การมีส่วนร่วม / เงินบริจาค",
+      "example": "Her contribution improved the project.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "donation",
+          "level": "B2"
+        },
+        {
+          "word": "input",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [
+          "contribute"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "contribution example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 20
+    },
+    {
+      "id": 582,
+      "word": "control",
+      "pos": "n., v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the power to direct; to manage something",
+      "definitionTh": "การควบคุม / ควบคุม",
+      "example": "The operator controls the machine.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "manage",
+          "level": "A2"
+        },
+        {
+          "word": "regulate",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "release",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "control example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 19
+    },
+    {
+      "id": 583,
+      "word": "convenient",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "easy and suitable for a particular purpose",
+      "definitionTh": "สะดวก",
+      "example": "Online banking is convenient.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "handy",
+          "level": "B1"
+        },
+        {
+          "word": "practical",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "inconvenient",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "convenience"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "conveniently"
+        ]
+      },
+      "collocations": [
+        "convenient example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 18
+    },
+    {
+      "id": 584,
+      "word": "conversation",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an informal talk between people",
+      "definitionTh": "การสนทนา",
+      "example": "We had a short conversation.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "talk",
+          "level": "A1"
+        },
+        {
+          "word": "discussion",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [
+          "converse"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "conversation example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 17
+    },
+    {
+      "id": 585,
+      "word": "convert",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to change something into another form",
+      "definitionTh": "แปลง / เปลี่ยน",
+      "example": "The system converts data into a chart.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "transform",
+          "level": "B2"
+        },
+        {
+          "word": "change",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "conversion"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "convert example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 16
+    },
+    {
+      "id": 586,
+      "word": "convince",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to make someone believe or agree",
+      "definitionTh": "โน้มน้าว",
+      "example": "She convinced us to try the idea.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "persuade",
+          "level": "B1"
+        },
+        {
+          "word": "assure",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "convinced"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "convince example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 15
+    },
+    {
+      "id": 587,
+      "word": "convinced",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "completely sure that something is true",
+      "definitionTh": "เชื่อมั่น",
+      "example": "I am convinced that the plan will work.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "certain",
+          "level": "B2"
+        },
+        {
+          "word": "persuaded",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "doubtful",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [
+          "convince"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "convinced example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 14
+    },
+    {
+      "id": 588,
+      "word": "cook",
+      "pos": "v., n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to prepare food with heat; a person who cooks",
+      "definitionTh": "ทำอาหาร / คนทำอาหาร",
+      "example": "I cook dinner every evening.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "prepare",
+          "level": "A1"
+        },
+        {
+          "word": "chef",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "cooker",
+          "cooking"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "cook example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 13
+    },
+    {
+      "id": 589,
+      "word": "cooker",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a device used for cooking food",
+      "definitionTh": "เตาทำอาหาร",
+      "example": "The rice cooker is easy to use.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "stove",
+          "level": "A2"
+        },
+        {
+          "word": "appliance",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [
+          "cook"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "cooker example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 12
+    },
+    {
+      "id": 590,
+      "word": "cooking",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the activity of preparing food with heat",
+      "definitionTh": "การทำอาหาร",
+      "example": "Cooking is one of her hobbies.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "food preparation",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [
+          "cook"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "cooking example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 11
+    },
+    {
+      "id": 591,
+      "word": "cool",
+      "pos": "adj., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "slightly cold; to make less warm",
+      "definitionTh": "เย็น / ทำให้เย็น",
+      "example": "Let the soup cool before eating.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "chilly",
+          "level": "A1"
+        },
+        {
+          "word": "cool down",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "warm",
+          "level": "A1"
+        },
+        {
+          "word": "heat",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "cool example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 10
+    },
+    {
+      "id": 592,
+      "word": "copy",
+      "pos": "n., v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "something made to look the same; to reproduce",
+      "definitionTh": "สำเนา / คัดลอก",
+      "example": "Please make a copy of the report.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "duplicate",
+          "level": "A2"
+        },
+        {
+          "word": "reproduce",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "original",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "copy example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 9
+    },
+    {
+      "id": 593,
+      "word": "core",
+      "pos": "n., adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the central or most important part",
+      "definitionTh": "แกนกลาง / หลัก",
+      "example": "Safety is a core value.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "center",
+          "level": "B2"
+        },
+        {
+          "word": "heart",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "surface",
+          "level": "B2"
+        },
+        {
+          "word": "edge",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "core example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 8
+    },
+    {
+      "id": 594,
+      "word": "corner",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the point where two lines or surfaces meet",
+      "definitionTh": "มุม",
+      "example": "The shop is on the corner.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "angle",
+          "level": "A2"
+        },
+        {
+          "word": "turn",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "corner example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 7
+    },
+    {
+      "id": 595,
+      "word": "corporate",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "related to a company or corporation",
+      "definitionTh": "เกี่ยวกับบริษัท",
+      "example": "The company updated its corporate policy.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "business",
+          "level": "B2"
+        },
+        {
+          "word": "company",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "corporate example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 6
+    },
+    {
+      "id": 596,
+      "word": "correct",
+      "pos": "adj., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "right and without mistakes; to remove errors",
+      "definitionTh": "ถูกต้อง / แก้ไข",
+      "example": "Your answer is correct.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "right",
+          "level": "A1"
+        },
+        {
+          "word": "accurate",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "wrong",
+          "level": "A1"
+        },
+        {
+          "word": "incorrect",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "correctly"
+        ]
+      },
+      "collocations": [
+        "correct example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 5
+    },
+    {
+      "id": 597,
+      "word": "correctly",
+      "pos": "adv.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "in a right or accurate way",
+      "definitionTh": "อย่างถูกต้อง",
+      "example": "The machine was installed correctly.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "accurately",
+          "level": "A2"
+        },
+        {
+          "word": "properly",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "incorrectly",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "correct"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "correctly example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 4
+    },
+    {
+      "id": 598,
+      "word": "cost",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the amount of money needed; to have a price",
+      "definitionTh": "ราคา / มีราคา",
+      "example": "The total cost is 500 baht.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "price",
+          "level": "A1"
+        },
+        {
+          "word": "expense",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "cost example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 3
+    },
+    {
+      "id": 599,
+      "word": "costume",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "clothes worn to represent a character or period",
+      "definitionTh": "เครื่องแต่งกาย",
+      "example": "She wore a traditional costume.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "outfit",
+          "level": "B1"
+        },
+        {
+          "word": "dress",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "costume example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 2
+    },
+    {
+      "id": 600,
+      "word": "cottage",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a small house, usually in the countryside",
+      "definitionTh": "กระท่อม / บ้านชนบท",
+      "example": "They stayed in a cottage by the lake.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "cabin",
+          "level": "B1"
+        },
+        {
+          "word": "small house",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "cottage example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 1
+    }
+  ]
+}

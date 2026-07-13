@@ -30,6 +30,14 @@
         <span class="settings-label">🗣️ เลือกเสียงอ่าน</span>
         <select id="settings-tts-voice-select" class="tts-voice-select settings-voice-select" title="เลือกเสียงอ่าน"></select>
       </label>
+      <label class="settings-row" for="settings-vocab-words-per-day">
+        <span class="settings-label">📔 จำคำศัพท์ต่อวัน</span>
+        <input id="settings-vocab-words-per-day" class="settings-number-input" type="number" min="1" max="100" step="1" value="20" inputmode="numeric">
+      </label>
+      <label class="settings-row" for="settings-vocab-start-date">
+        <span class="settings-label">📅 วันที่เริ่มจำ</span>
+        <input id="settings-vocab-start-date" class="settings-date-input" type="date">
+      </label>
       <div class="settings-row settings-theme-row">
         <span class="settings-label">🌙/☀️ ธีม</span>
         <button id="settings-theme-btn" class="settings-theme-btn" type="button">สลับธีม</button>
@@ -204,10 +212,24 @@
             <span class="vocab-level-tag" id="vocabBackLevel">B2</span>
           </div>
           <div class="vocab-back-content">
-            <div class="vocab-def-en" id="vocabDefEn"></div>
-            <div class="vocab-def-th" id="vocabDefTh"></div>
-            <div class="vocab-example" id="vocabExample"></div>
+          <div class="vocab-def-en" id="vocabDefEn"></div>
+          <div class="vocab-def-th" id="vocabDefTh"></div>
+          <div class="vocab-example" id="vocabExample"></div>
+          <div class="vocab-extra" id="vocabExtra">
+            <div class="vocab-extra-row" id="vocabSynRow">
+              <span class="vocab-extra-label vocab-extra-syn">Syn</span>
+              <span class="vocab-extra-content" id="vocabSyn"></span>
+            </div>
+            <div class="vocab-extra-row" id="vocabAntRow">
+              <span class="vocab-extra-label vocab-extra-ant">Ant</span>
+              <span class="vocab-extra-content" id="vocabAnt"></span>
+            </div>
+            <div class="vocab-extra-row" id="vocabFamRow">
+              <span class="vocab-extra-label vocab-extra-fam">Family</span>
+              <span class="vocab-extra-content" id="vocabFam"></span>
+            </div>
           </div>
+        </div>
         </div>
       </div>
     </div>

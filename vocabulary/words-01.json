@@ -1,0 +1,4858 @@
+{
+  "version": 2,
+  "source": "Oxford 3000",
+  "batch": 1,
+  "level": "Mixed",
+  "totalWords": 100,
+  "metadata": {
+    "created": "2026-07-13",
+    "language": "en",
+    "description": "Batch 01 of 50 — Oxford 3000 words 1-100"
+  },
+  "words": [
+    {
+      "id": 1,
+      "word": "a, an",
+      "pos": "indef. art.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "used before a noun to refer to a single unspecified thing",
+      "definitionTh": "หนึ่ง / บ่งชี้คำนามที่ไม่เจาะจง",
+      "example": "I saw a dog in the park.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "one",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "a, an example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 100
+    },
+    {
+      "id": 2,
+      "word": "abandon",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to leave someone or something permanently",
+      "definitionTh": "ทอดทิ้ง / ละทิ้ง",
+      "example": "They had to abandon the car in the snow.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "desert",
+          "level": "B2"
+        },
+        {
+          "word": "forsake",
+          "level": "B2"
+        },
+        {
+          "word": "leave",
+          "level": "B2"
+        },
+        {
+          "word": "quit",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "keep",
+          "level": "B2"
+        },
+        {
+          "word": "retain",
+          "level": "B2"
+        },
+        {
+          "word": "maintain",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "abandonment"
+        ],
+        "verb": [],
+        "adjective": [
+          "abandoned"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "abandon example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 99
+    },
+    {
+      "id": 3,
+      "word": "ability",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the skill or power to do something",
+      "definitionTh": "ความสามารถ",
+      "example": "She has the ability to solve problems quickly.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "skill",
+          "level": "A2"
+        },
+        {
+          "word": "capability",
+          "level": "A2"
+        },
+        {
+          "word": "talent",
+          "level": "A2"
+        },
+        {
+          "word": "competence",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "inability",
+          "level": "A2"
+        },
+        {
+          "word": "incompetence",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [
+          "ably"
+        ],
+        "adjective": [
+          "able"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "ability example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 98
+    },
+    {
+      "id": 4,
+      "word": "able",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "having the skill, means, or opportunity to do something",
+      "definitionTh": "สามารถ / มีความสามารถ",
+      "example": "He is able to speak three languages.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "capable",
+          "level": "A2"
+        },
+        {
+          "word": "competent",
+          "level": "A2"
+        },
+        {
+          "word": "skilled",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unable",
+          "level": "A2"
+        },
+        {
+          "word": "incapable",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "ability"
+        ],
+        "verb": [
+          "ably"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "able example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 97
+    },
+    {
+      "id": 5,
+      "word": "about",
+      "pos": "prep., adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "on the subject of; approximately",
+      "definitionTh": "เกี่ยวกับ / ประมาณ",
+      "example": "We talked about the movie for hours.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "concerning",
+          "level": "A1"
+        },
+        {
+          "word": "regarding",
+          "level": "A1"
+        },
+        {
+          "word": "approximately",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "about example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 96
+    },
+    {
+      "id": 6,
+      "word": "above",
+      "pos": "prep., adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "in or to a higher place than something",
+      "definitionTh": "เหนือ / ข้างบน",
+      "example": "The plane flew above the clouds.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "over",
+          "level": "A1"
+        },
+        {
+          "word": "higher",
+          "level": "A1"
+        },
+        {
+          "word": "atop",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "below",
+          "level": "A1"
+        },
+        {
+          "word": "under",
+          "level": "A1"
+        },
+        {
+          "word": "beneath",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "above example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 95
+    },
+    {
+      "id": 7,
+      "word": "abroad",
+      "pos": "adv.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "in or to a foreign country",
+      "definitionTh": "ต่างประเทศ",
+      "example": "She has lived abroad for five years.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "overseas",
+          "level": "A2"
+        },
+        {
+          "word": "internationally",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "domestically",
+          "level": "A2"
+        },
+        {
+          "word": "home",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "abroad example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 94
+    },
+    {
+      "id": 8,
+      "word": "absolute",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "total and complete; not qualified in any way",
+      "definitionTh": "โดยสมบูรณ์ / เด็ดขาด",
+      "example": "There was absolute silence in the room.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "complete",
+          "level": "B2"
+        },
+        {
+          "word": "total",
+          "level": "B2"
+        },
+        {
+          "word": "utter",
+          "level": "B2"
+        },
+        {
+          "word": "unconditional",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "partial",
+          "level": "B2"
+        },
+        {
+          "word": "limited",
+          "level": "B2"
+        },
+        {
+          "word": "qualified",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [
+          "absolutely"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "absolute example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 93
+    },
+    {
+      "id": 9,
+      "word": "absolutely",
+      "pos": "adv.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "completely and totally",
+      "definitionTh": "อย่างสมบูรณ์ / อย่างยิ่ง",
+      "example": "I am absolutely sure about my decision.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "completely",
+          "level": "B1"
+        },
+        {
+          "word": "totally",
+          "level": "B1"
+        },
+        {
+          "word": "utterly",
+          "level": "B1"
+        },
+        {
+          "word": "entirely",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "partially",
+          "level": "B1"
+        },
+        {
+          "word": "somewhat",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "absolute"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "absolutely example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 92
+    },
+    {
+      "id": 10,
+      "word": "academic",
+      "pos": "adj., n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "relating to education, especially higher education",
+      "definitionTh": "ทางวิชาการ / นักวิชาการ",
+      "example": "She had an excellent academic record.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "scholarly",
+          "level": "B1"
+        },
+        {
+          "word": "educational",
+          "level": "B1"
+        },
+        {
+          "word": "intellectual",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "nonacademic",
+          "level": "B1"
+        },
+        {
+          "word": "practical",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "academia"
+        ],
+        "verb": [
+          "academically"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "academic example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 91
+    },
+    {
+      "id": 11,
+      "word": "accept",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to agree to receive or take something offered",
+      "definitionTh": "ยอมรับ / รับเอา",
+      "example": "She accepted the job offer immediately.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "receive",
+          "level": "A2"
+        },
+        {
+          "word": "take",
+          "level": "A2"
+        },
+        {
+          "word": "agree to",
+          "level": "A2"
+        },
+        {
+          "word": "approve",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "reject",
+          "level": "A2"
+        },
+        {
+          "word": "refuse",
+          "level": "A2"
+        },
+        {
+          "word": "decline",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "acceptance"
+        ],
+        "verb": [],
+        "adjective": [
+          "acceptable"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "accept example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 90
+    },
+    {
+      "id": 12,
+      "word": "acceptable",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "satisfactory; able to be agreed to",
+      "definitionTh": "ยอมรับได้ / เป็นที่พอใจ",
+      "example": "The results were acceptable to everyone.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "satisfactory",
+          "level": "B2"
+        },
+        {
+          "word": "adequate",
+          "level": "B2"
+        },
+        {
+          "word": "suitable",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unacceptable",
+          "level": "B2"
+        },
+        {
+          "word": "unsatisfactory",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "acceptance"
+        ],
+        "verb": [
+          "accept"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "acceptable example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 89
+    },
+    {
+      "id": 13,
+      "word": "access",
+      "pos": "n., v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "the means or right to enter or use something",
+      "definitionTh": "การเข้าถึง / เข้าถึง",
+      "example": "Students have access to the library online.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "entry",
+          "level": "B1"
+        },
+        {
+          "word": "admission",
+          "level": "B1"
+        },
+        {
+          "word": "approach",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "denial",
+          "level": "B1"
+        },
+        {
+          "word": "exclusion",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "accessibility"
+        ],
+        "verb": [],
+        "adjective": [
+          "accessible"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "access example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 88
+    },
+    {
+      "id": 14,
+      "word": "accident",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "an unexpected event that causes damage or injury",
+      "definitionTh": "อุบัติเหตุ",
+      "example": "He was injured in a car accident.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "mishap",
+          "level": "A2"
+        },
+        {
+          "word": "crash",
+          "level": "A2"
+        },
+        {
+          "word": "incident",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "intention",
+          "level": "A2"
+        },
+        {
+          "word": "plan",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [
+          "accidentally"
+        ],
+        "adjective": [
+          "accidental"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "accident example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 87
+    },
+    {
+      "id": 15,
+      "word": "accommodation",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a place to live or stay",
+      "definitionTh": "ที่พัก",
+      "example": "The hotel offers comfortable accommodation.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "lodging",
+          "level": "B1"
+        },
+        {
+          "word": "housing",
+          "level": "B1"
+        },
+        {
+          "word": "shelter",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [
+          "accommodate"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "accommodation example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 86
+    },
+    {
+      "id": 16,
+      "word": "accompany",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to go somewhere with someone",
+      "definitionTh": "ไปด้วย / ร่วมทาง",
+      "example": "She accompanied her friend to the doctor.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "escort",
+          "level": "B2"
+        },
+        {
+          "word": "join",
+          "level": "B2"
+        },
+        {
+          "word": "attend",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "abandon",
+          "level": "B2"
+        },
+        {
+          "word": "leave",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "accompaniment"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "accompany example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 85
+    },
+    {
+      "id": 17,
+      "word": "according to",
+      "pos": "prep.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "as stated or reported by someone or something",
+      "definitionTh": "ตามที่ / อ้างอิงจาก",
+      "example": "According to the news, it will rain tomorrow.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "as per",
+          "level": "A2"
+        },
+        {
+          "word": "as stated by",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "according to example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 84
+    },
+    {
+      "id": 18,
+      "word": "account",
+      "pos": "n., v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a record of money; to explain or consider",
+      "definitionTh": "บัญชี / อธิบาย",
+      "example": "Please check your bank account balance.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "record",
+          "level": "B1"
+        },
+        {
+          "word": "report",
+          "level": "B1"
+        },
+        {
+          "word": "explanation",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "accountant"
+        ],
+        "verb": [],
+        "adjective": [
+          "accountable"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "account example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 83
+    },
+    {
+      "id": 19,
+      "word": "accurate",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "correct in every detail; without errors",
+      "definitionTh": "แม่นยำ / ถูกต้อง",
+      "example": "The report contains accurate information.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "correct",
+          "level": "B2"
+        },
+        {
+          "word": "precise",
+          "level": "B2"
+        },
+        {
+          "word": "exact",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "inaccurate",
+          "level": "B2"
+        },
+        {
+          "word": "wrong",
+          "level": "B2"
+        },
+        {
+          "word": "imprecise",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "accuracy"
+        ],
+        "verb": [
+          "accurately"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "accurate example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 82
+    },
+    {
+      "id": 20,
+      "word": "accuse",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to say that someone has done something wrong",
+      "definitionTh": "กล่าวหา",
+      "example": "He was accused of stealing the money.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "blame",
+          "level": "B2"
+        },
+        {
+          "word": "charge",
+          "level": "B2"
+        },
+        {
+          "word": "indict",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "defend",
+          "level": "B2"
+        },
+        {
+          "word": "exonerate",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "accusation"
+        ],
+        "verb": [],
+        "adjective": [
+          "accused"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "accuse example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 81
+    },
+    {
+      "id": 21,
+      "word": "achieve",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to succeed in doing or getting something",
+      "definitionTh": "บรรลุ / ทำสำเร็จ",
+      "example": "She achieved her goal of becoming a doctor.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "accomplish",
+          "level": "A2"
+        },
+        {
+          "word": "attain",
+          "level": "A2"
+        },
+        {
+          "word": "reach",
+          "level": "A2"
+        },
+        {
+          "word": "succeed",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "fail",
+          "level": "A2"
+        },
+        {
+          "word": "lose",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "achievement"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "achieve example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 80
+    },
+    {
+      "id": 22,
+      "word": "achievement",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "something done successfully with effort",
+      "definitionTh": "ความสำเร็จ / ผลสำเร็จ",
+      "example": "Winning the award was a great achievement.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "accomplishment",
+          "level": "B1"
+        },
+        {
+          "word": "success",
+          "level": "B1"
+        },
+        {
+          "word": "feat",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "failure",
+          "level": "B1"
+        },
+        {
+          "word": "defeat",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [
+          "achieve"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "achievement example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 79
+    },
+    {
+      "id": 23,
+      "word": "acknowledge",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to accept or admit that something is true",
+      "definitionTh": "รับทราบ / ยอมรับ",
+      "example": "She acknowledged her mistake immediately.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "admit",
+          "level": "B2"
+        },
+        {
+          "word": "recognize",
+          "level": "B2"
+        },
+        {
+          "word": "concede",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "deny",
+          "level": "B2"
+        },
+        {
+          "word": "ignore",
+          "level": "B2"
+        },
+        {
+          "word": "reject",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "acknowledgement"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "acknowledge example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 78
+    },
+    {
+      "id": 24,
+      "word": "acquire",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to obtain something, often through effort",
+      "definitionTh": "ได้มา / ครอบครอง",
+      "example": "He acquired a rare book at the auction.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "obtain",
+          "level": "B2"
+        },
+        {
+          "word": "get",
+          "level": "B2"
+        },
+        {
+          "word": "gain",
+          "level": "B2"
+        },
+        {
+          "word": "procure",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "lose",
+          "level": "B2"
+        },
+        {
+          "word": "forfeit",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "acquisition"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "acquire example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 77
+    },
+    {
+      "id": 25,
+      "word": "across",
+      "pos": "prep., adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "from one side to the other of something",
+      "definitionTh": "ข้ามไป / ตลอด",
+      "example": "She walked across the street carefully.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "over",
+          "level": "A1"
+        },
+        {
+          "word": "through",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "across example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 76
+    },
+    {
+      "id": 26,
+      "word": "act",
+      "pos": "v., n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to do something; an action or performance",
+      "definitionTh": "กระทำ / การกระทำ",
+      "example": "You must act quickly to save time.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "do",
+          "level": "A2"
+        },
+        {
+          "word": "perform",
+          "level": "A2"
+        },
+        {
+          "word": "behave",
+          "level": "A2"
+        },
+        {
+          "word": "action",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "refrain",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "action"
+        ],
+        "verb": [],
+        "adjective": [
+          "active"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "act example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 75
+    },
+    {
+      "id": 27,
+      "word": "action",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the process of doing something",
+      "definitionTh": "การกระทำ / การปฏิบัติ",
+      "example": "The government must take action immediately.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "deed",
+          "level": "A1"
+        },
+        {
+          "word": "move",
+          "level": "A1"
+        },
+        {
+          "word": "activity",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "inaction",
+          "level": "A1"
+        },
+        {
+          "word": "inactivity",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [
+          "act"
+        ],
+        "adjective": [
+          "active"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "action example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 74
+    },
+    {
+      "id": 28,
+      "word": "active",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "doing things or moving around often",
+      "definitionTh": "กระตือรือร้น / กระฉับกระเฉง",
+      "example": "She stays active by playing tennis.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "energetic",
+          "level": "A2"
+        },
+        {
+          "word": "lively",
+          "level": "A2"
+        },
+        {
+          "word": "dynamic",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "inactive",
+          "level": "A2"
+        },
+        {
+          "word": "passive",
+          "level": "A2"
+        },
+        {
+          "word": "idle",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "activity"
+        ],
+        "verb": [
+          "actively"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "active example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 73
+    },
+    {
+      "id": 29,
+      "word": "activity",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "something that you do",
+      "definitionTh": "กิจกรรม",
+      "example": "Swimming is a fun outdoor activity.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "action",
+          "level": "A1"
+        },
+        {
+          "word": "task",
+          "level": "A1"
+        },
+        {
+          "word": "pursuit",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "inactivity",
+          "level": "A1"
+        },
+        {
+          "word": "idleness",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "active"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "activity example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 72
+    },
+    {
+      "id": 30,
+      "word": "actor",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a person who performs in plays or movies",
+      "definitionTh": "นักแสดงชาย",
+      "example": "He is a famous actor in Hollywood.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "performer",
+          "level": "A1"
+        },
+        {
+          "word": "player",
+          "level": "A1"
+        },
+        {
+          "word": "artist",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "actress"
+        ],
+        "verb": [
+          "act"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "actor example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 71
+    },
+    {
+      "id": 31,
+      "word": "actress",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a female performer in plays or movies",
+      "definitionTh": "นักแสดงหญิง",
+      "example": "The actress won an award for her role.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "performer",
+          "level": "A1"
+        },
+        {
+          "word": "artist",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "actor"
+        ],
+        "verb": [
+          "act"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "actress example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 70
+    },
+    {
+      "id": 32,
+      "word": "actual",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "existing in fact; real",
+      "definitionTh": "จริง / ตามความเป็นจริง",
+      "example": "The actual cost was higher than expected.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "real",
+          "level": "B2"
+        },
+        {
+          "word": "true",
+          "level": "B2"
+        },
+        {
+          "word": "genuine",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "fake",
+          "level": "B2"
+        },
+        {
+          "word": "false",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [
+          "actually"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "actual example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 69
+    },
+    {
+      "id": 33,
+      "word": "actually",
+      "pos": "adv.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "in fact; really",
+      "definitionTh": "จริง ๆ / อันที่จริง",
+      "example": "I actually enjoyed the movie a lot.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "really",
+          "level": "A2"
+        },
+        {
+          "word": "in fact",
+          "level": "A2"
+        },
+        {
+          "word": "truly",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "actual"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "actually example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 68
+    },
+    {
+      "id": 34,
+      "word": "ad",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a short form of advertisement",
+      "definitionTh": "โฆษณา (คำย่อ)",
+      "example": "I saw a funny ad on television last night.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "advertisement",
+          "level": "B1"
+        },
+        {
+          "word": "commercial",
+          "level": "B1"
+        },
+        {
+          "word": "promo",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [
+          "advertise"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "ad example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 67
+    },
+    {
+      "id": 35,
+      "word": "adapt",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to change something to suit a new situation",
+      "definitionTh": "ปรับตัว / ดัดแปลง",
+      "example": "She quickly adapted to her new job.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "adjust",
+          "level": "B2"
+        },
+        {
+          "word": "modify",
+          "level": "B2"
+        },
+        {
+          "word": "conform",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "resist",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "adaptation"
+        ],
+        "verb": [],
+        "adjective": [
+          "adaptable"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "adapt example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 66
+    },
+    {
+      "id": 36,
+      "word": "add",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to put something together with something else",
+      "definitionTh": "เพิ่ม / บวก",
+      "example": "Please add sugar to the coffee.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "include",
+          "level": "A1"
+        },
+        {
+          "word": "combine",
+          "level": "A1"
+        },
+        {
+          "word": "attach",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "subtract",
+          "level": "A1"
+        },
+        {
+          "word": "remove",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "addition"
+        ],
+        "verb": [],
+        "adjective": [
+          "additional"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "add example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 65
+    },
+    {
+      "id": 37,
+      "word": "addition",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "the process of adding or a thing added",
+      "definitionTh": "การเพิ่ม / การบวก",
+      "example": "The new hire is a great addition to the team.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "increase",
+          "level": "B1"
+        },
+        {
+          "word": "supplement",
+          "level": "B1"
+        },
+        {
+          "word": "extension",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "subtraction",
+          "level": "B1"
+        },
+        {
+          "word": "reduction",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [
+          "add"
+        ],
+        "adjective": [
+          "additional"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "addition example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 64
+    },
+    {
+      "id": 38,
+      "word": "additional",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "extra or more than already exists",
+      "definitionTh": "เพิ่มเติม",
+      "example": "There will be additional costs for shipping.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "extra",
+          "level": "B2"
+        },
+        {
+          "word": "further",
+          "level": "B2"
+        },
+        {
+          "word": "supplementary",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [
+          "add",
+          "additionally"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "additional example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 63
+    },
+    {
+      "id": 39,
+      "word": "address",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the details of where someone lives; to speak to",
+      "definitionTh": "ที่อยู่ / กล่าวถึง",
+      "example": "Please write your address on the form.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "location",
+          "level": "A1"
+        },
+        {
+          "word": "residence",
+          "level": "A1"
+        },
+        {
+          "word": "speak to",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "address example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 62
+    },
+    {
+      "id": 40,
+      "word": "administration",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the management of a business or organization",
+      "definitionTh": "การบริหาร / ฝ่ายบริหาร",
+      "example": "She works in the administration department.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "management",
+          "level": "B2"
+        },
+        {
+          "word": "governance",
+          "level": "B2"
+        },
+        {
+          "word": "leadership",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [
+          "administer"
+        ],
+        "adjective": [
+          "administrative"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "administration example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 61
+    },
+    {
+      "id": 41,
+      "word": "admire",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to respect and approve of someone or something",
+      "definitionTh": "ชื่นชม / นับถือ",
+      "example": "I really admire her hard work and honesty.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "respect",
+          "level": "B1"
+        },
+        {
+          "word": "appreciate",
+          "level": "B1"
+        },
+        {
+          "word": "esteem",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "despise",
+          "level": "B1"
+        },
+        {
+          "word": "disdain",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "admiration"
+        ],
+        "verb": [],
+        "adjective": [
+          "admirable"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "admire example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 60
+    },
+    {
+      "id": 42,
+      "word": "admit",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to agree that something is true, often reluctantly",
+      "definitionTh": "ยอมรับ / สารภาพ",
+      "example": "He admitted that he had made a mistake.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "confess",
+          "level": "B1"
+        },
+        {
+          "word": "acknowledge",
+          "level": "B1"
+        },
+        {
+          "word": "concede",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "deny",
+          "level": "B1"
+        },
+        {
+          "word": "reject",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "admission"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "admit example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 59
+    },
+    {
+      "id": 43,
+      "word": "adopt",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to take and use an idea, or legally take a child as one's own",
+      "definitionTh": "รับเลี้ยง / นำมาใช้",
+      "example": "They decided to adopt a child from overseas.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "embrace",
+          "level": "B2"
+        },
+        {
+          "word": "take on",
+          "level": "B2"
+        },
+        {
+          "word": "accept",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "reject",
+          "level": "B2"
+        },
+        {
+          "word": "abandon",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "adoption"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "adopt example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 58
+    },
+    {
+      "id": 44,
+      "word": "adult",
+      "pos": "n., adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a fully grown person or animal",
+      "definitionTh": "ผู้ใหญ่",
+      "example": "The movie is only for adults.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "grown-up",
+          "level": "A1"
+        },
+        {
+          "word": "mature",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "child",
+          "level": "A1"
+        },
+        {
+          "word": "minor",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "adulthood"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "adult example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 57
+    },
+    {
+      "id": 45,
+      "word": "advance",
+      "pos": "n., v., adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to move forward or make progress",
+      "definitionTh": "ก้าวหน้า / ความก้าวหน้า",
+      "example": "Technology continues to advance rapidly.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "progress",
+          "level": "B2"
+        },
+        {
+          "word": "develop",
+          "level": "B2"
+        },
+        {
+          "word": "improve",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "retreat",
+          "level": "B2"
+        },
+        {
+          "word": "regress",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "advancement"
+        ],
+        "verb": [],
+        "adjective": [
+          "advanced"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "advance example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 56
+    },
+    {
+      "id": 46,
+      "word": "advanced",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "highly developed or complex",
+      "definitionTh": "ก้าวหน้า / ระดับสูง",
+      "example": "This is an advanced English class.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "developed",
+          "level": "B1"
+        },
+        {
+          "word": "sophisticated",
+          "level": "B1"
+        },
+        {
+          "word": "high-level",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "basic",
+          "level": "B1"
+        },
+        {
+          "word": "elementary",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "advancement"
+        ],
+        "verb": [
+          "advance"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "advanced example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 55
+    },
+    {
+      "id": 47,
+      "word": "advantage",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "something helpful that gives a better position",
+      "definitionTh": "ข้อได้เปรียบ / ประโยชน์",
+      "example": "Speaking English is a big advantage.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "benefit",
+          "level": "A2"
+        },
+        {
+          "word": "edge",
+          "level": "A2"
+        },
+        {
+          "word": "gain",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "disadvantage",
+          "level": "A2"
+        },
+        {
+          "word": "drawback",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "advantageous"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "advantage example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 54
+    },
+    {
+      "id": 48,
+      "word": "adventure",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "an exciting or dangerous experience",
+      "definitionTh": "การผจญภัย",
+      "example": "Traveling alone was a great adventure.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "exploit",
+          "level": "A2"
+        },
+        {
+          "word": "escapade",
+          "level": "A2"
+        },
+        {
+          "word": "journey",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "boredom",
+          "level": "A2"
+        },
+        {
+          "word": "routine",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "adventurous"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "adventure example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 53
+    },
+    {
+      "id": 49,
+      "word": "advertise",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to promote a product or service publicly",
+      "definitionTh": "โฆษณา",
+      "example": "Companies advertise their products on TV.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "promote",
+          "level": "A2"
+        },
+        {
+          "word": "market",
+          "level": "A2"
+        },
+        {
+          "word": "publicize",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "advertising"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "advertise example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 52
+    },
+    {
+      "id": 50,
+      "word": "advertisement",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a public notice promoting a product or event",
+      "definitionTh": "โฆษณา (คำเต็ม)",
+      "example": "I saw an advertisement for a new phone.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "ad",
+          "level": "A2"
+        },
+        {
+          "word": "commercial",
+          "level": "A2"
+        },
+        {
+          "word": "promo",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [
+          "advertise"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "advertisement example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 51
+    },
+    {
+      "id": 51,
+      "word": "advertising",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the activity of promoting products",
+      "definitionTh": "การโฆษณา / วงการโฆษณา",
+      "example": "She works in advertising for a big agency.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "marketing",
+          "level": "A2"
+        },
+        {
+          "word": "promotion",
+          "level": "A2"
+        },
+        {
+          "word": "publicity",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "advertisement"
+        ],
+        "verb": [
+          "advertise"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "advertising example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 50
+    },
+    {
+      "id": 52,
+      "word": "advice",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an opinion offered to help someone decide",
+      "definitionTh": "คำแนะนำ",
+      "example": "My teacher gave me good advice.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "guidance",
+          "level": "A1"
+        },
+        {
+          "word": "suggestion",
+          "level": "A1"
+        },
+        {
+          "word": "counsel",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "adviser"
+        ],
+        "verb": [
+          "advise"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "advice example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 49
+    },
+    {
+      "id": 53,
+      "word": "advise",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to give someone advice or a recommendation",
+      "definitionTh": "แนะนำ",
+      "example": "The doctor advised him to rest.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "recommend",
+          "level": "B1"
+        },
+        {
+          "word": "suggest",
+          "level": "B1"
+        },
+        {
+          "word": "counsel",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "adviser"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "advise example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 48
+    },
+    {
+      "id": 54,
+      "word": "affair",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "an event or a matter; a romantic relationship",
+      "definitionTh": "เรื่อง / กิจการ",
+      "example": "The wedding was a lovely affair.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "matter",
+          "level": "B2"
+        },
+        {
+          "word": "event",
+          "level": "B2"
+        },
+        {
+          "word": "issue",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "affair example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 47
+    },
+    {
+      "id": 55,
+      "word": "affect",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to influence or cause a change in something",
+      "definitionTh": "มีผลกระทบ / ส่งผลต่อ",
+      "example": "The weather affects my mood.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "influence",
+          "level": "A2"
+        },
+        {
+          "word": "impact",
+          "level": "A2"
+        },
+        {
+          "word": "change",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "effect"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "affect example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 46
+    },
+    {
+      "id": 56,
+      "word": "afford",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to have enough money or time for something",
+      "definitionTh": "มีเงินพอ / สามารถจ่ายได้",
+      "example": "I can't afford a new car right now.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "manage",
+          "level": "B1"
+        },
+        {
+          "word": "bear",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "affordable"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "afford example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 45
+    },
+    {
+      "id": 57,
+      "word": "afraid",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "feeling fear or worry",
+      "definitionTh": "กลัว / วิตกกังวล",
+      "example": "I'm afraid of spiders.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "scared",
+          "level": "A1"
+        },
+        {
+          "word": "frightened",
+          "level": "A1"
+        },
+        {
+          "word": "fearful",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "brave",
+          "level": "A1"
+        },
+        {
+          "word": "confident",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "afraid example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 44
+    },
+    {
+      "id": 58,
+      "word": "after",
+      "pos": "prep., conj., adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "later than or following something",
+      "definitionTh": "หลังจาก",
+      "example": "We met after the meeting.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "following",
+          "level": "A1"
+        },
+        {
+          "word": "later than",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "before",
+          "level": "A1"
+        },
+        {
+          "word": "prior to",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "after example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 43
+    },
+    {
+      "id": 59,
+      "word": "afternoon",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the period between noon and evening",
+      "definitionTh": "ตอนบ่าย",
+      "example": "Let's meet this afternoon at three.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "morning",
+          "level": "A1"
+        },
+        {
+          "word": "evening",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "afternoon example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 42
+    },
+    {
+      "id": 60,
+      "word": "afterwards",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "at a later time; after that",
+      "definitionTh": "หลังจากนั้น",
+      "example": "We had dinner and went home afterwards.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "later",
+          "level": "B2"
+        },
+        {
+          "word": "subsequently",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "beforehand",
+          "level": "B2"
+        },
+        {
+          "word": "previously",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "afterwards example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 41
+    },
+    {
+      "id": 61,
+      "word": "again",
+      "pos": "adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "one more time; once more",
+      "definitionTh": "อีกครั้ง",
+      "example": "Please say that again.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "once more",
+          "level": "A1"
+        },
+        {
+          "word": "anew",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "again example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 40
+    },
+    {
+      "id": 62,
+      "word": "against",
+      "pos": "prep.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "in opposition to; touching for support",
+      "definitionTh": "ต่อต้าน / พิงกับ",
+      "example": "She leaned against the wall.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "opposed to",
+          "level": "A2"
+        },
+        {
+          "word": "versus",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "for",
+          "level": "A2"
+        },
+        {
+          "word": "in favor of",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "against example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 39
+    },
+    {
+      "id": 63,
+      "word": "age",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the length of time a person has lived",
+      "definitionTh": "อายุ / แก่ตัวลง",
+      "example": "What is the age of your child?",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "years",
+          "level": "A1"
+        },
+        {
+          "word": "era",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "aged"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "age example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 38
+    },
+    {
+      "id": 64,
+      "word": "aged",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "of a specified age; very old",
+      "definitionTh": "มีอายุ / สูงอายุ",
+      "example": "The aged wine tasted excellent.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "elderly",
+          "level": "B1"
+        },
+        {
+          "word": "old",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "young",
+          "level": "B1"
+        },
+        {
+          "word": "new",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "age"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "aged example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 37
+    },
+    {
+      "id": 65,
+      "word": "agency",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a business providing a specific service",
+      "definitionTh": "หน่วยงาน / ตัวแทน",
+      "example": "She works for a travel agency.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "bureau",
+          "level": "B2"
+        },
+        {
+          "word": "office",
+          "level": "B2"
+        },
+        {
+          "word": "firm",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "agent"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "agency example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 36
+    },
+    {
+      "id": 66,
+      "word": "agenda",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a list of items to be discussed at a meeting",
+      "definitionTh": "วาระการประชุม",
+      "example": "The first item on the agenda is the budget.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "schedule",
+          "level": "B2"
+        },
+        {
+          "word": "plan",
+          "level": "B2"
+        },
+        {
+          "word": "program",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "agenda example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 35
+    },
+    {
+      "id": 67,
+      "word": "agent",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a person who represents others in business",
+      "definitionTh": "ตัวแทน / เจ้าหน้าที่",
+      "example": "My travel agent booked the flight.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "representative",
+          "level": "B1"
+        },
+        {
+          "word": "broker",
+          "level": "B1"
+        },
+        {
+          "word": "delegate",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "agency"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "agent example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 34
+    },
+    {
+      "id": 68,
+      "word": "aggressive",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "ready to attack or confront; forceful",
+      "definitionTh": "ก้าวร้าว / รุกราน",
+      "example": "The dog became aggressive when scared.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "hostile",
+          "level": "B2"
+        },
+        {
+          "word": "combative",
+          "level": "B2"
+        },
+        {
+          "word": "forceful",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "peaceful",
+          "level": "B2"
+        },
+        {
+          "word": "passive",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "aggression"
+        ],
+        "verb": [
+          "aggressively"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "aggressive example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 33
+    },
+    {
+      "id": 69,
+      "word": "ago",
+      "pos": "adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "before now; in the past",
+      "definitionTh": "ที่แล้ว",
+      "example": "I met her two years ago.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "previously",
+          "level": "A1"
+        },
+        {
+          "word": "before",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "hence",
+          "level": "A1"
+        },
+        {
+          "word": "later",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "ago example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 32
+    },
+    {
+      "id": 70,
+      "word": "agree",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to have the same opinion; to consent",
+      "definitionTh": "เห็นด้วย / ตกลง",
+      "example": "I agree with your opinion.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "concur",
+          "level": "A1"
+        },
+        {
+          "word": "consent",
+          "level": "A1"
+        },
+        {
+          "word": "accept",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "disagree",
+          "level": "A1"
+        },
+        {
+          "word": "refuse",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "agreement"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "agree example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 31
+    },
+    {
+      "id": 71,
+      "word": "agreement",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "an arrangement or accord between parties",
+      "definitionTh": "ข้อตกลง / ความเห็นพ้อง",
+      "example": "The two sides reached an agreement.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "accord",
+          "level": "B1"
+        },
+        {
+          "word": "deal",
+          "level": "B1"
+        },
+        {
+          "word": "contract",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "disagreement",
+          "level": "B1"
+        },
+        {
+          "word": "dispute",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [
+          "agree"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "agreement example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 30
+    },
+    {
+      "id": 72,
+      "word": "ah",
+      "pos": "exclam.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "used to express surprise or realization",
+      "definitionTh": "อ๋อ / อ้า (คำอุทาน)",
+      "example": "Ah, now I understand!",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "oh",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "ah example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 29
+    },
+    {
+      "id": 73,
+      "word": "ahead",
+      "pos": "adv.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "in front; in the future",
+      "definitionTh": "ข้างหน้า / ล่วงหน้า",
+      "example": "There is a traffic jam ahead.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "forward",
+          "level": "B1"
+        },
+        {
+          "word": "in front",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "behind",
+          "level": "B1"
+        },
+        {
+          "word": "back",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "ahead example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 28
+    },
+    {
+      "id": 74,
+      "word": "aid",
+      "pos": "n., v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "help or assistance; to help",
+      "definitionTh": "ความช่วยเหลือ / ช่วยเหลือ",
+      "example": "They sent aid to the flood victims.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "help",
+          "level": "B2"
+        },
+        {
+          "word": "assistance",
+          "level": "B2"
+        },
+        {
+          "word": "support",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "hinder",
+          "level": "B2"
+        },
+        {
+          "word": "obstruct",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "aid example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 27
+    },
+    {
+      "id": 75,
+      "word": "aim",
+      "pos": "v., n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a goal; to point or direct toward something",
+      "definitionTh": "จุดมุ่งหมาย / เล็ง",
+      "example": "Our aim is to reduce costs by 10%.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "goal",
+          "level": "B1"
+        },
+        {
+          "word": "target",
+          "level": "B1"
+        },
+        {
+          "word": "objective",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "aimless"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "aim example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 26
+    },
+    {
+      "id": 76,
+      "word": "air",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the mixture of gases we breathe",
+      "definitionTh": "อากาศ",
+      "example": "The air is fresh in the mountains.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "atmosphere",
+          "level": "A1"
+        },
+        {
+          "word": "breeze",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "air example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 25
+    },
+    {
+      "id": 77,
+      "word": "aircraft",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "any machine that flies",
+      "definitionTh": "อากาศยาน",
+      "example": "The aircraft landed safely.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "airplane",
+          "level": "B2"
+        },
+        {
+          "word": "plane",
+          "level": "B2"
+        },
+        {
+          "word": "jet",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "aircraft example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 24
+    },
+    {
+      "id": 78,
+      "word": "airline",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a company that transports people by air",
+      "definitionTh": "สายการบิน",
+      "example": "This airline offers cheap flights.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "carrier",
+          "level": "A2"
+        },
+        {
+          "word": "flight company",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "airline example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 23
+    },
+    {
+      "id": 79,
+      "word": "airport",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a place where aircraft take off and land",
+      "definitionTh": "สนามบิน",
+      "example": "We arrived at the airport early.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "airfield",
+          "level": "A1"
+        },
+        {
+          "word": "terminal",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "airport example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 22
+    },
+    {
+      "id": 80,
+      "word": "alarm",
+      "pos": "n., v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a warning signal; to worry someone",
+      "definitionTh": "สัญญาณเตือน / ตกใจ",
+      "example": "Set the alarm for 6 a.m.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "warning",
+          "level": "B1"
+        },
+        {
+          "word": "signal",
+          "level": "B1"
+        },
+        {
+          "word": "alert",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "alarming"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "alarm example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 21
+    },
+    {
+      "id": 81,
+      "word": "album",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a collection of songs or photos",
+      "definitionTh": "อัลบั้ม",
+      "example": "Her new album is amazing.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "record",
+          "level": "B1"
+        },
+        {
+          "word": "collection",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "album example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 20
+    },
+    {
+      "id": 82,
+      "word": "alcohol",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a drink like beer or wine",
+      "definitionTh": "แอลกอฮอล์ / เครื่องดื่มมึนเมา",
+      "example": "He does not drink alcohol.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "liquor",
+          "level": "B1"
+        },
+        {
+          "word": "spirits",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "alcoholic"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "alcohol example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 19
+    },
+    {
+      "id": 83,
+      "word": "alcoholic",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "containing alcohol; addicted to alcohol",
+      "definitionTh": "ที่มีแอลกอฮอล์ / คนติดสุรา",
+      "example": "This is a non-alcoholic drink.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "intoxicating",
+          "level": "B1"
+        },
+        {
+          "word": "drunk",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "nonalcoholic",
+          "level": "B1"
+        },
+        {
+          "word": "sober",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "alcohol"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "alcoholic example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 18
+    },
+    {
+      "id": 84,
+      "word": "alive",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "living; not dead",
+      "definitionTh": "มีชีวิต / ยังไม่ตาย",
+      "example": "The plant is still alive after the winter.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "living",
+          "level": "A2"
+        },
+        {
+          "word": "breathing",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "dead",
+          "level": "A2"
+        },
+        {
+          "word": "lifeless",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "alive example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 17
+    },
+    {
+      "id": 85,
+      "word": "all",
+      "pos": "det., pron., adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the whole of a group or thing",
+      "definitionTh": "ทั้งหมด",
+      "example": "All students must attend the meeting.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "every",
+          "level": "A1"
+        },
+        {
+          "word": "entire",
+          "level": "A1"
+        },
+        {
+          "word": "whole",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "none",
+          "level": "A1"
+        },
+        {
+          "word": "no",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "all example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 16
+    },
+    {
+      "id": 86,
+      "word": "all right",
+      "pos": "adj./adv., exclam.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "acceptable or in a satisfactory way",
+      "definitionTh": "โอเค / ไม่เป็นไร",
+      "example": "Are you all right after the fall?",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "okay",
+          "level": "A2"
+        },
+        {
+          "word": "fine",
+          "level": "A2"
+        },
+        {
+          "word": "acceptable",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "wrong",
+          "level": "A2"
+        },
+        {
+          "word": "bad",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "all right example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 15
+    },
+    {
+      "id": 87,
+      "word": "allow",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to give permission for something",
+      "definitionTh": "อนุญาต",
+      "example": "Smoking is not allowed here.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "permit",
+          "level": "A2"
+        },
+        {
+          "word": "let",
+          "level": "A2"
+        },
+        {
+          "word": "authorize",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "forbid",
+          "level": "A2"
+        },
+        {
+          "word": "prohibit",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "allowance"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "allow example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 14
+    },
+    {
+      "id": 88,
+      "word": "almost",
+      "pos": "adv.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "very nearly; not quite",
+      "definitionTh": "เกือบ",
+      "example": "It is almost midnight.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "nearly",
+          "level": "A2"
+        },
+        {
+          "word": "practically",
+          "level": "A2"
+        },
+        {
+          "word": "virtually",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "almost example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 13
+    },
+    {
+      "id": 89,
+      "word": "alone",
+      "pos": "adj./adv.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "without others; by oneself",
+      "definitionTh": "โดยลำพัง / คนเดียว",
+      "example": "She lives alone in the city.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "solitary",
+          "level": "A2"
+        },
+        {
+          "word": "single-handed",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "accompanied",
+          "level": "A2"
+        },
+        {
+          "word": "together",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "alone example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 12
+    },
+    {
+      "id": 90,
+      "word": "along",
+      "pos": "prep., adv.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "moving in a line following the length of",
+      "definitionTh": "ไปตาม / ตลอด",
+      "example": "We walked along the beach.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "through",
+          "level": "A2"
+        },
+        {
+          "word": "beside",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "along example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 11
+    },
+    {
+      "id": 91,
+      "word": "already",
+      "pos": "adv.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "before now or before that time",
+      "definitionTh": "เรียบร้อยแล้ว / แล้ว",
+      "example": "I have already finished my homework.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "previously",
+          "level": "A2"
+        },
+        {
+          "word": "beforehand",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "not yet",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "already example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 10
+    },
+    {
+      "id": 92,
+      "word": "also",
+      "pos": "adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "in addition; too",
+      "definitionTh": "อีกด้วย / ด้วย",
+      "example": "She sings and also plays the guitar.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "too",
+          "level": "A1"
+        },
+        {
+          "word": "as well",
+          "level": "A1"
+        },
+        {
+          "word": "additionally",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "also example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 9
+    },
+    {
+      "id": 93,
+      "word": "alter",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to change something slightly",
+      "definitionTh": "เปลี่ยนแปลง / แก้ไข",
+      "example": "The tailor will alter the dress.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "change",
+          "level": "B2"
+        },
+        {
+          "word": "modify",
+          "level": "B2"
+        },
+        {
+          "word": "adjust",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "preserve",
+          "level": "B2"
+        },
+        {
+          "word": "keep",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "alteration"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "alter example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 8
+    },
+    {
+      "id": 94,
+      "word": "alternative",
+      "pos": "n., adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a different choice or option",
+      "definitionTh": "ทางเลือก",
+      "example": "Is there an alternative to this plan?",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "option",
+          "level": "A2"
+        },
+        {
+          "word": "choice",
+          "level": "A2"
+        },
+        {
+          "word": "substitute",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [
+          "alternatively"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "alternative example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 7
+    },
+    {
+      "id": 95,
+      "word": "although",
+      "pos": "conj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "despite the fact that; though",
+      "definitionTh": "แม้ว่า",
+      "example": "Although it was raining, we went out.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "though",
+          "level": "A2"
+        },
+        {
+          "word": "even though",
+          "level": "A2"
+        },
+        {
+          "word": "while",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "although example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 6
+    },
+    {
+      "id": 96,
+      "word": "always",
+      "pos": "adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "at all times; every time",
+      "definitionTh": "เสมอ / ตลอดเวลา",
+      "example": "She is always kind to everyone.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "forever",
+          "level": "A1"
+        },
+        {
+          "word": "constantly",
+          "level": "A1"
+        },
+        {
+          "word": "invariably",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "never",
+          "level": "A1"
+        },
+        {
+          "word": "rarely",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "always example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 5
+    },
+    {
+      "id": 97,
+      "word": "amazed",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "very surprised",
+      "definitionTh": "ประหลาดใจมาก",
+      "example": "I was amazed by her singing.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "astonished",
+          "level": "B1"
+        },
+        {
+          "word": "astounded",
+          "level": "B1"
+        },
+        {
+          "word": "stunned",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unimpressed",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [
+          "amaze"
+        ],
+        "adjective": [
+          "amazing"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "amazed example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 4
+    },
+    {
+      "id": 98,
+      "word": "amazing",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "extremely surprising or impressive",
+      "definitionTh": "น่าอัศจรรย์",
+      "example": "The view from the top was amazing.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "incredible",
+          "level": "A1"
+        },
+        {
+          "word": "wonderful",
+          "level": "A1"
+        },
+        {
+          "word": "astonishing",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "ordinary",
+          "level": "A1"
+        },
+        {
+          "word": "dull",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [
+          "amaze"
+        ],
+        "adjective": [
+          "amazed"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "amazing example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 3
+    },
+    {
+      "id": 99,
+      "word": "ambition",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a strong desire to achieve something",
+      "definitionTh": "ความทะเยอทะยาน",
+      "example": "Her ambition is to become a doctor.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "aspiration",
+          "level": "B1"
+        },
+        {
+          "word": "goal",
+          "level": "B1"
+        },
+        {
+          "word": "dream",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "apathy",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "ambitious"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "ambition example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 2
+    },
+    {
+      "id": 100,
+      "word": "ambitious",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "having a strong desire for success",
+      "definitionTh": "ทะเยอทะยาน",
+      "example": "He is an ambitious young lawyer.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "aspiring",
+          "level": "B1"
+        },
+        {
+          "word": "driven",
+          "level": "B1"
+        },
+        {
+          "word": "motivated",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unambitious",
+          "level": "B1"
+        },
+        {
+          "word": "lazy",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "ambition"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "ambitious example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 1
+    }
+  ]
+}

@@ -18,6 +18,8 @@ document.addEventListener("DOMContentLoaded", () => {
   const settingsThemeBtn = document.getElementById("settings-theme-btn");
   const settingsTtsToggle = document.getElementById("settings-tts-toggle");
   const settingsVoiceSelect = document.getElementById("settings-tts-voice-select");
+  const settingsVocabWordsPerDay = document.getElementById("settings-vocab-words-per-day");
+  const settingsVocabStartDate = document.getElementById("settings-vocab-start-date");
   if(settingsBtn){
     settingsBtn.onclick = () => {
       if(settingsOverlay){
@@ -55,6 +57,27 @@ document.addEventListener("DOMContentLoaded", () => {
         ttsChosenVoice = picked;
         localStorage.setItem(TTS_VOICE_KEY, picked.voiceURI);
         speakText("This is what I sound like now.");
+      }
+    };
+  }
+  if(settingsVocabWordsPerDay){
+    settingsVocabWordsPerDay.value = getVocabWordsPerDay();
+    settingsVocabWordsPerDay.onchange = () => {
+      const nextValue = setVocabWordsPerDay(settingsVocabWordsPerDay.value);
+      settingsVocabWordsPerDay.value = nextValue;
+      vocabState = buildVocabStructure();
+      if(document.getElementById("screen-vocab")?.classList.contains("active")) {
+        openVocabHome();
+      }
+    };
+  }
+  if(settingsVocabStartDate){
+    settingsVocabStartDate.value = getVocabStartDate();
+    settingsVocabStartDate.onchange = () => {
+      setVocabStartDate(settingsVocabStartDate.value);
+      vocabState = buildVocabStructure();
+      if(document.getElementById("screen-vocab")?.classList.contains("active")) {
+        openVocabHome();
       }
     };
   }
@@ -1002,11 +1025,75 @@ document.addEventListener("keydown", (e) => {
 });
 
 // ============ VOCAB MODULE (คลังคำศัพท์ Oxford 5000) ============
-// ข้อมูลคำศัพท์โหลดจาก words.json (ดูใน initApp) — โครงสร้างแต่ละคำ:
-// [no, word, pos, level, defEn, defTh, example]
+// ข้อมูลคำศัพท์โหลดจาก words.json (ดูใน initApp)
+// รองรับทั้ง format เก่าเป็น array และ format ใหม่จากไฟล์แนบ Oxford 5000 JSON
+// internal shape: [id, word, pos, level, defEn, defTh, example, synonyms, antonyms, family]
 let VOCAB_WORDS = [];
 let vocabState = null;
 const VOCAB_MONTHS_TH = ["มกราคม","กุมภาพันธ์","มีนาคม","เมษายน","พฤษภาคม","มิถุนายน","กรกฎาคม","สิงหาคม","กันยายน","ตุลาคม","พฤศจิกายน","ธันวาคม"];
+const VOCAB_WORDS_PER_DAY_KEY = "tenses_vocab_words_per_day";
+const VOCAB_START_DATE_KEY = "tenses_vocab_start_date";
+function getVocabWordsPerDay(){
+  const saved = parseInt(localStorage.getItem(VOCAB_WORDS_PER_DAY_KEY), 10);
+  return Number.isFinite(saved) && saved > 0 ? saved : 20;
+}
+function setVocabWordsPerDay(value){
+  const parsed = parseInt(value, 10);
+  const safeValue = Number.isFinite(parsed) && parsed > 0 ? parsed : 20;
+  localStorage.setItem(VOCAB_WORDS_PER_DAY_KEY, String(safeValue));
+  return safeValue;
+}
+function toDateInputValue(date){
+  const y = date.getFullYear();
+  const m = String(date.getMonth() + 1).padStart(2, "0");
+  const d = String(date.getDate()).padStart(2, "0");
+  return `${y}-${m}-${d}`;
+}
+function parseVocabStartDate(value){
+  if(!value) return new Date();
+  const parsed = new Date(`${value}T00:00:00`);
+  return Number.isNaN(parsed.getTime()) ? new Date() : parsed;
+}
+function getVocabStartDate(){
+  const saved = localStorage.getItem(VOCAB_START_DATE_KEY);
+  if(saved){
+    const parsed = parseVocabStartDate(saved);
+    return toDateInputValue(parsed);
+  }
+  return toDateInputValue(new Date());
+}
+function setVocabStartDate(value){
+  const parsed = parseVocabStartDate(value);
+  const normalized = toDateInputValue(parsed);
+  localStorage.setItem(VOCAB_START_DATE_KEY, normalized);
+  return normalized;
+}
+
+function normalizeVocabWordObject(w, index){
+  return [
+    typeof w.id !== "undefined" ? w.id : index + 1,
+    w.word || "",
+    w.pos || "",
+    w.level || "",
+    w.definitionEn || w.defEn || "",
+    w.definitionTh || w.defTh || "",
+    w.example || "",
+    Array.isArray(w.synonyms) ? w.synonyms : [],
+    Array.isArray(w.antonyms) ? w.antonyms : [],
+    (w.family && typeof w.family === "object") ? w.family : {}
+  ];
+}
+
+function normalizeVocabWords(raw){
+  if(Array.isArray(raw)){
+    return raw.map((w, i) => Array.isArray(w) ? w : normalizeVocabWordObject(w, i));
+  }
+  if(raw && Array.isArray(raw.words)){
+    return raw.words.map((w, i) => normalizeVocabWordObject(w, i));
+  }
+  console.warn("normalizeVocabWords: Unrecognized words.json shape", raw);
+  return [];
+}
 
 // ---- Persistent stats: per-day flashcard recall + per-level quiz performance ----
 const VOCAB_DAY_STATS_KEY = "tenses_vocab_day_stats_v1";
@@ -1028,20 +1115,42 @@ const addVocabLevelStats = (byLevel) => {
   localStorage.setItem(VOCAB_LEVEL_STATS_KEY, JSON.stringify(all));
 };
 
+function normalizeVocabEntry(w, index){
+  if(Array.isArray(w)) return w;
+  if(w && typeof w === "object"){
+    return [
+      typeof w.id !== "undefined" ? w.id : index + 1,
+      w.word || "",
+      w.pos || "",
+      w.level || "",
+      w.definitionEn || w.defEn || "",
+      w.definitionTh || w.defTh || "",
+      w.example || "",
+      Array.isArray(w.synonyms) ? w.synonyms : [],
+      Array.isArray(w.antonyms) ? w.antonyms : [],
+      (w.family && typeof w.family === "object") ? w.family : {}
+    ];
+  }
+  return [index + 1, "", "", "", "", "", "", [], [], {}];
+}
+
 function buildVocabStructure(){
-  const WORDS_PER_DAY = 10;
+  const WORDS_PER_DAY = getVocabWordsPerDay();
   const DAYS_PER_WEEK = 5;
   const days = [];
-  for(let i=0;i<VOCAB_WORDS.length;i+=WORDS_PER_DAY) days.push(VOCAB_WORDS.slice(i, i+WORDS_PER_DAY));
+  const normalizedWords = VOCAB_WORDS.map((w, i) => normalizeVocabEntry(w, i));
+  for(let i=0;i<normalizedWords.length;i+=WORDS_PER_DAY) days.push(normalizedWords.slice(i, i+WORDS_PER_DAY));
 
   const today = new Date();
   today.setHours(0,0,0,0);
+  const scheduleStartDate = parseVocabStartDate(getVocabStartDate());
+  scheduleStartDate.setHours(0,0,0,0);
   const isWeekend = d => d.getDay() === 0 || d.getDay() === 6;
 
-  // จัดวันท่องศัพท์ให้ตรงกับวันจันทร์-ศุกร์จริง เริ่มจากวันนี้
+  // จัดวันท่องศัพท์ให้ตรงกับวันจันทร์-ศุกร์จริง เริ่มจากวันที่ตั้งค่า
   const studyDates = [];
   {
-    let cursor = new Date(today);
+    let cursor = new Date(scheduleStartDate);
     while(studyDates.length < days.length){
       if(!isWeekend(cursor)) studyDates.push(new Date(cursor));
       cursor.setDate(cursor.getDate() + 1);
@@ -1246,6 +1355,40 @@ function openVocabDay(i){
   renderVocabCard();
 }
 
+function renderVocabExtras(synonyms, antonyms, family){
+  const synRow = document.getElementById("vocabSynRow");
+  const antRow = document.getElementById("vocabAntRow");
+  const famRow = document.getElementById("vocabFamRow");
+  const synEl  = document.getElementById("vocabSyn");
+  const antEl  = document.getElementById("vocabAnt");
+  const famEl  = document.getElementById("vocabFam");
+  if(!synRow || !antRow || !famRow) return;
+  const chipList = (arr) => (Array.isArray(arr) && arr.length)
+    ? arr.map(x => {
+        const v = (x && typeof x === "object") ? (x.word || JSON.stringify(x)) : x;
+        return `<span class="vf-chip">${esc(v)}</span>`;
+      }).join("")
+    : "";
+  const chipFamily = (fam) => {
+    if(!fam || typeof fam !== "object") return "";
+    const entries = Object.entries(fam).filter(([,v]) => v);
+    if(!entries.length) return "";
+    return entries.map(([p,v]) => {
+      const val = Array.isArray(v) ? v.join(", ") : v;
+      return `<span class="vf-chip"><span class="vf-pos">${esc(p)}</span>${esc(val)}</span>`;
+    }).join("");
+  };
+  const synHtml = chipList(synonyms);
+  const antHtml = chipList(antonyms);
+  const famHtml = chipFamily(family);
+  synEl.innerHTML = synHtml;
+  antEl.innerHTML = antHtml;
+  famEl.innerHTML = famHtml;
+  synRow.classList.toggle("empty", !synHtml);
+  antRow.classList.toggle("empty", !antHtml);
+  famRow.classList.toggle("empty", !famHtml);
+}
+
 function renderVocabCard(){
   const st = vocabState;
   const dayWords = st.days[st.currentDay];
@@ -1264,7 +1407,7 @@ function renderVocabCard(){
   doneBox.style.display = "none";
 
   const w = dayWords[st.dayIndices[st.pos]];
-  const [num, word, pos, level, defEn, defTh, example] = w;
+  const [num, word, pos, level, defEn, defTh, example, synonyms, antonyms, family] = w;
   document.getElementById("vocabFrontIndex").textContent = "#" + String(num).padStart(3,"0");
   document.getElementById("vocabBackIndex").textContent = "#" + String(num).padStart(3,"0");
   document.getElementById("vocabFrontWord").textContent = word;
@@ -1275,6 +1418,7 @@ function renderVocabCard(){
   document.getElementById("vocabDefEn").textContent = defEn;
   document.getElementById("vocabDefTh").textContent = defTh;
   document.getElementById("vocabExample").innerHTML = "“" + vocabFillSentence(example, word) + "”";
+  renderVocabExtras(synonyms, antonyms, family);
 
   document.getElementById("vocabProgressLabel").textContent = (st.pos+1) + " / " + st.dayIndices.length;
   document.getElementById("vocabKnownLabel").textContent = "จำได้แล้ว: " + st.known.size;
@@ -1632,7 +1776,8 @@ async function initApp(){
 
   try {
     const vRes = await fetch("words.json");
-    VOCAB_WORDS = await vRes.json();
+    const rawVocab = await vRes.json();
+    VOCAB_WORDS = normalizeVocabWords(rawVocab);
   } catch (err) {
     console.error("โหลดคลังคำศัพท์ (words.json) ไม่สำเร็จ:", err);
     VOCAB_WORDS = [];

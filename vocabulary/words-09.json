@@ -1,0 +1,4436 @@
+{
+  "version": 2,
+  "source": "Oxford 3000",
+  "batch": 9,
+  "level": "Mixed",
+  "totalWords": 100,
+  "metadata": {
+    "created": "2026-07-13",
+    "language": "en",
+    "description": "Batch 09 of 50 — Oxford 3000 words 801-900; lexical fields reviewed"
+  },
+  "words": [
+    {
+      "id": 801,
+      "word": "dramatic",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "sudden, very noticeable, or related to drama",
+      "definitionTh": "น่าตื่นเต้น / เปลี่ยนแปลงอย่างมาก",
+      "example": "There was a dramatic improvement in quality.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "striking",
+          "level": "B2"
+        },
+        {
+          "word": "remarkable",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "minor",
+          "level": "B2"
+        },
+        {
+          "word": "slight",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "drama"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "dramatically"
+        ]
+      },
+      "collocations": [
+        "dramatic change",
+        "dramatic effect"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 100
+    },
+    {
+      "id": 802,
+      "word": "draw",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to make a picture or pull something",
+      "definitionTh": "วาด / ดึง",
+      "example": "She drew a diagram of the machine.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "sketch",
+          "level": "A1"
+        },
+        {
+          "word": "pull",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "push",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "drawing"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "draw a picture",
+        "draw attention"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 99
+    },
+    {
+      "id": 803,
+      "word": "drawing",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a picture made with a pen or pencil",
+      "definitionTh": "ภาพวาด",
+      "example": "The drawing shows the new design.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "sketch",
+          "level": "A2"
+        },
+        {
+          "word": "illustration",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [
+          "draw"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "technical drawing",
+        "line drawing"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 98
+    },
+    {
+      "id": 804,
+      "word": "dream",
+      "pos": "n., v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "images during sleep or a strong hope",
+      "definitionTh": "ความฝัน / ฝัน",
+      "example": "She dreams of becoming an engineer.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "vision",
+          "level": "A2"
+        },
+        {
+          "word": "hope",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "reality",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "dream"
+        ],
+        "verb": [
+          "dream"
+        ],
+        "adjective": [
+          "dreamy"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "have a dream",
+        "dream of"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 97
+    },
+    {
+      "id": 805,
+      "word": "dress",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a piece of clothing or to put clothes on",
+      "definitionTh": "ชุดกระโปรง / แต่งตัว",
+      "example": "She wore a blue dress.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "clothing",
+          "level": "A1"
+        },
+        {
+          "word": "clothe",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "undress",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "dress"
+        ],
+        "verb": [
+          "dress"
+        ],
+        "adjective": [
+          "dressed"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "wear a dress",
+        "dress formally"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 96
+    },
+    {
+      "id": 806,
+      "word": "dressed",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "wearing clothes of a particular kind",
+      "definitionTh": "แต่งตัว",
+      "example": "He was dressed in a dark suit.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "clothed",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "undressed",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "dress"
+        ],
+        "verb": [
+          "dress"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "smartly dressed",
+        "dressed in"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 95
+    },
+    {
+      "id": 807,
+      "word": "drink",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a liquid or to take liquid into the mouth",
+      "definitionTh": "เครื่องดื่ม / ดื่ม",
+      "example": "Drink plenty of water.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "beverage",
+          "level": "A1"
+        },
+        {
+          "word": "sip",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "drink",
+          "drinker"
+        ],
+        "verb": [
+          "drink"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "soft drink",
+        "drink water"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 94
+    },
+    {
+      "id": 808,
+      "word": "drive",
+      "pos": "v., n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to control a vehicle or a journey by car",
+      "definitionTh": "ขับรถ / การขับรถ",
+      "example": "She drives to work every day.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "operate",
+          "level": "A1"
+        },
+        {
+          "word": "travel",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "drive",
+          "driver",
+          "driving"
+        ],
+        "verb": [
+          "drive"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "drive a car",
+        "long drive"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 93
+    },
+    {
+      "id": 809,
+      "word": "driver",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a person who drives a vehicle",
+      "definitionTh": "คนขับรถ",
+      "example": "The driver stopped the bus.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "motorist",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "drive",
+          "driving"
+        ],
+        "verb": [
+          "drive"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "bus driver",
+        "careful driver"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 92
+    },
+    {
+      "id": 810,
+      "word": "driving",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the activity of controlling a vehicle",
+      "definitionTh": "การขับรถ",
+      "example": "Driving in heavy rain is difficult.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "motoring",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "drive",
+          "driver"
+        ],
+        "verb": [
+          "drive"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "driving test",
+        "driving licence"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 91
+    },
+    {
+      "id": 811,
+      "word": "drop",
+      "pos": "v., n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to fall, let something fall, or a small amount of liquid",
+      "definitionTh": "ตก / หยด",
+      "example": "Be careful not to drop the glass.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "fall",
+          "level": "A2"
+        },
+        {
+          "word": "release",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "raise",
+          "level": "A2"
+        },
+        {
+          "word": "lift",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "drop"
+        ],
+        "verb": [
+          "drop"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "drop sharply",
+        "drop a glass"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 90
+    },
+    {
+      "id": 812,
+      "word": "drug",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a substance used as medicine or illegally for its effects",
+      "definitionTh": "ยา / สารเสพติด",
+      "example": "The doctor prescribed a new drug.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "medicine",
+          "level": "A2"
+        },
+        {
+          "word": "medication",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "prescription drug",
+        "drug treatment"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 89
+    },
+    {
+      "id": 813,
+      "word": "drum",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a musical instrument played by hitting it",
+      "definitionTh": "กลอง",
+      "example": "He plays the drums in a band.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "percussion instrument",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "play the drums",
+        "drum beat"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 88
+    },
+    {
+      "id": 814,
+      "word": "drunk",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "affected by too much alcohol",
+      "definitionTh": "เมา",
+      "example": "He was too drunk to drive.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "intoxicated",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "sober",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "drunkenness"
+        ],
+        "verb": [
+          "drink"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "get drunk",
+        "drunk driver"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 87
+    },
+    {
+      "id": 815,
+      "word": "dry",
+      "pos": "adj., v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "not wet or to remove moisture",
+      "definitionTh": "แห้ง / ทำให้แห้ง",
+      "example": "Leave the clothes to dry.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "arid",
+          "level": "A2"
+        },
+        {
+          "word": "dehydrate",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "wet",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "dryness"
+        ],
+        "verb": [
+          "dry"
+        ],
+        "adjective": [
+          "dry"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "dry clothes",
+        "keep dry"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 86
+    },
+    {
+      "id": 816,
+      "word": "due",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "expected or required at a particular time",
+      "definitionTh": "ครบกำหนด / มีกำหนด",
+      "example": "The report is due on Friday.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "expected",
+          "level": "B1"
+        },
+        {
+          "word": "scheduled",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "overdue",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "due date",
+        "due to"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 85
+    },
+    {
+      "id": 817,
+      "word": "during",
+      "pos": "prep.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "throughout or within a period of time",
+      "definitionTh": "ระหว่าง",
+      "example": "Do not use your phone during the meeting.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "throughout",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "during the day",
+        "during a meeting"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 84
+    },
+    {
+      "id": 818,
+      "word": "dust",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "fine dry particles on a surface or in the air",
+      "definitionTh": "ฝุ่น",
+      "example": "There was dust on the shelf.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "particles",
+          "level": "B1"
+        },
+        {
+          "word": "powder",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "dust"
+        ],
+        "verb": [
+          "dust"
+        ],
+        "adjective": [
+          "dusty"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "dust cloud",
+        "covered in dust"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 83
+    },
+    {
+      "id": 819,
+      "word": "duty",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a responsibility or task that must be done",
+      "definitionTh": "หน้าที่",
+      "example": "It is my duty to report the problem.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "responsibility",
+          "level": "B1"
+        },
+        {
+          "word": "obligation",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "perform a duty",
+        "legal duty"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 82
+    },
+    {
+      "id": 820,
+      "word": "DVD",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a disc used for storing video or data",
+      "definitionTh": "ดีวีดี",
+      "example": "We watched the film on DVD.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "digital disc",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "DVD player",
+        "DVD recording"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 81
+    },
+    {
+      "id": 821,
+      "word": "each",
+      "pos": "det./pron./adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "every person or thing considered separately",
+      "definitionTh": "แต่ละ",
+      "example": "Each student received a book.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "every",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "none",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "each person",
+        "each time"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 80
+    },
+    {
+      "id": 822,
+      "word": "ear",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the part of the body used for hearing",
+      "definitionTh": "หู",
+      "example": "She whispered in his ear.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "hearing organ",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "inner ear",
+        "ear infection"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 79
+    },
+    {
+      "id": 823,
+      "word": "early",
+      "pos": "adj., adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "near the beginning or before the usual time",
+      "definitionTh": "ต้น / แต่เช้า",
+      "example": "We arrived early.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "premature",
+          "level": "A1"
+        },
+        {
+          "word": "soon",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "late",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "early morning",
+        "arrive early"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 78
+    },
+    {
+      "id": 824,
+      "word": "earn",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to receive money for work",
+      "definitionTh": "หาเงิน / ได้รับ",
+      "example": "She earns a good salary.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "make",
+          "level": "A2"
+        },
+        {
+          "word": "gain",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "spend",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "earn money",
+        "earn a living"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 77
+    },
+    {
+      "id": 825,
+      "word": "earth",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the planet we live on or soil",
+      "definitionTh": "โลก / ดิน",
+      "example": "The Earth moves around the Sun.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "world",
+          "level": "A2"
+        },
+        {
+          "word": "soil",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "earth"
+        ],
+        "verb": [],
+        "adjective": [
+          "earthly"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "planet Earth",
+        "earth surface"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 76
+    },
+    {
+      "id": 826,
+      "word": "earthquake",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a sudden shaking of the ground",
+      "definitionTh": "แผ่นดินไหว",
+      "example": "The earthquake damaged several buildings.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "seismic event",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "major earthquake",
+        "earthquake damage"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 75
+    },
+    {
+      "id": 827,
+      "word": "easily",
+      "pos": "adv.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "without difficulty",
+      "definitionTh": "อย่างง่ายดาย",
+      "example": "The part can be replaced easily.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "effortlessly",
+          "level": "A2"
+        },
+        {
+          "word": "readily",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "with difficulty",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "easy"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "easily accessible",
+        "easily damaged"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 74
+    },
+    {
+      "id": 828,
+      "word": "east",
+      "pos": "n., adj., adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the direction where the sun rises",
+      "definitionTh": "ทิศตะวันออก",
+      "example": "The sun rises in the east.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "eastern direction",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "west",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "eastern"
+        ],
+        "adverb": [
+          "east"
+        ]
+      },
+      "collocations": [
+        "east coast",
+        "due east"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 73
+    },
+    {
+      "id": 829,
+      "word": "eastern",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "located in or from the east",
+      "definitionTh": "ทางตะวันออก",
+      "example": "They live in eastern Thailand.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "east",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "western",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "east"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "eastern region",
+        "eastern side"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 72
+    },
+    {
+      "id": 830,
+      "word": "easy",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "not difficult",
+      "definitionTh": "ง่าย",
+      "example": "This question is easy.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "simple",
+          "level": "A1"
+        },
+        {
+          "word": "straightforward",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "difficult",
+          "level": "A1"
+        },
+        {
+          "word": "hard",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "ease"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "easily"
+        ]
+      },
+      "collocations": [
+        "easy task",
+        "easy to use"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 71
+    },
+    {
+      "id": 831,
+      "word": "eat",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to take food into the mouth and swallow",
+      "definitionTh": "กิน",
+      "example": "We eat lunch at noon.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "consume",
+          "level": "A1"
+        },
+        {
+          "word": "have",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "fast",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "eater"
+        ],
+        "verb": [
+          "eat"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "eat breakfast",
+        "eat well"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 70
+    },
+    {
+      "id": 832,
+      "word": "economic",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "relating to the economy, money, or trade",
+      "definitionTh": "ทางเศรษฐกิจ",
+      "example": "The country faces economic challenges.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "financial",
+          "level": "B1"
+        },
+        {
+          "word": "commercial",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "economy",
+          "economics"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "economically"
+        ]
+      },
+      "collocations": [
+        "economic growth",
+        "economic policy"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 69
+    },
+    {
+      "id": 833,
+      "word": "economy",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "the system of production, trade, and money",
+      "definitionTh": "เศรษฐกิจ",
+      "example": "Tourism supports the local economy.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "economic system",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "economics",
+          "economist"
+        ],
+        "verb": [],
+        "adjective": [
+          "economic"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "global economy",
+        "local economy"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 68
+    },
+    {
+      "id": 834,
+      "word": "edge",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "the outer limit or side of something",
+      "definitionTh": "ขอบ",
+      "example": "Keep away from the edge of the platform.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "border",
+          "level": "B1"
+        },
+        {
+          "word": "margin",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "centre",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "sharp edge",
+        "edge of"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 67
+    },
+    {
+      "id": 835,
+      "word": "edit",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to revise or prepare text, video, or sound",
+      "definitionTh": "แก้ไข / ตัดต่อ",
+      "example": "She edited the report before sending it.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "revise",
+          "level": "B2"
+        },
+        {
+          "word": "modify",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "edit",
+          "edition",
+          "editor"
+        ],
+        "verb": [
+          "edit"
+        ],
+        "adjective": [
+          "editorial"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "edit a document",
+        "edit a video"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 66
+    },
+    {
+      "id": 836,
+      "word": "edition",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a particular published version of a work",
+      "definitionTh": "ฉบับ",
+      "example": "This is the latest edition of the book.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "version",
+          "level": "B2"
+        },
+        {
+          "word": "issue",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "editor"
+        ],
+        "verb": [
+          "edit"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "latest edition",
+        "special edition"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 65
+    },
+    {
+      "id": 837,
+      "word": "editor",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a person who prepares content for publication",
+      "definitionTh": "บรรณาธิการ",
+      "example": "The editor checked the article.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "reviewer",
+          "level": "B1"
+        },
+        {
+          "word": "publisher",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "edition"
+        ],
+        "verb": [
+          "edit"
+        ],
+        "adjective": [
+          "editorial"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "chief editor",
+        "film editor"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 64
+    },
+    {
+      "id": 838,
+      "word": "educate",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to teach or train someone",
+      "definitionTh": "ให้การศึกษา",
+      "example": "Schools educate young people.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "teach",
+          "level": "B1"
+        },
+        {
+          "word": "instruct",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "education",
+          "educator"
+        ],
+        "verb": [],
+        "adjective": [
+          "educated",
+          "educational"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "educate children",
+        "educate the public"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 63
+    },
+    {
+      "id": 839,
+      "word": "educated",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "having received a good education",
+      "definitionTh": "มีการศึกษา",
+      "example": "She is highly educated.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "learned",
+          "level": "B1"
+        },
+        {
+          "word": "trained",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "uneducated",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "education",
+          "educator"
+        ],
+        "verb": [
+          "educate"
+        ],
+        "adjective": [
+          "educational"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "well educated",
+        "highly educated"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 62
+    },
+    {
+      "id": 840,
+      "word": "education",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the process of teaching and learning",
+      "definitionTh": "การศึกษา",
+      "example": "Education creates opportunities.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "schooling",
+          "level": "A2"
+        },
+        {
+          "word": "learning",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "educator"
+        ],
+        "verb": [
+          "educate"
+        ],
+        "adjective": [
+          "educated",
+          "educational"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "higher education",
+        "education system"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 61
+    },
+    {
+      "id": 841,
+      "word": "educational",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "related to education or providing knowledge",
+      "definitionTh": "ทางการศึกษา",
+      "example": "The video is both useful and educational.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "instructive",
+          "level": "B1"
+        },
+        {
+          "word": "academic",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "education",
+          "educator"
+        ],
+        "verb": [
+          "educate"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "educational program",
+        "educational value"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 60
+    },
+    {
+      "id": 842,
+      "word": "effect",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a result or change caused by something",
+      "definitionTh": "ผลกระทบ",
+      "example": "The new rule had a positive effect.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "result",
+          "level": "A2"
+        },
+        {
+          "word": "impact",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "cause",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "effect"
+        ],
+        "verb": [],
+        "adjective": [
+          "effective"
+        ],
+        "adverb": [
+          "effectively"
+        ]
+      },
+      "collocations": [
+        "positive effect",
+        "have an effect"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 59
+    },
+    {
+      "id": 843,
+      "word": "effective",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "successful in producing the intended result",
+      "definitionTh": "มีประสิทธิผล",
+      "example": "This method is effective.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "successful",
+          "level": "B1"
+        },
+        {
+          "word": "efficient",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "ineffective",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "effect",
+          "effectiveness"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "effectively"
+        ]
+      },
+      "collocations": [
+        "effective method",
+        "highly effective"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 58
+    },
+    {
+      "id": 844,
+      "word": "effectively",
+      "pos": "adv.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "in a way that produces the intended result",
+      "definitionTh": "อย่างมีประสิทธิผล",
+      "example": "The team communicated effectively.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "successfully",
+          "level": "B1"
+        },
+        {
+          "word": "efficiently",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "ineffectively",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "effect",
+          "effectiveness"
+        ],
+        "verb": [],
+        "adjective": [
+          "effective"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "work effectively",
+        "communicate effectively"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 57
+    },
+    {
+      "id": 845,
+      "word": "efficient",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "working well without wasting time or resources",
+      "definitionTh": "มีประสิทธิภาพ",
+      "example": "The new motor is more efficient.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "productive",
+          "level": "B2"
+        },
+        {
+          "word": "effective",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "inefficient",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "efficiency"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "efficiently"
+        ]
+      },
+      "collocations": [
+        "energy efficient",
+        "efficient process"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 56
+    },
+    {
+      "id": 846,
+      "word": "effort",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "physical or mental energy used to do something",
+      "definitionTh": "ความพยายาม",
+      "example": "The task requires a lot of effort.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "attempt",
+          "level": "B1"
+        },
+        {
+          "word": "work",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "make an effort",
+        "considerable effort"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 55
+    },
+    {
+      "id": 847,
+      "word": "egg",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an oval object produced by a bird and used as food",
+      "definitionTh": "ไข่",
+      "example": "She cooked an egg for breakfast.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "hen's egg",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "boiled egg",
+        "egg shell"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 54
+    },
+    {
+      "id": 848,
+      "word": "eight",
+      "pos": "number",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the number 8",
+      "definitionTh": "แปด",
+      "example": "There are eight people in the room.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "8",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "eight years",
+        "eight people"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 53
+    },
+    {
+      "id": 849,
+      "word": "eighteen",
+      "pos": "number",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the number 18",
+      "definitionTh": "สิบแปด",
+      "example": "She is eighteen years old.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "18",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "eighteen years old",
+        "eighteen people"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 52
+    },
+    {
+      "id": 850,
+      "word": "eighty",
+      "pos": "number",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the number 80",
+      "definitionTh": "แปดสิบ",
+      "example": "The machine weighs eighty kilograms.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "80",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "eighty percent",
+        "eighty years"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 51
+    },
+    {
+      "id": 851,
+      "word": "either",
+      "pos": "det./pron., adv.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "one or the other of two, or also not",
+      "definitionTh": "อย่างใดอย่างหนึ่ง / ก็ไม่",
+      "example": "Either option is acceptable.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "one of the two",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "neither",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "either side",
+        "either way"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 50
+    },
+    {
+      "id": 852,
+      "word": "elderly",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "old or relating to older people",
+      "definitionTh": "สูงอายุ",
+      "example": "The service supports elderly people.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "aged",
+          "level": "B2"
+        },
+        {
+          "word": "senior",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "young",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "elder"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "elderly people",
+        "elderly patient"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 49
+    },
+    {
+      "id": 853,
+      "word": "elect",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to choose someone by voting",
+      "definitionTh": "เลือกตั้ง",
+      "example": "Citizens elect their representatives.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "vote for",
+          "level": "B2"
+        },
+        {
+          "word": "choose",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "reject",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "election",
+          "elector"
+        ],
+        "verb": [],
+        "adjective": [
+          "electoral"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "elect a president",
+        "democratically elected"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 48
+    },
+    {
+      "id": 854,
+      "word": "election",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "the process of choosing someone by voting",
+      "definitionTh": "การเลือกตั้ง",
+      "example": "The election will be held next month.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "vote",
+          "level": "B1"
+        },
+        {
+          "word": "poll",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "elector"
+        ],
+        "verb": [
+          "elect"
+        ],
+        "adjective": [
+          "electoral"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "general election",
+        "election result"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 47
+    },
+    {
+      "id": 855,
+      "word": "electric",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "powered by electricity",
+      "definitionTh": "ไฟฟ้า",
+      "example": "They bought an electric car.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "electrically powered",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "manual",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "electricity"
+        ],
+        "verb": [],
+        "adjective": [
+          "electrical"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "electric motor",
+        "electric vehicle"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 46
+    },
+    {
+      "id": 856,
+      "word": "electrical",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "related to electricity",
+      "definitionTh": "เกี่ยวกับไฟฟ้า",
+      "example": "An electrical fault stopped the machine.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "electric",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "electricity"
+        ],
+        "verb": [],
+        "adjective": [
+          "electric"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "electrical equipment",
+        "electrical fault"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 45
+    },
+    {
+      "id": 857,
+      "word": "electricity",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a form of energy used for power, heat, and light",
+      "definitionTh": "ไฟฟ้า",
+      "example": "The factory uses a lot of electricity.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "electrical power",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "electric",
+          "electrical"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "generate electricity",
+        "electricity supply"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 44
+    },
+    {
+      "id": 858,
+      "word": "electronic",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "using electronic technology",
+      "definitionTh": "อิเล็กทรอนิกส์",
+      "example": "Keep an electronic copy of the file.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "digital",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "mechanical",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "electronics"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "electronically"
+        ]
+      },
+      "collocations": [
+        "electronic device",
+        "electronic system"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 43
+    },
+    {
+      "id": 859,
+      "word": "element",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a basic or essential part of something",
+      "definitionTh": "องค์ประกอบ",
+      "example": "Safety is a key element of the design.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "component",
+          "level": "B1"
+        },
+        {
+          "word": "part",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "key element",
+        "basic element"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 42
+    },
+    {
+      "id": 860,
+      "word": "elephant",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a very large animal with a trunk",
+      "definitionTh": "ช้าง",
+      "example": "The elephant used its trunk to drink.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "large mammal",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "African elephant",
+        "elephant trunk"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 41
+    },
+    {
+      "id": 861,
+      "word": "eleven",
+      "pos": "number",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the number 11",
+      "definitionTh": "สิบเอ็ด",
+      "example": "The meeting starts at eleven.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "11",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "eleven people",
+        "eleven years"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 40
+    },
+    {
+      "id": 862,
+      "word": "else",
+      "pos": "adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "in addition to or instead of something",
+      "definitionTh": "อื่น / อีก",
+      "example": "Would you like anything else?",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "otherwise",
+          "level": "A1"
+        },
+        {
+          "word": "additionally",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "else"
+        ]
+      },
+      "collocations": [
+        "someone else",
+        "anything else"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 39
+    },
+    {
+      "id": 863,
+      "word": "elsewhere",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "in or to another place",
+      "definitionTh": "ที่อื่น",
+      "example": "The product is made elsewhere.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "somewhere else",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "here",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "look elsewhere",
+        "available elsewhere"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 38
+    },
+    {
+      "id": 864,
+      "word": "email",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an electronic message or to send one",
+      "definitionTh": "อีเมล / ส่งอีเมล",
+      "example": "Please email the document to me.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "electronic mail",
+          "level": "A1"
+        },
+        {
+          "word": "message",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "email"
+        ],
+        "verb": [
+          "email"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "send an email",
+        "email address"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 37
+    },
+    {
+      "id": 865,
+      "word": "embarrassed",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "feeling ashamed or uncomfortable",
+      "definitionTh": "อับอาย / ขัดเขิน",
+      "example": "She felt embarrassed by the mistake.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "ashamed",
+          "level": "B1"
+        },
+        {
+          "word": "self-conscious",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "confident",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "embarrassment"
+        ],
+        "verb": [
+          "embarrass"
+        ],
+        "adjective": [
+          "embarrassing"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "feel embarrassed",
+        "deeply embarrassed"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 36
+    },
+    {
+      "id": 866,
+      "word": "embarrassing",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "making someone feel ashamed or uncomfortable",
+      "definitionTh": "น่าอับอาย",
+      "example": "It was an embarrassing situation.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "awkward",
+          "level": "B1"
+        },
+        {
+          "word": "humiliating",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "embarrassment"
+        ],
+        "verb": [
+          "embarrass"
+        ],
+        "adjective": [
+          "embarrassed"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "embarrassing situation",
+        "embarrassing mistake"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 35
+    },
+    {
+      "id": 867,
+      "word": "emerge",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to appear or become known",
+      "definitionTh": "ปรากฏขึ้น",
+      "example": "New problems emerged during testing.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "appear",
+          "level": "B2"
+        },
+        {
+          "word": "arise",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "disappear",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "emergence"
+        ],
+        "verb": [],
+        "adjective": [
+          "emergent"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "emerge from",
+        "gradually emerge"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 34
+    },
+    {
+      "id": 868,
+      "word": "emergency",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a serious unexpected situation requiring immediate action",
+      "definitionTh": "เหตุฉุกเฉิน",
+      "example": "Call this number in an emergency.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "crisis",
+          "level": "B1"
+        },
+        {
+          "word": "urgent situation",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "emergency exit",
+        "medical emergency"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 33
+    },
+    {
+      "id": 869,
+      "word": "emotion",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a strong feeling such as happiness or anger",
+      "definitionTh": "อารมณ์",
+      "example": "Her voice showed little emotion.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "feeling",
+          "level": "B1"
+        },
+        {
+          "word": "sentiment",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "emotion"
+        ],
+        "verb": [],
+        "adjective": [
+          "emotional"
+        ],
+        "adverb": [
+          "emotionally"
+        ]
+      },
+      "collocations": [
+        "strong emotion",
+        "show emotion"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 32
+    },
+    {
+      "id": 870,
+      "word": "emotional",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "relating to or showing strong feelings",
+      "definitionTh": "ทางอารมณ์",
+      "example": "The speech was very emotional.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "moving",
+          "level": "B2"
+        },
+        {
+          "word": "sentimental",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unemotional",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "emotion"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "emotionally"
+        ]
+      },
+      "collocations": [
+        "emotional support",
+        "emotional response"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 31
+    },
+    {
+      "id": 871,
+      "word": "emphasis",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "special importance given to something",
+      "definitionTh": "การเน้นย้ำ",
+      "example": "The policy places emphasis on safety.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "stress",
+          "level": "B2"
+        },
+        {
+          "word": "importance",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [
+          "emphasize"
+        ],
+        "adjective": [
+          "emphatic"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "place emphasis on",
+        "strong emphasis"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 30
+    },
+    {
+      "id": 872,
+      "word": "emphasize",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to give special importance to something",
+      "definitionTh": "เน้นย้ำ",
+      "example": "The trainer emphasized the safety rules.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "stress",
+          "level": "B2"
+        },
+        {
+          "word": "highlight",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "downplay",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "emphasis"
+        ],
+        "verb": [],
+        "adjective": [
+          "emphatic"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "strongly emphasize",
+        "emphasize that"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 29
+    },
+    {
+      "id": 873,
+      "word": "employ",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to pay someone to work",
+      "definitionTh": "จ้างงาน",
+      "example": "The company employs 200 people.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "hire",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "dismiss",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "employee",
+          "employer",
+          "employment"
+        ],
+        "verb": [],
+        "adjective": [
+          "employed"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "employ staff",
+        "employ a method"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 28
+    },
+    {
+      "id": 874,
+      "word": "employee",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a person paid to work for an organization",
+      "definitionTh": "พนักงาน",
+      "example": "Every employee must attend the training.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "worker",
+          "level": "A2"
+        },
+        {
+          "word": "staff member",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "employer",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "employer",
+          "employment"
+        ],
+        "verb": [
+          "employ"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "full-time employee",
+        "employee benefits"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 27
+    },
+    {
+      "id": 875,
+      "word": "employer",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a person or organization that employs people",
+      "definitionTh": "นายจ้าง",
+      "example": "The company is a major employer.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "company",
+          "level": "A2"
+        },
+        {
+          "word": "boss",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "employee",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "employee",
+          "employment"
+        ],
+        "verb": [
+          "employ"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "major employer",
+        "employer contribution"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 26
+    },
+    {
+      "id": 876,
+      "word": "employment",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "paid work or the state of having a job",
+      "definitionTh": "การจ้างงาน",
+      "example": "The project created local employment.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "work",
+          "level": "B1"
+        },
+        {
+          "word": "occupation",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unemployment",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "employee",
+          "employer"
+        ],
+        "verb": [
+          "employ"
+        ],
+        "adjective": [
+          "employed"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "full-time employment",
+        "employment opportunity"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 25
+    },
+    {
+      "id": 877,
+      "word": "empty",
+      "pos": "adj., v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "containing nothing or to remove all contents",
+      "definitionTh": "ว่างเปล่า / ทำให้ว่าง",
+      "example": "Please empty the container.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "vacant",
+          "level": "A2"
+        },
+        {
+          "word": "clear",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "full",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "emptiness"
+        ],
+        "verb": [
+          "empty"
+        ],
+        "adjective": [
+          "empty"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "empty container",
+        "completely empty"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 24
+    },
+    {
+      "id": 878,
+      "word": "enable",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to make something possible",
+      "definitionTh": "ทำให้สามารถ",
+      "example": "The software enables remote monitoring.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "allow",
+          "level": "B2"
+        },
+        {
+          "word": "permit",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "prevent",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "ability"
+        ],
+        "verb": [],
+        "adjective": [
+          "able"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "enable access",
+        "enable users"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 23
+    },
+    {
+      "id": 879,
+      "word": "encounter",
+      "pos": "v., n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to meet unexpectedly or an unexpected experience",
+      "definitionTh": "เผชิญ / การพบเจอ",
+      "example": "We encountered a technical problem.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "meet",
+          "level": "B2"
+        },
+        {
+          "word": "face",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "avoid",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "encounter"
+        ],
+        "verb": [
+          "encounter"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "encounter a problem",
+        "first encounter"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 22
+    },
+    {
+      "id": 880,
+      "word": "encourage",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to give someone support or confidence",
+      "definitionTh": "ส่งเสริม / ให้กำลังใจ",
+      "example": "Managers encourage workers to share ideas.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "support",
+          "level": "B1"
+        },
+        {
+          "word": "motivate",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "discourage",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "encouragement"
+        ],
+        "verb": [],
+        "adjective": [
+          "encouraging"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "encourage participation",
+        "strongly encourage"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 21
+    },
+    {
+      "id": 881,
+      "word": "end",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the final part or to finish",
+      "definitionTh": "จุดจบ / จบ",
+      "example": "The meeting ended at noon.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "finish",
+          "level": "A1"
+        },
+        {
+          "word": "conclusion",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "beginning",
+          "level": "A1"
+        },
+        {
+          "word": "start",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "end",
+          "ending"
+        ],
+        "verb": [
+          "end"
+        ],
+        "adjective": [
+          "endless"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "end of",
+        "end a meeting"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 20
+    },
+    {
+      "id": 882,
+      "word": "ending",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the final part of a story or event",
+      "definitionTh": "ตอนจบ",
+      "example": "The film has a surprising ending.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "conclusion",
+          "level": "A2"
+        },
+        {
+          "word": "finish",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "beginning",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "end"
+        ],
+        "verb": [
+          "end"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "happy ending",
+        "story ending"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 19
+    },
+    {
+      "id": 883,
+      "word": "enemy",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a person or group hostile to another",
+      "definitionTh": "ศัตรู",
+      "example": "They treated each other as enemies.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "opponent",
+          "level": "B1"
+        },
+        {
+          "word": "foe",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "friend",
+          "level": "B1"
+        },
+        {
+          "word": "ally",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "enemy"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "common enemy",
+        "enemy forces"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 18
+    },
+    {
+      "id": 884,
+      "word": "energy",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "power needed for activity, heat, or electricity",
+      "definitionTh": "พลังงาน",
+      "example": "Solar panels produce clean energy.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "power",
+          "level": "A2"
+        },
+        {
+          "word": "vitality",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "energy"
+        ],
+        "verb": [],
+        "adjective": [
+          "energetic"
+        ],
+        "adverb": [
+          "energetically"
+        ]
+      },
+      "collocations": [
+        "renewable energy",
+        "energy consumption"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 17
+    },
+    {
+      "id": 885,
+      "word": "engage",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to involve someone or attract attention",
+      "definitionTh": "มีส่วนร่วม / ดึงดูด",
+      "example": "The activity engages all participants.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "involve",
+          "level": "B2"
+        },
+        {
+          "word": "interest",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "disengage",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "engagement"
+        ],
+        "verb": [],
+        "adjective": [
+          "engaged",
+          "engaging"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "engage employees",
+        "engage in"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 16
+    },
+    {
+      "id": 886,
+      "word": "engaged",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "busy or involved, or formally promised to marry",
+      "definitionTh": "มีส่วนร่วม / หมั้น",
+      "example": "She is engaged in a new project.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "involved",
+          "level": "B1"
+        },
+        {
+          "word": "occupied",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "disengaged",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "engagement"
+        ],
+        "verb": [
+          "engage"
+        ],
+        "adjective": [
+          "engaging"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "actively engaged",
+        "engaged in"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 15
+    },
+    {
+      "id": 887,
+      "word": "engine",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a machine that converts energy into movement",
+      "definitionTh": "เครื่องยนต์",
+      "example": "The engine needs maintenance.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "motor",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "engine",
+          "engineer",
+          "engineering"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "diesel engine",
+        "engine failure"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 14
+    },
+    {
+      "id": 888,
+      "word": "engineer",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a person who designs or builds machines or systems",
+      "definitionTh": "วิศวกร",
+      "example": "The engineer inspected the equipment.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "designer",
+          "level": "A2"
+        },
+        {
+          "word": "technician",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "engine",
+          "engineering"
+        ],
+        "verb": [
+          "engineer"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "process engineer",
+        "qualified engineer"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 13
+    },
+    {
+      "id": 889,
+      "word": "engineering",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "the study or work of designing machines and structures",
+      "definitionTh": "วิศวกรรม",
+      "example": "She studies mechanical engineering.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "technical design",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "engine",
+          "engineer"
+        ],
+        "verb": [
+          "engineer"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "mechanical engineering",
+        "engineering team"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 12
+    },
+    {
+      "id": 890,
+      "word": "enhance",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to improve the quality or value of something",
+      "definitionTh": "เพิ่มประสิทธิภาพ",
+      "example": "The update enhances system security.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "improve",
+          "level": "B2"
+        },
+        {
+          "word": "strengthen",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "reduce",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "enhancement"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "enhance performance",
+        "enhance quality"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 11
+    },
+    {
+      "id": 891,
+      "word": "enjoy",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to get pleasure from something",
+      "definitionTh": "เพลิดเพลิน",
+      "example": "I enjoy learning English.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "like",
+          "level": "A1"
+        },
+        {
+          "word": "appreciate",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "dislike",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "enjoyment"
+        ],
+        "verb": [],
+        "adjective": [
+          "enjoyable"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "enjoy doing",
+        "enjoy life"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 10
+    },
+    {
+      "id": 892,
+      "word": "enormous",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "extremely large",
+      "definitionTh": "มหาศาล",
+      "example": "The project required an enormous effort.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "huge",
+          "level": "A2"
+        },
+        {
+          "word": "immense",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "tiny",
+          "level": "A2"
+        },
+        {
+          "word": "small",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "enormous amount",
+        "enormous impact"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 9
+    },
+    {
+      "id": 893,
+      "word": "enough",
+      "pos": "det., pron., adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "as much or as many as needed",
+      "definitionTh": "เพียงพอ",
+      "example": "We have enough materials.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "sufficient",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "insufficient",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "enough time",
+        "good enough"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 8
+    },
+    {
+      "id": 894,
+      "word": "enquiry",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a request for information",
+      "definitionTh": "การสอบถาม",
+      "example": "We received an enquiry from a customer.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "inquiry",
+          "level": "B2"
+        },
+        {
+          "word": "question",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "answer",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "make an enquiry",
+        "customer enquiry"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 7
+    },
+    {
+      "id": 895,
+      "word": "ensure",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to make certain that something happens",
+      "definitionTh": "ทำให้แน่ใจ",
+      "example": "Check the guard to ensure safe operation.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "guarantee",
+          "level": "B2"
+        },
+        {
+          "word": "make sure",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "risk",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "ensure safety",
+        "ensure that"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 6
+    },
+    {
+      "id": 896,
+      "word": "enter",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to go or come into a place",
+      "definitionTh": "เข้า",
+      "example": "Please enter the room quietly.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "go in",
+          "level": "A2"
+        },
+        {
+          "word": "access",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "exit",
+          "level": "A2"
+        },
+        {
+          "word": "leave",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "enter a room",
+        "enter data"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 5
+    },
+    {
+      "id": 897,
+      "word": "entertain",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to amuse or interest people",
+      "definitionTh": "ให้ความบันเทิง",
+      "example": "The performers entertained the audience.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "amuse",
+          "level": "B1"
+        },
+        {
+          "word": "delight",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "bore",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "entertain guests",
+        "entertain an audience"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 4
+    },
+    {
+      "id": 898,
+      "word": "entertainment",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "activities that amuse or interest people",
+      "definitionTh": "ความบันเทิง",
+      "example": "The event included live entertainment.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "amusement",
+          "level": "B1"
+        },
+        {
+          "word": "recreation",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "boredom",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "live entertainment",
+        "entertainment industry"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 3
+    },
+    {
+      "id": 899,
+      "word": "enthusiasm",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "strong interest and excitement",
+      "definitionTh": "ความกระตือรือร้น",
+      "example": "She showed great enthusiasm for the project.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "eagerness",
+          "level": "B2"
+        },
+        {
+          "word": "passion",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "apathy",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "enthusiastic"
+        ],
+        "adverb": [
+          "enthusiastically"
+        ]
+      },
+      "collocations": [
+        "show enthusiasm",
+        "great enthusiasm"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 2
+    },
+    {
+      "id": 900,
+      "word": "enthusiastic",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "showing strong interest and excitement",
+      "definitionTh": "กระตือรือร้น",
+      "example": "She is enthusiastic about the new project.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "eager",
+          "level": "B2"
+        },
+        {
+          "word": "keen",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unenthusiastic",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "enthusiasm"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "enthusiastically"
+        ]
+      },
+      "collocations": [
+        "enthusiastic about",
+        "highly enthusiastic"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 1
+    }
+  ]
+}

@@ -1,0 +1,4323 @@
+{
+  "version": 2,
+  "source": "Oxford 3000",
+  "batch": 3,
+  "level": "Mixed",
+  "totalWords": 100,
+  "metadata": {
+    "created": "2026-07-13",
+    "language": "en",
+    "description": "Batch 03 of 50 — Oxford 3000 words 201-300"
+  },
+  "words": [
+    {
+      "id": 201,
+      "word": "autumn",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the season between summer and winter",
+      "definitionTh": "ฤดูใบไม้ร่วง",
+      "example": "The leaves change color in autumn.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "fall",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "spring",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "autumn example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 100
+    },
+    {
+      "id": 202,
+      "word": "available",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "able to be used or obtained",
+      "definitionTh": "ที่มีอยู่ / ใช้ได้",
+      "example": "This book is available online.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "accessible",
+          "level": "A2"
+        },
+        {
+          "word": "obtainable",
+          "level": "A2"
+        },
+        {
+          "word": "free",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unavailable",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "availability"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "available example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 99
+    },
+    {
+      "id": 203,
+      "word": "average",
+      "pos": "adj., n., v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "typical or normal; the middle amount",
+      "definitionTh": "เฉลี่ย / ค่าเฉลี่ย",
+      "example": "The average temperature is 25 degrees.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "mean",
+          "level": "A2"
+        },
+        {
+          "word": "typical",
+          "level": "A2"
+        },
+        {
+          "word": "normal",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "exceptional",
+          "level": "A2"
+        },
+        {
+          "word": "unusual",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "average example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 98
+    },
+    {
+      "id": 204,
+      "word": "avoid",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to stay away from something",
+      "definitionTh": "หลีกเลี่ยง",
+      "example": "Try to avoid junk food.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "evade",
+          "level": "A2"
+        },
+        {
+          "word": "dodge",
+          "level": "A2"
+        },
+        {
+          "word": "escape",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "face",
+          "level": "A2"
+        },
+        {
+          "word": "confront",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "avoid example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 97
+    },
+    {
+      "id": 205,
+      "word": "award",
+      "pos": "n., v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a prize; to give a prize",
+      "definitionTh": "รางวัล / มอบรางวัล",
+      "example": "She won an award for her essay.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "prize",
+          "level": "A2"
+        },
+        {
+          "word": "honor",
+          "level": "A2"
+        },
+        {
+          "word": "reward",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "award example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 96
+    },
+    {
+      "id": 206,
+      "word": "aware",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "having knowledge of something",
+      "definitionTh": "ตระหนัก / รู้ตัว",
+      "example": "Are you aware of the danger?",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "conscious",
+          "level": "B1"
+        },
+        {
+          "word": "informed",
+          "level": "B1"
+        },
+        {
+          "word": "knowing",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unaware",
+          "level": "B1"
+        },
+        {
+          "word": "ignorant",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "awareness"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "aware example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 95
+    },
+    {
+      "id": 207,
+      "word": "away",
+      "pos": "adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to or at a distance",
+      "definitionTh": "ไป / ห่างออกไป",
+      "example": "She went away for the weekend.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "off",
+          "level": "A1"
+        },
+        {
+          "word": "aside",
+          "level": "A1"
+        },
+        {
+          "word": "apart",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "near",
+          "level": "A1"
+        },
+        {
+          "word": "close",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "away example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 94
+    },
+    {
+      "id": 208,
+      "word": "awful",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "very bad or unpleasant",
+      "definitionTh": "แย่มาก / น่ากลัว",
+      "example": "The weather was awful yesterday.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "terrible",
+          "level": "A2"
+        },
+        {
+          "word": "dreadful",
+          "level": "A2"
+        },
+        {
+          "word": "horrible",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "wonderful",
+          "level": "A2"
+        },
+        {
+          "word": "great",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "awfully"
+        ]
+      },
+      "collocations": [
+        "awful example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 93
+    },
+    {
+      "id": 209,
+      "word": "baby",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a very young child",
+      "definitionTh": "ทารก",
+      "example": "The baby is sleeping.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "infant",
+          "level": "A1"
+        },
+        {
+          "word": "newborn",
+          "level": "A1"
+        },
+        {
+          "word": "toddler",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "adult",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "baby example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 92
+    },
+    {
+      "id": 210,
+      "word": "back",
+      "pos": "n., adv., adj., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the rear part; to move backward; to support",
+      "definitionTh": "หลัง / ถอยกลับ / สนับสนุน",
+      "example": "She hurt her back at work.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "rear",
+          "level": "A1"
+        },
+        {
+          "word": "reverse",
+          "level": "A1"
+        },
+        {
+          "word": "support",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "front",
+          "level": "A1"
+        },
+        {
+          "word": "forward",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "back example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 91
+    },
+    {
+      "id": 211,
+      "word": "background",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a person's past experience; area behind",
+      "definitionTh": "ภูมิหลัง / พื้นหลัง",
+      "example": "She has a background in law.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "history",
+          "level": "A2"
+        },
+        {
+          "word": "backdrop",
+          "level": "A2"
+        },
+        {
+          "word": "context",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "foreground",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "background example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 90
+    },
+    {
+      "id": 212,
+      "word": "backwards",
+      "pos": "adv.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "toward the direction that is behind",
+      "definitionTh": "ถอยหลัง / ย้อนกลับ",
+      "example": "He walked backwards slowly.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "reverse",
+          "level": "B1"
+        },
+        {
+          "word": "rearward",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "forwards",
+          "level": "B1"
+        },
+        {
+          "word": "forward",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "backwards example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 89
+    },
+    {
+      "id": 213,
+      "word": "bacteria",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "very small living things that can cause disease",
+      "definitionTh": "แบคทีเรีย",
+      "example": "Bacteria can cause infections.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "germs",
+          "level": "B2"
+        },
+        {
+          "word": "microbes",
+          "level": "B2"
+        },
+        {
+          "word": "microorganisms",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "bacterial"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "bacteria example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 88
+    },
+    {
+      "id": 214,
+      "word": "bad",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "not good; unpleasant",
+      "definitionTh": "ไม่ดี / เลว",
+      "example": "I had a bad day at work.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "poor",
+          "level": "A1"
+        },
+        {
+          "word": "terrible",
+          "level": "A1"
+        },
+        {
+          "word": "awful",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "good",
+          "level": "A1"
+        },
+        {
+          "word": "fine",
+          "level": "A1"
+        },
+        {
+          "word": "great",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "badly"
+        ]
+      },
+      "collocations": [
+        "bad example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 87
+    },
+    {
+      "id": 215,
+      "word": "badly",
+      "pos": "adv.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "in a poor way; very much",
+      "definitionTh": "อย่างแย่ / มาก",
+      "example": "He behaved badly at school.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "poorly",
+          "level": "A2"
+        },
+        {
+          "word": "severely",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "well",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "bad"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "badly example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 86
+    },
+    {
+      "id": 216,
+      "word": "bag",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a container made of cloth, paper, or plastic",
+      "definitionTh": "กระเป๋า / ถุง",
+      "example": "She carried a heavy bag.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "sack",
+          "level": "A1"
+        },
+        {
+          "word": "pouch",
+          "level": "A1"
+        },
+        {
+          "word": "case",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "bag example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 85
+    },
+    {
+      "id": 217,
+      "word": "bake",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to cook food in an oven",
+      "definitionTh": "อบ",
+      "example": "She baked a chocolate cake.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "cook",
+          "level": "B1"
+        },
+        {
+          "word": "roast",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "baker",
+          "bakery"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "bake example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 84
+    },
+    {
+      "id": 218,
+      "word": "balance",
+      "pos": "n., v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "an even distribution; to keep steady",
+      "definitionTh": "ความสมดุล / รักษาสมดุล",
+      "example": "She lost her balance and fell.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "stability",
+          "level": "B1"
+        },
+        {
+          "word": "equilibrium",
+          "level": "B1"
+        },
+        {
+          "word": "steadiness",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "imbalance",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "balanced"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "balance example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 83
+    },
+    {
+      "id": 219,
+      "word": "ball",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a round object used in games",
+      "definitionTh": "ลูกบอล",
+      "example": "The child kicked the ball.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "sphere",
+          "level": "A1"
+        },
+        {
+          "word": "orb",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "ball example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 82
+    },
+    {
+      "id": 220,
+      "word": "ban",
+      "pos": "v., n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to officially prohibit",
+      "definitionTh": "ห้าม / การห้าม",
+      "example": "The city banned smoking in parks.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "prohibit",
+          "level": "B1"
+        },
+        {
+          "word": "forbid",
+          "level": "B1"
+        },
+        {
+          "word": "outlaw",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "allow",
+          "level": "B1"
+        },
+        {
+          "word": "permit",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "ban example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 81
+    },
+    {
+      "id": 221,
+      "word": "banana",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a long yellow curved fruit",
+      "definitionTh": "กล้วย",
+      "example": "I eat a banana every morning.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "banana example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 80
+    },
+    {
+      "id": 222,
+      "word": "band",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a group of musicians; a thin flat strip",
+      "definitionTh": "วงดนตรี / สายรัด",
+      "example": "My favorite band is playing tonight.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "group",
+          "level": "A1"
+        },
+        {
+          "word": "ensemble",
+          "level": "A1"
+        },
+        {
+          "word": "strip",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "band example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 79
+    },
+    {
+      "id": 223,
+      "word": "bank (money)",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a place that keeps money safe",
+      "definitionTh": "ธนาคาร",
+      "example": "I need to go to the bank.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "financial institution",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "banker",
+          "banking"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "bank (money) example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 78
+    },
+    {
+      "id": 224,
+      "word": "bank (river)",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "the land at the side of a river",
+      "definitionTh": "ริมฝั่งแม่น้ำ",
+      "example": "We sat on the river bank.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "shore",
+          "level": "B1"
+        },
+        {
+          "word": "edge",
+          "level": "B1"
+        },
+        {
+          "word": "side",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "bank (river) example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 77
+    },
+    {
+      "id": 225,
+      "word": "bar",
+      "pos": "n., v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a place selling drinks; a long piece of solid material",
+      "definitionTh": "บาร์ / แท่ง",
+      "example": "We met at a bar downtown.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "pub",
+          "level": "A2"
+        },
+        {
+          "word": "tavern",
+          "level": "A2"
+        },
+        {
+          "word": "rod",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "bar example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 76
+    },
+    {
+      "id": 226,
+      "word": "barrier",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "something that blocks movement or progress",
+      "definitionTh": "สิ่งกีดขวาง / อุปสรรค",
+      "example": "Language is often a barrier.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "obstacle",
+          "level": "B2"
+        },
+        {
+          "word": "obstruction",
+          "level": "B2"
+        },
+        {
+          "word": "block",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "opening",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "barrier example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 75
+    },
+    {
+      "id": 227,
+      "word": "base",
+      "pos": "n., v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "the lowest part; to build on",
+      "definitionTh": "ฐาน / ตั้งอยู่บน",
+      "example": "The story is based on true events.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "foundation",
+          "level": "B1"
+        },
+        {
+          "word": "bottom",
+          "level": "B1"
+        },
+        {
+          "word": "support",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "top",
+          "level": "B1"
+        },
+        {
+          "word": "summit",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "basic"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "base example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 74
+    },
+    {
+      "id": 228,
+      "word": "baseball",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a game played with a bat and ball",
+      "definitionTh": "เบสบอล",
+      "example": "He plays baseball on weekends.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "baseball example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 73
+    },
+    {
+      "id": 229,
+      "word": "based",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "having a main place or origin",
+      "definitionTh": "ตั้งอยู่ / อิงจาก",
+      "example": "The company is based in Tokyo.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "located",
+          "level": "A2"
+        },
+        {
+          "word": "situated",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [
+          "base"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "based example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 72
+    },
+    {
+      "id": 230,
+      "word": "basic",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "most simple or important",
+      "definitionTh": "พื้นฐาน / ขั้นต้น",
+      "example": "She learned basic English at school.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "fundamental",
+          "level": "B1"
+        },
+        {
+          "word": "essential",
+          "level": "B1"
+        },
+        {
+          "word": "primary",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "advanced",
+          "level": "B1"
+        },
+        {
+          "word": "complex",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "basically"
+        ]
+      },
+      "collocations": [
+        "basic example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 71
+    },
+    {
+      "id": 231,
+      "word": "basically",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "in the most important ways; essentially",
+      "definitionTh": "โดยพื้นฐาน / จริงๆแล้ว",
+      "example": "Basically, we agree with the plan.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "essentially",
+          "level": "B2"
+        },
+        {
+          "word": "fundamentally",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "basic"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "basically example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 70
+    },
+    {
+      "id": 232,
+      "word": "basis",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "the main reason or foundation",
+      "definitionTh": "พื้นฐาน / เกณฑ์",
+      "example": "On what basis did you decide?",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "foundation",
+          "level": "B1"
+        },
+        {
+          "word": "ground",
+          "level": "B1"
+        },
+        {
+          "word": "reason",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "basis example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 69
+    },
+    {
+      "id": 233,
+      "word": "basketball",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a team game played with a large ball",
+      "definitionTh": "บาสเกตบอล",
+      "example": "She plays basketball after school.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "basketball example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 68
+    },
+    {
+      "id": 234,
+      "word": "bath",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the act of washing the body; a bathtub",
+      "definitionTh": "การอาบน้ำ / อ่างอาบน้ำ",
+      "example": "I take a bath every evening.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "wash",
+          "level": "A1"
+        },
+        {
+          "word": "tub",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "bath example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 67
+    },
+    {
+      "id": 235,
+      "word": "bathroom",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a room with a toilet and bath",
+      "definitionTh": "ห้องน้ำ",
+      "example": "The bathroom is upstairs.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "washroom",
+          "level": "A1"
+        },
+        {
+          "word": "restroom",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "bathroom example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 66
+    },
+    {
+      "id": 236,
+      "word": "battery",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a device that stores electricity",
+      "definitionTh": "แบตเตอรี่",
+      "example": "My phone battery is dead.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "cell",
+          "level": "B1"
+        },
+        {
+          "word": "power source",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "battery example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 65
+    },
+    {
+      "id": 237,
+      "word": "battle",
+      "pos": "n., v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a fight between armies; to struggle",
+      "definitionTh": "การต่อสู้ / รบ",
+      "example": "They fought a great battle.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "fight",
+          "level": "B1"
+        },
+        {
+          "word": "combat",
+          "level": "B1"
+        },
+        {
+          "word": "struggle",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "peace",
+          "level": "B1"
+        },
+        {
+          "word": "truce",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "battle example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 64
+    },
+    {
+      "id": 238,
+      "word": "be",
+      "pos": "v., auxiliary v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to exist; used with other verbs",
+      "definitionTh": "เป็น / อยู่ / คือ",
+      "example": "I am a student.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "exist",
+          "level": "A1"
+        },
+        {
+          "word": "live",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "be example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 63
+    },
+    {
+      "id": 239,
+      "word": "beach",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the area of sand next to the sea",
+      "definitionTh": "ชายหาด",
+      "example": "We spent the day at the beach.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "shore",
+          "level": "A1"
+        },
+        {
+          "word": "seaside",
+          "level": "A1"
+        },
+        {
+          "word": "coast",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "beach example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 62
+    },
+    {
+      "id": 240,
+      "word": "bean",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a seed used as food",
+      "definitionTh": "ถั่ว",
+      "example": "She cooked green beans for dinner.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "bean example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 61
+    },
+    {
+      "id": 241,
+      "word": "bear (deal with)",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to tolerate or accept something",
+      "definitionTh": "ทน / รับได้",
+      "example": "I can't bear the noise.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "tolerate",
+          "level": "B2"
+        },
+        {
+          "word": "endure",
+          "level": "B2"
+        },
+        {
+          "word": "stand",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "reject",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "bear (deal with) example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 60
+    },
+    {
+      "id": 242,
+      "word": "bear (animal)",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a large heavy wild animal",
+      "definitionTh": "หมี",
+      "example": "We saw a bear in the forest.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "bear (animal) example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 59
+    },
+    {
+      "id": 243,
+      "word": "beat",
+      "pos": "v., n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to defeat; a regular sound",
+      "definitionTh": "ชนะ / จังหวะ",
+      "example": "Our team beat theirs 3-0.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "defeat",
+          "level": "A2"
+        },
+        {
+          "word": "overcome",
+          "level": "A2"
+        },
+        {
+          "word": "rhythm",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "lose",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "beat example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 58
+    },
+    {
+      "id": 244,
+      "word": "beautiful",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "very pretty or attractive",
+      "definitionTh": "สวย / งดงาม",
+      "example": "The sunset was beautiful.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "pretty",
+          "level": "A1"
+        },
+        {
+          "word": "gorgeous",
+          "level": "A1"
+        },
+        {
+          "word": "lovely",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "ugly",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "beauty"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "beautifully"
+        ]
+      },
+      "collocations": [
+        "beautiful example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 57
+    },
+    {
+      "id": 245,
+      "word": "beauty",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "the quality of being beautiful",
+      "definitionTh": "ความงาม",
+      "example": "The beauty of nature amazes me.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "loveliness",
+          "level": "B1"
+        },
+        {
+          "word": "attractiveness",
+          "level": "B1"
+        },
+        {
+          "word": "charm",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "ugliness",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "beautiful"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "beauty example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 56
+    },
+    {
+      "id": 246,
+      "word": "because",
+      "pos": "conj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "for the reason that",
+      "definitionTh": "เพราะว่า",
+      "example": "I stayed home because it rained.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "since",
+          "level": "A1"
+        },
+        {
+          "word": "as",
+          "level": "A1"
+        },
+        {
+          "word": "for",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "because example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 55
+    },
+    {
+      "id": 247,
+      "word": "become",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to start to be something",
+      "definitionTh": "กลายเป็น",
+      "example": "She wants to become a teacher.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "turn into",
+          "level": "A1"
+        },
+        {
+          "word": "grow",
+          "level": "A1"
+        },
+        {
+          "word": "develop",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "become example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 54
+    },
+    {
+      "id": 248,
+      "word": "bed",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a piece of furniture for sleeping",
+      "definitionTh": "เตียง",
+      "example": "I go to bed at 10 p.m.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "cot",
+          "level": "A1"
+        },
+        {
+          "word": "bunk",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "bed example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 53
+    },
+    {
+      "id": 249,
+      "word": "bedroom",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a room for sleeping",
+      "definitionTh": "ห้องนอน",
+      "example": "Her bedroom is very tidy.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "bedroom example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 52
+    },
+    {
+      "id": 250,
+      "word": "bee",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a flying insect that makes honey",
+      "definitionTh": "ผึ้ง",
+      "example": "A bee flew into the room.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "bee example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 51
+    },
+    {
+      "id": 251,
+      "word": "beef",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "meat from a cow",
+      "definitionTh": "เนื้อวัว",
+      "example": "We had beef for dinner.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "beef example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 50
+    },
+    {
+      "id": 252,
+      "word": "beer",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an alcoholic drink made from grain",
+      "definitionTh": "เบียร์",
+      "example": "He drank a cold beer.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "beer example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 49
+    },
+    {
+      "id": 253,
+      "word": "before",
+      "pos": "prep., conj., adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "earlier than",
+      "definitionTh": "ก่อน / ก่อนหน้านี้",
+      "example": "Wash your hands before eating.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "prior to",
+          "level": "A1"
+        },
+        {
+          "word": "earlier",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "after",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "before example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 48
+    },
+    {
+      "id": 254,
+      "word": "beg",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to ask for something very seriously",
+      "definitionTh": "อ้อนวอน / ขอทาน",
+      "example": "He begged her to stay.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "plead",
+          "level": "B2"
+        },
+        {
+          "word": "implore",
+          "level": "B2"
+        },
+        {
+          "word": "entreat",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "demand",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "beg example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 47
+    },
+    {
+      "id": 255,
+      "word": "begin",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to start",
+      "definitionTh": "เริ่ม",
+      "example": "The movie begins at 7.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "start",
+          "level": "A1"
+        },
+        {
+          "word": "commence",
+          "level": "A1"
+        },
+        {
+          "word": "initiate",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "end",
+          "level": "A1"
+        },
+        {
+          "word": "finish",
+          "level": "A1"
+        },
+        {
+          "word": "stop",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "beginning"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "begin example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 46
+    },
+    {
+      "id": 256,
+      "word": "beginning",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the start of something",
+      "definitionTh": "จุดเริ่มต้น",
+      "example": "This is just the beginning.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "start",
+          "level": "A1"
+        },
+        {
+          "word": "origin",
+          "level": "A1"
+        },
+        {
+          "word": "opening",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "end",
+          "level": "A1"
+        },
+        {
+          "word": "conclusion",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [
+          "begin"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "beginning example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 45
+    },
+    {
+      "id": 257,
+      "word": "behave",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to act in a particular way",
+      "definitionTh": "ประพฤติ / แสดงพฤติกรรม",
+      "example": "The children behaved well.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "act",
+          "level": "A2"
+        },
+        {
+          "word": "conduct oneself",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "misbehave",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "behaviour"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "behave example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 44
+    },
+    {
+      "id": 258,
+      "word": "behaviour",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the way someone acts",
+      "definitionTh": "พฤติกรรม",
+      "example": "His behaviour was polite.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "conduct",
+          "level": "A2"
+        },
+        {
+          "word": "manner",
+          "level": "A2"
+        },
+        {
+          "word": "actions",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [
+          "behave"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "behaviour example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 43
+    },
+    {
+      "id": 259,
+      "word": "behind",
+      "pos": "prep., adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "at the back of",
+      "definitionTh": "ข้างหลัง",
+      "example": "The garden is behind the house.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "at the back of",
+          "level": "A1"
+        },
+        {
+          "word": "after",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "in front of",
+          "level": "A1"
+        },
+        {
+          "word": "ahead",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "behind example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 42
+    },
+    {
+      "id": 260,
+      "word": "being",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a living creature; existence",
+      "definitionTh": "สิ่งมีชีวิต / การมีอยู่",
+      "example": "Every human being is unique.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "creature",
+          "level": "B2"
+        },
+        {
+          "word": "entity",
+          "level": "B2"
+        },
+        {
+          "word": "existence",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "being example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 41
+    },
+    {
+      "id": 261,
+      "word": "belief",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "something you accept as true",
+      "definitionTh": "ความเชื่อ",
+      "example": "She has strong religious beliefs.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "faith",
+          "level": "B1"
+        },
+        {
+          "word": "conviction",
+          "level": "B1"
+        },
+        {
+          "word": "opinion",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "disbelief",
+          "level": "B1"
+        },
+        {
+          "word": "doubt",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [
+          "believe"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "belief example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 40
+    },
+    {
+      "id": 262,
+      "word": "believe",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to accept that something is true",
+      "definitionTh": "เชื่อ",
+      "example": "I believe you are right.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "trust",
+          "level": "A1"
+        },
+        {
+          "word": "accept",
+          "level": "A1"
+        },
+        {
+          "word": "have faith in",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "doubt",
+          "level": "A1"
+        },
+        {
+          "word": "disbelieve",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "belief"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "believe example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 39
+    },
+    {
+      "id": 263,
+      "word": "bell",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a hollow metal object that makes a sound",
+      "definitionTh": "ระฆัง / กระดิ่ง",
+      "example": "The school bell rang loudly.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "chime",
+          "level": "B1"
+        },
+        {
+          "word": "gong",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "bell example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 38
+    },
+    {
+      "id": 264,
+      "word": "belong",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to be owned by someone; to be a member",
+      "definitionTh": "เป็นของ / เป็นสมาชิก",
+      "example": "This book belongs to me.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "be owned by",
+          "level": "A2"
+        },
+        {
+          "word": "be part of",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "belong example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 37
+    },
+    {
+      "id": 265,
+      "word": "below",
+      "pos": "adv., prep.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "at a lower position than",
+      "definitionTh": "ใต้ / ข้างล่าง",
+      "example": "The temperature is below zero.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "under",
+          "level": "A1"
+        },
+        {
+          "word": "beneath",
+          "level": "A1"
+        },
+        {
+          "word": "underneath",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "above",
+          "level": "A1"
+        },
+        {
+          "word": "over",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "below example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 36
+    },
+    {
+      "id": 266,
+      "word": "belt",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a strip of leather worn around the waist",
+      "definitionTh": "เข็มขัด",
+      "example": "He tightened his belt.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "strap",
+          "level": "A2"
+        },
+        {
+          "word": "band",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "belt example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 35
+    },
+    {
+      "id": 267,
+      "word": "bend",
+      "pos": "v., n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to curve; a curved part",
+      "definitionTh": "งอ / ทางโค้ง",
+      "example": "She bent down to pick it up.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "curve",
+          "level": "B1"
+        },
+        {
+          "word": "flex",
+          "level": "B1"
+        },
+        {
+          "word": "bow",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "straighten",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "bent"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "bend example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 34
+    },
+    {
+      "id": 268,
+      "word": "benefit",
+      "pos": "n., v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "an advantage; to gain something good",
+      "definitionTh": "ประโยชน์ / ได้รับประโยชน์",
+      "example": "Exercise has many benefits.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "advantage",
+          "level": "A2"
+        },
+        {
+          "word": "gain",
+          "level": "A2"
+        },
+        {
+          "word": "help",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "drawback",
+          "level": "A2"
+        },
+        {
+          "word": "disadvantage",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "beneficial"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "benefit example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 33
+    },
+    {
+      "id": 269,
+      "word": "bent",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "not straight; curved",
+      "definitionTh": "งอ / โค้ง",
+      "example": "The nail was bent.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "curved",
+          "level": "B2"
+        },
+        {
+          "word": "crooked",
+          "level": "B2"
+        },
+        {
+          "word": "twisted",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "straight",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [
+          "bend"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "bent example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 32
+    },
+    {
+      "id": 270,
+      "word": "best",
+      "pos": "adj., adv., n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "of the highest quality",
+      "definitionTh": "ดีที่สุด",
+      "example": "She is my best friend.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "finest",
+          "level": "A1"
+        },
+        {
+          "word": "greatest",
+          "level": "A1"
+        },
+        {
+          "word": "top",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "worst",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "best example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 31
+    },
+    {
+      "id": 271,
+      "word": "bet",
+      "pos": "v., n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to risk money on the result of something",
+      "definitionTh": "พนัน / การพนัน",
+      "example": "He bet ten dollars on the game.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "gamble",
+          "level": "B2"
+        },
+        {
+          "word": "wager",
+          "level": "B2"
+        },
+        {
+          "word": "stake",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "bet example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 30
+    },
+    {
+      "id": 272,
+      "word": "better",
+      "pos": "adj., adv., n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "of higher quality than something else",
+      "definitionTh": "ดีกว่า",
+      "example": "This car is better than mine.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "superior",
+          "level": "A1"
+        },
+        {
+          "word": "finer",
+          "level": "A1"
+        },
+        {
+          "word": "improved",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "worse",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "better example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 29
+    },
+    {
+      "id": 273,
+      "word": "between",
+      "pos": "prep., adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "in the space or time separating things",
+      "definitionTh": "ระหว่าง",
+      "example": "The store is between two banks.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "among",
+          "level": "A1"
+        },
+        {
+          "word": "amid",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "between example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 28
+    },
+    {
+      "id": 274,
+      "word": "beyond",
+      "pos": "prep., adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "on the far side of; more than",
+      "definitionTh": "เกิน / นอกเหนือจาก",
+      "example": "The mountains are beyond the river.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "past",
+          "level": "B2"
+        },
+        {
+          "word": "further than",
+          "level": "B2"
+        },
+        {
+          "word": "above",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "within",
+          "level": "B2"
+        },
+        {
+          "word": "before",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "beyond example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 27
+    },
+    {
+      "id": 275,
+      "word": "bicycle",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a two-wheeled vehicle you pedal",
+      "definitionTh": "จักรยาน",
+      "example": "She rides her bicycle to school.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "bike",
+          "level": "A1"
+        },
+        {
+          "word": "cycle",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "bicycle example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 26
+    },
+    {
+      "id": 276,
+      "word": "big",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "of large size",
+      "definitionTh": "ใหญ่",
+      "example": "They live in a big house.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "large",
+          "level": "A1"
+        },
+        {
+          "word": "huge",
+          "level": "A1"
+        },
+        {
+          "word": "great",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "small",
+          "level": "A1"
+        },
+        {
+          "word": "little",
+          "level": "A1"
+        },
+        {
+          "word": "tiny",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "big example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 25
+    },
+    {
+      "id": 277,
+      "word": "bike",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a bicycle or motorcycle",
+      "definitionTh": "จักรยาน",
+      "example": "I ride my bike every day.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "bicycle",
+          "level": "A1"
+        },
+        {
+          "word": "cycle",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "bike example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 24
+    },
+    {
+      "id": 278,
+      "word": "bill",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a paper showing money to pay",
+      "definitionTh": "ใบเรียกเก็บเงิน / บิล",
+      "example": "Please pay the electricity bill.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "invoice",
+          "level": "A1"
+        },
+        {
+          "word": "check",
+          "level": "A1"
+        },
+        {
+          "word": "statement",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "bill example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 23
+    },
+    {
+      "id": 279,
+      "word": "billion",
+      "pos": "number",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the number 1,000,000,000",
+      "definitionTh": "พันล้าน",
+      "example": "The company earned a billion dollars.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "billion example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 22
+    },
+    {
+      "id": 280,
+      "word": "bin",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a container for waste",
+      "definitionTh": "ถังขยะ",
+      "example": "Please throw it in the bin.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "trash can",
+          "level": "A2"
+        },
+        {
+          "word": "waste basket",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "bin example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 21
+    },
+    {
+      "id": 281,
+      "word": "biology",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the science of living things",
+      "definitionTh": "ชีววิทยา",
+      "example": "She studies biology at university.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "life science",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "biological"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "biology example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 20
+    },
+    {
+      "id": 282,
+      "word": "bird",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an animal with feathers and wings",
+      "definitionTh": "นก",
+      "example": "A small bird sang in the tree.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "bird example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 19
+    },
+    {
+      "id": 283,
+      "word": "birth",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the time when a baby is born",
+      "definitionTh": "การเกิด",
+      "example": "The baby's birth was in July.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "nativity",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "death",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "birth example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 18
+    },
+    {
+      "id": 284,
+      "word": "birthday",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the day of the year a person was born",
+      "definitionTh": "วันเกิด",
+      "example": "Happy birthday to you!",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "birthday example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 17
+    },
+    {
+      "id": 285,
+      "word": "biscuit",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a small hard baked cake",
+      "definitionTh": "ขนมปังกรอบ / คุกกี้",
+      "example": "She likes tea with a biscuit.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "cookie",
+          "level": "A2"
+        },
+        {
+          "word": "cracker",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "biscuit example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 16
+    },
+    {
+      "id": 286,
+      "word": "bit",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a small amount or piece",
+      "definitionTh": "นิดหน่อย / เล็กน้อย",
+      "example": "Please wait a bit.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "piece",
+          "level": "A2"
+        },
+        {
+          "word": "little",
+          "level": "A2"
+        },
+        {
+          "word": "small amount",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "bit example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 15
+    },
+    {
+      "id": 287,
+      "word": "bite",
+      "pos": "v., n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to cut with the teeth",
+      "definitionTh": "กัด",
+      "example": "The dog might bite you.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "chew",
+          "level": "B1"
+        },
+        {
+          "word": "nip",
+          "level": "B1"
+        },
+        {
+          "word": "snap",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "bite example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 14
+    },
+    {
+      "id": 288,
+      "word": "bitter",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "having a sharp unpleasant taste",
+      "definitionTh": "ขม",
+      "example": "Coffee tastes bitter without sugar.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "sharp",
+          "level": "B2"
+        },
+        {
+          "word": "harsh",
+          "level": "B2"
+        },
+        {
+          "word": "sour",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "sweet",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "bitter example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 13
+    },
+    {
+      "id": 289,
+      "word": "black",
+      "pos": "adj., n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the darkest color",
+      "definitionTh": "สีดำ",
+      "example": "He wore a black suit.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "dark",
+          "level": "A1"
+        },
+        {
+          "word": "ebony",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "white",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "black example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 12
+    },
+    {
+      "id": 290,
+      "word": "blame",
+      "pos": "v., n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to say someone is responsible for something bad",
+      "definitionTh": "ตำหนิ / กล่าวโทษ",
+      "example": "Don't blame me for the mistake.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "accuse",
+          "level": "B2"
+        },
+        {
+          "word": "fault",
+          "level": "B2"
+        },
+        {
+          "word": "hold responsible",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "praise",
+          "level": "B2"
+        },
+        {
+          "word": "credit",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "blame example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 11
+    },
+    {
+      "id": 291,
+      "word": "blank",
+      "pos": "adj., n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "empty; without writing or pictures",
+      "definitionTh": "ว่างเปล่า",
+      "example": "Fill in the blank space.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "empty",
+          "level": "A2"
+        },
+        {
+          "word": "clear",
+          "level": "A2"
+        },
+        {
+          "word": "unmarked",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "full",
+          "level": "A2"
+        },
+        {
+          "word": "filled",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "blank example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 10
+    },
+    {
+      "id": 292,
+      "word": "blind",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "not able to see",
+      "definitionTh": "ตาบอด",
+      "example": "She has been blind since birth.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "sightless",
+          "level": "B2"
+        },
+        {
+          "word": "unseeing",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "sighted",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "blind example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 9
+    },
+    {
+      "id": 293,
+      "word": "block",
+      "pos": "n., v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a solid piece; to stop movement",
+      "definitionTh": "ก้อน / กีดขวาง",
+      "example": "A tree blocked the road.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "obstruct",
+          "level": "B1"
+        },
+        {
+          "word": "bar",
+          "level": "B1"
+        },
+        {
+          "word": "clog",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "allow",
+          "level": "B1"
+        },
+        {
+          "word": "open",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "block example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 8
+    },
+    {
+      "id": 294,
+      "word": "blog",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a personal website with regular posts",
+      "definitionTh": "บล็อก",
+      "example": "She writes a food blog.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "weblog",
+          "level": "A1"
+        },
+        {
+          "word": "online journal",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "blogger"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "blog example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 7
+    },
+    {
+      "id": 295,
+      "word": "blonde",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "having pale yellow hair",
+      "definitionTh": "ผมบลอนด์",
+      "example": "She has blonde hair.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "fair",
+          "level": "A1"
+        },
+        {
+          "word": "golden",
+          "level": "A1"
+        },
+        {
+          "word": "light",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "dark",
+          "level": "A1"
+        },
+        {
+          "word": "brunette",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "blonde example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 6
+    },
+    {
+      "id": 296,
+      "word": "blood",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the red liquid in the body",
+      "definitionTh": "เลือด",
+      "example": "There was blood on his shirt.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "bloody"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "blood example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 5
+    },
+    {
+      "id": 297,
+      "word": "blow",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to move air; to send air out",
+      "definitionTh": "เป่า / พัด",
+      "example": "The wind blew hard.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "puff",
+          "level": "A2"
+        },
+        {
+          "word": "breathe",
+          "level": "A2"
+        },
+        {
+          "word": "exhale",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "blow example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 4
+    },
+    {
+      "id": 298,
+      "word": "blue",
+      "pos": "adj., n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the color of the sky",
+      "definitionTh": "สีฟ้า / สีน้ำเงิน",
+      "example": "The sky is blue today.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "azure",
+          "level": "A1"
+        },
+        {
+          "word": "navy",
+          "level": "A1"
+        },
+        {
+          "word": "sapphire",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "blue example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 3
+    },
+    {
+      "id": 299,
+      "word": "board",
+      "pos": "n., v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a flat piece of material; to get on a plane",
+      "definitionTh": "กระดาน / ขึ้น(รถ/เครื่องบิน)",
+      "example": "Write your name on the board.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "plank",
+          "level": "A2"
+        },
+        {
+          "word": "panel",
+          "level": "A2"
+        },
+        {
+          "word": "embark",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "disembark",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "board example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 2
+    },
+    {
+      "id": 300,
+      "word": "boat",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a small vessel for traveling on water",
+      "definitionTh": "เรือ",
+      "example": "We took a boat across the lake.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "ship",
+          "level": "A1"
+        },
+        {
+          "word": "vessel",
+          "level": "A1"
+        },
+        {
+          "word": "craft",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "boat example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 1
+    }
+  ]
+}

@@ -1,0 +1,4361 @@
+{
+  "version": 2,
+  "source": "Oxford 3000",
+  "batch": 5,
+  "level": "Mixed",
+  "totalWords": 100,
+  "metadata": {
+    "created": "2026-07-13",
+    "language": "en",
+    "description": "Batch 05 of 50 — Oxford 3000 words 401-500"
+  },
+  "words": [
+    {
+      "id": 401,
+      "word": "castle",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a large strong building from the past",
+      "definitionTh": "ปราสาท",
+      "example": "We visited an old castle.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "fortress",
+          "level": "A2"
+        },
+        {
+          "word": "palace",
+          "level": "A2"
+        },
+        {
+          "word": "citadel",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "castle example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 100
+    },
+    {
+      "id": 402,
+      "word": "casual",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "relaxed and informal",
+      "definitionTh": "ลำลอง / ไม่เป็นทางการ",
+      "example": "He wore casual clothes to work.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "informal",
+          "level": "B2"
+        },
+        {
+          "word": "relaxed",
+          "level": "B2"
+        },
+        {
+          "word": "laid-back",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "formal",
+          "level": "B2"
+        },
+        {
+          "word": "serious",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "casual example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 99
+    },
+    {
+      "id": 403,
+      "word": "catch",
+      "pos": "v., n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to take hold of something moving; to get an illness",
+      "definitionTh": "จับ / รับ / ติด(โรค)",
+      "example": "She caught the ball easily.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "grab",
+          "level": "A2"
+        },
+        {
+          "word": "seize",
+          "level": "A2"
+        },
+        {
+          "word": "capture",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "release",
+          "level": "A2"
+        },
+        {
+          "word": "drop",
+          "level": "A2"
+        },
+        {
+          "word": "miss",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "catch example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 98
+    },
+    {
+      "id": 404,
+      "word": "category",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a group of things that are similar",
+      "definitionTh": "ประเภท / หมวดหมู่",
+      "example": "This book falls in the fiction category.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "group",
+          "level": "B1"
+        },
+        {
+          "word": "class",
+          "level": "B1"
+        },
+        {
+          "word": "type",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "category example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 97
+    },
+    {
+      "id": 405,
+      "word": "cause",
+      "pos": "n., v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the reason for something; to make happen",
+      "definitionTh": "สาเหตุ / ทำให้เกิด",
+      "example": "Smoking is a cause of cancer.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "reason",
+          "level": "A2"
+        },
+        {
+          "word": "source",
+          "level": "A2"
+        },
+        {
+          "word": "trigger",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "effect",
+          "level": "A2"
+        },
+        {
+          "word": "result",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "cause example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 96
+    },
+    {
+      "id": 406,
+      "word": "CD",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a disc used for storing music or data",
+      "definitionTh": "ซีดี",
+      "example": "She bought her favorite band's CD.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "disc",
+          "level": "A1"
+        },
+        {
+          "word": "compact disc",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "CD example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 95
+    },
+    {
+      "id": 407,
+      "word": "ceiling",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "the top inside surface of a room",
+      "definitionTh": "เพดาน",
+      "example": "There is a light on the ceiling.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "floor",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "ceiling example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 94
+    },
+    {
+      "id": 408,
+      "word": "celebrate",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to do something enjoyable for a special event",
+      "definitionTh": "ฉลอง",
+      "example": "We celebrated her birthday.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "commemorate",
+          "level": "A2"
+        },
+        {
+          "word": "observe",
+          "level": "A2"
+        },
+        {
+          "word": "honor",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "celebration"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "celebrate example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 93
+    },
+    {
+      "id": 409,
+      "word": "celebration",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "the act of celebrating something",
+      "definitionTh": "การเฉลิมฉลอง",
+      "example": "There was a big celebration in town.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "festivity",
+          "level": "B1"
+        },
+        {
+          "word": "commemoration",
+          "level": "B1"
+        },
+        {
+          "word": "party",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [
+          "celebrate"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "celebration example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 92
+    },
+    {
+      "id": 410,
+      "word": "celebrity",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a famous person",
+      "definitionTh": "คนดัง / ดารา",
+      "example": "She became a celebrity overnight.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "star",
+          "level": "A2"
+        },
+        {
+          "word": "famous person",
+          "level": "A2"
+        },
+        {
+          "word": "icon",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "celebrity example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 91
+    },
+    {
+      "id": 411,
+      "word": "cell",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the smallest unit of a living thing; a small room",
+      "definitionTh": "เซลล์ / ห้องขัง",
+      "example": "The human body has millions of cells.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "unit",
+          "level": "B2"
+        },
+        {
+          "word": "chamber",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "cell example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 90
+    },
+    {
+      "id": 412,
+      "word": "cent",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a small unit of money",
+      "definitionTh": "เซนต์",
+      "example": "This candy costs fifty cents.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "penny",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "cent example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 89
+    },
+    {
+      "id": 413,
+      "word": "central",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "in the middle; most important",
+      "definitionTh": "ตรงกลาง / สำคัญ",
+      "example": "We live in central London.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "middle",
+          "level": "B1"
+        },
+        {
+          "word": "main",
+          "level": "B1"
+        },
+        {
+          "word": "primary",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "outer",
+          "level": "B1"
+        },
+        {
+          "word": "peripheral",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "central example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 88
+    },
+    {
+      "id": 414,
+      "word": "centre",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the middle point or main part",
+      "definitionTh": "ศูนย์กลาง / จุดกึ่งกลาง",
+      "example": "The park is in the centre of the city.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "middle",
+          "level": "A1"
+        },
+        {
+          "word": "core",
+          "level": "A1"
+        },
+        {
+          "word": "hub",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "edge",
+          "level": "A1"
+        },
+        {
+          "word": "outside",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "centre example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 87
+    },
+    {
+      "id": 415,
+      "word": "century",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a period of 100 years",
+      "definitionTh": "ศตวรรษ",
+      "example": "We live in the 21st century.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "100 years",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "century example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 86
+    },
+    {
+      "id": 416,
+      "word": "ceremony",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a formal event with special actions",
+      "definitionTh": "พิธี",
+      "example": "The wedding ceremony was beautiful.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "ritual",
+          "level": "B1"
+        },
+        {
+          "word": "service",
+          "level": "B1"
+        },
+        {
+          "word": "function",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "ceremony example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 85
+    },
+    {
+      "id": 417,
+      "word": "certain",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "completely sure; particular",
+      "definitionTh": "แน่ใจ / บางอย่าง",
+      "example": "I'm certain he will come.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "sure",
+          "level": "A2"
+        },
+        {
+          "word": "confident",
+          "level": "A2"
+        },
+        {
+          "word": "definite",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "uncertain",
+          "level": "A2"
+        },
+        {
+          "word": "doubtful",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "certainly"
+        ]
+      },
+      "collocations": [
+        "certain example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 84
+    },
+    {
+      "id": 418,
+      "word": "certainly",
+      "pos": "adv.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "without doubt; of course",
+      "definitionTh": "แน่นอน",
+      "example": "I will certainly help you.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "definitely",
+          "level": "A2"
+        },
+        {
+          "word": "surely",
+          "level": "A2"
+        },
+        {
+          "word": "absolutely",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "perhaps",
+          "level": "A2"
+        },
+        {
+          "word": "maybe",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "certain"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "certainly example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 83
+    },
+    {
+      "id": 419,
+      "word": "chain",
+      "pos": "n., v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a series of connected metal rings",
+      "definitionTh": "โซ่ / ล่ามโซ่",
+      "example": "The dog was on a chain.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "link",
+          "level": "B1"
+        },
+        {
+          "word": "series",
+          "level": "B1"
+        },
+        {
+          "word": "string",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "chain example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 82
+    },
+    {
+      "id": 420,
+      "word": "chair",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a piece of furniture for sitting on",
+      "definitionTh": "เก้าอี้",
+      "example": "Please sit on the chair.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "seat",
+          "level": "A1"
+        },
+        {
+          "word": "stool",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "chairman"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "chair example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 81
+    },
+    {
+      "id": 421,
+      "word": "chairman",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the person who leads a meeting or company",
+      "definitionTh": "ประธาน",
+      "example": "He was elected chairman of the board.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "chairperson",
+          "level": "B2"
+        },
+        {
+          "word": "leader",
+          "level": "B2"
+        },
+        {
+          "word": "president",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "chairman example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 80
+    },
+    {
+      "id": 422,
+      "word": "challenge",
+      "pos": "n., v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a difficult task; to invite someone to compete",
+      "definitionTh": "ความท้าทาย / ท้าทาย",
+      "example": "Learning a new language is a challenge.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "difficulty",
+          "level": "B1"
+        },
+        {
+          "word": "test",
+          "level": "B1"
+        },
+        {
+          "word": "dare",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "challenging"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "challenge example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 79
+    },
+    {
+      "id": 423,
+      "word": "champion",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a person who wins a competition",
+      "definitionTh": "แชมป์เปี้ยน",
+      "example": "She is the world tennis champion.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "winner",
+          "level": "B1"
+        },
+        {
+          "word": "victor",
+          "level": "B1"
+        },
+        {
+          "word": "titleholder",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "loser",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "championship"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "champion example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 78
+    },
+    {
+      "id": 424,
+      "word": "chance",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "an opportunity; possibility",
+      "definitionTh": "โอกาส / ความน่าจะเป็น",
+      "example": "This is your last chance.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "opportunity",
+          "level": "A2"
+        },
+        {
+          "word": "possibility",
+          "level": "A2"
+        },
+        {
+          "word": "luck",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "chance example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 77
+    },
+    {
+      "id": 425,
+      "word": "change",
+      "pos": "v., n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to make or become different",
+      "definitionTh": "เปลี่ยน / การเปลี่ยนแปลง",
+      "example": "We need to change our plans.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "alter",
+          "level": "A1"
+        },
+        {
+          "word": "modify",
+          "level": "A1"
+        },
+        {
+          "word": "transform",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "keep",
+          "level": "A1"
+        },
+        {
+          "word": "maintain",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "change example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 76
+    },
+    {
+      "id": 426,
+      "word": "channel",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a TV or radio station; a narrow water passage",
+      "definitionTh": "ช่อง / คลอง",
+      "example": "What channel is the news on?",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "station",
+          "level": "B1"
+        },
+        {
+          "word": "route",
+          "level": "B1"
+        },
+        {
+          "word": "waterway",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "channel example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 75
+    },
+    {
+      "id": 427,
+      "word": "chapter",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "one of the parts of a book",
+      "definitionTh": "บท",
+      "example": "I read the first chapter last night.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "section",
+          "level": "B1"
+        },
+        {
+          "word": "part",
+          "level": "B1"
+        },
+        {
+          "word": "division",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "chapter example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 74
+    },
+    {
+      "id": 428,
+      "word": "character",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a person in a story; personal qualities",
+      "definitionTh": "ตัวละคร / นิสัย",
+      "example": "My favorite character is Harry.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "personality",
+          "level": "A2"
+        },
+        {
+          "word": "nature",
+          "level": "A2"
+        },
+        {
+          "word": "role",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "characteristic"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "character example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 73
+    },
+    {
+      "id": 429,
+      "word": "characteristic",
+      "pos": "n., adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a typical feature",
+      "definitionTh": "ลักษณะเฉพาะ",
+      "example": "Kindness is her main characteristic.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "feature",
+          "level": "B2"
+        },
+        {
+          "word": "trait",
+          "level": "B2"
+        },
+        {
+          "word": "quality",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "characteristic example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 72
+    },
+    {
+      "id": 430,
+      "word": "charge",
+      "pos": "n., v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "the price asked; to accuse formally",
+      "definitionTh": "ค่าธรรมเนียม / กล่าวหา",
+      "example": "There is no extra charge.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "price",
+          "level": "B1"
+        },
+        {
+          "word": "fee",
+          "level": "B1"
+        },
+        {
+          "word": "accuse",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "free",
+          "level": "B1"
+        },
+        {
+          "word": "discharge",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "charge example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 71
+    },
+    {
+      "id": 431,
+      "word": "charity",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "an organization that helps people in need",
+      "definitionTh": "องค์กรการกุศล",
+      "example": "He donated money to charity.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "nonprofit",
+          "level": "A2"
+        },
+        {
+          "word": "aid",
+          "level": "A2"
+        },
+        {
+          "word": "welfare",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "charity example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 70
+    },
+    {
+      "id": 432,
+      "word": "chart",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a diagram showing information",
+      "definitionTh": "แผนภูมิ",
+      "example": "The chart shows sales figures.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "diagram",
+          "level": "A1"
+        },
+        {
+          "word": "graph",
+          "level": "A1"
+        },
+        {
+          "word": "table",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "chart example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 69
+    },
+    {
+      "id": 433,
+      "word": "chat",
+      "pos": "v., n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to talk in a friendly informal way",
+      "definitionTh": "พูดคุย",
+      "example": "We had a nice chat over coffee.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "talk",
+          "level": "A2"
+        },
+        {
+          "word": "converse",
+          "level": "A2"
+        },
+        {
+          "word": "gossip",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "chat example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 68
+    },
+    {
+      "id": 434,
+      "word": "cheap",
+      "pos": "adj., adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "costing little money",
+      "definitionTh": "ถูก / ราคาถูก",
+      "example": "This shirt is very cheap.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "inexpensive",
+          "level": "A1"
+        },
+        {
+          "word": "affordable",
+          "level": "A1"
+        },
+        {
+          "word": "low-cost",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "expensive",
+          "level": "A1"
+        },
+        {
+          "word": "costly",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "cheaply"
+        ]
+      },
+      "collocations": [
+        "cheap example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 67
+    },
+    {
+      "id": 435,
+      "word": "cheat",
+      "pos": "v., n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to act dishonestly to gain an advantage",
+      "definitionTh": "โกง",
+      "example": "He cheated in the exam.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "deceive",
+          "level": "B1"
+        },
+        {
+          "word": "trick",
+          "level": "B1"
+        },
+        {
+          "word": "defraud",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "play fair",
+          "level": "B1"
+        },
+        {
+          "word": "be honest",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "cheat example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 66
+    },
+    {
+      "id": 436,
+      "word": "check",
+      "pos": "v., n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to examine to make sure something is correct",
+      "definitionTh": "ตรวจสอบ",
+      "example": "Please check your answers.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "examine",
+          "level": "A1"
+        },
+        {
+          "word": "verify",
+          "level": "A1"
+        },
+        {
+          "word": "inspect",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "check example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 65
+    },
+    {
+      "id": 437,
+      "word": "cheerful",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "happy and positive",
+      "definitionTh": "ร่าเริง / เบิกบาน",
+      "example": "She has a cheerful smile.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "happy",
+          "level": "B1"
+        },
+        {
+          "word": "joyful",
+          "level": "B1"
+        },
+        {
+          "word": "upbeat",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "sad",
+          "level": "B1"
+        },
+        {
+          "word": "gloomy",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "cheerful example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 64
+    },
+    {
+      "id": 438,
+      "word": "cheese",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a solid food made from milk",
+      "definitionTh": "ชีส / เนยแข็ง",
+      "example": "I like cheese on my sandwich.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "cheese example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 63
+    },
+    {
+      "id": 439,
+      "word": "chef",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a professional cook",
+      "definitionTh": "เชฟ / พ่อครัว",
+      "example": "The chef prepared a delicious meal.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "cook",
+          "level": "A2"
+        },
+        {
+          "word": "cuisinier",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "chef example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 62
+    },
+    {
+      "id": 440,
+      "word": "chemical",
+      "pos": "adj., n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "related to chemistry; a substance",
+      "definitionTh": "สารเคมี",
+      "example": "This is a dangerous chemical.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "substance",
+          "level": "B1"
+        },
+        {
+          "word": "compound",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "chemically"
+        ]
+      },
+      "collocations": [
+        "chemical example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 61
+    },
+    {
+      "id": 441,
+      "word": "chemistry",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the science of substances",
+      "definitionTh": "เคมี",
+      "example": "She studies chemistry at university.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "chemical"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "chemistry example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 60
+    },
+    {
+      "id": 442,
+      "word": "chest",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "the front part of the body; a large box",
+      "definitionTh": "หน้าอก / หีบ",
+      "example": "He has a strong chest.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "breast",
+          "level": "B1"
+        },
+        {
+          "word": "torso",
+          "level": "B1"
+        },
+        {
+          "word": "box",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "chest example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 59
+    },
+    {
+      "id": 443,
+      "word": "chicken",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a bird kept for its meat and eggs",
+      "definitionTh": "ไก่",
+      "example": "We had chicken for dinner.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "poultry",
+          "level": "A1"
+        },
+        {
+          "word": "fowl",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "chicken example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 58
+    },
+    {
+      "id": 444,
+      "word": "chief",
+      "pos": "adj., n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "most important; the leader",
+      "definitionTh": "หลัก / หัวหน้า",
+      "example": "She is the chief editor.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "main",
+          "level": "B2"
+        },
+        {
+          "word": "principal",
+          "level": "B2"
+        },
+        {
+          "word": "head",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "minor",
+          "level": "B2"
+        },
+        {
+          "word": "assistant",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "chief example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 57
+    },
+    {
+      "id": 445,
+      "word": "child",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a young human",
+      "definitionTh": "เด็ก",
+      "example": "The child is only three years old.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "kid",
+          "level": "A1"
+        },
+        {
+          "word": "youngster",
+          "level": "A1"
+        },
+        {
+          "word": "minor",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "adult",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "childhood"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "child example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 56
+    },
+    {
+      "id": 446,
+      "word": "childhood",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "the time when a person is a child",
+      "definitionTh": "วัยเด็ก",
+      "example": "She had a happy childhood.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "adulthood",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "child"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "childhood example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 55
+    },
+    {
+      "id": 447,
+      "word": "chip",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a small piece; a thin fried potato",
+      "definitionTh": "ชิ้นเล็ก / มันฝรั่งทอด",
+      "example": "Would you like some chips?",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "fragment",
+          "level": "A2"
+        },
+        {
+          "word": "french fry",
+          "level": "A2"
+        },
+        {
+          "word": "crisp",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "chip example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 54
+    },
+    {
+      "id": 448,
+      "word": "chocolate",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a sweet brown food made from cocoa",
+      "definitionTh": "ช็อกโกแลต",
+      "example": "She loves dark chocolate.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "chocolate example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 53
+    },
+    {
+      "id": 449,
+      "word": "choice",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the act of choosing",
+      "definitionTh": "ตัวเลือก",
+      "example": "You have two choices.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "option",
+          "level": "A2"
+        },
+        {
+          "word": "selection",
+          "level": "A2"
+        },
+        {
+          "word": "alternative",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [
+          "choose"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "choice example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 52
+    },
+    {
+      "id": 450,
+      "word": "choose",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to decide which one you want",
+      "definitionTh": "เลือก",
+      "example": "Please choose a color.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "select",
+          "level": "A1"
+        },
+        {
+          "word": "pick",
+          "level": "A1"
+        },
+        {
+          "word": "decide",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "choice"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "choose example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 51
+    },
+    {
+      "id": 451,
+      "word": "church",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a building for Christian worship",
+      "definitionTh": "โบสถ์",
+      "example": "They got married in a church.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "chapel",
+          "level": "A2"
+        },
+        {
+          "word": "cathedral",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "church example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 50
+    },
+    {
+      "id": 452,
+      "word": "cigarette",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a small paper tube of tobacco for smoking",
+      "definitionTh": "บุหรี่",
+      "example": "He smoked a cigarette outside.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "smoke",
+          "level": "A2"
+        },
+        {
+          "word": "cig",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "cigarette example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 49
+    },
+    {
+      "id": 453,
+      "word": "cinema",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a place where movies are shown",
+      "definitionTh": "โรงหนัง",
+      "example": "Let's go to the cinema tonight.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "movie theater",
+          "level": "A1"
+        },
+        {
+          "word": "theater",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "cinema example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 48
+    },
+    {
+      "id": 454,
+      "word": "circle",
+      "pos": "n., v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a round shape; to move around",
+      "definitionTh": "วงกลม",
+      "example": "Draw a circle on the paper.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "ring",
+          "level": "A2"
+        },
+        {
+          "word": "round",
+          "level": "A2"
+        },
+        {
+          "word": "loop",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "circle example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 47
+    },
+    {
+      "id": 455,
+      "word": "circumstance",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the conditions surrounding an event",
+      "definitionTh": "สถานการณ์",
+      "example": "Under the circumstances, we must wait.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "condition",
+          "level": "B2"
+        },
+        {
+          "word": "situation",
+          "level": "B2"
+        },
+        {
+          "word": "context",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "circumstance example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 46
+    },
+    {
+      "id": 456,
+      "word": "cite",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to mention as an example or reason",
+      "definitionTh": "อ้างอิง / อ้างถึง",
+      "example": "She cited three main reasons.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "quote",
+          "level": "B2"
+        },
+        {
+          "word": "refer to",
+          "level": "B2"
+        },
+        {
+          "word": "mention",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "cite example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 45
+    },
+    {
+      "id": 457,
+      "word": "citizen",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a person who is a member of a country",
+      "definitionTh": "พลเมือง",
+      "example": "She is a British citizen.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "national",
+          "level": "B2"
+        },
+        {
+          "word": "resident",
+          "level": "B2"
+        },
+        {
+          "word": "inhabitant",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "citizen example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 44
+    },
+    {
+      "id": 458,
+      "word": "city",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a large important town",
+      "definitionTh": "เมือง / นคร",
+      "example": "Bangkok is a big city.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "metropolis",
+          "level": "A1"
+        },
+        {
+          "word": "urban area",
+          "level": "A1"
+        },
+        {
+          "word": "town",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "village",
+          "level": "A1"
+        },
+        {
+          "word": "countryside",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "city example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 43
+    },
+    {
+      "id": 459,
+      "word": "civil",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "relating to citizens; polite",
+      "definitionTh": "ทางแพ่ง / สุภาพ",
+      "example": "Civil rights are protected by law.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "public",
+          "level": "B2"
+        },
+        {
+          "word": "polite",
+          "level": "B2"
+        },
+        {
+          "word": "civic",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "military",
+          "level": "B2"
+        },
+        {
+          "word": "rude",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "civil example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 42
+    },
+    {
+      "id": 460,
+      "word": "claim",
+      "pos": "v., n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to say something is true; to demand",
+      "definitionTh": "อ้าง / เรียกร้อง",
+      "example": "He claims to know the truth.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "assert",
+          "level": "B1"
+        },
+        {
+          "word": "declare",
+          "level": "B1"
+        },
+        {
+          "word": "demand",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "deny",
+          "level": "B1"
+        },
+        {
+          "word": "disclaim",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "claim example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 41
+    },
+    {
+      "id": 461,
+      "word": "class",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a group of students; a lesson; a category",
+      "definitionTh": "ชั้นเรียน / ระดับ",
+      "example": "There are 20 students in my class.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "group",
+          "level": "A1"
+        },
+        {
+          "word": "category",
+          "level": "A1"
+        },
+        {
+          "word": "lesson",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "class example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 40
+    },
+    {
+      "id": 462,
+      "word": "classic",
+      "pos": "adj., n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "of high quality and lasting value",
+      "definitionTh": "คลาสสิก",
+      "example": "This is a classic novel.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "timeless",
+          "level": "B2"
+        },
+        {
+          "word": "traditional",
+          "level": "B2"
+        },
+        {
+          "word": "iconic",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "modern",
+          "level": "B2"
+        },
+        {
+          "word": "new",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "classic example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 39
+    },
+    {
+      "id": 463,
+      "word": "classical",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "traditional in style; related to ancient Greece or Rome",
+      "definitionTh": "แบบคลาสสิก / คลาสสิก",
+      "example": "She loves classical music.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "traditional",
+          "level": "A2"
+        },
+        {
+          "word": "conventional",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "modern",
+          "level": "A2"
+        },
+        {
+          "word": "contemporary",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "classical example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 38
+    },
+    {
+      "id": 464,
+      "word": "classroom",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a room where lessons are taught",
+      "definitionTh": "ห้องเรียน",
+      "example": "The classroom is bright and clean.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "classroom example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 37
+    },
+    {
+      "id": 465,
+      "word": "clause",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a group of words with a subject and verb; part of a legal document",
+      "definitionTh": "อนุประโยค / มาตรา",
+      "example": "This sentence has two clauses.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "provision",
+          "level": "B1"
+        },
+        {
+          "word": "phrase",
+          "level": "B1"
+        },
+        {
+          "word": "section",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "clause example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 36
+    },
+    {
+      "id": 466,
+      "word": "clean",
+      "pos": "adj., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "not dirty; to make clean",
+      "definitionTh": "สะอาด / ทำความสะอาด",
+      "example": "The kitchen is very clean.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "spotless",
+          "level": "A1"
+        },
+        {
+          "word": "tidy",
+          "level": "A1"
+        },
+        {
+          "word": "wash",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "dirty",
+          "level": "A1"
+        },
+        {
+          "word": "messy",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "clean example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 35
+    },
+    {
+      "id": 467,
+      "word": "clear",
+      "pos": "adj., v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "easy to see or understand; to remove",
+      "definitionTh": "ชัดเจน / เคลียร์",
+      "example": "The instructions are very clear.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "obvious",
+          "level": "A2"
+        },
+        {
+          "word": "evident",
+          "level": "A2"
+        },
+        {
+          "word": "transparent",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unclear",
+          "level": "A2"
+        },
+        {
+          "word": "confusing",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "clarity"
+        ],
+        "verb": [
+          "clarify"
+        ],
+        "adjective": [],
+        "adverb": [
+          "clearly"
+        ]
+      },
+      "collocations": [
+        "clear example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 34
+    },
+    {
+      "id": 468,
+      "word": "clearly",
+      "pos": "adv.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "in a way that is easy to see or hear",
+      "definitionTh": "อย่างชัดเจน",
+      "example": "Please speak clearly.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "distinctly",
+          "level": "A2"
+        },
+        {
+          "word": "obviously",
+          "level": "A2"
+        },
+        {
+          "word": "plainly",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unclearly",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "clear"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "clearly example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 33
+    },
+    {
+      "id": 469,
+      "word": "clever",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "quick to learn or understand",
+      "definitionTh": "ฉลาด",
+      "example": "She is a clever student.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "smart",
+          "level": "A2"
+        },
+        {
+          "word": "intelligent",
+          "level": "A2"
+        },
+        {
+          "word": "bright",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "stupid",
+          "level": "A2"
+        },
+        {
+          "word": "dull",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "clever example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 32
+    },
+    {
+      "id": 470,
+      "word": "click",
+      "pos": "v., n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to press a mouse button; a short sound",
+      "definitionTh": "คลิก",
+      "example": "Click the button to continue.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "tap",
+          "level": "B1"
+        },
+        {
+          "word": "press",
+          "level": "B1"
+        },
+        {
+          "word": "snap",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "click example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 31
+    },
+    {
+      "id": 471,
+      "word": "client",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a person who uses a service",
+      "definitionTh": "ลูกค้า",
+      "example": "She met with an important client.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "customer",
+          "level": "B1"
+        },
+        {
+          "word": "patron",
+          "level": "B1"
+        },
+        {
+          "word": "buyer",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "client example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 30
+    },
+    {
+      "id": 472,
+      "word": "climate",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the typical weather in an area",
+      "definitionTh": "สภาพอากาศ / ภูมิอากาศ",
+      "example": "Thailand has a tropical climate.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "weather",
+          "level": "A2"
+        },
+        {
+          "word": "atmosphere",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "climate example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 29
+    },
+    {
+      "id": 473,
+      "word": "climb",
+      "pos": "v., n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to go up something",
+      "definitionTh": "ปีน / ไต่",
+      "example": "She climbed the mountain.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "ascend",
+          "level": "A1"
+        },
+        {
+          "word": "scale",
+          "level": "A1"
+        },
+        {
+          "word": "mount",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "descend",
+          "level": "A1"
+        },
+        {
+          "word": "fall",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "climber"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "climb example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 28
+    },
+    {
+      "id": 474,
+      "word": "clock",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a device that shows the time",
+      "definitionTh": "นาฬิกา",
+      "example": "The clock shows 3 o'clock.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "timepiece",
+          "level": "A1"
+        },
+        {
+          "word": "watch",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "clock example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 27
+    },
+    {
+      "id": 475,
+      "word": "close1",
+      "pos": "v., n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to shut something; to end",
+      "definitionTh": "ปิด / จบ",
+      "example": "Please close the door.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "shut",
+          "level": "A1"
+        },
+        {
+          "word": "end",
+          "level": "A1"
+        },
+        {
+          "word": "seal",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "open",
+          "level": "A1"
+        },
+        {
+          "word": "begin",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "closed"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "close1 example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 26
+    },
+    {
+      "id": 476,
+      "word": "close2",
+      "pos": "adj., adv.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "near in space or time",
+      "definitionTh": "ใกล้",
+      "example": "My house is close to the school.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "near",
+          "level": "A2"
+        },
+        {
+          "word": "nearby",
+          "level": "A2"
+        },
+        {
+          "word": "adjacent",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "far",
+          "level": "A2"
+        },
+        {
+          "word": "distant",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "closely"
+        ]
+      },
+      "collocations": [
+        "close2 example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 25
+    },
+    {
+      "id": 477,
+      "word": "closed",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "not open",
+      "definitionTh": "ปิด",
+      "example": "The shop is closed today.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "shut",
+          "level": "A2"
+        },
+        {
+          "word": "sealed",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "open",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [
+          "close1"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "closed example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 24
+    },
+    {
+      "id": 478,
+      "word": "closely",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "in a careful and detailed way",
+      "definitionTh": "อย่างใกล้ชิด",
+      "example": "She watched the children closely.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "carefully",
+          "level": "B2"
+        },
+        {
+          "word": "attentively",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "loosely",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "close2"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "closely example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 23
+    },
+    {
+      "id": 479,
+      "word": "cloth",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "material used to make clothes",
+      "definitionTh": "ผ้า",
+      "example": "She wiped the table with a cloth.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "fabric",
+          "level": "B1"
+        },
+        {
+          "word": "material",
+          "level": "B1"
+        },
+        {
+          "word": "textile",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "cloth example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 22
+    },
+    {
+      "id": 480,
+      "word": "clothes",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "things people wear",
+      "definitionTh": "เสื้อผ้า",
+      "example": "I need new clothes.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "clothing",
+          "level": "A1"
+        },
+        {
+          "word": "garments",
+          "level": "A1"
+        },
+        {
+          "word": "outfit",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "clothes example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 21
+    },
+    {
+      "id": 481,
+      "word": "clothing",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "clothes in general",
+      "definitionTh": "เครื่องแต่งกาย",
+      "example": "Warm clothing is needed in winter.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "clothes",
+          "level": "A2"
+        },
+        {
+          "word": "apparel",
+          "level": "A2"
+        },
+        {
+          "word": "garments",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "clothing example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 20
+    },
+    {
+      "id": 482,
+      "word": "cloud",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a white or grey mass in the sky",
+      "definitionTh": "เมฆ",
+      "example": "There are dark clouds in the sky.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "cloudy"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "cloud example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 19
+    },
+    {
+      "id": 483,
+      "word": "club",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a group of people with a shared interest",
+      "definitionTh": "สโมสร / ชมรม",
+      "example": "She joined the tennis club.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "association",
+          "level": "A1"
+        },
+        {
+          "word": "society",
+          "level": "A1"
+        },
+        {
+          "word": "group",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "club example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 18
+    },
+    {
+      "id": 484,
+      "word": "clue",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a piece of information that helps solve a problem",
+      "definitionTh": "เบาะแส",
+      "example": "The police found an important clue.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "hint",
+          "level": "B1"
+        },
+        {
+          "word": "lead",
+          "level": "B1"
+        },
+        {
+          "word": "evidence",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "clue example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 17
+    },
+    {
+      "id": 485,
+      "word": "coach",
+      "pos": "n., v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a person who trains sports players; a bus",
+      "definitionTh": "โค้ช / รถบัส",
+      "example": "The coach trained the team hard.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "trainer",
+          "level": "A2"
+        },
+        {
+          "word": "instructor",
+          "level": "A2"
+        },
+        {
+          "word": "bus",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "coach example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 16
+    },
+    {
+      "id": 486,
+      "word": "coal",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a hard black substance burned for fuel",
+      "definitionTh": "ถ่านหิน",
+      "example": "We used coal to heat the house.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "coal example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 15
+    },
+    {
+      "id": 487,
+      "word": "coast",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the land along the sea",
+      "definitionTh": "ชายฝั่ง",
+      "example": "We drove along the coast.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "shore",
+          "level": "A2"
+        },
+        {
+          "word": "seaside",
+          "level": "A2"
+        },
+        {
+          "word": "seashore",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "inland",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "coastal"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "coast example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 14
+    },
+    {
+      "id": 488,
+      "word": "coat",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a piece of clothing worn over other clothes",
+      "definitionTh": "เสื้อโค้ท",
+      "example": "Wear a coat when it's cold.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "jacket",
+          "level": "A1"
+        },
+        {
+          "word": "overcoat",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "coat example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 13
+    },
+    {
+      "id": 489,
+      "word": "code",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a system of words or numbers with a special meaning",
+      "definitionTh": "รหัส",
+      "example": "What's your pin code?",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "cipher",
+          "level": "A2"
+        },
+        {
+          "word": "key",
+          "level": "A2"
+        },
+        {
+          "word": "password",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "code example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 12
+    },
+    {
+      "id": 490,
+      "word": "coffee",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a hot brown drink made from coffee beans",
+      "definitionTh": "กาแฟ",
+      "example": "I drink coffee every morning.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "coffee example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 11
+    },
+    {
+      "id": 491,
+      "word": "coin",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a piece of metal used as money",
+      "definitionTh": "เหรียญ",
+      "example": "She dropped a coin on the floor.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "coin example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 10
+    },
+    {
+      "id": 492,
+      "word": "cold",
+      "pos": "adj., n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "having a low temperature; a common illness",
+      "definitionTh": "หนาว / เย็น / ไข้หวัด",
+      "example": "It's very cold outside.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "chilly",
+          "level": "A1"
+        },
+        {
+          "word": "freezing",
+          "level": "A1"
+        },
+        {
+          "word": "cool",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "hot",
+          "level": "A1"
+        },
+        {
+          "word": "warm",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "cold example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 9
+    },
+    {
+      "id": 493,
+      "word": "collapse",
+      "pos": "v., n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to fall down suddenly",
+      "definitionTh": "ล้ม / พังทลาย",
+      "example": "The building collapsed in the earthquake.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "fall",
+          "level": "B2"
+        },
+        {
+          "word": "crumble",
+          "level": "B2"
+        },
+        {
+          "word": "break down",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "stand",
+          "level": "B2"
+        },
+        {
+          "word": "rise",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "collapse example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 8
+    },
+    {
+      "id": 494,
+      "word": "colleague",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a person you work with",
+      "definitionTh": "เพื่อนร่วมงาน",
+      "example": "My colleagues are very friendly.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "coworker",
+          "level": "A2"
+        },
+        {
+          "word": "associate",
+          "level": "A2"
+        },
+        {
+          "word": "peer",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "colleague example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 7
+    },
+    {
+      "id": 495,
+      "word": "collect",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to gather things together",
+      "definitionTh": "เก็บ / รวบรวม",
+      "example": "She collects stamps.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "gather",
+          "level": "A2"
+        },
+        {
+          "word": "assemble",
+          "level": "A2"
+        },
+        {
+          "word": "accumulate",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "distribute",
+          "level": "A2"
+        },
+        {
+          "word": "scatter",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "collection",
+          "collector"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "collect example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 6
+    },
+    {
+      "id": 496,
+      "word": "collection",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a group of similar things kept together",
+      "definitionTh": "การสะสม / คอลเลกชัน",
+      "example": "She has a large collection of books.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "assortment",
+          "level": "B1"
+        },
+        {
+          "word": "set",
+          "level": "B1"
+        },
+        {
+          "word": "group",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [
+          "collect"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "collection example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 5
+    },
+    {
+      "id": 497,
+      "word": "college",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a place for higher education",
+      "definitionTh": "วิทยาลัย",
+      "example": "She goes to a small college.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "university",
+          "level": "A1"
+        },
+        {
+          "word": "academy",
+          "level": "A1"
+        },
+        {
+          "word": "institute",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "college example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 4
+    },
+    {
+      "id": 498,
+      "word": "colour",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "red, blue, green, etc.",
+      "definitionTh": "สี",
+      "example": "What's your favorite colour?",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "hue",
+          "level": "A1"
+        },
+        {
+          "word": "shade",
+          "level": "A1"
+        },
+        {
+          "word": "tone",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "coloured"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "colour example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 3
+    },
+    {
+      "id": 499,
+      "word": "coloured",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "having a colour",
+      "definitionTh": "ที่มีสี",
+      "example": "She wore a brightly coloured dress.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "colorful",
+          "level": "B1"
+        },
+        {
+          "word": "tinted",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "colorless",
+          "level": "B1"
+        },
+        {
+          "word": "plain",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "colour"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "coloured example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 2
+    },
+    {
+      "id": 500,
+      "word": "column",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a tall structure that supports; a vertical section of text",
+      "definitionTh": "เสา / คอลัมน์",
+      "example": "The building has marble columns.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "pillar",
+          "level": "A2"
+        },
+        {
+          "word": "post",
+          "level": "A2"
+        },
+        {
+          "word": "section",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "column example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 1
+    }
+  ]
+}
