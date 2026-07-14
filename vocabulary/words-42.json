@@ -1,0 +1,3584 @@
+{
+  "version": 2,
+  "source": "Oxford 5000 (American English)",
+  "batch": 42,
+  "level": "B2-C1",
+  "totalWords": 100,
+  "metadata": {
+    "created": "2026-07-14",
+    "language": "en-US",
+    "description": "Batch 42 — additional Oxford 5000 words 1101-1200; source-aligned from attached PDF"
+  },
+  "words": [
+    {
+      "id": 4065,
+      "word": "magnitude",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the great size, importance, or force of something",
+      "definitionTh": "ขนาด / ความรุนแรง",
+      "example": "Quantify the magnitude of the deviation.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "scale",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "magnitude of change"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 100
+    },
+    {
+      "id": 4066,
+      "word": "mainland",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the main continuous part of a country or continent",
+      "definitionTh": "แผ่นดินใหญ่",
+      "example": "The report provides a clear example of “mainland”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "continental land",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "mainland example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 99
+    },
+    {
+      "id": 4067,
+      "word": "mainstream",
+      "pos": "n., adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "ideas or activities accepted by most people",
+      "definitionTh": "กระแสหลัก",
+      "example": "The report provides a clear example of “mainstream”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "dominant trend",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unconventional",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "mainstream example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 98
+    },
+    {
+      "id": 4068,
+      "word": "maintenance",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "work done to keep equipment in good condition",
+      "definitionTh": "การบำรุงรักษา",
+      "example": "Schedule preventive maintenance for the camera.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "upkeep",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "preventive maintenance"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 97
+    },
+    {
+      "id": 4069,
+      "word": "makeup",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "cosmetics or the combination of qualities forming something",
+      "definitionTh": "การแต่งหน้า / ส่วนประกอบ",
+      "example": "The report provides a clear example of “makeup”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "cosmetics",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "makeup example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 96
+    },
+    {
+      "id": 4070,
+      "word": "making",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the process of producing or creating something",
+      "definitionTh": "การสร้าง",
+      "example": "The report provides a clear example of “making”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "production",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "making example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 95
+    },
+    {
+      "id": 4071,
+      "word": "mandate",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "official authority or an instruction to act",
+      "definitionTh": "อำนาจหน้าที่",
+      "example": "The policy gives the team a clear mandate.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "authority",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "official mandate"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 94
+    },
+    {
+      "id": 4072,
+      "word": "mandatory",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "required by law or rule",
+      "definitionTh": "บังคับ",
+      "example": "Safety validation is mandatory.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "required",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "optional",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "mandatory requirement"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 93
+    },
+    {
+      "id": 4073,
+      "word": "manifest",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to show a quality or become clear",
+      "definitionTh": "ปรากฏให้เห็น",
+      "example": "The defect may manifest at high speed.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "show",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "manifestation"
+        ],
+        "verb": [
+          "manifest"
+        ],
+        "adjective": [
+          "manifest"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "manifest itself"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 92
+    },
+    {
+      "id": 4074,
+      "word": "manipulate",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to control skillfully, sometimes unfairly",
+      "definitionTh": "ควบคุม / ชักใย",
+      "example": "Do not manipulate the raw data.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "control",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "manipulation"
+        ],
+        "verb": [
+          "manipulate"
+        ],
+        "adjective": [
+          "manipulative"
+        ],
+        "adverb": [
+          "manipulatively"
+        ]
+      },
+      "collocations": [
+        "manipulate data"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 91
+    },
+    {
+      "id": 4075,
+      "word": "manipulation",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the act of controlling or changing something",
+      "definitionTh": "การควบคุม",
+      "example": "The report provides a clear example of “manipulation”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "control process",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "manipulation example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 90
+    },
+    {
+      "id": 4076,
+      "word": "manufacture",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to make goods using machines or labor",
+      "definitionTh": "ผลิต",
+      "example": "The supplier manufactures camera housings.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "produce",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "manufacture",
+          "manufacturer",
+          "manufacturing"
+        ],
+        "verb": [
+          "manufacture"
+        ],
+        "adjective": [
+          "manufactured"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "manufacture parts"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 89
+    },
+    {
+      "id": 4077,
+      "word": "manufacturing",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the industry or process of making goods",
+      "definitionTh": "การผลิต",
+      "example": "The solution supports food manufacturing.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "production",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "manufacturing process"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 88
+    },
+    {
+      "id": 4078,
+      "word": "manuscript",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "an original handwritten or typed document",
+      "definitionTh": "ต้นฉบับ",
+      "example": "The report provides a clear example of “manuscript”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "draft",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "manuscript example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 87
+    },
+    {
+      "id": 4079,
+      "word": "marathon",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a long-distance running race",
+      "definitionTh": "มาราธอน",
+      "example": "The report provides a clear example of “marathon”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "long race",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "marathon example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 86
+    },
+    {
+      "id": 4080,
+      "word": "march",
+      "pos": "n., v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "an organized walk or to walk steadily",
+      "definitionTh": "เดินขบวน",
+      "example": "The report provides a clear example of “march”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "parade",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "march example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 85
+    },
+    {
+      "id": 4081,
+      "word": "margin",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the edge or difference between amounts",
+      "definitionTh": "ขอบ / ส่วนต่าง",
+      "example": "Keep a safety margin in the design.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "difference",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "margin"
+        ],
+        "verb": [
+          "marginalize"
+        ],
+        "adjective": [
+          "marginal"
+        ],
+        "adverb": [
+          "marginally"
+        ]
+      },
+      "collocations": [
+        "safety margin"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 84
+    },
+    {
+      "id": 4082,
+      "word": "marginal",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "small and not very important",
+      "definitionTh": "เล็กน้อย",
+      "example": "The report provides a clear example of “marginal”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "minor",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "marginal example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 83
+    },
+    {
+      "id": 4083,
+      "word": "marine",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "relating to the sea",
+      "definitionTh": "ทางทะเล",
+      "example": "The report provides a clear example of “marine”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "sea-related",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "marine example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 82
+    },
+    {
+      "id": 4084,
+      "word": "marker",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "an object or sign used to indicate a position",
+      "definitionTh": "เครื่องหมาย",
+      "example": "Use the marker as a reference point.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "indicator",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "visual marker"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 81
+    },
+    {
+      "id": 4085,
+      "word": "marketplace",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the economic area where goods are bought and sold",
+      "definitionTh": "ตลาด",
+      "example": "The report provides a clear example of “marketplace”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "market",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "marketplace example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 80
+    },
+    {
+      "id": 4086,
+      "word": "martial",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "relating to soldiers or war",
+      "definitionTh": "ทางทหาร",
+      "example": "The report provides a clear example of “martial”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "military",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "martial example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 79
+    },
+    {
+      "id": 4087,
+      "word": "mask",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a covering for the face or a way to hide something",
+      "definitionTh": "หน้ากาก",
+      "example": "A reflection can mask the defect.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "covering",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "protective mask"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 78
+    },
+    {
+      "id": 4088,
+      "word": "massacre",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the killing of many people",
+      "definitionTh": "การสังหารหมู่",
+      "example": "The report provides a clear example of “massacre”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "mass killing",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "massacre example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 77
+    },
+    {
+      "id": 4089,
+      "word": "mate",
+      "pos": "n., v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a friend or partner; to reproduce sexually",
+      "definitionTh": "เพื่อน / ผสมพันธุ์",
+      "example": "The report provides a clear example of “mate”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "partner",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "mate example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 76
+    },
+    {
+      "id": 4090,
+      "word": "mathematical",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "relating to mathematics",
+      "definitionTh": "ทางคณิตศาสตร์",
+      "example": "Use a mathematical model for prediction.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "numeric",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "mathematical formula"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 75
+    },
+    {
+      "id": 4091,
+      "word": "mature",
+      "pos": "adj., v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "fully developed; to develop fully",
+      "definitionTh": "เติบโตเต็มที่",
+      "example": "The report provides a clear example of “mature”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "developed",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "immature",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "maturity"
+        ],
+        "verb": [
+          "mature"
+        ],
+        "adjective": [
+          "mature"
+        ],
+        "adverb": [
+          "maturely"
+        ]
+      },
+      "collocations": [
+        "mature example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 74
+    },
+    {
+      "id": 4092,
+      "word": "maximize",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to make as large or effective as possible",
+      "definitionTh": "ทำให้สูงสุด",
+      "example": "Adjust the lighting to maximize contrast.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "increase",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "minimize",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "maximum"
+        ],
+        "verb": [
+          "maximize"
+        ],
+        "adjective": [
+          "maximal"
+        ],
+        "adverb": [
+          "maximally"
+        ]
+      },
+      "collocations": [
+        "maximize efficiency"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 73
+    },
+    {
+      "id": 4093,
+      "word": "meaningful",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to have importance or a clear purpose",
+      "definitionTh": "มีความหมาย",
+      "example": "Use a meaningful performance indicator.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "significant",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "meaningless",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "meaningful result"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 72
+    },
+    {
+      "id": 4094,
+      "word": "meantime",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "having importance or a clear purpose",
+      "definitionTh": "ในระหว่างนั้น",
+      "example": "The report provides a clear example of “meantime”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "meanwhile",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "meantime example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 71
+    },
+    {
+      "id": 4095,
+      "word": "mechanic",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the time between two events",
+      "definitionTh": "ช่างเครื่อง",
+      "example": "The mechanic inspected the drive system.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "technician",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "mechanic",
+          "mechanism"
+        ],
+        "verb": [
+          "mechanize"
+        ],
+        "adjective": [
+          "mechanical"
+        ],
+        "adverb": [
+          "mechanically"
+        ]
+      },
+      "collocations": [
+        "maintenance mechanic"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 70
+    },
+    {
+      "id": 4096,
+      "word": "mechanical",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a person who repairs machines",
+      "definitionTh": "ทางกล",
+      "example": "Check every mechanical connection.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "machine-related",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "mechanical design"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 69
+    },
+    {
+      "id": 4097,
+      "word": "mechanism",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "relating to machines or physical forces",
+      "definitionTh": "กลไก",
+      "example": "The reject mechanism needs adjustment.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "process",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "release mechanism"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 68
+    },
+    {
+      "id": 4098,
+      "word": "medal",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a system of parts working together",
+      "definitionTh": "เหรียญรางวัล",
+      "example": "The report provides a clear example of “medal”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "award",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "medal example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 67
+    },
+    {
+      "id": 4099,
+      "word": "medication",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "an award for achievement",
+      "definitionTh": "ยา",
+      "example": "Store medication in the approved cabinet.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "medicine",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "prescribed medication"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 66
+    },
+    {
+      "id": 4100,
+      "word": "medieval",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "medicine used to treat a condition",
+      "definitionTh": "ยุคกลาง",
+      "example": "The report provides a clear example of “medieval”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "Middle Ages-related",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "medieval example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 65
+    },
+    {
+      "id": 4101,
+      "word": "meditation",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "relating to the Middle Ages",
+      "definitionTh": "การทำสมาธิ",
+      "example": "The report provides a clear example of “meditation”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "mindfulness",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "meditation example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 64
+    },
+    {
+      "id": 4102,
+      "word": "melody",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the practice of focusing the mind calmly",
+      "definitionTh": "ทำนอง",
+      "example": "The report provides a clear example of “melody”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "tune",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "melody example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 63
+    },
+    {
+      "id": 4103,
+      "word": "membership",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a sequence of musical notes",
+      "definitionTh": "สมาชิกภาพ",
+      "example": "Update the project-team membership.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "enrollment",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "team membership"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 62
+    },
+    {
+      "id": 4104,
+      "word": "memo",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the state of belonging to a group",
+      "definitionTh": "บันทึกข้อความ",
+      "example": "Send a technical memo after the trial.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "note",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "internal memo"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 61
+    },
+    {
+      "id": 4105,
+      "word": "memoir",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a short written business message",
+      "definitionTh": "บันทึกความทรงจำ",
+      "example": "The report provides a clear example of “memoir”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "recollection",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "memoir example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 60
+    },
+    {
+      "id": 4106,
+      "word": "memorable",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a written account of personal memories",
+      "definitionTh": "น่าจดจำ",
+      "example": "The report provides a clear example of “memorable”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "unforgettable",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "memorable example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 59
+    },
+    {
+      "id": 4107,
+      "word": "memorial",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "worth remembering",
+      "definitionTh": "อนุสรณ์",
+      "example": "The report provides a clear example of “memorial”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "tribute",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "memorial example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 58
+    },
+    {
+      "id": 4108,
+      "word": "mentor",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a structure or event honoring a person",
+      "definitionTh": "พี่เลี้ยง",
+      "example": "A senior engineer will mentor the team.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "adviser",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "technical mentor"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 57
+    },
+    {
+      "id": 4109,
+      "word": "merchant",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "an experienced person who guides another",
+      "definitionTh": "พ่อค้า",
+      "example": "The report provides a clear example of “merchant”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "trader",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "merchant example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 56
+    },
+    {
+      "id": 4110,
+      "word": "mercy",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a person who buys and sells goods",
+      "definitionTh": "ความเมตตา",
+      "example": "The report provides a clear example of “mercy”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "compassion",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "mercy example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 55
+    },
+    {
+      "id": 4111,
+      "word": "mere",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "kind treatment shown to someone",
+      "definitionTh": "เพียง",
+      "example": "The report provides a clear example of “mere”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "only",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "mere example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 54
+    },
+    {
+      "id": 4112,
+      "word": "merely",
+      "pos": "adv.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "only and no more than",
+      "definitionTh": "เพียงแค่",
+      "example": "The report provides a clear example of “merely”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "simply",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "merely example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 53
+    },
+    {
+      "id": 4113,
+      "word": "merge",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "only or simply",
+      "definitionTh": "รวมเข้าด้วยกัน",
+      "example": "Merge all vocabulary files into one JSON.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "combine",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "merger"
+        ],
+        "verb": [
+          "merge"
+        ],
+        "adjective": [
+          "merged"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "merge files"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 52
+    },
+    {
+      "id": 4114,
+      "word": "merger",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to combine into one organization or system",
+      "definitionTh": "การควบรวม",
+      "example": "The report provides a clear example of “merger”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "consolidation",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "merger example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 51
+    },
+    {
+      "id": 4115,
+      "word": "merit",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the joining of companies or organizations",
+      "definitionTh": "คุณค่า",
+      "example": "The report provides a clear example of “merit”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "value",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "merit example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 50
+    },
+    {
+      "id": 4116,
+      "word": "metaphor",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a good quality that deserves reward",
+      "definitionTh": "อุปมา",
+      "example": "The report provides a clear example of “metaphor”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "analogy",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "metaphor example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 49
+    },
+    {
+      "id": 4117,
+      "word": "methodology",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a comparison describing one thing as another",
+      "definitionTh": "ระเบียบวิธี",
+      "example": "Document the scoring methodology.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "method",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "research methodology"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 48
+    },
+    {
+      "id": 4118,
+      "word": "midst",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a system of methods used in a study",
+      "definitionTh": "ท่ามกลาง",
+      "example": "The report provides a clear example of “midst”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "middle",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "midst example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 47
+    },
+    {
+      "id": 4119,
+      "word": "migration",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the middle of a situation or place",
+      "definitionTh": "การย้ายถิ่น",
+      "example": "The report provides a clear example of “migration”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "relocation",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "migration example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 46
+    },
+    {
+      "id": 4120,
+      "word": "militant",
+      "pos": "n., adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "movement of people or animals to another place",
+      "definitionTh": "ผู้สนับสนุนความรุนแรง",
+      "example": "The report provides a clear example of “militant”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "activist",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "militant example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 45
+    },
+    {
+      "id": 4121,
+      "word": "militia",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a person supporting aggressive action",
+      "definitionTh": "กองกำลังอาสา",
+      "example": "The report provides a clear example of “militia”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "armed group",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "militia example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 44
+    },
+    {
+      "id": 4122,
+      "word": "mill",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a nonprofessional armed force",
+      "definitionTh": "โรงสี",
+      "example": "The report provides a clear example of “mill”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "factory",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "mill example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 43
+    },
+    {
+      "id": 4123,
+      "word": "miner",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a building or machine for processing material",
+      "definitionTh": "คนงานเหมือง",
+      "example": "The report provides a clear example of “miner”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "mine worker",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "miner example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 42
+    },
+    {
+      "id": 4124,
+      "word": "minimal",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a person who works in a mine",
+      "definitionTh": "น้อยที่สุด",
+      "example": "Keep manual intervention minimal.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "smallest",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "maximum",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "minimum"
+        ],
+        "verb": [
+          "minimize"
+        ],
+        "adjective": [
+          "minimal"
+        ],
+        "adverb": [
+          "minimally"
+        ]
+      },
+      "collocations": [
+        "minimal risk"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 41
+    },
+    {
+      "id": 4125,
+      "word": "minimize",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the smallest possible amount",
+      "definitionTh": "ลดให้น้อยที่สุด",
+      "example": "Use shielding to minimize interference.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "reduce",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "maximize",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "minimize downtime"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 40
+    },
+    {
+      "id": 4126,
+      "word": "mining",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "minimize to reduce to the smallest amount",
+      "definitionTh": "การทำเหมือง",
+      "example": "The report provides a clear example of “mining”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "mineral extraction",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "mining example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 39
+    },
+    {
+      "id": 4127,
+      "word": "ministry",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the industry of removing minerals from the ground",
+      "definitionTh": "กระทรวง",
+      "example": "The report provides a clear example of “ministry”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "department",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "ministry example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 38
+    },
+    {
+      "id": 4128,
+      "word": "minute2",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a government department",
+      "definitionTh": "เล็กมาก",
+      "example": "The report provides a clear example of “minute2”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "tiny",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "minute2 example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 37
+    },
+    {
+      "id": 4129,
+      "word": "miracle",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "extremely small",
+      "definitionTh": "ปาฏิหาริย์",
+      "example": "The report provides a clear example of “miracle”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "wonder",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "miracle example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 36
+    },
+    {
+      "id": 4130,
+      "word": "miserable",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "an extraordinary event believed impossible naturally",
+      "definitionTh": "ทุกข์ยาก",
+      "example": "The report provides a clear example of “miserable”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "unhappy",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "happy",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "miserable example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 35
+    },
+    {
+      "id": 4131,
+      "word": "misery",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "very unhappy or uncomfortable",
+      "definitionTh": "ความทุกข์",
+      "example": "The report provides a clear example of “misery”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "suffering",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "misery example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 34
+    },
+    {
+      "id": 4132,
+      "word": "misleading",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "great suffering or unhappiness",
+      "definitionTh": "ทำให้เข้าใจผิด",
+      "example": "The report provides a clear example of “misleading”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "deceptive",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "accurate",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "misleading example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 33
+    },
+    {
+      "id": 4133,
+      "word": "missile",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "giving a wrong idea or impression",
+      "definitionTh": "ขีปนาวุธ",
+      "example": "The report provides a clear example of “missile”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "projectile",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "missile example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 32
+    },
+    {
+      "id": 4134,
+      "word": "mob",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a weapon that travels through the air",
+      "definitionTh": "ฝูงชน",
+      "example": "The report provides a clear example of “mob”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "crowd",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "mob example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 31
+    },
+    {
+      "id": 4135,
+      "word": "mobile",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a large disorderly crowd",
+      "definitionTh": "เคลื่อนที่ได้",
+      "example": "The report provides a clear example of “mobile”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "portable",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "stationary",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "mobility"
+        ],
+        "verb": [
+          "mobilize"
+        ],
+        "adjective": [
+          "mobile"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "mobile example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 30
+    },
+    {
+      "id": 4136,
+      "word": "mobility",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "able to move easily",
+      "definitionTh": "ความคล่องตัว",
+      "example": "The report provides a clear example of “mobility”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "movement",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "mobility example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 29
+    },
+    {
+      "id": 4137,
+      "word": "mobilize",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the ability to move or change position",
+      "definitionTh": "ระดม",
+      "example": "The report provides a clear example of “mobilize”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "organize",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "mobilize example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 28
+    },
+    {
+      "id": 4138,
+      "word": "mode",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to organize people or resources for action",
+      "definitionTh": "โหมด",
+      "example": "Set the camera to inspection mode.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "setting",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "automatic mode"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 27
+    },
+    {
+      "id": 4139,
+      "word": "moderate",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a particular operating setting",
+      "definitionTh": "ปานกลาง",
+      "example": "Use a moderate conveyor speed.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "balanced",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "extreme",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "moderate level"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 26
+    },
+    {
+      "id": 4140,
+      "word": "modest",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "not extreme in amount or degree",
+      "definitionTh": "เรียบง่าย",
+      "example": "The report provides a clear example of “modest”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "humble",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "arrogant",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "modest example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 25
+    },
+    {
+      "id": 4141,
+      "word": "modification",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "not large, proud, or expensive",
+      "definitionTh": "การปรับเปลี่ยน",
+      "example": "Document every design modification.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "change",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "minor modification"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 24
+    },
+    {
+      "id": 4142,
+      "word": "module",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a change made to improve or adapt something",
+      "definitionTh": "โมดูล",
+      "example": "Replace the faulty input module.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "component",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "PLC module"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 23
+    },
+    {
+      "id": 4143,
+      "word": "momentum",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a self-contained part of a system",
+      "definitionTh": "แรงผลักดัน",
+      "example": "The pilot created momentum for automation.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "drive",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "maintain momentum"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 22
+    },
+    {
+      "id": 4144,
+      "word": "monk",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "force or progress that keeps something moving",
+      "definitionTh": "พระ",
+      "example": "The report provides a clear example of “monk”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "religious member",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "monk example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 21
+    },
+    {
+      "id": 4145,
+      "word": "monopoly",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a member of a religious community",
+      "definitionTh": "การผูกขาด",
+      "example": "The report provides a clear example of “monopoly”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "market control",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "monopoly example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 20
+    },
+    {
+      "id": 4146,
+      "word": "monster",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "complete control of a market",
+      "definitionTh": "สัตว์ประหลาด",
+      "example": "The report provides a clear example of “monster”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "creature",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "monster example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 19
+    },
+    {
+      "id": 4147,
+      "word": "monthly",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a large frightening imaginary creature",
+      "definitionTh": "รายเดือน",
+      "example": "Review defect trends in the monthly report.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "each month",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "monthly review"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 18
+    },
+    {
+      "id": 4148,
+      "word": "monument",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "happening every month",
+      "definitionTh": "อนุสาวรีย์",
+      "example": "The report provides a clear example of “monument”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "memorial",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "monument example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 17
+    },
+    {
+      "id": 4149,
+      "word": "morality",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a structure honoring a person or event",
+      "definitionTh": "ศีลธรรม",
+      "example": "The report provides a clear example of “morality”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "ethics",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "immorality",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "morality example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 16
+    },
+    {
+      "id": 4150,
+      "word": "moreover",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "principles of right and wrong",
+      "definitionTh": "นอกจากนี้",
+      "example": "The report provides a clear example of “moreover”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "furthermore",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "moreover example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 15
+    },
+    {
+      "id": 4151,
+      "word": "mortgage",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "in addition to what was said",
+      "definitionTh": "สินเชื่อที่อยู่อาศัย",
+      "example": "The report provides a clear example of “mortgage”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "home loan",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "mortgage example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 14
+    },
+    {
+      "id": 4152,
+      "word": "mosque",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a loan used to buy property",
+      "definitionTh": "มัสยิด",
+      "example": "The report provides a clear example of “mosque”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "Islamic temple",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "mosque example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 13
+    },
+    {
+      "id": 4153,
+      "word": "mosquito",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a building where Muslims worship",
+      "definitionTh": "ยุง",
+      "example": "The report provides a clear example of “mosquito”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "insect",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "mosquito example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 12
+    },
+    {
+      "id": 4154,
+      "word": "motion",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a small flying insect that bites",
+      "definitionTh": "การเคลื่อนไหว",
+      "example": "The sensor detects product motion.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "movement",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "motion sensor"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 11
+    },
+    {
+      "id": 4155,
+      "word": "motivate",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "movement or a formal proposal",
+      "definitionTh": "กระตุ้น",
+      "example": "Clear targets motivate the team.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "encourage",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "motivation",
+          "motive"
+        ],
+        "verb": [
+          "motivate"
+        ],
+        "adjective": [
+          "motivated",
+          "moving"
+        ],
+        "adverb": [
+          "motivationally"
+        ]
+      },
+      "collocations": [
+        "motivate employees"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 10
+    },
+    {
+      "id": 4156,
+      "word": "motivation",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to give someone a reason to act",
+      "definitionTh": "แรงจูงใจ",
+      "example": "Explain the technical motivation for the change.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "incentive",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "strong motivation"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 9
+    },
+    {
+      "id": 4157,
+      "word": "motive",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the reason or desire driving action",
+      "definitionTh": "เหตุจูงใจ",
+      "example": "The report provides a clear example of “motive”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "reason",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "motive example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 8
+    },
+    {
+      "id": 4158,
+      "word": "moving",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "causing strong emotion",
+      "definitionTh": "ซาบซึ้ง / เคลื่อนไหว",
+      "example": "The report provides a clear example of “moving”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "emotional",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "still",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "moving example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 7
+    },
+    {
+      "id": 4159,
+      "word": "municipal",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "relating to a city government",
+      "definitionTh": "เทศบาล",
+      "example": "The report provides a clear example of “municipal”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "city-related",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "municipal example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 6
+    },
+    {
+      "id": 4160,
+      "word": "mutual",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "shared or felt by two or more people",
+      "definitionTh": "ร่วมกัน",
+      "example": "The agreement provides mutual benefit.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "shared",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "one-sided",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "mutual support"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 5
+    },
+    {
+      "id": 4161,
+      "word": "myth",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a traditional story explaining beliefs",
+      "definitionTh": "ตำนาน",
+      "example": "The report provides a clear example of “myth”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "legend",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "myth example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 4
+    },
+    {
+      "id": 4162,
+      "word": "naked",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "without clothes or covering",
+      "definitionTh": "เปลือย",
+      "example": "The report provides a clear example of “naked”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "uncovered",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "covered",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "naked example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 3
+    },
+    {
+      "id": 4163,
+      "word": "namely",
+      "pos": "adv.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "that is to say",
+      "definitionTh": "กล่าวคือ",
+      "example": "The report provides a clear example of “namely”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "specifically",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "namely example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 2
+    },
+    {
+      "id": 4164,
+      "word": "nasty",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "very unpleasant or offensive",
+      "definitionTh": "น่ารังเกียจ",
+      "example": "The report provides a clear example of “nasty”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "unpleasant",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "pleasant",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "nasty example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 1
+    }
+  ]
+}

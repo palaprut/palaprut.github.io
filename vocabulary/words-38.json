@@ -1,0 +1,3640 @@
+{
+  "version": 2,
+  "source": "Oxford 5000 (American English)",
+  "batch": 38,
+  "level": "B2-C1",
+  "totalWords": 100,
+  "metadata": {
+    "created": "2026-07-14",
+    "language": "en-US",
+    "description": "Batch 38 — additional Oxford 5000 words 701-800; source-aligned from attached PDF"
+  },
+  "words": [
+    {
+      "id": 3665,
+      "word": "execute",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to carry out a plan, instruction, or program",
+      "definitionTh": "ดำเนินการ / ประหาร",
+      "example": "Execute the inspection sequence after the safety check.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "carry out",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "cancel",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "execution"
+        ],
+        "verb": [
+          "execute"
+        ],
+        "adjective": [
+          "executable"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "execute a plan"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 100
+    },
+    {
+      "id": 3666,
+      "word": "execution",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the act of carrying out a plan or instruction",
+      "definitionTh": "การดำเนินการ",
+      "example": "The execution of the trial followed the approved protocol.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "implementation",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "project execution"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 99
+    },
+    {
+      "id": 3667,
+      "word": "exert",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to use physical or mental effort or influence",
+      "definitionTh": "ออกแรง / ใช้",
+      "example": "The clamp exerts force on the bracket.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "apply",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "exert pressure"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 98
+    },
+    {
+      "id": 3668,
+      "word": "exile",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the state of being forced to live away from home",
+      "definitionTh": "การเนรเทศ",
+      "example": "The report provides a clear example of “exile”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "banishment",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "exile example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 97
+    },
+    {
+      "id": 3669,
+      "word": "exotic",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "unusual and interesting because it is from a distant place",
+      "definitionTh": "แปลกใหม่",
+      "example": "The report provides a clear example of “exotic”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "unusual",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "ordinary",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "exotic example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 96
+    },
+    {
+      "id": 3670,
+      "word": "expansion",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the process of becoming larger or more extensive",
+      "definitionTh": "การขยายตัว",
+      "example": "The design allows future system expansion.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "growth",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "contraction",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "capacity expansion"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 95
+    },
+    {
+      "id": 3671,
+      "word": "expedition",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "an organized journey for research or exploration",
+      "definitionTh": "การเดินทางสำรวจ",
+      "example": "The report provides a clear example of “expedition”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "journey",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "expedition example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 94
+    },
+    {
+      "id": 3672,
+      "word": "expenditure",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "money spent by a person or organization",
+      "definitionTh": "รายจ่าย",
+      "example": "Track capital expenditure for the project.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "spending",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "capital expenditure"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 93
+    },
+    {
+      "id": 3673,
+      "word": "experimental",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "based on testing new ideas or methods",
+      "definitionTh": "เชิงทดลอง",
+      "example": "The team tested an experimental camera setup.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "trial",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "experimental method"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 92
+    },
+    {
+      "id": 3674,
+      "word": "expertise",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "high-level skill or knowledge in a subject",
+      "definitionTh": "ความเชี่ยวชาญ",
+      "example": "The supplier provides machine-vision expertise.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "specialist knowledge",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "technical expertise"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 91
+    },
+    {
+      "id": 3675,
+      "word": "expire",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to come to the end of a valid period",
+      "definitionTh": "หมดอายุ",
+      "example": "The calibration certificate will expire next month.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "end",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "begin",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "certificate expires"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 90
+    },
+    {
+      "id": 3676,
+      "word": "explicit",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "stated clearly and in detail",
+      "definitionTh": "ชัดเจน",
+      "example": "Use explicit acceptance criteria.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "clear",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "implicit",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "explicit"
+        ],
+        "adverb": [
+          "explicitly"
+        ]
+      },
+      "collocations": [
+        "explicit requirement"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 89
+    },
+    {
+      "id": 3677,
+      "word": "explicitly",
+      "pos": "adv.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "in a clear and direct way",
+      "definitionTh": "อย่างชัดเจน",
+      "example": "The procedure explicitly defines the limit.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "clearly",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "explicitly state"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 88
+    },
+    {
+      "id": 3678,
+      "word": "exploit",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to use something for advantage, sometimes unfairly",
+      "definitionTh": "ใช้ประโยชน์",
+      "example": "The algorithm exploits contrast differences.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "utilize",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "protect",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "exploitation"
+        ],
+        "verb": [
+          "exploit"
+        ],
+        "adjective": [
+          "exploitative"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "exploit data"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 87
+    },
+    {
+      "id": 3679,
+      "word": "exploitation",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the unfair use of people or resources for gain",
+      "definitionTh": "การแสวงประโยชน์",
+      "example": "The report provides a clear example of “exploitation”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "misuse",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "exploitation example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 86
+    },
+    {
+      "id": 3680,
+      "word": "explosive",
+      "pos": "adj., n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "able to explode; a substance that can explode",
+      "definitionTh": "ระเบิดได้ / วัตถุระเบิด",
+      "example": "The report provides a clear example of “explosive”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "detonating",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "explosive example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 85
+    },
+    {
+      "id": 3681,
+      "word": "exposure",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the state of being in contact with something",
+      "definitionTh": "การสัมผัส / การเปิดรับ",
+      "example": "Limit the sensor’s exposure to moisture.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "contact",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "long exposure"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 84
+    },
+    {
+      "id": 3682,
+      "word": "extension",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "an added part or the act of making something longer",
+      "definitionTh": "การขยาย / ต่อเติม",
+      "example": "Install a cable extension if required.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "addition",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "file extension"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 83
+    },
+    {
+      "id": 3683,
+      "word": "extensive",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "covering a large area, amount, or range",
+      "definitionTh": "กว้างขวาง",
+      "example": "The team completed extensive testing.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "wide-ranging",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "limited",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "extensive analysis"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 82
+    },
+    {
+      "id": 3684,
+      "word": "extensively",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "over a large area or in great detail",
+      "definitionTh": "อย่างกว้างขวาง",
+      "example": "The model was extensively validated.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "widely",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "extensively tested"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 81
+    },
+    {
+      "id": 3685,
+      "word": "extract",
+      "pos": "n. B2, v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a concentrated substance; to remove or obtain something",
+      "definitionTh": "สารสกัด / ดึงออก",
+      "example": "Extract the defect records from the database.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "remove",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "extract",
+          "extraction"
+        ],
+        "verb": [
+          "extract"
+        ],
+        "adjective": [
+          "extractable"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "data extract"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 80
+    },
+    {
+      "id": 3686,
+      "word": "extremist",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a person holding extreme political or religious views",
+      "definitionTh": "หัวรุนแรง",
+      "example": "The report provides a clear example of “extremist”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "radical",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "extremist example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 79
+    },
+    {
+      "id": 3687,
+      "word": "fabric",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "cloth or the basic structure of something",
+      "definitionTh": "ผ้า / โครงสร้าง",
+      "example": "Use a clean fabric cover.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "cloth",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "protective fabric"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 78
+    },
+    {
+      "id": 3688,
+      "word": "fabulous",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "extremely good or impressive",
+      "definitionTh": "ยอดเยี่ยม",
+      "example": "The report provides a clear example of “fabulous”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "excellent",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "terrible",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "fabulous example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 77
+    },
+    {
+      "id": 3689,
+      "word": "facilitate",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to make a process easier or more likely",
+      "definitionTh": "อำนวยความสะดวก",
+      "example": "The dashboard facilitates faster decisions.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "enable",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "obstruct",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "facilitation"
+        ],
+        "verb": [
+          "facilitate"
+        ],
+        "adjective": [
+          "facilitative"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "facilitate communication"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 76
+    },
+    {
+      "id": 3690,
+      "word": "faction",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a smaller group within a larger organization",
+      "definitionTh": "ฝ่าย / กลุ่ม",
+      "example": "The report provides a clear example of “faction”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "group",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "faction example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 75
+    },
+    {
+      "id": 3691,
+      "word": "faculty",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a teaching department or an ability",
+      "definitionTh": "คณะ / ความสามารถ",
+      "example": "The report provides a clear example of “faculty”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "department",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "faculty example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 74
+    },
+    {
+      "id": 3692,
+      "word": "fade",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to gradually lose strength, color, or clarity",
+      "definitionTh": "จางลง",
+      "example": "The printed mark may fade over time.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "weaken",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "strengthen",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "fading"
+        ],
+        "verb": [
+          "fade"
+        ],
+        "adjective": [
+          "faded"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "fade gradually"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 73
+    },
+    {
+      "id": 3693,
+      "word": "failed",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "not successful in achieving the intended result",
+      "definitionTh": "ที่ล้มเหลว",
+      "example": "The report provides a clear example of “failed”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "unsuccessful",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "successful",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "failed example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 72
+    },
+    {
+      "id": 3694,
+      "word": "fairness",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "equal and reasonable treatment",
+      "definitionTh": "ความยุติธรรม",
+      "example": "Use consistent scoring to ensure fairness.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "justice",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unfairness",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "procedural fairness"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 71
+    },
+    {
+      "id": 3695,
+      "word": "fake",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "not genuine; made to appear real",
+      "definitionTh": "ปลอม",
+      "example": "Reject any fake calibration certificate.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "false",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "genuine",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "fake document"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 70
+    },
+    {
+      "id": 3696,
+      "word": "fame",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the state of being widely known",
+      "definitionTh": "ชื่อเสียง",
+      "example": "The report provides a clear example of “fame”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "renown",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "fame"
+        ],
+        "verb": [],
+        "adjective": [
+          "famous"
+        ],
+        "adverb": [
+          "famously"
+        ]
+      },
+      "collocations": [
+        "fame example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 69
+    },
+    {
+      "id": 3697,
+      "word": "fantasy",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "an imagined situation or creative idea",
+      "definitionTh": "จินตนาการ",
+      "example": "The report provides a clear example of “fantasy”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "imagination",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "fantasy example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 68
+    },
+    {
+      "id": 3698,
+      "word": "fare",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the money paid for a journey",
+      "definitionTh": "ค่าโดยสาร",
+      "example": "The report provides a clear example of “fare”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "fee",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "fare example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 67
+    },
+    {
+      "id": 3699,
+      "word": "fatal",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "causing or likely to cause death",
+      "definitionTh": "ถึงตาย",
+      "example": "The risk assessment covers fatal hazards.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "deadly",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "harmless",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "fatal accident"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 66
+    },
+    {
+      "id": 3700,
+      "word": "fate",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the events believed to control a person’s future",
+      "definitionTh": "ชะตากรรม",
+      "example": "The report provides a clear example of “fate”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "destiny",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "fate example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 65
+    },
+    {
+      "id": 3701,
+      "word": "favorable",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "helpful or giving an advantage",
+      "definitionTh": "เอื้ออำนวย",
+      "example": "The test produced favorable results.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "positive",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unfavorable",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "favorable outcome"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 64
+    },
+    {
+      "id": 3702,
+      "word": "feat",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "an impressive achievement requiring skill",
+      "definitionTh": "ความสำเร็จโดดเด่น",
+      "example": "Detecting the tiny defect was a technical feat.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "achievement",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "remarkable feat"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 63
+    },
+    {
+      "id": 3703,
+      "word": "felony",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a serious crime under law",
+      "definitionTh": "อาชญากรรมร้ายแรง",
+      "example": "The report provides a clear example of “felony”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "serious crime",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "felony example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 62
+    },
+    {
+      "id": 3704,
+      "word": "feminist",
+      "pos": "adj., n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "supporting equal rights for women; a person doing so",
+      "definitionTh": "สตรีนิยม / นักสตรีนิยม",
+      "example": "The report provides a clear example of “feminist”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "equality advocate",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "feminist example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 61
+    },
+    {
+      "id": 3705,
+      "word": "fiber",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a thin thread forming material or tissue",
+      "definitionTh": "เส้นใย",
+      "example": "Inspect the fiber for contamination.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "thread",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "optical fiber"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 60
+    },
+    {
+      "id": 3706,
+      "word": "fierce",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "very strong, aggressive, or intense",
+      "definitionTh": "ดุเดือด",
+      "example": "The supplier faces fierce competition.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "intense",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "gentle",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "fierce competition"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 59
+    },
+    {
+      "id": 3707,
+      "word": "filmmaker",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a person who directs or produces films",
+      "definitionTh": "ผู้สร้างภาพยนตร์",
+      "example": "The report provides a clear example of “filmmaker”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "director",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "filmmaker example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 58
+    },
+    {
+      "id": 3708,
+      "word": "filter",
+      "pos": "n., v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a device or process that removes unwanted material",
+      "definitionTh": "ตัวกรอง / กรอง",
+      "example": "The software filters invalid readings.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "screen",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "filter",
+          "filtration"
+        ],
+        "verb": [
+          "filter"
+        ],
+        "adjective": [
+          "filtered"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "digital filter"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 57
+    },
+    {
+      "id": 3709,
+      "word": "fine",
+      "pos": "n., v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "money charged as punishment; to charge such money",
+      "definitionTh": "ค่าปรับ / ปรับ",
+      "example": "The regulator may impose a fine.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "penalty",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "pay a fine"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 56
+    },
+    {
+      "id": 3710,
+      "word": "firearm",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a portable gun",
+      "definitionTh": "อาวุธปืน",
+      "example": "The report provides a clear example of “firearm”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "gun",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "firearm example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 55
+    },
+    {
+      "id": 3711,
+      "word": "firefighter",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a person trained to put out fires",
+      "definitionTh": "นักดับเพลิง",
+      "example": "The report provides a clear example of “firefighter”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "fire responder",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "firefighter example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 54
+    },
+    {
+      "id": 3712,
+      "word": "firework",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "an explosive device producing light and color",
+      "definitionTh": "ดอกไม้ไฟ",
+      "example": "The report provides a clear example of “firework”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "pyrotechnic",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "firework example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 53
+    },
+    {
+      "id": 3713,
+      "word": "firm",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "strong, stable, and unlikely to change",
+      "definitionTh": "มั่นคง",
+      "example": "Tighten the mount until it is firm.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "solid",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "soft",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "firmness"
+        ],
+        "verb": [],
+        "adjective": [
+          "firm"
+        ],
+        "adverb": [
+          "firmly"
+        ]
+      },
+      "collocations": [
+        "firm support"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 52
+    },
+    {
+      "id": 3714,
+      "word": "firmly",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "in a strong or definite way",
+      "definitionTh": "อย่างมั่นคง",
+      "example": "Fix the camera firmly to the frame.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "securely",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "loosely",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "firmly attached"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 51
+    },
+    {
+      "id": 3715,
+      "word": "fiscal",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "relating to government revenue and spending",
+      "definitionTh": "ทางการคลัง",
+      "example": "The project spans two fiscal years.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "financial",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "fiscal year"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 50
+    },
+    {
+      "id": 3716,
+      "word": "fit",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the way something fits or a sudden attack of emotion",
+      "definitionTh": "ความพอดี",
+      "example": "Check the fit between the bracket and sensor.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "suitability",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "proper fit"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 49
+    },
+    {
+      "id": 3717,
+      "word": "flavor",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the particular taste of food or drink",
+      "definitionTh": "รสชาติ",
+      "example": "The report provides a clear example of “flavor”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "taste",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "flavor example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 48
+    },
+    {
+      "id": 3718,
+      "word": "flaw",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a weakness or fault in something",
+      "definitionTh": "ข้อบกพร่อง",
+      "example": "The review found a flaw in the design.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "defect",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "flaw"
+        ],
+        "verb": [
+          "flaw"
+        ],
+        "adjective": [
+          "flawed"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "design flaw"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 47
+    },
+    {
+      "id": 3719,
+      "word": "flawed",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "containing a weakness or error",
+      "definitionTh": "มีข้อบกพร่อง",
+      "example": "The first scoring method was flawed.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "faulty",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "perfect",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "flawed assumption"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 46
+    },
+    {
+      "id": 3720,
+      "word": "flee",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to escape from danger or an unwanted situation",
+      "definitionTh": "หลบหนี",
+      "example": "The report provides a clear example of “flee”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "escape",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "remain",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "flee example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 45
+    },
+    {
+      "id": 3721,
+      "word": "fleet",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a group of ships, vehicles, or aircraft",
+      "definitionTh": "กองยาน",
+      "example": "The report provides a clear example of “fleet”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "vehicle group",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "fleet example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 44
+    },
+    {
+      "id": 3722,
+      "word": "flesh",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the soft substance of a human or animal body",
+      "definitionTh": "เนื้อหนัง",
+      "example": "The report provides a clear example of “flesh”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "body tissue",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "flesh example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 43
+    },
+    {
+      "id": 3723,
+      "word": "flexibility",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the ability to bend or adapt easily",
+      "definitionTh": "ความยืดหยุ่น",
+      "example": "Modular wiring improves flexibility.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "adaptability",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "rigidity",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "system flexibility"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 42
+    },
+    {
+      "id": 3724,
+      "word": "flourish",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to grow or develop successfully",
+      "definitionTh": "เจริญรุ่งเรือง",
+      "example": "Innovation can flourish with good data.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "thrive",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "decline",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "flourish"
+        ],
+        "verb": [
+          "flourish"
+        ],
+        "adjective": [
+          "flourishing"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "flourish rapidly"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 41
+    },
+    {
+      "id": 3725,
+      "word": "fluid",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a liquid or gas that can flow",
+      "definitionTh": "ของไหล",
+      "example": "Monitor the fluid temperature continuously.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "liquid",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "process fluid"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 40
+    },
+    {
+      "id": 3726,
+      "word": "fond",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "having a warm liking for someone or something",
+      "definitionTh": "ชอบ",
+      "example": "The report provides a clear example of “fond”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "affectionate",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "hostile",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "fond example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 39
+    },
+    {
+      "id": 3727,
+      "word": "fool",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a person who behaves without good judgment",
+      "definitionTh": "คนโง่",
+      "example": "The report provides a clear example of “fool”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "unwise person",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "fool example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 38
+    },
+    {
+      "id": 3728,
+      "word": "footage",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "recorded video material",
+      "definitionTh": "ภาพวิดีโอ",
+      "example": "Review the recorded inspection footage.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "video",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "video footage"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 37
+    },
+    {
+      "id": 3729,
+      "word": "forbid",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to order someone not to do something",
+      "definitionTh": "ห้าม",
+      "example": "The procedure forbids bypassing the interlock.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "prohibit",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "allow",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "strictly forbid"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 36
+    },
+    {
+      "id": 3730,
+      "word": "forecast",
+      "pos": "n., v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a prediction of future conditions; to predict",
+      "definitionTh": "การพยากรณ์ / พยากรณ์",
+      "example": "The model forecasts storage demand.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "prediction",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "forecast",
+          "forecaster"
+        ],
+        "verb": [
+          "forecast"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "demand forecast"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 35
+    },
+    {
+      "id": 3731,
+      "word": "foreigner",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a person who comes from another country",
+      "definitionTh": "ชาวต่างชาติ",
+      "example": "The report provides a clear example of “foreigner”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "outsider",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "foreigner example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 34
+    },
+    {
+      "id": 3732,
+      "word": "forge",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to create a strong relationship or shape metal",
+      "definitionTh": "หลอม / สร้าง",
+      "example": "The teams forged a strong partnership.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "form",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "forge an alliance"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 33
+    },
+    {
+      "id": 3733,
+      "word": "format",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the arrangement or structure of information",
+      "definitionTh": "รูปแบบ",
+      "example": "Save the results in JSON format.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "structure",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "file format"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 32
+    },
+    {
+      "id": 3734,
+      "word": "formation",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the process of forming or being formed",
+      "definitionTh": "การก่อตัว",
+      "example": "The image shows ice formation on the lens.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "creation",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "crystal formation"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 31
+    },
+    {
+      "id": 3735,
+      "word": "formerly",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "in the past; previously",
+      "definitionTh": "เดิม",
+      "example": "The report provides a clear example of “formerly”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "previously",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "formerly example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 30
+    },
+    {
+      "id": 3736,
+      "word": "formula",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a mathematical rule or fixed method",
+      "definitionTh": "สูตร",
+      "example": "Use the formula to calculate capacity.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "equation",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "calculation formula"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 29
+    },
+    {
+      "id": 3737,
+      "word": "formulate",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to develop a plan or express something precisely",
+      "definitionTh": "กำหนดสูตร",
+      "example": "Formulate a data-driven recommendation.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "develop",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "formulate a plan"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 28
+    },
+    {
+      "id": 3738,
+      "word": "forth",
+      "pos": "adv.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "outward or forward from a starting point",
+      "definitionTh": "ออกไป / ต่อไป",
+      "example": "The report provides a clear example of “forth”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "forward",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "forth example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 27
+    },
+    {
+      "id": 3739,
+      "word": "forthcoming",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "planned or expected to happen soon",
+      "definitionTh": "ที่กำลังจะมาถึง",
+      "example": "The forthcoming audit requires preparation.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "upcoming",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "forthcoming meeting"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 26
+    },
+    {
+      "id": 3740,
+      "word": "fortunate",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "having good luck",
+      "definitionTh": "โชคดี",
+      "example": "The report provides a clear example of “fortunate”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "lucky",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unfortunate",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "fortunate example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 25
+    },
+    {
+      "id": 3741,
+      "word": "forum",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a place or meeting for public discussion",
+      "definitionTh": "เวทีสนทนา",
+      "example": "Share the findings in the technical forum.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "platform",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "discussion forum"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 24
+    },
+    {
+      "id": 3742,
+      "word": "fossil",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "preserved remains or traces of ancient life",
+      "definitionTh": "ซากดึกดำบรรพ์",
+      "example": "The report provides a clear example of “fossil”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "ancient remains",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "fossil example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 23
+    },
+    {
+      "id": 3743,
+      "word": "foster",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to encourage the development of something",
+      "definitionTh": "ส่งเสริม",
+      "example": "The project fosters continuous improvement.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "encourage",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "foster collaboration"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 22
+    },
+    {
+      "id": 3744,
+      "word": "foundation",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the supporting base or fundamental principle",
+      "definitionTh": "รากฐาน",
+      "example": "Reliable data is the foundation of the model.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "basis",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "strong foundation"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 21
+    },
+    {
+      "id": 3745,
+      "word": "founder",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a person who establishes an organization",
+      "definitionTh": "ผู้ก่อตั้ง",
+      "example": "The report provides a clear example of “founder”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "creator",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "founder example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 20
+    },
+    {
+      "id": 3746,
+      "word": "fraction",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a small part of a whole or a numerical ratio",
+      "definitionTh": "เศษส่วน",
+      "example": "Only a small fraction of samples failed.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "portion",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "small fraction"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 19
+    },
+    {
+      "id": 3747,
+      "word": "fragile",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "easily broken or damaged",
+      "definitionTh": "เปราะบาง",
+      "example": "Handle the fragile lens carefully.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "delicate",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "robust",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "fragile component"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 18
+    },
+    {
+      "id": 3748,
+      "word": "fragment",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a small broken or separated piece",
+      "definitionTh": "ชิ้นส่วน",
+      "example": "Remove every glass fragment from the area.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "piece",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "small fragment"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 17
+    },
+    {
+      "id": 3749,
+      "word": "framework",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a basic structure supporting a system or idea",
+      "definitionTh": "กรอบงาน",
+      "example": "Use the framework to evaluate each option.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "structure",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "risk framework"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 16
+    },
+    {
+      "id": 3750,
+      "word": "franchise",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a right to operate a business under an established brand",
+      "definitionTh": "แฟรนไชส์",
+      "example": "The company operates under a franchise agreement.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "licensed business",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "franchise agreement"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 15
+    },
+    {
+      "id": 3751,
+      "word": "frankly",
+      "pos": "adv.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "in an honest and direct way",
+      "definitionTh": "พูดตรง ๆ",
+      "example": "The report provides a clear example of “frankly”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "honestly",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "dishonestly",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "frankly example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 14
+    },
+    {
+      "id": 3752,
+      "word": "fraud",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "deliberate deception for financial gain",
+      "definitionTh": "การฉ้อโกง",
+      "example": "The audit checks records for fraud.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "deception",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "financial fraud"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 13
+    },
+    {
+      "id": 3753,
+      "word": "freely",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "without restriction or control",
+      "definitionTh": "อย่างอิสระ",
+      "example": "The report provides a clear example of “freely”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "openly",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "restrictively",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "freely example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 12
+    },
+    {
+      "id": 3754,
+      "word": "frequent",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "happening often",
+      "definitionTh": "บ่อย",
+      "example": "Frequent alarms indicate unstable settings.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "common",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "rare",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "frequent failure"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 11
+    },
+    {
+      "id": 3755,
+      "word": "freshman",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a student in the first year of college",
+      "definitionTh": "นักศึกษาปีหนึ่ง",
+      "example": "The report provides a clear example of “freshman”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "first-year student",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "freshman example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 10
+    },
+    {
+      "id": 3756,
+      "word": "frustrated",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "feeling annoyed because progress is blocked",
+      "definitionTh": "หงุดหงิด",
+      "example": "The operator became frustrated by repeated faults.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "annoyed",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "satisfied",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "feel frustrated"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 9
+    },
+    {
+      "id": 3757,
+      "word": "frustrating",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "causing annoyance because progress is blocked",
+      "definitionTh": "น่าหงุดหงิด",
+      "example": "Intermittent faults are frustrating to diagnose.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "annoying",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "frustrating problem"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 8
+    },
+    {
+      "id": 3758,
+      "word": "frustration",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the feeling of being annoyed by blocked progress",
+      "definitionTh": "ความหงุดหงิด",
+      "example": "Clear guidance reduces operator frustration.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "annoyance",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "express frustration"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 7
+    },
+    {
+      "id": 3759,
+      "word": "fulfill",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to complete a duty, promise, or requirement",
+      "definitionTh": "ทำให้สำเร็จ",
+      "example": "The solution must fulfill all requirements.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "satisfy",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "fulfill a requirement"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 6
+    },
+    {
+      "id": 3760,
+      "word": "full-time",
+      "pos": "adj./adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "working the standard number of hours",
+      "definitionTh": "เต็มเวลา",
+      "example": "A full-time engineer supports the project.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "permanent-hours",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "full-time employee"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 5
+    },
+    {
+      "id": 3761,
+      "word": "functional",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "designed to work correctly for a purpose",
+      "definitionTh": "ใช้งานได้",
+      "example": "Verify that the safety circuit is functional.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "operational",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "broken",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "functional test"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 4
+    },
+    {
+      "id": 3762,
+      "word": "fundamentally",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "at the most basic and important level",
+      "definitionTh": "โดยพื้นฐาน",
+      "example": "The new approach is fundamentally different.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "basically",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "fundamentally change"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 3
+    },
+    {
+      "id": 3763,
+      "word": "fundraising",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the organized collection of money for a cause",
+      "definitionTh": "การระดมทุน",
+      "example": "The team organized a fundraising event.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "money collection",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "fundraising campaign"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 2
+    },
+    {
+      "id": 3764,
+      "word": "funeral",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a ceremony for a person who has died",
+      "definitionTh": "งานศพ",
+      "example": "The report provides a clear example of “funeral”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "burial ceremony",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "funeral example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 1
+    }
+  ]
+}

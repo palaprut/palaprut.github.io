@@ -1,0 +1,3691 @@
+{
+  "version": 2,
+  "source": "Oxford 5000 (American English)",
+  "batch": 39,
+  "level": "B2-C1",
+  "totalWords": 100,
+  "metadata": {
+    "created": "2026-07-14",
+    "language": "en-US",
+    "description": "Batch 39 — additional Oxford 5000 words 801-900; source-aligned from attached PDF"
+  },
+  "words": [
+    {
+      "id": 3765,
+      "word": "furious",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "extremely angry",
+      "definitionTh": "โกรธจัด",
+      "example": "The report provides a clear example of “furious”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "angry",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "calm",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "fury"
+        ],
+        "verb": [],
+        "adjective": [
+          "furious"
+        ],
+        "adverb": [
+          "furiously"
+        ]
+      },
+      "collocations": [
+        "furious example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 100
+    },
+    {
+      "id": 3766,
+      "word": "gallon",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a unit for measuring liquid volume",
+      "definitionTh": "แกลลอน",
+      "example": "The report provides a clear example of “gallon”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "volume unit",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "gallon example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 99
+    },
+    {
+      "id": 3767,
+      "word": "gambling",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the activity of risking money on uncertain results",
+      "definitionTh": "การพนัน",
+      "example": "The report provides a clear example of “gambling”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "betting",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "gambling example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 98
+    },
+    {
+      "id": 3768,
+      "word": "gaming",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the activity of playing electronic games",
+      "definitionTh": "การเล่นเกม",
+      "example": "The report provides a clear example of “gaming”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "electronic play",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "gaming example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 97
+    },
+    {
+      "id": 3769,
+      "word": "gathering",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a meeting or collection of people",
+      "definitionTh": "การรวมตัว",
+      "example": "The report provides a clear example of “gathering”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "meeting",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "gathering"
+        ],
+        "verb": [
+          "gather"
+        ],
+        "adjective": [
+          "gathered"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "gathering example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 96
+    },
+    {
+      "id": 3770,
+      "word": "gay",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "relating to people attracted to the same gender",
+      "definitionTh": "เกย์",
+      "example": "The report provides a clear example of “gay”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "same-gender attracted",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "gay example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 95
+    },
+    {
+      "id": 3771,
+      "word": "gaze",
+      "pos": "n., v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to look steadily at something",
+      "definitionTh": "จ้องมอง",
+      "example": "The report provides a clear example of “gaze”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "stare",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "gaze example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 94
+    },
+    {
+      "id": 3772,
+      "word": "gear",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "equipment or a toothed mechanism controlling speed",
+      "definitionTh": "อุปกรณ์ / เกียร์",
+      "example": "Inspect the drive gear for wear.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "equipment",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "drive gear"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 93
+    },
+    {
+      "id": 3773,
+      "word": "gender",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the social identity of being male, female, or another identity",
+      "definitionTh": "เพศสภาพ",
+      "example": "The report provides a clear example of “gender”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "social identity",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "gender example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 92
+    },
+    {
+      "id": 3774,
+      "word": "gene",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a unit of inherited biological information",
+      "definitionTh": "ยีน",
+      "example": "The report provides a clear example of “gene”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "hereditary unit",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "gene example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 91
+    },
+    {
+      "id": 3775,
+      "word": "generic",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "not specific to a particular brand or type",
+      "definitionTh": "ทั่วไป / ไม่เฉพาะเจาะจง",
+      "example": "Use a generic interface for all cameras.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "general",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "specific",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "generic model"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 90
+    },
+    {
+      "id": 3776,
+      "word": "genetic",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "relating to genes and inherited characteristics",
+      "definitionTh": "ทางพันธุกรรม",
+      "example": "The study examined genetic factors.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "hereditary",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "gene",
+          "genetics"
+        ],
+        "verb": [],
+        "adjective": [
+          "genetic"
+        ],
+        "adverb": [
+          "genetically"
+        ]
+      },
+      "collocations": [
+        "genetic data"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 89
+    },
+    {
+      "id": 3777,
+      "word": "genius",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "exceptional intellectual or creative ability",
+      "definitionTh": "อัจฉริยะ",
+      "example": "The report provides a clear example of “genius”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "brilliance",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "genius example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 88
+    },
+    {
+      "id": 3778,
+      "word": "genocide",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the deliberate destruction of a national or ethnic group",
+      "definitionTh": "การฆ่าล้างเผ่าพันธุ์",
+      "example": "The report provides a clear example of “genocide”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "mass destruction",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "genocide example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 87
+    },
+    {
+      "id": 3779,
+      "word": "genuine",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "real, authentic, and sincere",
+      "definitionTh": "แท้จริง",
+      "example": "Verify that the certificate is genuine.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "authentic",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "fake",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "genuineness"
+        ],
+        "verb": [],
+        "adjective": [
+          "genuine"
+        ],
+        "adverb": [
+          "genuinely"
+        ]
+      },
+      "collocations": [
+        "genuine part"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 86
+    },
+    {
+      "id": 3780,
+      "word": "genuinely",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "in a sincere or real way",
+      "definitionTh": "อย่างแท้จริง",
+      "example": "The report provides a clear example of “genuinely”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "sincerely",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "genuinely example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 85
+    },
+    {
+      "id": 3781,
+      "word": "gesture",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a movement of the body expressing meaning",
+      "definitionTh": "ท่าทาง",
+      "example": "The operator used a hand gesture.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "signal",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "simple gesture"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 84
+    },
+    {
+      "id": 3782,
+      "word": "gig",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a live performance by musicians",
+      "definitionTh": "งานแสดงดนตรี",
+      "example": "The report provides a clear example of “gig”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "performance",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "gig example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 83
+    },
+    {
+      "id": 3783,
+      "word": "glance",
+      "pos": "n., v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to look quickly; a quick look",
+      "definitionTh": "ชำเลือง / มองแวบเดียว",
+      "example": "Glance at the dashboard before start-up.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "quick look",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "at a glance"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 82
+    },
+    {
+      "id": 3784,
+      "word": "glimpse",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a brief incomplete view or understanding",
+      "definitionTh": "ภาพหรือความเข้าใจเพียงแวบเดียว",
+      "example": "The report provides a clear example of “glimpse”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "brief view",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "glimpse example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 81
+    },
+    {
+      "id": 3785,
+      "word": "globalization",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the growing connection of countries and economies",
+      "definitionTh": "โลกาภิวัตน์",
+      "example": "Globalization expanded the supplier network.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "global integration",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "economic globalization"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 80
+    },
+    {
+      "id": 3786,
+      "word": "globe",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a round model of Earth or the world",
+      "definitionTh": "ลูกโลก",
+      "example": "The report provides a clear example of “globe”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "world",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "globe example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 79
+    },
+    {
+      "id": 3787,
+      "word": "glorious",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "deserving great praise or magnificent",
+      "definitionTh": "รุ่งโรจน์",
+      "example": "The report provides a clear example of “glorious”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "magnificent",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "glorious example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 78
+    },
+    {
+      "id": 3788,
+      "word": "glory",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "honor, praise, or impressive success",
+      "definitionTh": "เกียรติยศ",
+      "example": "The report provides a clear example of “glory”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "honor",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "glory"
+        ],
+        "verb": [
+          "glorify"
+        ],
+        "adjective": [
+          "glorious"
+        ],
+        "adverb": [
+          "gloriously"
+        ]
+      },
+      "collocations": [
+        "glory example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 77
+    },
+    {
+      "id": 3789,
+      "word": "golden",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "made of gold or having a bright yellow color",
+      "definitionTh": "สีทอง",
+      "example": "The report provides a clear example of “golden”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "gold-colored",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "golden example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 76
+    },
+    {
+      "id": 3790,
+      "word": "goodness",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the quality of being morally good",
+      "definitionTh": "ความดี",
+      "example": "The report provides a clear example of “goodness”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "virtue",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "goodness"
+        ],
+        "verb": [],
+        "adjective": [
+          "good"
+        ],
+        "adverb": [
+          "well"
+        ]
+      },
+      "collocations": [
+        "goodness example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 75
+    },
+    {
+      "id": 3791,
+      "word": "gorgeous",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "very attractive or beautiful",
+      "definitionTh": "งดงาม",
+      "example": "The report provides a clear example of “gorgeous”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "beautiful",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "gorgeous example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 74
+    },
+    {
+      "id": 3792,
+      "word": "governance",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the systems by which an organization is directed",
+      "definitionTh": "ธรรมาภิบาล",
+      "example": "Data governance defines ownership.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "management",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "governance",
+          "government"
+        ],
+        "verb": [
+          "govern"
+        ],
+        "adjective": [
+          "governing"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "data governance"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 73
+    },
+    {
+      "id": 3793,
+      "word": "grace",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "elegant movement, kindness, or polite style",
+      "definitionTh": "ความสง่างาม",
+      "example": "The report provides a clear example of “grace”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "elegance",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "awkwardness",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "grace"
+        ],
+        "verb": [
+          "grace"
+        ],
+        "adjective": [
+          "graceful"
+        ],
+        "adverb": [
+          "gracefully"
+        ]
+      },
+      "collocations": [
+        "grace example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 72
+    },
+    {
+      "id": 3794,
+      "word": "graphic",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "relating to visual images or described very clearly",
+      "definitionTh": "เกี่ยวกับภาพ / ชัดเจน",
+      "example": "The report includes a graphic warning.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "visual",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "graphic",
+          "graphics"
+        ],
+        "verb": [],
+        "adjective": [
+          "graphic"
+        ],
+        "adverb": [
+          "graphically"
+        ]
+      },
+      "collocations": [
+        "graphic display"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 71
+    },
+    {
+      "id": 3795,
+      "word": "graphics",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "visual designs or images produced by a computer",
+      "definitionTh": "กราฟิก",
+      "example": "The dashboard graphics are easy to read.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "visuals",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "computer graphics"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 70
+    },
+    {
+      "id": 3796,
+      "word": "grasp",
+      "pos": "v., n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to understand or hold something firmly",
+      "definitionTh": "เข้าใจ / จับ",
+      "example": "The team quickly grasped the root cause.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "understand",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "firm grasp"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 69
+    },
+    {
+      "id": 3797,
+      "word": "grave1",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a place where a dead person is buried",
+      "definitionTh": "หลุมฝังศพ",
+      "example": "The report provides a clear example of “grave1”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "burial place",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "grave1 example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 68
+    },
+    {
+      "id": 3798,
+      "word": "grave2",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "very serious and important",
+      "definitionTh": "ร้ายแรง",
+      "example": "The report provides a clear example of “grave2”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "serious",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "minor",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "grave2 example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 67
+    },
+    {
+      "id": 3799,
+      "word": "gravity",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the force that attracts objects toward Earth",
+      "definitionTh": "แรงโน้มถ่วง",
+      "example": "Gravity moves the product down the chute.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "attraction",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "force of gravity"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 66
+    },
+    {
+      "id": 3800,
+      "word": "greatly",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to a large degree",
+      "definitionTh": "อย่างมาก",
+      "example": "The report provides a clear example of “greatly”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "considerably",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "slightly",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "greatly example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 65
+    },
+    {
+      "id": 3801,
+      "word": "greenhouse",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a glass building for growing plants",
+      "definitionTh": "เรือนกระจก",
+      "example": "The site monitors greenhouse gas emissions.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "glasshouse",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "greenhouse gas"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 64
+    },
+    {
+      "id": 3802,
+      "word": "grid",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a network of horizontal and vertical lines",
+      "definitionTh": "ตาราง / โครงข่าย",
+      "example": "Align the camera using the calibration grid.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "network",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "grid layout"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 63
+    },
+    {
+      "id": 3803,
+      "word": "grief",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "deep sadness caused by loss",
+      "definitionTh": "ความเศร้าโศก",
+      "example": "The report provides a clear example of “grief”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "sorrow",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "joy",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "grief"
+        ],
+        "verb": [
+          "grieve"
+        ],
+        "adjective": [
+          "grieving"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "grief example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 62
+    },
+    {
+      "id": 3804,
+      "word": "grin",
+      "pos": "v., n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to smile broadly",
+      "definitionTh": "ยิ้มกว้าง",
+      "example": "The report provides a clear example of “grin”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "smile",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "frown",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "grin"
+        ],
+        "verb": [
+          "grin"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "grin example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 61
+    },
+    {
+      "id": 3805,
+      "word": "grind",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to reduce something to small particles by rubbing",
+      "definitionTh": "บด",
+      "example": "The report provides a clear example of “grind”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "crush",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "grind example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 60
+    },
+    {
+      "id": 3806,
+      "word": "grip",
+      "pos": "n., v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to hold firmly or control something",
+      "definitionTh": "จับยึด",
+      "example": "The report provides a clear example of “grip”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "hold",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "grip example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 59
+    },
+    {
+      "id": 3807,
+      "word": "gross",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "total before deductions or unpleasantly excessive",
+      "definitionTh": "รวมทั้งหมด / หยาบ",
+      "example": "The report provides a clear example of “gross”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "total",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "net",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "gross example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 58
+    },
+    {
+      "id": 3808,
+      "word": "guerrilla",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a fighter in a small independent armed group",
+      "definitionTh": "กองโจร",
+      "example": "The report provides a clear example of “guerrilla”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "irregular fighter",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "guerrilla example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 57
+    },
+    {
+      "id": 3809,
+      "word": "guidance",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "advice that helps someone decide what to do",
+      "definitionTh": "คำแนะนำ",
+      "example": "Follow the installation guidance.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "advice",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "guidance",
+          "guideline"
+        ],
+        "verb": [
+          "guide"
+        ],
+        "adjective": [
+          "guided"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "technical guidance"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 56
+    },
+    {
+      "id": 3810,
+      "word": "guideline",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a recommended rule or instruction",
+      "definitionTh": "แนวทาง",
+      "example": "The guideline defines the audit method.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "recommendation",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "safety guideline"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 55
+    },
+    {
+      "id": 3811,
+      "word": "guilt",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the feeling of having done something wrong",
+      "definitionTh": "ความรู้สึกผิด",
+      "example": "The report provides a clear example of “guilt”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "remorse",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "innocence",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "guilt"
+        ],
+        "verb": [],
+        "adjective": [
+          "guilty"
+        ],
+        "adverb": [
+          "guiltily"
+        ]
+      },
+      "collocations": [
+        "guilt example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 54
+    },
+    {
+      "id": 3812,
+      "word": "gut",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the digestive organs or a strong instinctive feeling",
+      "definitionTh": "ลำไส้ / สัญชาตญาณ",
+      "example": "The report provides a clear example of “gut”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "intestine",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "gut example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 53
+    },
+    {
+      "id": 3813,
+      "word": "habitat",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the natural environment of a plant or animal",
+      "definitionTh": "ถิ่นที่อยู่",
+      "example": "The report provides a clear example of “habitat”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "natural home",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "habitat example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 52
+    },
+    {
+      "id": 3814,
+      "word": "hail",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to call out to someone or praise publicly",
+      "definitionTh": "ยกย่อง / เรียก",
+      "example": "The report provides a clear example of “hail”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "greet",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "hail example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 51
+    },
+    {
+      "id": 3815,
+      "word": "halfway",
+      "pos": "adv.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "at or to the middle point",
+      "definitionTh": "ครึ่งทาง",
+      "example": "The report provides a clear example of “halfway”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "midway",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "completely",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "halfway example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 50
+    },
+    {
+      "id": 3816,
+      "word": "halt",
+      "pos": "v., n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to stop an activity or movement",
+      "definitionTh": "หยุด",
+      "example": "The report provides a clear example of “halt”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "stop",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "continue",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "halt example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 49
+    },
+    {
+      "id": 3817,
+      "word": "handful",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a small number or amount",
+      "definitionTh": "จำนวนเล็กน้อย",
+      "example": "The report provides a clear example of “handful”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "small number",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "handful example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 48
+    },
+    {
+      "id": 3818,
+      "word": "handling",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the way something is controlled or dealt with",
+      "definitionTh": "การจัดการ",
+      "example": "Improve product handling at transfer points.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "management",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "material handling"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 47
+    },
+    {
+      "id": 3819,
+      "word": "handy",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "convenient and easy to use",
+      "definitionTh": "สะดวกใช้",
+      "example": "Keep a handy checklist near the panel.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "convenient",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "inconvenient",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "handy tool"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 46
+    },
+    {
+      "id": 3820,
+      "word": "harassment",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "repeated unwanted behavior that causes distress",
+      "definitionTh": "การคุกคาม",
+      "example": "The policy prohibits workplace harassment.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "mistreatment",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "report harassment"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 45
+    },
+    {
+      "id": 3821,
+      "word": "harbor",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a protected area of water for ships",
+      "definitionTh": "ท่าเรือ",
+      "example": "The report provides a clear example of “harbor”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "port",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "harbor example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 44
+    },
+    {
+      "id": 3822,
+      "word": "hardware",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the physical components of a computer or machine",
+      "definitionTh": "ฮาร์ดแวร์",
+      "example": "Check the camera hardware before testing.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "equipment",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "computer hardware"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 43
+    },
+    {
+      "id": 3823,
+      "word": "harmony",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a peaceful and effective relationship between parts",
+      "definitionTh": "ความสอดคล้อง",
+      "example": "The software and hardware work in harmony.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "agreement",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "conflict",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "work in harmony"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 42
+    },
+    {
+      "id": 3824,
+      "word": "harsh",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "severe, rough, or difficult to tolerate",
+      "definitionTh": "รุนแรง / กระด้าง",
+      "example": "The enclosure protects against harsh conditions.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "severe",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "gentle",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "harsh environment"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 41
+    },
+    {
+      "id": 3825,
+      "word": "harvest",
+      "pos": "n., v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to gather crops; the crops gathered",
+      "definitionTh": "เก็บเกี่ยว / ผลผลิต",
+      "example": "The system records data during harvest.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "gather",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "harvest"
+        ],
+        "verb": [
+          "harvest"
+        ],
+        "adjective": [
+          "harvested"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "harvest season"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 40
+    },
+    {
+      "id": 3826,
+      "word": "hatred",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a strong feeling of dislike",
+      "definitionTh": "ความเกลียดชัง",
+      "example": "The report provides a clear example of “hatred”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "hostility",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "love",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "hatred example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 39
+    },
+    {
+      "id": 3827,
+      "word": "haunt",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to appear repeatedly in thoughts or a place",
+      "definitionTh": "หลอกหลอน",
+      "example": "The report provides a clear example of “haunt”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "trouble",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "haunt example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 38
+    },
+    {
+      "id": 3828,
+      "word": "hazard",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a source of possible harm",
+      "definitionTh": "อันตราย",
+      "example": "Record every identified hazard.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "danger",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "safety",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "safety hazard"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 37
+    },
+    {
+      "id": 3829,
+      "word": "headquarters",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the main offices of an organization",
+      "definitionTh": "สำนักงานใหญ่",
+      "example": "The proposal was reviewed by headquarters.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "main office",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "company headquarters"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 36
+    },
+    {
+      "id": 3830,
+      "word": "heal",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to become healthy or repair damage",
+      "definitionTh": "รักษาให้หาย",
+      "example": "Allow the material to heal after treatment.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "recover",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "injure",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "health"
+        ],
+        "verb": [
+          "heal"
+        ],
+        "adjective": [
+          "healthy"
+        ],
+        "adverb": [
+          "healthily"
+        ]
+      },
+      "collocations": [
+        "heal a wound"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 35
+    },
+    {
+      "id": 3831,
+      "word": "healthcare",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "services for maintaining and treating health",
+      "definitionTh": "การดูแลสุขภาพ",
+      "example": "The sensor is also used in healthcare.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "medical care",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "healthcare system"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 34
+    },
+    {
+      "id": 3832,
+      "word": "heighten",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to increase the degree or intensity",
+      "definitionTh": "เพิ่มความรุนแรง",
+      "example": "High contrast can heighten visibility.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "increase",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "reduce",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "height"
+        ],
+        "verb": [
+          "heighten"
+        ],
+        "adjective": [
+          "high"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "heighten awareness"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 33
+    },
+    {
+      "id": 3833,
+      "word": "helmet",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "protective head equipment",
+      "definitionTh": "หมวกนิรภัย",
+      "example": "Wear a safety helmet in the area.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "head protection",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "protective helmet"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 32
+    },
+    {
+      "id": 3834,
+      "word": "hence",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "for this reason",
+      "definitionTh": "ดังนั้น",
+      "example": "The report provides a clear example of “hence”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "therefore",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "hence example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 31
+    },
+    {
+      "id": 3835,
+      "word": "herb",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a plant used for flavor or medicine",
+      "definitionTh": "สมุนไพร",
+      "example": "The report provides a clear example of “herb”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "plant",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "herb example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 30
+    },
+    {
+      "id": 3836,
+      "word": "heritage",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "traditions and qualities passed through generations",
+      "definitionTh": "มรดก",
+      "example": "The report provides a clear example of “heritage”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "legacy",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "heritage"
+        ],
+        "verb": [
+          "inherit"
+        ],
+        "adjective": [
+          "inherited"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "heritage example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 29
+    },
+    {
+      "id": 3837,
+      "word": "hidden",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "not easily seen or known",
+      "definitionTh": "ซ่อนอยู่",
+      "example": "The report provides a clear example of “hidden”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "concealed",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "visible",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "hidden example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 28
+    },
+    {
+      "id": 3838,
+      "word": "hierarchy",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a system arranged in levels of authority",
+      "definitionTh": "ลำดับชั้น",
+      "example": "The alarm hierarchy defines priority.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "ranking",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "organizational hierarchy"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 27
+    },
+    {
+      "id": 3839,
+      "word": "high-profile",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "receiving a great deal of public attention",
+      "definitionTh": "มีชื่อเสียงโดดเด่น",
+      "example": "The report provides a clear example of “high-profile”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "prominent",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "high-profile example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 26
+    },
+    {
+      "id": 3840,
+      "word": "hilarious",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "extremely funny",
+      "definitionTh": "ตลกมาก",
+      "example": "The report provides a clear example of “hilarious”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "very funny",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "serious",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "hilarious example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 25
+    },
+    {
+      "id": 3841,
+      "word": "hint",
+      "pos": "n., v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a small piece of indirect advice; to suggest indirectly",
+      "definitionTh": "คำใบ้ / บอกเป็นนัย",
+      "example": "The log gives a hint about the fault.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "clue",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "useful hint"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 24
+    },
+    {
+      "id": 3842,
+      "word": "hip",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the joint connecting the leg to the body",
+      "definitionTh": "สะโพก",
+      "example": "The report provides a clear example of “hip”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "pelvic joint",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "hip example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 23
+    },
+    {
+      "id": 3843,
+      "word": "historian",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a person who studies and writes about history",
+      "definitionTh": "นักประวัติศาสตร์",
+      "example": "The report provides a clear example of “historian”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "history scholar",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "historian example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 22
+    },
+    {
+      "id": 3844,
+      "word": "homeland",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the country or region where one was born",
+      "definitionTh": "บ้านเกิด",
+      "example": "The report provides a clear example of “homeland”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "native country",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "homeland example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 21
+    },
+    {
+      "id": 3845,
+      "word": "homeless",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "without a permanent place to live",
+      "definitionTh": "ไร้ที่อยู่อาศัย",
+      "example": "The report provides a clear example of “homeless”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "without housing",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "housed",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "homeless example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 20
+    },
+    {
+      "id": 3846,
+      "word": "honesty",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the quality of being truthful",
+      "definitionTh": "ความซื่อสัตย์",
+      "example": "The report provides a clear example of “honesty”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "truthfulness",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "dishonesty",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "honesty example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 19
+    },
+    {
+      "id": 3847,
+      "word": "honey",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a sweet substance made by bees",
+      "definitionTh": "น้ำผึ้ง",
+      "example": "The report provides a clear example of “honey”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "bee sweetener",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "honey example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 18
+    },
+    {
+      "id": 3848,
+      "word": "hook",
+      "pos": "n., v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a curved device; to attach with a curved device",
+      "definitionTh": "ตะขอ / เกี่ยว",
+      "example": "The report provides a clear example of “hook”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "catch",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "hook example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 17
+    },
+    {
+      "id": 3849,
+      "word": "hopeful",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "feeling positive about a future result",
+      "definitionTh": "มีความหวัง",
+      "example": "The report provides a clear example of “hopeful”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "optimistic",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "hopeless",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "hopeful example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 16
+    },
+    {
+      "id": 3850,
+      "word": "hopefully",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "used to express hope",
+      "definitionTh": "หวังว่า",
+      "example": "Hopefully, the next trial will pass.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "with hope",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "hopefully improve"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 15
+    },
+    {
+      "id": 3851,
+      "word": "horizon",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the line where Earth and sky seem to meet",
+      "definitionTh": "ขอบฟ้า",
+      "example": "The report provides a clear example of “horizon”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "skyline",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "horizon example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 14
+    },
+    {
+      "id": 3852,
+      "word": "horn",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a hard pointed growth or a device producing sound",
+      "definitionTh": "เขาสัตว์ / แตร",
+      "example": "The report provides a clear example of “horn”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "signal device",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "horn example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 13
+    },
+    {
+      "id": 3853,
+      "word": "hostage",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a person held to force another party to act",
+      "definitionTh": "ตัวประกัน",
+      "example": "The report provides a clear example of “hostage”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "captive",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "hostage example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 12
+    },
+    {
+      "id": 3854,
+      "word": "hostile",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "unfriendly or opposed",
+      "definitionTh": "เป็นศัตรู",
+      "example": "The report provides a clear example of “hostile”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "unfriendly",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "friendly",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "hostility"
+        ],
+        "verb": [],
+        "adjective": [
+          "hostile"
+        ],
+        "adverb": [
+          "hostilely"
+        ]
+      },
+      "collocations": [
+        "hostile example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 11
+    },
+    {
+      "id": 3855,
+      "word": "hostility",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "unfriendly or aggressive behavior",
+      "definitionTh": "ความเป็นศัตรู",
+      "example": "The report provides a clear example of “hostility”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "aggression",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "friendliness",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "hostility example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 10
+    },
+    {
+      "id": 3856,
+      "word": "humanitarian",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "concerned with improving human welfare",
+      "definitionTh": "ด้านมนุษยธรรม",
+      "example": "The report provides a clear example of “humanitarian”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "welfare-focused",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "humanitarian example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 9
+    },
+    {
+      "id": 3857,
+      "word": "humanity",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "all human beings or the quality of kindness",
+      "definitionTh": "มนุษยชาติ",
+      "example": "The report provides a clear example of “humanity”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "humankind",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "humanity example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 8
+    },
+    {
+      "id": 3858,
+      "word": "humble",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "not proud and aware of one’s limitations",
+      "definitionTh": "ถ่อมตน",
+      "example": "The report provides a clear example of “humble”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "modest",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "arrogant",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "humility"
+        ],
+        "verb": [
+          "humble"
+        ],
+        "adjective": [
+          "humble"
+        ],
+        "adverb": [
+          "humbly"
+        ]
+      },
+      "collocations": [
+        "humble example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 7
+    },
+    {
+      "id": 3859,
+      "word": "hunger",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the need or desire for food",
+      "definitionTh": "ความหิว",
+      "example": "The report provides a clear example of “hunger”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "appetite",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "fullness",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "hunger example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 6
+    },
+    {
+      "id": 3860,
+      "word": "hydrogen",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the lightest chemical element",
+      "definitionTh": "ไฮโดรเจน",
+      "example": "The report provides a clear example of “hydrogen”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "chemical element",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "hydrogen example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 5
+    },
+    {
+      "id": 3861,
+      "word": "hypothesis",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a proposed explanation to be tested",
+      "definitionTh": "สมมติฐาน",
+      "example": "Test the hypothesis with production data.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "testable idea",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "hypothesis"
+        ],
+        "verb": [
+          "hypothesize"
+        ],
+        "adjective": [
+          "hypothetical"
+        ],
+        "adverb": [
+          "hypothetically"
+        ]
+      },
+      "collocations": [
+        "working hypothesis"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 4
+    },
+    {
+      "id": 3862,
+      "word": "icon",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a widely recognized symbol or image",
+      "definitionTh": "สัญลักษณ์",
+      "example": "The report provides a clear example of “icon”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "symbol",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "icon example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 3
+    },
+    {
+      "id": 3863,
+      "word": "ID",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "an official identity document",
+      "definitionTh": "บัตรประจำตัว",
+      "example": "The report provides a clear example of “ID”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "identification",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "ID example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 2
+    },
+    {
+      "id": 3864,
+      "word": "identical",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "exactly the same in every detail",
+      "definitionTh": "เหมือนกันทุกประการ",
+      "example": "Use identical settings on both lines.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "same",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "different",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "identical result"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 1
+    }
+  ]
+}

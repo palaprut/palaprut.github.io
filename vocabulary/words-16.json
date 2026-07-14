@@ -1,0 +1,3928 @@
+{
+  "version": 2,
+  "source": "Oxford 3000",
+  "batch": 16,
+  "level": "Mixed",
+  "totalWords": 100,
+  "metadata": {
+    "created": "2026-07-14",
+    "language": "en",
+    "description": "Batch 16 of 50 — Oxford 3000 words 1501-1600; source-aligned sequence"
+  },
+  "words": [
+    {
+      "id": 1501,
+      "word": "learning",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the process of gaining knowledge or skills",
+      "definitionTh": "การเรียนรู้",
+      "example": "Online learning can support employee development.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "education",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "learner",
+          "learning"
+        ],
+        "verb": [
+          "learn"
+        ],
+        "adjective": [
+          "learned"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "continuous learning"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 100
+    },
+    {
+      "id": 1502,
+      "word": "least",
+      "pos": "det./pron., adv.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the smallest amount or degree",
+      "definitionTh": "น้อยที่สุด",
+      "example": "This option has the least risk.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "minimum",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "most",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "little"
+        ],
+        "adverb": [
+          "least"
+        ]
+      },
+      "collocations": [
+        "at least"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 99
+    },
+    {
+      "id": 1503,
+      "word": "leather",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "material made from animal skin",
+      "definitionTh": "หนังสัตว์",
+      "example": "The gloves are made of leather.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "hide",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "leather gloves"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 98
+    },
+    {
+      "id": 1504,
+      "word": "leave",
+      "pos": "v., n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to go away; time officially allowed away from work",
+      "definitionTh": "ออกไป / การลา",
+      "example": "Please leave the room quietly.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "depart",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "arrive",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "leave"
+        ],
+        "verb": [
+          "leave"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "leave work"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 97
+    },
+    {
+      "id": 1505,
+      "word": "lecture",
+      "pos": "n., v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a formal talk for teaching; to give such a talk",
+      "definitionTh": "การบรรยาย / บรรยาย",
+      "example": "She attended a lecture on food safety.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "talk",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "give a lecture"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 96
+    },
+    {
+      "id": 1506,
+      "word": "left",
+      "pos": "adj., adv., n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "on or toward the side opposite right",
+      "definitionTh": "ซ้าย",
+      "example": "Turn left at the next junction.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "left-hand side",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "right",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "turn left"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 95
+    },
+    {
+      "id": 1507,
+      "word": "leg",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a body part used for standing and walking",
+      "definitionTh": "ขา",
+      "example": "He injured his leg.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "leg injury"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 94
+    },
+    {
+      "id": 1508,
+      "word": "legal",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "allowed by law or connected with law",
+      "definitionTh": "ถูกกฎหมาย",
+      "example": "The contract requires legal review.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "lawful",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "illegal",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "legality"
+        ],
+        "verb": [],
+        "adjective": [
+          "legal",
+          "illegal"
+        ],
+        "adverb": [
+          "legally"
+        ]
+      },
+      "collocations": [
+        "legal requirement"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 93
+    },
+    {
+      "id": 1509,
+      "word": "leisure",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "time when you are not working",
+      "definitionTh": "เวลาว่าง",
+      "example": "She reads during her leisure time.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "free time",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "leisure time"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 92
+    },
+    {
+      "id": 1510,
+      "word": "lemon",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a yellow citrus fruit with a sour taste",
+      "definitionTh": "มะนาวเหลือง",
+      "example": "Add lemon juice to the drink.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "citrus fruit",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "lemon juice"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 91
+    },
+    {
+      "id": 1511,
+      "word": "lend",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to give something temporarily",
+      "definitionTh": "ให้ยืม",
+      "example": "Can you lend me a pen?",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "loan",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "borrow",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "lend money"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 90
+    },
+    {
+      "id": 1512,
+      "word": "length",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "the measurement from one end to the other",
+      "definitionTh": "ความยาว",
+      "example": "Measure the length of the cable.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "distance",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "length"
+        ],
+        "verb": [
+          "lengthen"
+        ],
+        "adjective": [
+          "long"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "cable length"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 89
+    },
+    {
+      "id": 1513,
+      "word": "less",
+      "pos": "det./pron., adv.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a smaller amount or degree",
+      "definitionTh": "น้อยกว่า",
+      "example": "The new motor uses less energy.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "smaller amount",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "more",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "less than"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 88
+    },
+    {
+      "id": 1514,
+      "word": "lesson",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a period of learning or something learned from experience",
+      "definitionTh": "บทเรียน",
+      "example": "The incident taught us an important lesson.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "class",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "learn a lesson"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 87
+    },
+    {
+      "id": 1515,
+      "word": "let",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to allow something to happen",
+      "definitionTh": "อนุญาต / ปล่อยให้",
+      "example": "Let the machine cool before opening it.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "allow",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "prevent",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "let someone know"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 86
+    },
+    {
+      "id": 1516,
+      "word": "letter",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a written message or a symbol in an alphabet",
+      "definitionTh": "จดหมาย / ตัวอักษร",
+      "example": "She sent a formal letter.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "message",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "formal letter"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 85
+    },
+    {
+      "id": 1517,
+      "word": "level",
+      "pos": "n., adj., v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a height, amount, or position; flat; to make flat",
+      "definitionTh": "ระดับ / ราบ / ปรับให้ราบ",
+      "example": "Check the liquid level.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "height",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "level"
+        ],
+        "verb": [
+          "level"
+        ],
+        "adjective": [
+          "level"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "risk level"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 84
+    },
+    {
+      "id": 1518,
+      "word": "library",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a place or collection containing books and information",
+      "definitionTh": "ห้องสมุด",
+      "example": "The document is available in the library.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "book collection",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "public library"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 83
+    },
+    {
+      "id": 1519,
+      "word": "licence",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "an official document giving permission",
+      "definitionTh": "ใบอนุญาต",
+      "example": "The driver has a valid licence.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "permit",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "driving licence"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 82
+    },
+    {
+      "id": 1520,
+      "word": "lie1",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to be in a flat position or be located somewhere",
+      "definitionTh": "นอน / ตั้งอยู่",
+      "example": "The tool was lying on the table.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "recline",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "lie down"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 81
+    },
+    {
+      "id": 1521,
+      "word": "lie2 (tell a lie)",
+      "pos": "v., n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to say something untrue; an untrue statement",
+      "definitionTh": "โกหก / คำโกหก",
+      "example": "It is wrong to tell a lie.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "deceive",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "tell the truth",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "lie",
+          "liar"
+        ],
+        "verb": [
+          "lie"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "tell a lie"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 80
+    },
+    {
+      "id": 1522,
+      "word": "life",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the period between birth and death or the state of being alive",
+      "definitionTh": "ชีวิต",
+      "example": "Safety protects human life.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "existence",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "death",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "life"
+        ],
+        "verb": [
+          "live"
+        ],
+        "adjective": [
+          "living",
+          "lively"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "working life"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 79
+    },
+    {
+      "id": 1523,
+      "word": "lifestyle",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the way a person lives",
+      "definitionTh": "วิถีชีวิต",
+      "example": "Exercise is part of a healthy lifestyle.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "way of life",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "life",
+          "lifestyle"
+        ],
+        "verb": [
+          "live"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "healthy lifestyle"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 78
+    },
+    {
+      "id": 1524,
+      "word": "lift",
+      "pos": "v., n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to raise something; a machine that carries people between floors",
+      "definitionTh": "ยก / ลิฟต์",
+      "example": "Use the correct method to lift the box.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "raise",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "lift"
+        ],
+        "verb": [
+          "lift"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "lift a box"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 77
+    },
+    {
+      "id": 1525,
+      "word": "light (from the sun/a lamp)",
+      "pos": "n., adj., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "brightness that allows things to be seen; to make something burn or bright",
+      "definitionTh": "แสง / จุดไฟ",
+      "example": "The warning light is red.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "illumination",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "warning light"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 76
+    },
+    {
+      "id": 1526,
+      "word": "light (not heavy)",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "not weighing much",
+      "definitionTh": "เบา",
+      "example": "The plastic part is very light.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "lightweight",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "heavy",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "light weight"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 75
+    },
+    {
+      "id": 1527,
+      "word": "like (similar)",
+      "pos": "prep.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "similar to someone or something",
+      "definitionTh": "เหมือน",
+      "example": "This sensor works like the old one.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "similar to",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "look like"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 74
+    },
+    {
+      "id": 1528,
+      "word": "like (find sb/sth pleasant)",
+      "pos": "v., n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to find someone or something pleasant",
+      "definitionTh": "ชอบ",
+      "example": "I like this design.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "enjoy",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "like doing"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 73
+    },
+    {
+      "id": 1529,
+      "word": "likely",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "expected or probable",
+      "definitionTh": "มีแนวโน้ม",
+      "example": "The delay is likely to continue.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "probable",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unlikely",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "likelihood"
+        ],
+        "verb": [],
+        "adjective": [
+          "likely"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "likely to"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 72
+    },
+    {
+      "id": 1530,
+      "word": "limit",
+      "pos": "n., v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "the greatest allowed amount; to restrict",
+      "definitionTh": "ขีดจำกัด / จำกัด",
+      "example": "Set a safe temperature limit.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "restriction",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "allow",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "limit",
+          "limitation"
+        ],
+        "verb": [
+          "limit"
+        ],
+        "adjective": [
+          "limited"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "set a limit"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 71
+    },
+    {
+      "id": 1531,
+      "word": "limited",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "small in amount or restricted",
+      "definitionTh": "จำกัด",
+      "example": "Storage space is limited.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "restricted",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unlimited",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "limit",
+          "limitation"
+        ],
+        "verb": [
+          "limit"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "limited access"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 70
+    },
+    {
+      "id": 1532,
+      "word": "line",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a long narrow mark, row, or production system; to cover the inside",
+      "definitionTh": "เส้น / แถว / สายการผลิต",
+      "example": "The product moves along the line.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "row",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "line"
+        ],
+        "verb": [
+          "line"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "production line"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 69
+    },
+    {
+      "id": 1533,
+      "word": "link",
+      "pos": "n., v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a connection; to connect things",
+      "definitionTh": "ความเชื่อมโยง / เชื่อม",
+      "example": "The report links temperature to quality.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "connection",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "link"
+        ],
+        "verb": [
+          "link"
+        ],
+        "adjective": "linked",
+        "adverb": []
+      },
+      "collocations": [
+        "direct link"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 68
+    },
+    {
+      "id": 1534,
+      "word": "lion",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a large wild cat",
+      "definitionTh": "สิงโต",
+      "example": "The lion rested under a tree.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "big cat",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "male lion"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 67
+    },
+    {
+      "id": 1535,
+      "word": "lip",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "one of the two soft edges of the mouth",
+      "definitionTh": "ริมฝีปาก",
+      "example": "She cut her lip.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "mouth edge",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "upper lip"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 66
+    },
+    {
+      "id": 1536,
+      "word": "liquid",
+      "pos": "n., adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a substance that flows and is not solid or gas",
+      "definitionTh": "ของเหลว",
+      "example": "The tank contains a clear liquid.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "fluid",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "liquid level"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 65
+    },
+    {
+      "id": 1537,
+      "word": "list",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a series of items; to write items as a series",
+      "definitionTh": "รายการ / ทำรายการ",
+      "example": "Check every item on the list.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "catalogue",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "list"
+        ],
+        "verb": [
+          "list"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "checklist item"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 64
+    },
+    {
+      "id": 1538,
+      "word": "listen",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to pay attention to sound",
+      "definitionTh": "ฟัง",
+      "example": "Listen carefully to the instructions.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "pay attention",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "listener"
+        ],
+        "verb": [
+          "listen"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "listen carefully"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 63
+    },
+    {
+      "id": 1539,
+      "word": "listener",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a person who listens",
+      "definitionTh": "ผู้ฟัง",
+      "example": "The speaker answered a listener’s question.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "audience member",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "listener"
+        ],
+        "verb": [
+          "listen"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "good listener"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 62
+    },
+    {
+      "id": 1540,
+      "word": "literature",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "written works, especially those valued as art",
+      "definitionTh": "วรรณกรรม",
+      "example": "She studies English literature.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "written works",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "English literature"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 61
+    },
+    {
+      "id": 1541,
+      "word": "little",
+      "pos": "adj., det./pron., adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "small in size or amount",
+      "definitionTh": "เล็ก / น้อย",
+      "example": "There is little time left.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "small",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "large",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "a little"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 60
+    },
+    {
+      "id": 1542,
+      "word": "live1",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to be alive or have your home somewhere",
+      "definitionTh": "อาศัย / มีชีวิต",
+      "example": "They live near the factory.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "reside",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "die",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "life",
+          "living"
+        ],
+        "verb": [
+          "live"
+        ],
+        "adjective": [
+          "living",
+          "lively"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "live in"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 59
+    },
+    {
+      "id": 1543,
+      "word": "live2",
+      "pos": "adj., adv.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "happening now or broadcast as it happens",
+      "definitionTh": "สด / ถ่ายทอดสด",
+      "example": "The meeting was streamed live.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "broadcast live",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "recorded",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "live"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "live broadcast"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 58
+    },
+    {
+      "id": 1544,
+      "word": "lively",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "full of energy and activity",
+      "definitionTh": "มีชีวิตชีวา",
+      "example": "The class had a lively discussion.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "energetic",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "dull",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "life"
+        ],
+        "verb": [
+          "live"
+        ],
+        "adjective": [
+          "living"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "lively debate"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 57
+    },
+    {
+      "id": 1545,
+      "word": "living",
+      "pos": "adj., n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "alive; the way someone earns money",
+      "definitionTh": "มีชีวิต / การดำรงชีพ",
+      "example": "All living things need water.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "alive",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "dead",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "life",
+          "living"
+        ],
+        "verb": [
+          "live"
+        ],
+        "adjective": [
+          "lively"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "living conditions"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 56
+    },
+    {
+      "id": 1546,
+      "word": "load",
+      "pos": "n., v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "something carried; to put goods or data into something",
+      "definitionTh": "สิ่งบรรทุก / โหลด",
+      "example": "Load the boxes onto the truck.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "cargo",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unload",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "load"
+        ],
+        "verb": [
+          "load"
+        ],
+        "adjective": [
+          "loaded"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "heavy load"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 55
+    },
+    {
+      "id": 1547,
+      "word": "loan",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "money borrowed and later repaid",
+      "definitionTh": "เงินกู้",
+      "example": "The bank approved the loan.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "credit",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "bank loan"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 54
+    },
+    {
+      "id": 1548,
+      "word": "local",
+      "pos": "adj., n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "relating to a nearby area; a person from that area",
+      "definitionTh": "ท้องถิ่น / คนท้องถิ่น",
+      "example": "We use a local supplier.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "nearby",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "foreign",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "local",
+          "locality"
+        ],
+        "verb": [],
+        "adjective": [
+          "local"
+        ],
+        "adverb": [
+          "locally"
+        ]
+      },
+      "collocations": [
+        "local supplier"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 53
+    },
+    {
+      "id": 1549,
+      "word": "locate",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to find or place something in a position",
+      "definitionTh": "ระบุตำแหน่ง",
+      "example": "We located the source of the leak.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "find",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "location"
+        ],
+        "verb": [
+          "locate"
+        ],
+        "adjective": [
+          "located"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "locate a fault"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 52
+    },
+    {
+      "id": 1550,
+      "word": "located",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "situated in a particular place",
+      "definitionTh": "ตั้งอยู่",
+      "example": "The sensor is located above the conveyor.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "situated",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "location"
+        ],
+        "verb": [
+          "locate"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "located in"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 51
+    },
+    {
+      "id": 1551,
+      "word": "location",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a particular place or position",
+      "definitionTh": "สถานที่ / ตำแหน่ง",
+      "example": "Record the defect location.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "place",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "location"
+        ],
+        "verb": [
+          "locate"
+        ],
+        "adjective": [
+          "located"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "exact location"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 50
+    },
+    {
+      "id": 1552,
+      "word": "lock",
+      "pos": "v., n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to fasten securely; a device used to secure something",
+      "definitionTh": "ล็อก / กุญแจล็อก",
+      "example": "Lock the panel before leaving.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "secure",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unlock",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "lock"
+        ],
+        "verb": [
+          "lock"
+        ],
+        "adjective": [
+          "locked"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "safety lock"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 49
+    },
+    {
+      "id": 1553,
+      "word": "logical",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "based on clear reasoning",
+      "definitionTh": "มีเหตุผล",
+      "example": "The troubleshooting sequence is logical.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "rational",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "illogical",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "logic"
+        ],
+        "verb": [],
+        "adjective": [
+          "logical"
+        ],
+        "adverb": [
+          "logically"
+        ]
+      },
+      "collocations": [
+        "logical sequence"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 48
+    },
+    {
+      "id": 1554,
+      "word": "lonely",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "unhappy because you are alone",
+      "definitionTh": "เหงา",
+      "example": "He felt lonely in the new city.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "isolated",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "accompanied",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "loneliness"
+        ],
+        "verb": [],
+        "adjective": [
+          "lonely"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "feel lonely"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 47
+    },
+    {
+      "id": 1555,
+      "word": "long1",
+      "pos": "adj., adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "measuring a great distance or continuing for much time",
+      "definitionTh": "ยาว / นาน",
+      "example": "The cable is ten metres long.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "lengthy",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "short",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "length"
+        ],
+        "verb": [
+          "lengthen"
+        ],
+        "adjective": [
+          "long"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "long time"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 46
+    },
+    {
+      "id": 1556,
+      "word": "long-term",
+      "pos": "adj., adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "continuing for a long period",
+      "definitionTh": "ระยะยาว",
+      "example": "We need a long-term solution.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "lasting",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "short-term",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "long-term plan"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 45
+    },
+    {
+      "id": 1557,
+      "word": "look",
+      "pos": "v., n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to direct your eyes; an act or appearance",
+      "definitionTh": "มอง / รูปลักษณ์",
+      "example": "Look at the screen carefully.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "see",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "look"
+        ],
+        "verb": [
+          "look"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "look at"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 44
+    },
+    {
+      "id": 1558,
+      "word": "loose",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "not firmly fixed or not tight",
+      "definitionTh": "หลวม",
+      "example": "A loose cable caused the fault.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "not tight",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "tight",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "looseness"
+        ],
+        "verb": [
+          "loosen"
+        ],
+        "adjective": [
+          "loose"
+        ],
+        "adverb": [
+          "loosely"
+        ]
+      },
+      "collocations": [
+        "loose connection"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 43
+    },
+    {
+      "id": 1559,
+      "word": "lord",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a man with a high rank or authority",
+      "definitionTh": "ลอร์ด / ขุนนาง",
+      "example": "The title was given to a lord.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "nobleman",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "Lord title"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 42
+    },
+    {
+      "id": 1560,
+      "word": "lorry",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a large vehicle used to carry goods",
+      "definitionTh": "รถบรรทุก",
+      "example": "The goods arrived by lorry.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "truck",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "delivery lorry"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 41
+    },
+    {
+      "id": 1561,
+      "word": "lose",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to no longer have something or fail to win",
+      "definitionTh": "สูญเสีย / แพ้",
+      "example": "Do not lose the original file.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "misplace",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "find",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "loss"
+        ],
+        "verb": [
+          "lose"
+        ],
+        "adjective": [
+          "lost"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "lose data"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 40
+    },
+    {
+      "id": 1562,
+      "word": "loss",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "the act or result of losing something",
+      "definitionTh": "การสูญเสีย",
+      "example": "The shutdown caused production loss.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "reduction",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "gain",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "loss"
+        ],
+        "verb": [
+          "lose"
+        ],
+        "adjective": [
+          "lost"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "production loss"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 39
+    },
+    {
+      "id": 1563,
+      "word": "lost",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "unable to find your way or no longer possessed",
+      "definitionTh": "หลงทาง / สูญหาย",
+      "example": "The operator found the lost tool.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "missing",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "found",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "loss"
+        ],
+        "verb": [
+          "lose"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "lost property"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 38
+    },
+    {
+      "id": 1564,
+      "word": "lot",
+      "pos": "pron., det., adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a large amount or number",
+      "definitionTh": "จำนวนมาก",
+      "example": "A lot of data was collected.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "many",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "a lot of"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 37
+    },
+    {
+      "id": 1565,
+      "word": "loud",
+      "pos": "adj., adv.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "making a lot of noise",
+      "definitionTh": "ดัง",
+      "example": "The alarm is very loud.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "noisy",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "quiet",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "loudness"
+        ],
+        "verb": [],
+        "adjective": [
+          "loud"
+        ],
+        "adverb": [
+          "loudly"
+        ]
+      },
+      "collocations": [
+        "loud noise"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 36
+    },
+    {
+      "id": 1566,
+      "word": "loudly",
+      "pos": "adv.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "with a lot of noise",
+      "definitionTh": "อย่างดัง",
+      "example": "The machine was vibrating loudly.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "noisily",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "quietly",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "loudness"
+        ],
+        "verb": [],
+        "adjective": [
+          "loud"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "speak loudly"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 35
+    },
+    {
+      "id": 1567,
+      "word": "love",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a strong feeling of affection; to like very much",
+      "definitionTh": "ความรัก / รัก",
+      "example": "She loves learning new skills.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "adore",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "hate",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "love"
+        ],
+        "verb": [
+          "love"
+        ],
+        "adjective": [
+          "lovely"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "love doing"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 34
+    },
+    {
+      "id": 1568,
+      "word": "lovely",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "very pleasant or beautiful",
+      "definitionTh": "น่ารัก / ดีมาก",
+      "example": "It was a lovely day.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "pleasant",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "love"
+        ],
+        "verb": [
+          "love"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "lovely day"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 33
+    },
+    {
+      "id": 1569,
+      "word": "low",
+      "pos": "adj., adv., n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "below the usual level or not high",
+      "definitionTh": "ต่ำ",
+      "example": "The pressure is too low.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "not high",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "high",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "low"
+        ],
+        "verb": [
+          "lower"
+        ],
+        "adjective": [
+          "low"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "low pressure"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 32
+    },
+    {
+      "id": 1570,
+      "word": "lower",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to move or make something lower",
+      "definitionTh": "ลด / ทำให้ต่ำลง",
+      "example": "Lower the temperature slowly.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "reduce",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "raise",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "low"
+        ],
+        "verb": [
+          "lower"
+        ],
+        "adjective": [
+          "low"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "lower costs"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 31
+    },
+    {
+      "id": 1571,
+      "word": "luck",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "success or failure caused by chance",
+      "definitionTh": "โชค",
+      "example": "We had good luck with the weather.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "chance",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "luck"
+        ],
+        "verb": [],
+        "adjective": [
+          "lucky"
+        ],
+        "adverb": [
+          "luckily"
+        ]
+      },
+      "collocations": [
+        "good luck"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 30
+    },
+    {
+      "id": 1572,
+      "word": "lucky",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "having good things happen by chance",
+      "definitionTh": "โชคดี",
+      "example": "We were lucky to find the problem early.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "fortunate",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unlucky",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "luck"
+        ],
+        "verb": [],
+        "adjective": [
+          "lucky"
+        ],
+        "adverb": [
+          "luckily"
+        ]
+      },
+      "collocations": [
+        "feel lucky"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 29
+    },
+    {
+      "id": 1573,
+      "word": "lunch",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a meal eaten in the middle of the day",
+      "definitionTh": "อาหารกลางวัน",
+      "example": "We had lunch at noon.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "midday meal",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "lunch break"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 28
+    },
+    {
+      "id": 1574,
+      "word": "lung",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "one of the organs used for breathing",
+      "definitionTh": "ปอด",
+      "example": "Smoking can damage the lungs.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "breathing organ",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "lung disease"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 27
+    },
+    {
+      "id": 1575,
+      "word": "luxury",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "something expensive and pleasant but not necessary",
+      "definitionTh": "ความหรูหรา",
+      "example": "The hotel offers modern luxury.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "comfort",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "luxury hotel"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 26
+    },
+    {
+      "id": 1576,
+      "word": "machine",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "equipment with moving parts that performs work",
+      "definitionTh": "เครื่องจักร",
+      "example": "The machine stopped automatically.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "equipment",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "machine",
+          "machinery"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "machine guard"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 25
+    },
+    {
+      "id": 1577,
+      "word": "mad",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "very angry or mentally ill",
+      "definitionTh": "โกรธมาก / บ้า",
+      "example": "The delay made him mad.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "angry",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "calm",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "madness"
+        ],
+        "verb": [],
+        "adjective": [
+          "mad"
+        ],
+        "adverb": [
+          "madly"
+        ]
+      },
+      "collocations": [
+        "go mad"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 24
+    },
+    {
+      "id": 1578,
+      "word": "magazine",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a publication containing articles and pictures",
+      "definitionTh": "นิตยสาร",
+      "example": "She read a science magazine.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "periodical",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "trade magazine"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 23
+    },
+    {
+      "id": 1579,
+      "word": "magic",
+      "pos": "n., adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "special power in stories; relating to such power",
+      "definitionTh": "เวทมนตร์ / มหัศจรรย์",
+      "example": "The story is about magic.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "sorcery",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "magic trick"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 22
+    },
+    {
+      "id": 1580,
+      "word": "mail",
+      "pos": "n., v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "letters and parcels; to send them",
+      "definitionTh": "ไปรษณีย์ / ส่งไปรษณีย์",
+      "example": "The document arrived by mail.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "post",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "mail"
+        ],
+        "verb": [
+          "mail"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "send by mail"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 21
+    },
+    {
+      "id": 1581,
+      "word": "main",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "most important or largest",
+      "definitionTh": "หลัก / สำคัญที่สุด",
+      "example": "Safety is the main priority.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "primary",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "minor",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "main"
+        ],
+        "adverb": [
+          "mainly"
+        ]
+      },
+      "collocations": [
+        "main cause"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 20
+    },
+    {
+      "id": 1582,
+      "word": "mainly",
+      "pos": "adv.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "mostly or primarily",
+      "definitionTh": "ส่วนใหญ่",
+      "example": "The defect occurs mainly at start-up.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "mostly",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "main"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "mainly due to"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 19
+    },
+    {
+      "id": 1583,
+      "word": "maintain",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to keep something in good condition or continue it",
+      "definitionTh": "บำรุงรักษา / รักษาไว้",
+      "example": "Maintain the camera regularly.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "preserve",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "neglect",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "maintenance"
+        ],
+        "verb": [
+          "maintain"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "maintain equipment"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 18
+    },
+    {
+      "id": 1584,
+      "word": "major",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "very important or large",
+      "definitionTh": "สำคัญ / ใหญ่",
+      "example": "This is a major improvement.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "important",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "minor",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "majority"
+        ],
+        "verb": [],
+        "adjective": [
+          "major"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "major issue"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 17
+    },
+    {
+      "id": 1585,
+      "word": "majority",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "most of a group",
+      "definitionTh": "ส่วนใหญ่",
+      "example": "The majority agreed with the plan.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "most",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "minority",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "majority"
+        ],
+        "verb": [],
+        "adjective": [
+          "major"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "vast majority"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 16
+    },
+    {
+      "id": 1586,
+      "word": "make",
+      "pos": "v., n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to create, produce, or cause; a product brand",
+      "definitionTh": "ทำ / ผลิต / ยี่ห้อ",
+      "example": "We make ice cream at this factory.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "create",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "maker"
+        ],
+        "verb": [
+          "make"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "make a decision"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 15
+    },
+    {
+      "id": 1587,
+      "word": "male",
+      "pos": "adj., n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "relating to men or boys; a male person or animal",
+      "definitionTh": "เพศชาย / ตัวผู้",
+      "example": "The study included male and female workers.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "masculine",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "female",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "male worker"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 14
+    },
+    {
+      "id": 1588,
+      "word": "mall",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a large building containing many shops",
+      "definitionTh": "ศูนย์การค้า",
+      "example": "They met at the shopping mall.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "shopping centre",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "shopping mall"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 13
+    },
+    {
+      "id": 1589,
+      "word": "man",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an adult male person",
+      "definitionTh": "ผู้ชาย",
+      "example": "The man opened the door.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "adult male",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "young man"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 12
+    },
+    {
+      "id": 1590,
+      "word": "manage",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to control, organize, or succeed in doing something",
+      "definitionTh": "จัดการ / สามารถทำได้",
+      "example": "She manages the production team.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "control",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "management",
+          "manager"
+        ],
+        "verb": [
+          "manage"
+        ],
+        "adjective": [
+          "manageable"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "manage a team"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 11
+    },
+    {
+      "id": 1591,
+      "word": "management",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "the act or people responsible for controlling an organization",
+      "definitionTh": "การจัดการ / ฝ่ายบริหาร",
+      "example": "Management approved the budget.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "administration",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "management",
+          "manager"
+        ],
+        "verb": [
+          "manage"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "risk management"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 10
+    },
+    {
+      "id": 1592,
+      "word": "manager",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a person who controls a team or organization",
+      "definitionTh": "ผู้จัดการ",
+      "example": "The manager reviewed the report.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "supervisor",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "management",
+          "manager"
+        ],
+        "verb": [
+          "manage"
+        ],
+        "adjective": "managerial",
+        "adverb": []
+      },
+      "collocations": [
+        "plant manager"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 9
+    },
+    {
+      "id": 1593,
+      "word": "manner",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a way of doing something",
+      "definitionTh": "วิธีการ / กิริยา",
+      "example": "Handle the product in a careful manner.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "way",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "safe manner"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 8
+    },
+    {
+      "id": 1594,
+      "word": "many",
+      "pos": "det./pron.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a large number of people or things",
+      "definitionTh": "มากมาย",
+      "example": "Many employees attended.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "numerous",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "few",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "many people"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 7
+    },
+    {
+      "id": 1595,
+      "word": "map",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a drawing of an area; to represent or plan positions",
+      "definitionTh": "แผนที่ / ทำแผนผัง",
+      "example": "The map shows all inspection points.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "chart",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "map"
+        ],
+        "verb": [
+          "map"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "process map"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 6
+    },
+    {
+      "id": 1596,
+      "word": "March",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the third month of the year",
+      "definitionTh": "มีนาคม",
+      "example": "The trial started in March.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "in March"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 5
+    },
+    {
+      "id": 1597,
+      "word": "mark",
+      "pos": "v., n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to make or show a sign; a visible sign or score",
+      "definitionTh": "ทำเครื่องหมาย / รอย",
+      "example": "Mark the defective item clearly.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "sign",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "mark"
+        ],
+        "verb": [
+          "mark"
+        ],
+        "adjective": [
+          "marked"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "mark clearly"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 4
+    },
+    {
+      "id": 1598,
+      "word": "market",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a place or system for buying and selling; to promote a product",
+      "definitionTh": "ตลาด / ทำการตลาด",
+      "example": "The company entered a new market.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "marketplace",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "market",
+          "marketing"
+        ],
+        "verb": [
+          "market"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "global market"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 3
+    },
+    {
+      "id": 1599,
+      "word": "marketing",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "activities used to promote and sell products",
+      "definitionTh": "การตลาด",
+      "example": "The marketing team prepared a campaign.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "promotion",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "market"
+        ],
+        "verb": [
+          "market"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "marketing strategy"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 2
+    },
+    {
+      "id": 1600,
+      "word": "marriage",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "the legal or social relationship between married people",
+      "definitionTh": "การแต่งงาน",
+      "example": "Their marriage lasted many years.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "matrimony",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "marriage"
+        ],
+        "verb": [
+          "marry"
+        ],
+        "adjective": [
+          "married"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "happy marriage"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 1
+    }
+  ]
+}

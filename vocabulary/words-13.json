@@ -1,0 +1,4016 @@
+{
+  "version": 2,
+  "source": "Oxford 3000",
+  "batch": 13,
+  "level": "Mixed",
+  "totalWords": 100,
+  "metadata": {
+    "created": "2026-07-14",
+    "language": "en",
+    "description": "Batch 13 of 50 — Oxford 3000 words 1201-1300; source-aligned sequence"
+  },
+  "words": [
+    {
+      "id": 1201,
+      "word": "guide",
+      "pos": "n., v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a person or document that gives directions; to direct someone",
+      "definitionTh": "คู่มือ / ผู้นำทาง",
+      "example": "Use this guide to install the software.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "manual",
+          "level": "A2"
+        },
+        {
+          "word": "direct",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "mislead",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "guide",
+          "guidance"
+        ],
+        "verb": [
+          "guide"
+        ],
+        "adjective": [
+          "guided"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "user guide"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 100
+    },
+    {
+      "id": 1202,
+      "word": "guilty",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "responsible for doing something wrong",
+      "definitionTh": "มีความผิด",
+      "example": "The court found him guilty.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "responsible",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "innocent",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "guilt"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "guiltily"
+        ]
+      },
+      "collocations": [
+        "feel guilty"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 99
+    },
+    {
+      "id": 1203,
+      "word": "guitar",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a musical instrument with strings",
+      "definitionTh": "กีตาร์",
+      "example": "She plays the guitar.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "stringed instrument",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "play the guitar"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 98
+    },
+    {
+      "id": 1204,
+      "word": "gun",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a weapon that fires bullets",
+      "definitionTh": "ปืน",
+      "example": "The police officer carried a gun.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "firearm",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "gun control"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 97
+    },
+    {
+      "id": 1205,
+      "word": "guy",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a man or person",
+      "definitionTh": "ผู้ชาย / คน",
+      "example": "That guy works in our team.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "man",
+          "level": "A2"
+        },
+        {
+          "word": "person",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "nice guy"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 96
+    },
+    {
+      "id": 1206,
+      "word": "gym",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a place where people exercise",
+      "definitionTh": "โรงยิม",
+      "example": "I go to the gym after work.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "fitness centre",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "go to the gym"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 95
+    },
+    {
+      "id": 1207,
+      "word": "habit",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "something you do regularly",
+      "definitionTh": "นิสัย / ความเคยชิน",
+      "example": "Checking the screen became a daily habit.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "routine",
+          "level": "A2"
+        },
+        {
+          "word": "custom",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "habit"
+        ],
+        "verb": [],
+        "adjective": [
+          "habitual"
+        ],
+        "adverb": [
+          "habitually"
+        ]
+      },
+      "collocations": [
+        "daily habit"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 94
+    },
+    {
+      "id": 1208,
+      "word": "hair",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the strands growing on a person's or animal's body",
+      "definitionTh": "ผม / ขน",
+      "example": "She has long hair.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "strands",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "long hair"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 93
+    },
+    {
+      "id": 1209,
+      "word": "half",
+      "pos": "n., det./pron., adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "one of two equal parts",
+      "definitionTh": "ครึ่งหนึ่ง",
+      "example": "Half of the team attended the meeting.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "one-half",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "whole",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "half of"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 92
+    },
+    {
+      "id": 1210,
+      "word": "hall",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a large room or passage inside a building",
+      "definitionTh": "ห้องโถง / ทางเดิน",
+      "example": "The event was held in the main hall.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "lobby",
+          "level": "A2"
+        },
+        {
+          "word": "corridor",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "main hall"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 91
+    },
+    {
+      "id": 1211,
+      "word": "hand",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the body part at the end of the arm; to give something",
+      "definitionTh": "มือ / ส่งให้",
+      "example": "Please hand me the tool.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "give",
+          "level": "A1"
+        },
+        {
+          "word": "palm",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "hand"
+        ],
+        "verb": [
+          "hand"
+        ],
+        "adjective": [
+          "handy"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "by hand"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 90
+    },
+    {
+      "id": 1212,
+      "word": "handle",
+      "pos": "v., n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to deal with something; the part used to hold an object",
+      "definitionTh": "จัดการ / ด้ามจับ",
+      "example": "The operator handled the issue correctly.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "manage",
+          "level": "B2"
+        },
+        {
+          "word": "grip",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "neglect",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "handle",
+          "handler"
+        ],
+        "verb": [
+          "handle"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "handle a problem"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 89
+    },
+    {
+      "id": 1213,
+      "word": "hang",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to attach something at the top so the lower part is free",
+      "definitionTh": "แขวน",
+      "example": "Hang the sign on the wall.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "suspend",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "hanging"
+        ],
+        "verb": [
+          "hang"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "hang on the wall"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 88
+    },
+    {
+      "id": 1214,
+      "word": "happen",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to take place",
+      "definitionTh": "เกิดขึ้น",
+      "example": "The fault happened during production.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "occur",
+          "level": "A1"
+        },
+        {
+          "word": "take place",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "happening"
+        ],
+        "verb": [
+          "happen"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "happen to"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 87
+    },
+    {
+      "id": 1215,
+      "word": "happily",
+      "pos": "adv.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "in a happy way",
+      "definitionTh": "อย่างมีความสุข",
+      "example": "The children played happily.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "joyfully",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "sadly",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "happiness"
+        ],
+        "verb": [],
+        "adjective": [
+          "happy"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "live happily"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 86
+    },
+    {
+      "id": 1216,
+      "word": "happiness",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "the state of being happy",
+      "definitionTh": "ความสุข",
+      "example": "Her success brought great happiness.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "joy",
+          "level": "B1"
+        },
+        {
+          "word": "pleasure",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "sadness",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "happy"
+        ],
+        "adverb": [
+          "happily"
+        ]
+      },
+      "collocations": [
+        "bring happiness"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 85
+    },
+    {
+      "id": 1217,
+      "word": "happy",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "feeling pleased or satisfied",
+      "definitionTh": "มีความสุข",
+      "example": "I am happy with the result.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "pleased",
+          "level": "A1"
+        },
+        {
+          "word": "glad",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "sad",
+          "level": "A1"
+        },
+        {
+          "word": "unhappy",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "happiness"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "happily"
+        ]
+      },
+      "collocations": [
+        "happy with"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 84
+    },
+    {
+      "id": 1218,
+      "word": "hard",
+      "pos": "adj., adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "difficult, firm, or with great effort",
+      "definitionTh": "ยาก / แข็ง / อย่างหนัก",
+      "example": "The team worked hard.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "difficult",
+          "level": "A1"
+        },
+        {
+          "word": "firm",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "easy",
+          "level": "A1"
+        },
+        {
+          "word": "soft",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "hardness"
+        ],
+        "verb": [],
+        "adjective": [
+          "hard"
+        ],
+        "adverb": [
+          "hard",
+          "hardly"
+        ]
+      },
+      "collocations": [
+        "work hard"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 83
+    },
+    {
+      "id": 1219,
+      "word": "hardly",
+      "pos": "adv.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "almost not",
+      "definitionTh": "แทบจะไม่",
+      "example": "I could hardly hear the alarm.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "barely",
+          "level": "B1"
+        },
+        {
+          "word": "scarcely",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "easily",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "hardly ever"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 82
+    },
+    {
+      "id": 1220,
+      "word": "harm",
+      "pos": "n., v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "damage or injury; to cause damage",
+      "definitionTh": "อันตราย / ทำอันตราย",
+      "example": "The chemical can harm the environment.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "damage",
+          "level": "B2"
+        },
+        {
+          "word": "injure",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "protect",
+          "level": "B2"
+        },
+        {
+          "word": "benefit",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "harm"
+        ],
+        "verb": [
+          "harm"
+        ],
+        "adjective": [
+          "harmful",
+          "harmless"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "cause harm"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 81
+    },
+    {
+      "id": 1221,
+      "word": "harmful",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "causing damage or injury",
+      "definitionTh": "เป็นอันตราย",
+      "example": "The gas is harmful to health.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "damaging",
+          "level": "B2"
+        },
+        {
+          "word": "dangerous",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "harmless",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "harm"
+        ],
+        "verb": [
+          "harm"
+        ],
+        "adjective": [
+          "harmless"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "harmful effect"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 80
+    },
+    {
+      "id": 1222,
+      "word": "hat",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a covering worn on the head",
+      "definitionTh": "หมวก",
+      "example": "He wore a safety hat.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "headwear",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "wear a hat"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 79
+    },
+    {
+      "id": 1223,
+      "word": "hate",
+      "pos": "v., n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to dislike someone or something very much",
+      "definitionTh": "เกลียด / ความเกลียด",
+      "example": "I hate wasting materials.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "detest",
+          "level": "A1"
+        },
+        {
+          "word": "dislike",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "love",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "hate"
+        ],
+        "verb": [
+          "hate"
+        ],
+        "adjective": [
+          "hateful"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "hate doing"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 78
+    },
+    {
+      "id": 1224,
+      "word": "have",
+      "pos": "v., auxiliary v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to own, experience, or perform an action",
+      "definitionTh": "มี / ประสบ",
+      "example": "We have enough time.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "possess",
+          "level": "A1"
+        },
+        {
+          "word": "experience",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "lack",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "have a problem"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 77
+    },
+    {
+      "id": 1225,
+      "word": "have to",
+      "pos": "modal v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "used to say that something is necessary",
+      "definitionTh": "ต้อง",
+      "example": "You have to wear safety shoes.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "must",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "need not",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "have to do"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 76
+    },
+    {
+      "id": 1226,
+      "word": "he",
+      "pos": "pron.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "used to refer to a male person",
+      "definitionTh": "เขา",
+      "example": "He works in the laboratory.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "he said"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 75
+    },
+    {
+      "id": 1227,
+      "word": "head",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the top part of the body; to lead or move toward",
+      "definitionTh": "ศีรษะ / มุ่งหน้า",
+      "example": "She heads the engineering team.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "lead",
+          "level": "A1"
+        },
+        {
+          "word": "top",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "head"
+        ],
+        "verb": [
+          "head"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "head office"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 74
+    },
+    {
+      "id": 1228,
+      "word": "headache",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a pain in the head",
+      "definitionTh": "อาการปวดศีรษะ",
+      "example": "The noise gave me a headache.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "head pain",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "severe headache"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 73
+    },
+    {
+      "id": 1229,
+      "word": "headline",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "the title of a news story",
+      "definitionTh": "พาดหัวข่าว",
+      "example": "The announcement made the headlines.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "title",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "news headline"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 72
+    },
+    {
+      "id": 1230,
+      "word": "health",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the condition of the body and mind",
+      "definitionTh": "สุขภาพ",
+      "example": "Exercise is good for your health.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "well-being",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "illness",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "health"
+        ],
+        "verb": [],
+        "adjective": [
+          "healthy"
+        ],
+        "adverb": [
+          "healthily"
+        ]
+      },
+      "collocations": [
+        "public health"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 71
+    },
+    {
+      "id": 1231,
+      "word": "healthy",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "in good physical or mental condition",
+      "definitionTh": "สุขภาพดี",
+      "example": "A healthy diet is important.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "fit",
+          "level": "A1"
+        },
+        {
+          "word": "well",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unhealthy",
+          "level": "A1"
+        },
+        {
+          "word": "ill",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "health"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "healthily"
+        ]
+      },
+      "collocations": [
+        "healthy lifestyle"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 70
+    },
+    {
+      "id": 1232,
+      "word": "hear",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to notice sound with the ears",
+      "definitionTh": "ได้ยิน",
+      "example": "Can you hear the alarm?",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "listen to",
+          "level": "A1"
+        },
+        {
+          "word": "perceive",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "hearing"
+        ],
+        "verb": [
+          "hear"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "hear a noise"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 69
+    },
+    {
+      "id": 1233,
+      "word": "hearing",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the ability to hear or a formal meeting to examine evidence",
+      "definitionTh": "การได้ยิน / การพิจารณาคดี",
+      "example": "Loud noise can damage hearing.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "audition",
+          "level": "B2"
+        },
+        {
+          "word": "ability to hear",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "hearing"
+        ],
+        "verb": [
+          "hear"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "hearing loss"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 68
+    },
+    {
+      "id": 1234,
+      "word": "heart",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the organ that pumps blood",
+      "definitionTh": "หัวใจ",
+      "example": "Exercise keeps the heart healthy.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "cardiac organ",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "heart disease"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 67
+    },
+    {
+      "id": 1235,
+      "word": "heat",
+      "pos": "n., v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "high temperature; to make something hot",
+      "definitionTh": "ความร้อน / ทำให้ร้อน",
+      "example": "Heat the mixture slowly.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "warmth",
+          "level": "A2"
+        },
+        {
+          "word": "warm",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "heat",
+          "heating"
+        ],
+        "verb": [
+          "heat"
+        ],
+        "adjective": [
+          "heated"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "extreme heat"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 66
+    },
+    {
+      "id": 1236,
+      "word": "heating",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a system or process that makes a place warm",
+      "definitionTh": "ระบบทำความร้อน",
+      "example": "The heating system needs maintenance.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "warming system",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "heat"
+        ],
+        "verb": [
+          "heat"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "heating system"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 65
+    },
+    {
+      "id": 1237,
+      "word": "heaven",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a place believed to be where God or good people are after death",
+      "definitionTh": "สวรรค์",
+      "example": "They believed the spirit went to heaven.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "paradise",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "hell",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "go to heaven"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 64
+    },
+    {
+      "id": 1238,
+      "word": "heavily",
+      "pos": "adv.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to a great degree or with a lot of weight",
+      "definitionTh": "อย่างหนัก",
+      "example": "It rained heavily all night.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "strongly",
+          "level": "B1"
+        },
+        {
+          "word": "greatly",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "heavy"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "rain heavily"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 63
+    },
+    {
+      "id": 1239,
+      "word": "heavy",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "weighing a lot",
+      "definitionTh": "หนัก",
+      "example": "This box is too heavy to lift.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "weighty",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "light",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "heaviness"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "heavily"
+        ]
+      },
+      "collocations": [
+        "heavy load"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 62
+    },
+    {
+      "id": 1240,
+      "word": "heel",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the back part of the foot or shoe",
+      "definitionTh": "ส้นเท้า / ส้นรองเท้า",
+      "example": "Her shoe has a broken heel.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "back of the foot",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "high heel"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 61
+    },
+    {
+      "id": 1241,
+      "word": "height",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the distance from the bottom to the top",
+      "definitionTh": "ความสูง",
+      "example": "Measure the height of the tank.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "elevation",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "high"
+        ],
+        "adverb": [
+          "highly"
+        ]
+      },
+      "collocations": [
+        "maximum height"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 60
+    },
+    {
+      "id": 1242,
+      "word": "helicopter",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "an aircraft with rotating blades",
+      "definitionTh": "เฮลิคอปเตอร์",
+      "example": "A helicopter landed nearby.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "rotorcraft",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "helicopter flight"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 59
+    },
+    {
+      "id": 1243,
+      "word": "hell",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a place of punishment after death in some religions",
+      "definitionTh": "นรก",
+      "example": "The story describes a journey through hell.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "underworld",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "heaven",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "go to hell"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 58
+    },
+    {
+      "id": 1244,
+      "word": "hello",
+      "pos": "exclam., n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "used when meeting or greeting someone",
+      "definitionTh": "สวัสดี",
+      "example": "She said hello to the visitor.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "hi",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "say hello"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 57
+    },
+    {
+      "id": 1245,
+      "word": "help",
+      "pos": "v., n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to make something easier; assistance",
+      "definitionTh": "ช่วย / ความช่วยเหลือ",
+      "example": "Can you help me check the sensor?",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "assist",
+          "level": "A1"
+        },
+        {
+          "word": "assistance",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "hinder",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "help",
+          "helper"
+        ],
+        "verb": [
+          "help"
+        ],
+        "adjective": [
+          "helpful",
+          "helpless"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "ask for help"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 56
+    },
+    {
+      "id": 1246,
+      "word": "helpful",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "giving help or useful",
+      "definitionTh": "มีประโยชน์ / ช่วยเหลือ",
+      "example": "The instructions were very helpful.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "useful",
+          "level": "A2"
+        },
+        {
+          "word": "supportive",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unhelpful",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "help"
+        ],
+        "verb": [
+          "help"
+        ],
+        "adjective": [],
+        "adverb": [
+          "helpfully"
+        ]
+      },
+      "collocations": [
+        "helpful information"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 55
+    },
+    {
+      "id": 1247,
+      "word": "her",
+      "pos": "pron., det.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "used to refer to a female person or something belonging to her",
+      "definitionTh": "เธอ / ของเธอ",
+      "example": "I gave her the report.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "her name"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 54
+    },
+    {
+      "id": 1248,
+      "word": "here",
+      "pos": "adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "in or at this place",
+      "definitionTh": "ที่นี่",
+      "example": "Please wait here.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "in this place",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "there",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "come here"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 53
+    },
+    {
+      "id": 1249,
+      "word": "hero",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a person admired for courage or achievements",
+      "definitionTh": "วีรบุรุษ",
+      "example": "The firefighter was treated as a hero.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "champion",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "hero",
+          "heroism"
+        ],
+        "verb": [],
+        "adjective": [
+          "heroic"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "national hero"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 52
+    },
+    {
+      "id": 1250,
+      "word": "hers",
+      "pos": "pron.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "belonging to a female person",
+      "definitionTh": "ของเธอ",
+      "example": "This notebook is hers.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "the book is hers"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 51
+    },
+    {
+      "id": 1251,
+      "word": "herself",
+      "pos": "pron.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "used when a female person is both subject and object",
+      "definitionTh": "ตัวเธอเอง",
+      "example": "She completed the task herself.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "by herself"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 50
+    },
+    {
+      "id": 1252,
+      "word": "hesitate",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to pause before doing something because you are uncertain",
+      "definitionTh": "ลังเล",
+      "example": "Do not hesitate to ask questions.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "pause",
+          "level": "B2"
+        },
+        {
+          "word": "waver",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "hesitation"
+        ],
+        "verb": [],
+        "adjective": [
+          "hesitant"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "hesitate to"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 49
+    },
+    {
+      "id": 1253,
+      "word": "hey",
+      "pos": "exclam.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "used to attract attention or greet someone",
+      "definitionTh": "เฮ้",
+      "example": "Hey, please look at this result.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "hello",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "hey there"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 48
+    },
+    {
+      "id": 1254,
+      "word": "hi",
+      "pos": "exclam.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "used as an informal greeting",
+      "definitionTh": "สวัสดี",
+      "example": "Hi, how are you?",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "hello",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "say hi"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 47
+    },
+    {
+      "id": 1255,
+      "word": "hide",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to put something where it cannot be seen or found",
+      "definitionTh": "ซ่อน",
+      "example": "Do not hide important information.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "conceal",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "reveal",
+          "level": "A2"
+        },
+        {
+          "word": "show",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "hiding"
+        ],
+        "verb": [
+          "hide"
+        ],
+        "adjective": [
+          "hidden"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "hide information"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 46
+    },
+    {
+      "id": 1256,
+      "word": "high",
+      "pos": "adj., adv., n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "far above the ground or greater than usual",
+      "definitionTh": "สูง",
+      "example": "The pressure is too high.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "elevated",
+          "level": "A1"
+        },
+        {
+          "word": "great",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "low",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "height"
+        ],
+        "verb": [],
+        "adjective": [
+          "high"
+        ],
+        "adverb": [
+          "highly"
+        ]
+      },
+      "collocations": [
+        "high pressure"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 45
+    },
+    {
+      "id": 1257,
+      "word": "highlight",
+      "pos": "v., n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to emphasize; the most important part",
+      "definitionTh": "เน้น / จุดเด่น",
+      "example": "The report highlights three risks.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "emphasize",
+          "level": "B1"
+        },
+        {
+          "word": "feature",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "highlight"
+        ],
+        "verb": [
+          "highlight"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "highlight a risk"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 44
+    },
+    {
+      "id": 1258,
+      "word": "highly",
+      "pos": "adv.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "very or to a high degree",
+      "definitionTh": "อย่างมาก",
+      "example": "The system is highly reliable.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "very",
+          "level": "B1"
+        },
+        {
+          "word": "greatly",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "height"
+        ],
+        "verb": [],
+        "adjective": [
+          "high"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "highly effective"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 43
+    },
+    {
+      "id": 1259,
+      "word": "hill",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a raised area of land smaller than a mountain",
+      "definitionTh": "เนินเขา",
+      "example": "The factory is near a hill.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "slope",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "on a hill"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 42
+    },
+    {
+      "id": 1260,
+      "word": "him",
+      "pos": "pron.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "used to refer to a male person as the object",
+      "definitionTh": "เขา",
+      "example": "I sent him the file.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "give him"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 41
+    },
+    {
+      "id": 1261,
+      "word": "himself",
+      "pos": "pron.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "used when a male person is both subject and object",
+      "definitionTh": "ตัวเขาเอง",
+      "example": "He repaired the machine himself.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "by himself"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 40
+    },
+    {
+      "id": 1262,
+      "word": "hire",
+      "pos": "v., n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to employ or pay to use something",
+      "definitionTh": "จ้าง / เช่า",
+      "example": "The company hired a new engineer.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "employ",
+          "level": "B1"
+        },
+        {
+          "word": "rent",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "dismiss",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "hire"
+        ],
+        "verb": [
+          "hire"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "hire staff"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 39
+    },
+    {
+      "id": 1263,
+      "word": "his",
+      "pos": "det., pron.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "belonging to a male person",
+      "definitionTh": "ของเขา",
+      "example": "His report is complete.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "his decision"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 38
+    },
+    {
+      "id": 1264,
+      "word": "historic",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "important in history",
+      "definitionTh": "สำคัญทางประวัติศาสตร์",
+      "example": "They signed a historic agreement.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "important in history",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "history"
+        ],
+        "verb": [],
+        "adjective": [
+          "historical"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "historic event"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 37
+    },
+    {
+      "id": 1265,
+      "word": "historical",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "connected with the past or history",
+      "definitionTh": "เกี่ยวกับประวัติศาสตร์",
+      "example": "The museum contains historical documents.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "related to history",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "history"
+        ],
+        "verb": [],
+        "adjective": [
+          "historic"
+        ],
+        "adverb": [
+          "historically"
+        ]
+      },
+      "collocations": [
+        "historical data"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 36
+    },
+    {
+      "id": 1266,
+      "word": "history",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the study or record of past events",
+      "definitionTh": "ประวัติศาสตร์",
+      "example": "The book explains the history of the company.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "the past",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "history",
+          "historian"
+        ],
+        "verb": [],
+        "adjective": [
+          "historic",
+          "historical"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "company history"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 35
+    },
+    {
+      "id": 1267,
+      "word": "hit",
+      "pos": "v., n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to strike something; an act of striking",
+      "definitionTh": "ตี / การกระแทก",
+      "example": "The box hit the floor.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "strike",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "hit"
+        ],
+        "verb": [
+          "hit"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "hit the target"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 34
+    },
+    {
+      "id": 1268,
+      "word": "hobby",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an activity done for enjoyment in free time",
+      "definitionTh": "งานอดิเรก",
+      "example": "Photography is her hobby.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "pastime",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "popular hobby"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 33
+    },
+    {
+      "id": 1269,
+      "word": "hockey",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a team sport played with sticks and a ball or puck",
+      "definitionTh": "ฮอกกี้",
+      "example": "They play hockey every weekend.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "team sport",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "hockey team"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 32
+    },
+    {
+      "id": 1270,
+      "word": "hold",
+      "pos": "v., n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to carry or keep in the hands; a grip",
+      "definitionTh": "ถือ / การยึด",
+      "example": "Hold the handle firmly.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "grip",
+          "level": "A2"
+        },
+        {
+          "word": "keep",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "hold",
+          "holder"
+        ],
+        "verb": [
+          "hold"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "hold a meeting"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 31
+    },
+    {
+      "id": 1271,
+      "word": "hole",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "an empty space or opening in something",
+      "definitionTh": "รู",
+      "example": "There is a hole in the pipe.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "opening",
+          "level": "A2"
+        },
+        {
+          "word": "gap",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "drill a hole"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 30
+    },
+    {
+      "id": 1272,
+      "word": "holiday",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a time when you do not work or travel for pleasure",
+      "definitionTh": "วันหยุด",
+      "example": "We are planning a short holiday.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "vacation",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "holiday"
+        ],
+        "verb": [
+          "holiday"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "public holiday"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 29
+    },
+    {
+      "id": 1273,
+      "word": "hollow",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "having an empty space inside",
+      "definitionTh": "กลวง",
+      "example": "The tube is hollow.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "empty inside",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "hollow tube"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 28
+    },
+    {
+      "id": 1274,
+      "word": "holy",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "connected with religion or a god",
+      "definitionTh": "ศักดิ์สิทธิ์",
+      "example": "The temple is a holy place.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "sacred",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "holy place"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 27
+    },
+    {
+      "id": 1275,
+      "word": "home",
+      "pos": "n., adv., adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the place where someone lives",
+      "definitionTh": "บ้าน",
+      "example": "I went home after work.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "residence",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "home"
+        ],
+        "verb": [],
+        "adjective": [
+          "homeless"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "go home"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 26
+    },
+    {
+      "id": 1276,
+      "word": "homework",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "work given to students to do at home",
+      "definitionTh": "การบ้าน",
+      "example": "She finished her homework.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "schoolwork",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "do homework"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 25
+    },
+    {
+      "id": 1277,
+      "word": "honest",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "truthful and not likely to cheat",
+      "definitionTh": "ซื่อสัตย์",
+      "example": "Please give an honest answer.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "truthful",
+          "level": "B1"
+        },
+        {
+          "word": "sincere",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "dishonest",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "honesty"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "honestly"
+        ]
+      },
+      "collocations": [
+        "honest answer"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 24
+    },
+    {
+      "id": 1278,
+      "word": "honour",
+      "pos": "n., v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "great respect; to show respect",
+      "definitionTh": "เกียรติ / ให้เกียรติ",
+      "example": "It was an honour to receive the award.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "respect",
+          "level": "B2"
+        },
+        {
+          "word": "distinction",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "honour"
+        ],
+        "verb": [
+          "honour"
+        ],
+        "adjective": [
+          "honourable"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "great honour"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 23
+    },
+    {
+      "id": 1279,
+      "word": "hope",
+      "pos": "v., n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to want something to happen; a feeling of expectation",
+      "definitionTh": "หวัง / ความหวัง",
+      "example": "We hope the test succeeds.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "wish",
+          "level": "A1"
+        },
+        {
+          "word": "expectation",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "despair",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "hope"
+        ],
+        "verb": [
+          "hope"
+        ],
+        "adjective": [
+          "hopeful",
+          "hopeless"
+        ],
+        "adverb": [
+          "hopefully"
+        ]
+      },
+      "collocations": [
+        "hope for"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 22
+    },
+    {
+      "id": 1280,
+      "word": "horrible",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "very unpleasant or bad",
+      "definitionTh": "เลวร้าย / น่ากลัว",
+      "example": "The chemical had a horrible smell.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "terrible",
+          "level": "B1"
+        },
+        {
+          "word": "awful",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "pleasant",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "horror"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "horribly"
+        ]
+      },
+      "collocations": [
+        "horrible smell"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 21
+    },
+    {
+      "id": 1281,
+      "word": "horror",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a strong feeling of fear or shock",
+      "definitionTh": "ความสยองขวัญ",
+      "example": "She watched a horror film.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "terror",
+          "level": "B1"
+        },
+        {
+          "word": "fear",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "delight",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "horror"
+        ],
+        "verb": [],
+        "adjective": [
+          "horrible"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "horror film"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 20
+    },
+    {
+      "id": 1282,
+      "word": "horse",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a large animal used for riding or work",
+      "definitionTh": "ม้า",
+      "example": "The horse ran across the field.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "equine",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "ride a horse"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 19
+    },
+    {
+      "id": 1283,
+      "word": "hospital",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a place where sick or injured people receive treatment",
+      "definitionTh": "โรงพยาบาล",
+      "example": "He was taken to hospital.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "medical centre",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "go to hospital"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 18
+    },
+    {
+      "id": 1284,
+      "word": "host",
+      "pos": "n., v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a person who receives guests; to organize an event",
+      "definitionTh": "เจ้าภาพ / จัดงาน",
+      "example": "The factory hosted a safety workshop.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "organizer",
+          "level": "B1"
+        },
+        {
+          "word": "present",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "host"
+        ],
+        "verb": [
+          "host"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "host an event"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 17
+    },
+    {
+      "id": 1285,
+      "word": "hot",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "having a high temperature",
+      "definitionTh": "ร้อน",
+      "example": "The surface is very hot.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "heated",
+          "level": "A1"
+        },
+        {
+          "word": "warm",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "cold",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "heat"
+        ],
+        "verb": [],
+        "adjective": [
+          "hot"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "very hot"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 16
+    },
+    {
+      "id": 1286,
+      "word": "hotel",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a building where people pay to stay",
+      "definitionTh": "โรงแรม",
+      "example": "We stayed at a hotel near the station.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "lodging",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "hotel room"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 15
+    },
+    {
+      "id": 1287,
+      "word": "hour",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a period of sixty minutes",
+      "definitionTh": "ชั่วโมง",
+      "example": "The meeting lasted one hour.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "sixty minutes",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "per hour"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 14
+    },
+    {
+      "id": 1288,
+      "word": "house",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a building for people to live in; to provide space for",
+      "definitionTh": "บ้าน / จัดเก็บ",
+      "example": "The building houses the control system.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "home",
+          "level": "A1"
+        },
+        {
+          "word": "contain",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "house",
+          "housing",
+          "household"
+        ],
+        "verb": [
+          "house"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "house a system"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 13
+    },
+    {
+      "id": 1289,
+      "word": "household",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "all the people living together in one home",
+      "definitionTh": "ครัวเรือน",
+      "example": "The survey included 500 households.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "family",
+          "level": "B2"
+        },
+        {
+          "word": "home",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "house",
+          "housing"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "household income"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 12
+    },
+    {
+      "id": 1290,
+      "word": "housing",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "homes provided for people",
+      "definitionTh": "ที่อยู่อาศัย",
+      "example": "The city needs more affordable housing.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "accommodation",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "house",
+          "household"
+        ],
+        "verb": [
+          "house"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "affordable housing"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 11
+    },
+    {
+      "id": 1291,
+      "word": "how",
+      "pos": "adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "in what way or to what degree",
+      "definitionTh": "อย่างไร",
+      "example": "How does the sensor work?",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "how to"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 10
+    },
+    {
+      "id": 1292,
+      "word": "however",
+      "pos": "adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "used to introduce a contrast",
+      "definitionTh": "อย่างไรก็ตาม",
+      "example": "The idea is useful; however, it is expensive.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "nevertheless",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "similarly",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "however difficult"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 9
+    },
+    {
+      "id": 1293,
+      "word": "huge",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "extremely large",
+      "definitionTh": "ใหญ่มาก",
+      "example": "The improvement created a huge benefit.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "enormous",
+          "level": "A2"
+        },
+        {
+          "word": "vast",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "tiny",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "hugely"
+        ]
+      },
+      "collocations": [
+        "huge impact"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 8
+    },
+    {
+      "id": 1294,
+      "word": "human",
+      "pos": "adj., n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "relating to people; a person",
+      "definitionTh": "มนุษย์ / เกี่ยวกับมนุษย์",
+      "example": "Human error caused the problem.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "person",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "human",
+          "humanity"
+        ],
+        "verb": [],
+        "adjective": [
+          "human"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "human error"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 7
+    },
+    {
+      "id": 1295,
+      "word": "humorous",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "funny and entertaining",
+      "definitionTh": "ตลกขบขัน",
+      "example": "He gave a humorous speech.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "funny",
+          "level": "B2"
+        },
+        {
+          "word": "amusing",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "serious",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "humour"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "humorously"
+        ]
+      },
+      "collocations": [
+        "humorous story"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 6
+    },
+    {
+      "id": 1296,
+      "word": "humour",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the quality of being funny",
+      "definitionTh": "อารมณ์ขัน",
+      "example": "She has a good sense of humour.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "comedy",
+          "level": "B2"
+        },
+        {
+          "word": "wit",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "humour"
+        ],
+        "verb": [],
+        "adjective": [
+          "humorous"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "sense of humour"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 5
+    },
+    {
+      "id": 1297,
+      "word": "hundred",
+      "pos": "number",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the number 100",
+      "definitionTh": "หนึ่งร้อย",
+      "example": "The line produces one hundred units per hour.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "100",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "one hundred"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 4
+    },
+    {
+      "id": 1298,
+      "word": "hungry",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "wanting or needing food",
+      "definitionTh": "หิว",
+      "example": "I was hungry after the shift.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "needing food",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "full",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "hunger"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "hungrily"
+        ]
+      },
+      "collocations": [
+        "feel hungry"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 3
+    },
+    {
+      "id": 1299,
+      "word": "hunt",
+      "pos": "v., n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to chase animals or search for something",
+      "definitionTh": "ล่า / ค้นหา",
+      "example": "The team hunted for the source of the leak.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "search",
+          "level": "B1"
+        },
+        {
+          "word": "pursue",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "hunt",
+          "hunter",
+          "hunting"
+        ],
+        "verb": [
+          "hunt"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "hunt for"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 2
+    },
+    {
+      "id": 1300,
+      "word": "hunting",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the activity of chasing wild animals or searching for something",
+      "definitionTh": "การล่าสัตว์ / การค้นหา",
+      "example": "Hunting is restricted in this area.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "search",
+          "level": "B2"
+        },
+        {
+          "word": "pursuit",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "hunt",
+          "hunter"
+        ],
+        "verb": [
+          "hunt"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "go hunting"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 1
+    }
+  ]
+}

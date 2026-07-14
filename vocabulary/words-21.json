@@ -1,0 +1,3786 @@
+{
+  "version": 2,
+  "source": "Oxford 3000",
+  "batch": 21,
+  "level": "Mixed",
+  "totalWords": 100,
+  "metadata": {
+    "created": "2026-07-14",
+    "language": "en",
+    "description": "Batch 21 of 50 — Oxford 3000 words 2001-2100; source-aligned sequence"
+  },
+  "words": [
+    {
+      "id": 2001,
+      "word": "potential",
+      "pos": "adj., n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "ability to develop or a possible quality",
+      "definitionTh": "ศักยภาพ / ที่อาจเกิดขึ้น",
+      "example": "The idea has strong potential.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "possibility",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "actual",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "potential"
+        ],
+        "verb": [],
+        "adjective": [
+          "potential"
+        ],
+        "adverb": [
+          "potentially"
+        ]
+      },
+      "collocations": [
+        "great potential"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 100
+    },
+    {
+      "id": 2002,
+      "word": "potentially",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "possibly in the future",
+      "definitionTh": "อาจเป็นไปได้",
+      "example": "The fault could potentially stop the line.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "possibly",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "potentially harmful"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 99
+    },
+    {
+      "id": 2003,
+      "word": "pound",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a unit of weight or British money",
+      "definitionTh": "ปอนด์",
+      "example": "The package weighs one pound.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "British pound"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 98
+    },
+    {
+      "id": 2004,
+      "word": "pour",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to make liquid flow from a container",
+      "definitionTh": "เท",
+      "example": "Pour the mixture into the mould.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "flow",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "pour into"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 97
+    },
+    {
+      "id": 2005,
+      "word": "poverty",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "the state of being very poor",
+      "definitionTh": "ความยากจน",
+      "example": "The program aims to reduce poverty.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "hardship",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "extreme poverty"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 96
+    },
+    {
+      "id": 2006,
+      "word": "powder",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a dry substance of tiny particles",
+      "definitionTh": "ผง",
+      "example": "Mix the powder with water.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "fine powder"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 95
+    },
+    {
+      "id": 2007,
+      "word": "power",
+      "pos": "n., v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "ability, energy, or control; to supply energy",
+      "definitionTh": "พลัง / อำนาจ",
+      "example": "Turn off the power before maintenance.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "strength",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "power"
+        ],
+        "verb": [
+          "power"
+        ],
+        "adjective": [
+          "powerful"
+        ],
+        "adverb": [
+          "powerfully"
+        ]
+      },
+      "collocations": [
+        "electrical power"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 94
+    },
+    {
+      "id": 2008,
+      "word": "powerful",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "having great strength or influence",
+      "definitionTh": "ทรงพลัง",
+      "example": "The motor is powerful enough.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "strong",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "weak",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "power"
+        ],
+        "verb": [
+          "power"
+        ],
+        "adjective": [
+          "powerful"
+        ],
+        "adverb": [
+          "powerfully"
+        ]
+      },
+      "collocations": [
+        "powerful tool"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 93
+    },
+    {
+      "id": 2009,
+      "word": "practical",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "useful and suitable for real situations",
+      "definitionTh": "ใช้ได้จริง",
+      "example": "We need a practical solution.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "useful",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "impractical",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "practice"
+        ],
+        "verb": [
+          "practise"
+        ],
+        "adjective": [
+          "practical"
+        ],
+        "adverb": [
+          "practically"
+        ]
+      },
+      "collocations": [
+        "practical approach"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 92
+    },
+    {
+      "id": 2010,
+      "word": "practice",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "regular activity to improve skill",
+      "definitionTh": "การฝึกฝน",
+      "example": "Regular practice improves skill.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "training",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "practice"
+        ],
+        "verb": [
+          "practise"
+        ],
+        "adjective": [
+          "practical"
+        ],
+        "adverb": [
+          "practically"
+        ]
+      },
+      "collocations": [
+        "best practice"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 91
+    },
+    {
+      "id": 2011,
+      "word": "practise",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to do repeatedly to improve skill",
+      "definitionTh": "ฝึกฝน",
+      "example": "Practise speaking every day.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "rehearse",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "practise regularly"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 90
+    },
+    {
+      "id": 2012,
+      "word": "praise",
+      "pos": "n., v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "approval or admiration; to express it",
+      "definitionTh": "คำชม / ชมเชย",
+      "example": "The manager praised the team.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "commend",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "criticize",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "praise"
+        ],
+        "verb": [
+          "praise"
+        ],
+        "adjective": [
+          "praiseworthy"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "high praise"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 89
+    },
+    {
+      "id": 2013,
+      "word": "pray",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to speak to a god",
+      "definitionTh": "อธิษฐาน",
+      "example": "They pray every morning.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "prayer"
+        ],
+        "verb": [
+          "pray"
+        ],
+        "adjective": [
+          "prayerful"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "pray for"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 88
+    },
+    {
+      "id": 2014,
+      "word": "prayer",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "words spoken to a god",
+      "definitionTh": "คำอธิษฐาน",
+      "example": "She said a short prayer.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "prayer"
+        ],
+        "verb": [
+          "pray"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "say a prayer"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 87
+    },
+    {
+      "id": 2015,
+      "word": "predict",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to say what is likely to happen",
+      "definitionTh": "ทำนาย",
+      "example": "The model predicts defect risk.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "forecast",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "prediction"
+        ],
+        "verb": [
+          "predict"
+        ],
+        "adjective": [
+          "predictable"
+        ],
+        "adverb": [
+          "predictably"
+        ]
+      },
+      "collocations": [
+        "predict accurately"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 86
+    },
+    {
+      "id": 2016,
+      "word": "prediction",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a statement about the future",
+      "definitionTh": "คำทำนาย",
+      "example": "The prediction matched the result.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "forecast",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "prediction"
+        ],
+        "verb": [
+          "predict"
+        ],
+        "adjective": [
+          "predictable"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "accurate prediction"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 85
+    },
+    {
+      "id": 2017,
+      "word": "prefer",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to like one thing more than another",
+      "definitionTh": "ชอบมากกว่า",
+      "example": "I prefer the camera solution.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "favour",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "dislike",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "prefer to"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 84
+    },
+    {
+      "id": 2018,
+      "word": "pregnant",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "carrying a developing baby",
+      "definitionTh": "ตั้งครรภ์",
+      "example": "The hospital supports pregnant patients.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "pregnant woman"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 83
+    },
+    {
+      "id": 2019,
+      "word": "preparation",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "work done to get ready",
+      "definitionTh": "การเตรียม",
+      "example": "Good preparation reduces risk.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "planning",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "preparation"
+        ],
+        "verb": [
+          "prepare"
+        ],
+        "adjective": [
+          "prepared"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "careful preparation"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 82
+    },
+    {
+      "id": 2020,
+      "word": "prepare",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to make ready",
+      "definitionTh": "เตรียม",
+      "example": "Prepare the sample carefully.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "ready",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "preparation"
+        ],
+        "verb": [
+          "prepare"
+        ],
+        "adjective": [
+          "prepared"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "prepare a report"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 81
+    },
+    {
+      "id": 2021,
+      "word": "prepared",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "ready for use or action",
+      "definitionTh": "พร้อม",
+      "example": "The team is prepared for the audit.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "ready",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unprepared",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "preparation"
+        ],
+        "verb": [
+          "prepare"
+        ],
+        "adjective": [
+          "prepared"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "well prepared"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 80
+    },
+    {
+      "id": 2022,
+      "word": "presence",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the fact of being in a place",
+      "definitionTh": "การปรากฏตัว",
+      "example": "Her presence was required.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "attendance",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "absence",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "physical presence"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 79
+    },
+    {
+      "id": 2023,
+      "word": "present",
+      "pos": "adj., n., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "current; a gift; to show or give",
+      "definitionTh": "ปัจจุบัน / นำเสนอ",
+      "example": "Present the findings clearly.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "current",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "past",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "present",
+          "presentation"
+        ],
+        "verb": [
+          "present"
+        ],
+        "adjective": [
+          "present"
+        ],
+        "adverb": [
+          "presently"
+        ]
+      },
+      "collocations": [
+        "present a report"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 78
+    },
+    {
+      "id": 2024,
+      "word": "presentation",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a formal talk showing information",
+      "definitionTh": "การนำเสนอ",
+      "example": "The presentation summarizes the project.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "briefing",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "presentation"
+        ],
+        "verb": [
+          "present"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "give a presentation"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 77
+    },
+    {
+      "id": 2025,
+      "word": "preserve",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to keep something safe or unchanged",
+      "definitionTh": "อนุรักษ์",
+      "example": "The process preserves product quality.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "protect",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "destroy",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "preservation"
+        ],
+        "verb": [
+          "preserve"
+        ],
+        "adjective": [
+          "preserved"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "preserve quality"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 76
+    },
+    {
+      "id": 2026,
+      "word": "president",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the elected head of a republic",
+      "definitionTh": "ประธานาธิบดี",
+      "example": "The president signed the document.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "company president"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 75
+    },
+    {
+      "id": 2027,
+      "word": "press",
+      "pos": "v., n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to push; newspapers and news organizations",
+      "definitionTh": "กด / สื่อมวลชน",
+      "example": "Press the green button.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "push",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "press",
+          "pressure"
+        ],
+        "verb": [
+          "press"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "press a button"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 74
+    },
+    {
+      "id": 2028,
+      "word": "pressure",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "force applied to a surface",
+      "definitionTh": "ความดัน",
+      "example": "Check the system pressure.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "force",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "pressure"
+        ],
+        "verb": [
+          "press"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "high pressure"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 73
+    },
+    {
+      "id": 2029,
+      "word": "pretend",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to behave as if something false were true",
+      "definitionTh": "แสร้งทำ",
+      "example": "Do not pretend the problem is solved.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "act",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "pretend to"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 72
+    },
+    {
+      "id": 2030,
+      "word": "pretty",
+      "pos": "adj., adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "attractive; fairly",
+      "definitionTh": "สวย / ค่อนข้าง",
+      "example": "The result is pretty good.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "attractive",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "ugly",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "pretty good"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 71
+    },
+    {
+      "id": 2031,
+      "word": "prevent",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to stop something from happening",
+      "definitionTh": "ป้องกัน",
+      "example": "The guard prevents injury.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "stop",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "allow",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "prevention"
+        ],
+        "verb": [
+          "prevent"
+        ],
+        "adjective": [
+          "preventive"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "prevent damage"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 70
+    },
+    {
+      "id": 2032,
+      "word": "previous",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "coming before the current one",
+      "definitionTh": "ก่อนหน้า",
+      "example": "Compare this with the previous result.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "earlier",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "next",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "previous version"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 69
+    },
+    {
+      "id": 2033,
+      "word": "previously",
+      "pos": "adv.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "before now",
+      "definitionTh": "ก่อนหน้านี้",
+      "example": "The fault was previously reported.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "earlier",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "previously used"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 68
+    },
+    {
+      "id": 2034,
+      "word": "price",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the amount of money something costs; to set a cost",
+      "definitionTh": "ราคา",
+      "example": "The price includes installation.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "cost",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "price"
+        ],
+        "verb": [
+          "price"
+        ],
+        "adjective": [
+          "priceless"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "market price"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 67
+    },
+    {
+      "id": 2035,
+      "word": "priest",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a religious leader",
+      "definitionTh": "นักบวช",
+      "example": "The priest led the ceremony.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "local priest"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 66
+    },
+    {
+      "id": 2036,
+      "word": "primary",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "main or most important",
+      "definitionTh": "หลัก",
+      "example": "Safety is the primary objective.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "main",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "secondary",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "primary cause"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 65
+    },
+    {
+      "id": 2037,
+      "word": "prime",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "of the highest importance",
+      "definitionTh": "สำคัญที่สุด",
+      "example": "Quality is of prime importance.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "chief",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "prime importance"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 64
+    },
+    {
+      "id": 2038,
+      "word": "prince",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a son of a king or queen",
+      "definitionTh": "เจ้าชาย",
+      "example": "The prince visited the palace.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "crown prince"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 63
+    },
+    {
+      "id": 2039,
+      "word": "princess",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a daughter of a king or queen",
+      "definitionTh": "เจ้าหญิง",
+      "example": "The princess attended the event.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "royal princess"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 62
+    },
+    {
+      "id": 2040,
+      "word": "principle",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a basic rule or belief",
+      "definitionTh": "หลักการ",
+      "example": "The design follows a simple principle.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "rule",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "basic principle"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 61
+    },
+    {
+      "id": 2041,
+      "word": "print",
+      "pos": "v., n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to produce text or images on paper; printed text",
+      "definitionTh": "พิมพ์",
+      "example": "Print the report in colour.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "print",
+          "printer",
+          "printing"
+        ],
+        "verb": [
+          "print"
+        ],
+        "adjective": [
+          "printed"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "print a document"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 60
+    },
+    {
+      "id": 2042,
+      "word": "printer",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a machine that prints",
+      "definitionTh": "เครื่องพิมพ์",
+      "example": "The printer is out of paper.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "print",
+          "printing"
+        ],
+        "verb": [
+          "print"
+        ],
+        "adjective": [
+          "printed"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "laser printer"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 59
+    },
+    {
+      "id": 2043,
+      "word": "printing",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "the process of producing printed material",
+      "definitionTh": "การพิมพ์",
+      "example": "Printing starts automatically.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "print",
+          "printer"
+        ],
+        "verb": [
+          "print"
+        ],
+        "adjective": [
+          "printed"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "digital printing"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 58
+    },
+    {
+      "id": 2044,
+      "word": "priority",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the thing considered most important",
+      "definitionTh": "ลำดับความสำคัญ",
+      "example": "Safety is our top priority.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "importance",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "high priority"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 57
+    },
+    {
+      "id": 2045,
+      "word": "prison",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a building where criminals are kept",
+      "definitionTh": "เรือนจำ",
+      "example": "The offender was sent to prison.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "prison sentence"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 56
+    },
+    {
+      "id": 2046,
+      "word": "prisoner",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a person kept in prison",
+      "definitionTh": "นักโทษ",
+      "example": "The prisoner was released.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "political prisoner"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 55
+    },
+    {
+      "id": 2047,
+      "word": "privacy",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "freedom from unwanted attention or access",
+      "definitionTh": "ความเป็นส่วนตัว",
+      "example": "The system protects user privacy.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "confidentiality",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "data privacy"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 54
+    },
+    {
+      "id": 2048,
+      "word": "private",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "not public or shared",
+      "definitionTh": "ส่วนตัว",
+      "example": "Keep the document private.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "personal",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "public",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "private information"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 53
+    },
+    {
+      "id": 2049,
+      "word": "prize",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "an award for achievement",
+      "definitionTh": "รางวัล",
+      "example": "She won first prize.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "award",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "win a prize"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 52
+    },
+    {
+      "id": 2050,
+      "word": "probably",
+      "pos": "adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "very likely",
+      "definitionTh": "น่าจะ",
+      "example": "The repair will probably work.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "likely",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "probably due to"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 51
+    },
+    {
+      "id": 2051,
+      "word": "problem",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a difficulty needing a solution",
+      "definitionTh": "ปัญหา",
+      "example": "We identified the main problem.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "issue",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "solve a problem"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 50
+    },
+    {
+      "id": 2052,
+      "word": "procedure",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "an official series of steps",
+      "definitionTh": "ขั้นตอน",
+      "example": "Follow the inspection procedure.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "method",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "standard procedure"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 49
+    },
+    {
+      "id": 2053,
+      "word": "process",
+      "pos": "n., v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a series of actions producing a result",
+      "definitionTh": "กระบวนการ",
+      "example": "Monitor the production process.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "procedure",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "manufacturing process"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 48
+    },
+    {
+      "id": 2054,
+      "word": "produce",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to make or create goods",
+      "definitionTh": "ผลิต",
+      "example": "The line produces ice cream.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "make",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "produce",
+          "producer",
+          "product",
+          "production"
+        ],
+        "verb": [
+          "produce"
+        ],
+        "adjective": [
+          "productive"
+        ],
+        "adverb": [
+          "productively"
+        ]
+      },
+      "collocations": [
+        "produce goods"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 47
+    },
+    {
+      "id": 2055,
+      "word": "producer",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a person or company that makes goods",
+      "definitionTh": "ผู้ผลิต",
+      "example": "The company is a major producer.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "manufacturer",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "producer",
+          "product",
+          "production"
+        ],
+        "verb": [
+          "produce"
+        ],
+        "adjective": [
+          "productive"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "food producer"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 46
+    },
+    {
+      "id": 2056,
+      "word": "product",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "something made for sale",
+      "definitionTh": "ผลิตภัณฑ์",
+      "example": "Inspect every product.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "goods",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "product",
+          "production"
+        ],
+        "verb": [
+          "produce"
+        ],
+        "adjective": [
+          "productive"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "finished product"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 45
+    },
+    {
+      "id": 2057,
+      "word": "production",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "the process of making goods",
+      "definitionTh": "การผลิต",
+      "example": "Production resumed at noon.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "manufacturing",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "production",
+          "producer"
+        ],
+        "verb": [
+          "produce"
+        ],
+        "adjective": [
+          "productive"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "production line"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 44
+    },
+    {
+      "id": 2058,
+      "word": "profession",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a paid occupation requiring training",
+      "definitionTh": "วิชาชีพ",
+      "example": "Engineering is a technical profession.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "occupation",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "profession",
+          "professional"
+        ],
+        "verb": [],
+        "adjective": [
+          "professional"
+        ],
+        "adverb": [
+          "professionally"
+        ]
+      },
+      "collocations": [
+        "legal profession"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 43
+    },
+    {
+      "id": 2059,
+      "word": "professional",
+      "pos": "adj., n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "relating to skilled paid work; a skilled worker",
+      "definitionTh": "มืออาชีพ",
+      "example": "Seek professional advice.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "expert",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "profession",
+          "professional"
+        ],
+        "verb": [],
+        "adjective": [
+          "professional"
+        ],
+        "adverb": [
+          "professionally"
+        ]
+      },
+      "collocations": [
+        "professional service"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 42
+    },
+    {
+      "id": 2060,
+      "word": "professor",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a senior university teacher",
+      "definitionTh": "ศาสตราจารย์",
+      "example": "The professor explained the theory.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "university professor"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 41
+    },
+    {
+      "id": 2061,
+      "word": "profile",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a summary of characteristics or information",
+      "definitionTh": "โปรไฟล์",
+      "example": "Update your user profile.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "summary",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "risk profile"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 40
+    },
+    {
+      "id": 2062,
+      "word": "profit",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "money earned after costs",
+      "definitionTh": "กำไร",
+      "example": "The project increased profit.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "gain",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "loss",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "profit"
+        ],
+        "verb": [
+          "profit"
+        ],
+        "adjective": [
+          "profitable"
+        ],
+        "adverb": [
+          "profitably"
+        ]
+      },
+      "collocations": [
+        "make a profit"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 39
+    },
+    {
+      "id": 2063,
+      "word": "program",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a set of coded instructions or planned activities",
+      "definitionTh": "โปรแกรม",
+      "example": "Install the computer program.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "software",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "program"
+        ],
+        "verb": [
+          "program"
+        ],
+        "adjective": [
+          "programmed"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "software program"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 38
+    },
+    {
+      "id": 2064,
+      "word": "programme",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a scheduled broadcast or course",
+      "definitionTh": "รายการ / หลักสูตร",
+      "example": "The training programme starts Monday.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "schedule",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "training programme"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 37
+    },
+    {
+      "id": 2065,
+      "word": "progress",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "movement toward improvement",
+      "definitionTh": "ความก้าวหน้า",
+      "example": "The project is making progress.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "advancement",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "decline",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "progress"
+        ],
+        "verb": [
+          "progress"
+        ],
+        "adjective": [
+          "progressive"
+        ],
+        "adverb": [
+          "progressively"
+        ]
+      },
+      "collocations": [
+        "steady progress"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 36
+    },
+    {
+      "id": 2066,
+      "word": "project",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a planned piece of work",
+      "definitionTh": "โครงการ",
+      "example": "The project reduced defects.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "initiative",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "improvement project"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 35
+    },
+    {
+      "id": 2067,
+      "word": "promise",
+      "pos": "v., n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to say definitely that you will do something",
+      "definitionTh": "สัญญา",
+      "example": "The supplier promised quick delivery.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "commitment",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "promise"
+        ],
+        "verb": [
+          "promise"
+        ],
+        "adjective": [
+          "promising"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "keep a promise"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 34
+    },
+    {
+      "id": 2068,
+      "word": "promote",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to support or help something develop",
+      "definitionTh": "ส่งเสริม",
+      "example": "The campaign promotes safety.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "encourage",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "promotion"
+        ],
+        "verb": [
+          "promote"
+        ],
+        "adjective": [
+          "promotional"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "promote awareness"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 33
+    },
+    {
+      "id": 2069,
+      "word": "pronounce",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to say a word correctly",
+      "definitionTh": "ออกเสียง",
+      "example": "Can you pronounce this word?",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "pronunciation"
+        ],
+        "verb": [
+          "pronounce"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "pronounce correctly"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 32
+    },
+    {
+      "id": 2070,
+      "word": "proof",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "evidence showing truth",
+      "definitionTh": "หลักฐาน",
+      "example": "The test provides proof.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "evidence",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "proof"
+        ],
+        "verb": [
+          "prove"
+        ],
+        "adjective": [
+          "proven"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "clear proof"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 31
+    },
+    {
+      "id": 2071,
+      "word": "proper",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "correct or suitable",
+      "definitionTh": "เหมาะสม",
+      "example": "Use the proper tool.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "correct",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "improper",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "proper"
+        ],
+        "adverb": [
+          "properly"
+        ]
+      },
+      "collocations": [
+        "proper use"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 30
+    },
+    {
+      "id": 2072,
+      "word": "properly",
+      "pos": "adv.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "in a correct or suitable way",
+      "definitionTh": "อย่างเหมาะสม",
+      "example": "Install the sensor properly.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "correctly",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "incorrectly",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "proper"
+        ],
+        "adverb": [
+          "properly"
+        ]
+      },
+      "collocations": [
+        "work properly"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 29
+    },
+    {
+      "id": 2073,
+      "word": "property",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "something owned",
+      "definitionTh": "ทรัพย์สิน",
+      "example": "This building is company property.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "possession",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "private property"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 28
+    },
+    {
+      "id": 2074,
+      "word": "proposal",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a formal plan or suggestion",
+      "definitionTh": "ข้อเสนอ",
+      "example": "Management approved the proposal.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "plan",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "proposal"
+        ],
+        "verb": [
+          "propose"
+        ],
+        "adjective": [
+          "proposed"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "project proposal"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 27
+    },
+    {
+      "id": 2075,
+      "word": "propose",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to formally suggest a plan",
+      "definitionTh": "เสนอ",
+      "example": "We propose a new method.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "suggest",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "proposal"
+        ],
+        "verb": [
+          "propose"
+        ],
+        "adjective": [
+          "proposed"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "propose a solution"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 26
+    },
+    {
+      "id": 2076,
+      "word": "prospect",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a chance of future success",
+      "definitionTh": "โอกาสในอนาคต",
+      "example": "The project offers good prospects.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "possibility",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "future prospect"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 25
+    },
+    {
+      "id": 2077,
+      "word": "protect",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to keep safe from harm",
+      "definitionTh": "ปกป้อง",
+      "example": "The cover protects the sensor.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "guard",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "endanger",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "protection"
+        ],
+        "verb": [
+          "protect"
+        ],
+        "adjective": [
+          "protective"
+        ],
+        "adverb": [
+          "protectively"
+        ]
+      },
+      "collocations": [
+        "protect against"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 24
+    },
+    {
+      "id": 2078,
+      "word": "protection",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the act of keeping safe",
+      "definitionTh": "การป้องกัน",
+      "example": "Wear eye protection.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "defence",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "protection"
+        ],
+        "verb": [
+          "protect"
+        ],
+        "adjective": [
+          "protective"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "safety protection"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 23
+    },
+    {
+      "id": 2079,
+      "word": "protest",
+      "pos": "n., v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "public action showing disagreement",
+      "definitionTh": "ประท้วง",
+      "example": "Workers held a peaceful protest.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "object",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "protest",
+          "protester"
+        ],
+        "verb": [
+          "protest"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "public protest"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 22
+    },
+    {
+      "id": 2080,
+      "word": "proud",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "feeling pleased about achievement",
+      "definitionTh": "ภูมิใจ",
+      "example": "The team is proud of the result.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "pleased",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "ashamed",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "proud of"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 21
+    },
+    {
+      "id": 2081,
+      "word": "prove",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to show that something is true",
+      "definitionTh": "พิสูจน์",
+      "example": "The data proves the concept.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "demonstrate",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "disprove",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "proof"
+        ],
+        "verb": [
+          "prove"
+        ],
+        "adjective": [
+          "proven"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "prove that"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 20
+    },
+    {
+      "id": 2082,
+      "word": "provide",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to supply what is needed",
+      "definitionTh": "จัดหา",
+      "example": "The supplier provides technical support.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "supply",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "provider",
+          "provision"
+        ],
+        "verb": [
+          "provide"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "provide information"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 19
+    },
+    {
+      "id": 2083,
+      "word": "psychologist",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a specialist in human thoughts and behaviour",
+      "definitionTh": "นักจิตวิทยา",
+      "example": "The psychologist conducted the assessment.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "psychologist",
+          "psychology"
+        ],
+        "verb": [],
+        "adjective": [
+          "psychological"
+        ],
+        "adverb": [
+          "psychologically"
+        ]
+      },
+      "collocations": [
+        "clinical psychologist"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 18
+    },
+    {
+      "id": 2084,
+      "word": "psychology",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the scientific study of mind and behaviour",
+      "definitionTh": "จิตวิทยา",
+      "example": "She studies psychology.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "psychology",
+          "psychologist"
+        ],
+        "verb": [],
+        "adjective": [
+          "psychological"
+        ],
+        "adverb": [
+          "psychologically"
+        ]
+      },
+      "collocations": [
+        "social psychology"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 17
+    },
+    {
+      "id": 2085,
+      "word": "pub",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a place serving alcoholic drinks",
+      "definitionTh": "ผับ",
+      "example": "They met at a local pub.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "local pub"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 16
+    },
+    {
+      "id": 2086,
+      "word": "public",
+      "pos": "adj., n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "open or available to everyone",
+      "definitionTh": "สาธารณะ",
+      "example": "The report is available to the public.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "open",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "private",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "public area"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 15
+    },
+    {
+      "id": 2087,
+      "word": "publication",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a printed or published work",
+      "definitionTh": "สิ่งพิมพ์",
+      "example": "The research appeared in a publication.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "printed work",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "publication",
+          "publisher"
+        ],
+        "verb": [
+          "publish"
+        ],
+        "adjective": [
+          "published"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "scientific publication"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 14
+    },
+    {
+      "id": 2088,
+      "word": "publish",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to make information available to the public",
+      "definitionTh": "ตีพิมพ์",
+      "example": "The team will publish the results.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "release",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "publication",
+          "publisher"
+        ],
+        "verb": [
+          "publish"
+        ],
+        "adjective": [
+          "published"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "publish a report"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 13
+    },
+    {
+      "id": 2089,
+      "word": "pull",
+      "pos": "v., n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to move something toward you",
+      "definitionTh": "ดึง",
+      "example": "Pull the handle toward you.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "drag",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "push",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "pull a lever"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 12
+    },
+    {
+      "id": 2090,
+      "word": "punish",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to give a penalty for wrongdoing",
+      "definitionTh": "ลงโทษ",
+      "example": "The law may punish offenders.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "penalize",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "reward",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "punishment"
+        ],
+        "verb": [
+          "punish"
+        ],
+        "adjective": [
+          "punishable"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "punish severely"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 11
+    },
+    {
+      "id": 2091,
+      "word": "punishment",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a penalty for wrongdoing",
+      "definitionTh": "การลงโทษ",
+      "example": "The offence carries a punishment.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "penalty",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "punishment"
+        ],
+        "verb": [
+          "punish"
+        ],
+        "adjective": [
+          "punishable"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "severe punishment"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 10
+    },
+    {
+      "id": 2092,
+      "word": "pupil",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a school student",
+      "definitionTh": "นักเรียน",
+      "example": "Each pupil received a book.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "school pupil"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 9
+    },
+    {
+      "id": 2093,
+      "word": "purchase",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to buy something; an act of buying",
+      "definitionTh": "ซื้อ",
+      "example": "The company purchased a new camera.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "buy",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "purchase"
+        ],
+        "verb": [
+          "purchase"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "purchase equipment"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 8
+    },
+    {
+      "id": 2094,
+      "word": "pure",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "not mixed or contaminated",
+      "definitionTh": "บริสุทธิ์",
+      "example": "Use pure water for the test.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "clean",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "impure",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "purity"
+        ],
+        "verb": [
+          "purify"
+        ],
+        "adjective": [
+          "pure"
+        ],
+        "adverb": [
+          "purely"
+        ]
+      },
+      "collocations": [
+        "pure water"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 7
+    },
+    {
+      "id": 2095,
+      "word": "purple",
+      "pos": "adj., n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a colour made from red and blue",
+      "definitionTh": "สีม่วง",
+      "example": "The label is purple.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "dark purple"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 6
+    },
+    {
+      "id": 2096,
+      "word": "purpose",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the reason for doing something",
+      "definitionTh": "วัตถุประสงค์",
+      "example": "Explain the purpose of the test.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "aim",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "main purpose"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 5
+    },
+    {
+      "id": 2097,
+      "word": "pursue",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to continue trying to achieve or catch",
+      "definitionTh": "ไล่ตาม",
+      "example": "We will pursue the best option.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "follow",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "pursue a goal"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 4
+    },
+    {
+      "id": 2098,
+      "word": "push",
+      "pos": "v., n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to move something away with force",
+      "definitionTh": "ผลัก",
+      "example": "Push the button once.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "press",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "pull",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "push a button"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 3
+    },
+    {
+      "id": 2099,
+      "word": "put",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to place something somewhere",
+      "definitionTh": "วาง",
+      "example": "Put the sample on the table.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "place",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "put in place"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 2
+    },
+    {
+      "id": 2100,
+      "word": "qualification",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a skill, quality, or certificate showing suitability",
+      "definitionTh": "คุณสมบัติ",
+      "example": "The role requires a technical qualification.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "credential",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "qualification"
+        ],
+        "verb": [
+          "qualify"
+        ],
+        "adjective": [
+          "qualified"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "professional qualification"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 1
+    }
+  ]
+}

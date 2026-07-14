@@ -1,0 +1,3698 @@
+{
+  "version": 2,
+  "source": "Oxford 5000 (American English)",
+  "batch": 37,
+  "level": "B2-C1",
+  "totalWords": 100,
+  "metadata": {
+    "created": "2026-07-14",
+    "language": "en-US",
+    "description": "Batch 37 — additional Oxford 5000 words 601-700; source-aligned from attached PDF"
+  },
+  "words": [
+    {
+      "id": 3565,
+      "word": "dual",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "having two parts or functions",
+      "definitionTh": "คู่ / สองส่วน",
+      "example": "The controller has a dual-channel input.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "twofold",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "single",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "dual function"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 100
+    },
+    {
+      "id": 3566,
+      "word": "dub",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to give a film a new soundtrack or name",
+      "definitionTh": "พากย์ / ตั้งฉายา",
+      "example": "The report provides a clear example of “dub”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "name",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "dub example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 99
+    },
+    {
+      "id": 3567,
+      "word": "dull",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "not interesting or not bright",
+      "definitionTh": "น่าเบื่อ / ทึบ",
+      "example": "The report provides a clear example of “dull”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "boring",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "interesting",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "dull example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 98
+    },
+    {
+      "id": 3568,
+      "word": "dumb",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "lacking intelligence or unable to speak",
+      "definitionTh": "โง่ / พูดไม่ได้",
+      "example": "The report provides a clear example of “dumb”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "foolish",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "intelligent",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "dumb example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 97
+    },
+    {
+      "id": 3569,
+      "word": "dump",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to leave or throw something in a place",
+      "definitionTh": "ทิ้ง / กองทิ้ง",
+      "example": "The report provides a clear example of “dump”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "discard",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "retain",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "dump example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 96
+    },
+    {
+      "id": 3570,
+      "word": "duo",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "two people who perform or work together",
+      "definitionTh": "คู่หูสองคน",
+      "example": "The report provides a clear example of “duo”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "pair",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "duo example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 95
+    },
+    {
+      "id": 3571,
+      "word": "duration",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the length of time something continues",
+      "definitionTh": "ระยะเวลา",
+      "example": "Record the test duration.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "length",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "total duration"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 94
+    },
+    {
+      "id": 3572,
+      "word": "dynamic",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "continually changing or full of energy",
+      "definitionTh": "มีพลัง / เปลี่ยนแปลง",
+      "example": "The dashboard uses dynamic filtering.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "energetic",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "static",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "dynamics"
+        ],
+        "verb": [],
+        "adjective": [
+          "dynamic"
+        ],
+        "adverb": [
+          "dynamically"
+        ]
+      },
+      "collocations": [
+        "dynamic system"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 93
+    },
+    {
+      "id": 3573,
+      "word": "eager",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "strongly wanting to do something",
+      "definitionTh": "กระตือรือร้น",
+      "example": "The report provides a clear example of “eager”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "keen",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "reluctant",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "eager example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 92
+    },
+    {
+      "id": 3574,
+      "word": "earnings",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "money received from work or investment",
+      "definitionTh": "รายได้",
+      "example": "The report provides a clear example of “earnings”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "income",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "earnings example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 91
+    },
+    {
+      "id": 3575,
+      "word": "ease",
+      "pos": "n., v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the absence of difficulty; to reduce pain or difficulty",
+      "definitionTh": "ความง่าย / บรรเทา",
+      "example": "The report provides a clear example of “ease”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "relief",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "difficulty",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "ease"
+        ],
+        "verb": [
+          "ease"
+        ],
+        "adjective": [
+          "easy"
+        ],
+        "adverb": [
+          "easily"
+        ]
+      },
+      "collocations": [
+        "ease example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 90
+    },
+    {
+      "id": 3576,
+      "word": "echo",
+      "pos": "v., n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a repeated sound; to repeat or reflect something",
+      "definitionTh": "เสียงสะท้อน",
+      "example": "The report provides a clear example of “echo”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "repeat",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "echo example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 89
+    },
+    {
+      "id": 3577,
+      "word": "ecological",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "relating to the environment and living systems",
+      "definitionTh": "ทางนิเวศวิทยา",
+      "example": "The report provides a clear example of “ecological”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "environmental",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "ecology"
+        ],
+        "verb": [],
+        "adjective": [
+          "ecological"
+        ],
+        "adverb": [
+          "ecologically"
+        ]
+      },
+      "collocations": [
+        "ecological example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 88
+    },
+    {
+      "id": 3578,
+      "word": "economics",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the study of production, trade, and money",
+      "definitionTh": "เศรษฐศาสตร์",
+      "example": "The report provides a clear example of “economics”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "economic science",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "economics",
+          "economist"
+        ],
+        "verb": [
+          "economize"
+        ],
+        "adjective": [
+          "economic"
+        ],
+        "adverb": [
+          "economically"
+        ]
+      },
+      "collocations": [
+        "economics example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 87
+    },
+    {
+      "id": 3579,
+      "word": "economist",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a specialist who studies the economy",
+      "definitionTh": "นักเศรษฐศาสตร์",
+      "example": "The report provides a clear example of “economist”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "economic expert",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "economist example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 86
+    },
+    {
+      "id": 3580,
+      "word": "editorial",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "relating to an editor or opinion article",
+      "definitionTh": "บทบรรณาธิการ",
+      "example": "The report provides a clear example of “editorial”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "opinion-based",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "editorial example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 85
+    },
+    {
+      "id": 3581,
+      "word": "educator",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a person who teaches or develops education",
+      "definitionTh": "นักการศึกษา",
+      "example": "The report provides a clear example of “educator”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "teacher",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "education",
+          "educator"
+        ],
+        "verb": [
+          "educate"
+        ],
+        "adjective": [
+          "educational"
+        ],
+        "adverb": [
+          "educationally"
+        ]
+      },
+      "collocations": [
+        "educator example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 84
+    },
+    {
+      "id": 3582,
+      "word": "effectiveness",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the degree to which something achieves its goal",
+      "definitionTh": "ประสิทธิผล",
+      "example": "Measure the effectiveness of the solution.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "success",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "ineffectiveness",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "system effectiveness"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 83
+    },
+    {
+      "id": 3583,
+      "word": "efficiency",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the ability to achieve results with little waste",
+      "definitionTh": "ประสิทธิภาพ",
+      "example": "Automation improved line efficiency.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "productivity",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "wastefulness",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "operating efficiency"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 82
+    },
+    {
+      "id": 3584,
+      "word": "efficiently",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "in a way that avoids wasted time or resources",
+      "definitionTh": "อย่างมีประสิทธิภาพ",
+      "example": "The new model processes images efficiently.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "productively",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "inefficiently",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "work efficiently"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 81
+    },
+    {
+      "id": 3585,
+      "word": "ego",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a person’s sense of self-importance",
+      "definitionTh": "อัตตา",
+      "example": "The report provides a clear example of “ego”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "self-importance",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "ego example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 80
+    },
+    {
+      "id": 3586,
+      "word": "elaborate",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "having many carefully developed details",
+      "definitionTh": "ประณีต / ละเอียด",
+      "example": "The engineer prepared an elaborate test plan.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "detailed",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "simple",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "elaborate system"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 79
+    },
+    {
+      "id": 3587,
+      "word": "elbow",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the joint between the upper and lower arm",
+      "definitionTh": "ข้อศอก",
+      "example": "The report provides a clear example of “elbow”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "arm joint",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "elbow example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 78
+    },
+    {
+      "id": 3588,
+      "word": "electoral",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "relating to elections",
+      "definitionTh": "เกี่ยวกับการเลือกตั้ง",
+      "example": "The report provides a clear example of “electoral”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "election-related",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "electoral example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 77
+    },
+    {
+      "id": 3589,
+      "word": "electronics",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the technology and devices using electronic circuits",
+      "definitionTh": "อิเล็กทรอนิกส์",
+      "example": "Protect the electronics from moisture.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "electronic equipment",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "industrial electronics"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 76
+    },
+    {
+      "id": 3590,
+      "word": "elegant",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "graceful and carefully designed",
+      "definitionTh": "สง่างาม",
+      "example": "The report provides a clear example of “elegant”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "graceful",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "elegant example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 75
+    },
+    {
+      "id": 3591,
+      "word": "elementary",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "basic or introductory",
+      "definitionTh": "ขั้นพื้นฐาน",
+      "example": "The report provides a clear example of “elementary”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "basic",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "elementary example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 74
+    },
+    {
+      "id": 3592,
+      "word": "elevate",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to raise something to a higher level",
+      "definitionTh": "ยกระดับ",
+      "example": "Elevate the camera above the conveyor.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "raise",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "lower",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "elevation"
+        ],
+        "verb": [
+          "elevate"
+        ],
+        "adjective": [
+          "elevated"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "elevate performance"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 73
+    },
+    {
+      "id": 3593,
+      "word": "eligible",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "meeting the conditions to receive or do something",
+      "definitionTh": "มีสิทธิ์",
+      "example": "Only trained staff are eligible to operate the line.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "qualified",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "ineligible",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "eligible for"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 72
+    },
+    {
+      "id": 3594,
+      "word": "eliminate",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to remove completely",
+      "definitionTh": "กำจัด",
+      "example": "The project aims to eliminate manual checks.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "remove",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "retain",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "elimination"
+        ],
+        "verb": [
+          "eliminate"
+        ],
+        "adjective": [
+          "eliminated"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "eliminate defects"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 71
+    },
+    {
+      "id": 3595,
+      "word": "elite",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a select group considered superior",
+      "definitionTh": "ชนชั้นนำ",
+      "example": "The report provides a clear example of “elite”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "select group",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "ordinary",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "elite example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 70
+    },
+    {
+      "id": 3596,
+      "word": "embark",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to begin a new project or journey",
+      "definitionTh": "เริ่มดำเนินการ",
+      "example": "The report provides a clear example of “embark”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "begin",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "embark example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 69
+    },
+    {
+      "id": 3597,
+      "word": "embarrassment",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a feeling of shame or awkwardness",
+      "definitionTh": "ความอับอาย",
+      "example": "The report provides a clear example of “embarrassment”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "shame",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "embarrassment example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 68
+    },
+    {
+      "id": 3598,
+      "word": "embassy",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the official office of an ambassador",
+      "definitionTh": "สถานทูต",
+      "example": "The report provides a clear example of “embassy”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "diplomatic office",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "embassy example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 67
+    },
+    {
+      "id": 3599,
+      "word": "embed",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to fix deeply inside or include within something",
+      "definitionTh": "ฝัง / รวมเข้า",
+      "example": "Embed the sensor data in the report.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "insert",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "embedding"
+        ],
+        "verb": [
+          "embed"
+        ],
+        "adjective": [
+          "embedded"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "embed code"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 66
+    },
+    {
+      "id": 3600,
+      "word": "embody",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to represent or express an idea or quality",
+      "definitionTh": "เป็นตัวแทน / รวบรวมไว้",
+      "example": "The standard embodies best practice.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "represent",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "embody principles"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 65
+    },
+    {
+      "id": 3601,
+      "word": "embrace",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to accept, support, or hold closely",
+      "definitionTh": "ยอมรับ / โอบกอด",
+      "example": "The report provides a clear example of “embrace”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "accept",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "embrace example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 64
+    },
+    {
+      "id": 3602,
+      "word": "emergence",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the process of coming into existence",
+      "definitionTh": "การเกิดขึ้น",
+      "example": "The emergence of AI changed inspection.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "appearance",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "rapid emergence"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 63
+    },
+    {
+      "id": 3603,
+      "word": "emission",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the release of gas, heat, or radiation",
+      "definitionTh": "การปล่อยมลพิษ",
+      "example": "Monitor heat emission from the motor.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "release",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "carbon emission"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 62
+    },
+    {
+      "id": 3604,
+      "word": "emotionally",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "in a way related to feelings",
+      "definitionTh": "ทางอารมณ์",
+      "example": "The report provides a clear example of “emotionally”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "feelingly",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "emotionally example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 61
+    },
+    {
+      "id": 3605,
+      "word": "empire",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a group of territories controlled by one ruler",
+      "definitionTh": "จักรวรรดิ",
+      "example": "The report provides a clear example of “empire”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "realm",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "empire"
+        ],
+        "verb": [],
+        "adjective": [
+          "imperial"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "empire example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 60
+    },
+    {
+      "id": 3606,
+      "word": "empirical",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "based on observation or experiment",
+      "definitionTh": "เชิงประจักษ์",
+      "example": "Use empirical data to set the threshold.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "evidence-based",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "empiricism"
+        ],
+        "verb": [],
+        "adjective": [
+          "empirical"
+        ],
+        "adverb": [
+          "empirically"
+        ]
+      },
+      "collocations": [
+        "empirical evidence"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 59
+    },
+    {
+      "id": 3607,
+      "word": "empower",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to give someone authority or confidence",
+      "definitionTh": "ให้อำนาจ",
+      "example": "The dashboard empowers operators to act quickly.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "authorize",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "empowerment"
+        ],
+        "verb": [
+          "empower"
+        ],
+        "adjective": [
+          "empowered"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "empower users"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 58
+    },
+    {
+      "id": 3608,
+      "word": "enact",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to make a proposal into law",
+      "definitionTh": "ตราเป็นกฎหมาย",
+      "example": "The report provides a clear example of “enact”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "legislate",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "enact example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 57
+    },
+    {
+      "id": 3609,
+      "word": "encompass",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to include a wide range of things",
+      "definitionTh": "ครอบคลุม",
+      "example": "The scope encompasses all product types.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "include",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "encompass a range"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 56
+    },
+    {
+      "id": 3610,
+      "word": "encouragement",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "support that increases confidence",
+      "definitionTh": "กำลังใจ",
+      "example": "The report provides a clear example of “encouragement”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "support",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "encouragement example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 55
+    },
+    {
+      "id": 3611,
+      "word": "encouraging",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "giving hope or confidence",
+      "definitionTh": "น่าให้กำลังใจ",
+      "example": "The pilot results are encouraging.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "promising",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "encouraging result"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 54
+    },
+    {
+      "id": 3612,
+      "word": "endeavor",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a serious attempt to achieve something",
+      "definitionTh": "ความพยายาม",
+      "example": "The report provides a clear example of “endeavor”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "effort",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "endeavor example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 53
+    },
+    {
+      "id": 3613,
+      "word": "endless",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "having no apparent end",
+      "definitionTh": "ไม่มีที่สิ้นสุด",
+      "example": "The report provides a clear example of “endless”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "unlimited",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "limited",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "endless example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 52
+    },
+    {
+      "id": 3614,
+      "word": "endorse",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to publicly support or approve",
+      "definitionTh": "รับรอง / สนับสนุน",
+      "example": "Management endorsed the automation plan.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "approve",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "oppose",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "endorsement"
+        ],
+        "verb": [
+          "endorse"
+        ],
+        "adjective": [
+          "endorsed"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "officially endorse"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 51
+    },
+    {
+      "id": 3615,
+      "word": "endorsement",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "formal public support or approval",
+      "definitionTh": "การรับรอง",
+      "example": "The report provides a clear example of “endorsement”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "approval",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "endorsement example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 50
+    },
+    {
+      "id": 3616,
+      "word": "endure",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to continue despite difficulty",
+      "definitionTh": "อดทน",
+      "example": "The camera must endure vibration.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "withstand",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "quit",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "endure pressure"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 49
+    },
+    {
+      "id": 3617,
+      "word": "enforce",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to make sure rules are obeyed",
+      "definitionTh": "บังคับใช้",
+      "example": "The PLC enforces the safety interlock.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "apply",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "ignore",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "enforcement"
+        ],
+        "verb": [
+          "enforce"
+        ],
+        "adjective": [
+          "enforceable"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "enforce a rule"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 48
+    },
+    {
+      "id": 3618,
+      "word": "enforcement",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the act of making rules or laws obeyed",
+      "definitionTh": "การบังคับใช้",
+      "example": "Audit the enforcement of the standard.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "implementation",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "strict enforcement"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 47
+    },
+    {
+      "id": 3619,
+      "word": "engagement",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "participation, commitment, or a formal agreement",
+      "definitionTh": "การมีส่วนร่วม",
+      "example": "Operator engagement improved adoption.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "involvement",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "employee engagement"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 46
+    },
+    {
+      "id": 3620,
+      "word": "engaging",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "holding attention and interest",
+      "definitionTh": "น่าสนใจ",
+      "example": "Use an engaging dashboard layout.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "interesting",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "boring",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "engaging content"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 45
+    },
+    {
+      "id": 3621,
+      "word": "enjoyable",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "giving pleasure",
+      "definitionTh": "น่าเพลิดเพลิน",
+      "example": "The report provides a clear example of “enjoyable”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "pleasant",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unpleasant",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "enjoyable example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 44
+    },
+    {
+      "id": 3622,
+      "word": "enrich",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to improve the quality or value of something",
+      "definitionTh": "เสริมคุณค่า",
+      "example": "Add context to enrich the dataset.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "enhance",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "impoverish",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "enrichment"
+        ],
+        "verb": [
+          "enrich"
+        ],
+        "adjective": [
+          "enriched"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "enrich data"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 43
+    },
+    {
+      "id": 3623,
+      "word": "enroll",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to officially register for a course or program",
+      "definitionTh": "ลงทะเบียน",
+      "example": "Enroll operators in the training course.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "register",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "enrollment"
+        ],
+        "verb": [
+          "enroll"
+        ],
+        "adjective": [
+          "enrolled"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "enroll in"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 42
+    },
+    {
+      "id": 3624,
+      "word": "ensue",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to happen as a result",
+      "definitionTh": "เกิดตามมา",
+      "example": "The report provides a clear example of “ensue”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "follow",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "ensue example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 41
+    },
+    {
+      "id": 3625,
+      "word": "enterprise",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a business organization or ambitious project",
+      "definitionTh": "องค์กรธุรกิจ",
+      "example": "The system supports enterprise deployment.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "business",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "enterprise system"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 40
+    },
+    {
+      "id": 3626,
+      "word": "entertaining",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "providing amusement or enjoyment",
+      "definitionTh": "ให้ความบันเทิง",
+      "example": "The report provides a clear example of “entertaining”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "amusing",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "entertaining example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 39
+    },
+    {
+      "id": 3627,
+      "word": "enthusiast",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a person with strong interest in an activity",
+      "definitionTh": "ผู้ที่ชื่นชอบ",
+      "example": "The report provides a clear example of “enthusiast”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "fan",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "enthusiast example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 38
+    },
+    {
+      "id": 3628,
+      "word": "entitle",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to give a right or title",
+      "definitionTh": "ให้สิทธิ์ / ตั้งชื่อ",
+      "example": "The report provides a clear example of “entitle”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "authorize",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "entitle example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 37
+    },
+    {
+      "id": 3629,
+      "word": "entity",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "something that exists as a separate unit",
+      "definitionTh": "หน่วยงาน / สิ่งที่มีอยู่",
+      "example": "Treat each defect as a separate entity.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "unit",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "data entity"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 36
+    },
+    {
+      "id": 3630,
+      "word": "entrepreneur",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a person who starts and manages a business",
+      "definitionTh": "ผู้ประกอบการ",
+      "example": "The entrepreneur developed a new sensor.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "business founder",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "successful entrepreneur"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 35
+    },
+    {
+      "id": 3631,
+      "word": "envelope",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a flat paper container for a letter",
+      "definitionTh": "ซองจดหมาย",
+      "example": "The report provides a clear example of “envelope”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "wrapper",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "envelope example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 34
+    },
+    {
+      "id": 3632,
+      "word": "epidemic",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a widespread occurrence of disease",
+      "definitionTh": "โรคระบาด",
+      "example": "The report provides a clear example of “epidemic”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "outbreak",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "epidemic example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 33
+    },
+    {
+      "id": 3633,
+      "word": "equality",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the state of having equal rights and opportunities",
+      "definitionTh": "ความเท่าเทียม",
+      "example": "The policy promotes equality at work.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "equal status",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "inequality",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "equal opportunity"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 32
+    },
+    {
+      "id": 3634,
+      "word": "equation",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a mathematical statement showing equal values",
+      "definitionTh": "สมการ",
+      "example": "Use the equation to calculate storage.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "formula",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "linear equation"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 31
+    },
+    {
+      "id": 3635,
+      "word": "equip",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to provide the necessary tools or equipment",
+      "definitionTh": "จัดหาอุปกรณ์",
+      "example": "Equip the station with suitable lighting.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "provide",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "equip with"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 30
+    },
+    {
+      "id": 3636,
+      "word": "equivalent",
+      "pos": "n., adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "equal in value, meaning, or effect",
+      "definitionTh": "เทียบเท่า",
+      "example": "The two methods provide equivalent results.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "equal",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "different",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "equivalence"
+        ],
+        "verb": [],
+        "adjective": [
+          "equivalent"
+        ],
+        "adverb": [
+          "equivalently"
+        ]
+      },
+      "collocations": [
+        "equivalent value"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 29
+    },
+    {
+      "id": 3637,
+      "word": "era",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a long distinct period of history",
+      "definitionTh": "ยุค",
+      "example": "The report provides a clear example of “era”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "period",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "era example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 28
+    },
+    {
+      "id": 3638,
+      "word": "erect",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to build or raise into an upright position",
+      "definitionTh": "สร้างให้ตั้งขึ้น",
+      "example": "Erect the frame before installation.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "build",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "demolish",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "erect a structure"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 27
+    },
+    {
+      "id": 3639,
+      "word": "erupt",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to burst out suddenly",
+      "definitionTh": "ปะทุ",
+      "example": "The report provides a clear example of “erupt”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "burst",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "erupt example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 26
+    },
+    {
+      "id": 3640,
+      "word": "escalate",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to become more serious or intense",
+      "definitionTh": "ทวีความรุนแรง",
+      "example": "Escalate the issue if risk remains high.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "intensify",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "de-escalate",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "escalate a problem"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 25
+    },
+    {
+      "id": 3641,
+      "word": "essence",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the most important quality or meaning",
+      "definitionTh": "สาระสำคัญ",
+      "example": "The report provides a clear example of “essence”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "core",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "essence example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 24
+    },
+    {
+      "id": 3642,
+      "word": "essentially",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "in the most important or basic sense",
+      "definitionTh": "โดยพื้นฐาน",
+      "example": "The report provides a clear example of “essentially”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "basically",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "essentially example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 23
+    },
+    {
+      "id": 3643,
+      "word": "establishment",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "an organization, institution, or process of creating one",
+      "definitionTh": "สถานประกอบการ",
+      "example": "The report provides a clear example of “establishment”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "institution",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "establishment example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 22
+    },
+    {
+      "id": 3644,
+      "word": "eternal",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "lasting forever or for a very long time",
+      "definitionTh": "ชั่วนิรันดร์",
+      "example": "The report provides a clear example of “eternal”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "everlasting",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "temporary",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "eternal example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 21
+    },
+    {
+      "id": 3645,
+      "word": "ethic",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a moral principle guiding behavior",
+      "definitionTh": "จริยธรรม",
+      "example": "The report provides a clear example of “ethic”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "principle",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "ethic example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 20
+    },
+    {
+      "id": 3646,
+      "word": "ethnic",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "relating to a cultural or racial group",
+      "definitionTh": "ทางชาติพันธุ์",
+      "example": "The report provides a clear example of “ethnic”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "cultural",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "ethnic example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 19
+    },
+    {
+      "id": 3647,
+      "word": "evacuate",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to move people away from danger",
+      "definitionTh": "อพยพออก",
+      "example": "The report provides a clear example of “evacuate”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "remove",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "evacuate example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 18
+    },
+    {
+      "id": 3648,
+      "word": "evaluation",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a systematic judgment of quality or results",
+      "definitionTh": "การประเมิน",
+      "example": "Complete the technical evaluation.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "assessment",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "performance evaluation"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 17
+    },
+    {
+      "id": 3649,
+      "word": "evident",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "clear enough to be easily seen or understood",
+      "definitionTh": "ชัดเจน",
+      "example": "The defect is evident in the image.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "obvious",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unclear",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "clearly evident"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 16
+    },
+    {
+      "id": 3650,
+      "word": "evoke",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to bring a feeling or memory to mind",
+      "definitionTh": "กระตุ้นความรู้สึก",
+      "example": "The report provides a clear example of “evoke”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "bring to mind",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "evoke example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 15
+    },
+    {
+      "id": 3651,
+      "word": "evolution",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "gradual development over time",
+      "definitionTh": "วิวัฒนาการ",
+      "example": "Track the evolution of defect patterns.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "development",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "system evolution"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 14
+    },
+    {
+      "id": 3652,
+      "word": "evolutionary",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "relating to gradual biological or social development",
+      "definitionTh": "ทางวิวัฒนาการ",
+      "example": "The report provides a clear example of “evolutionary”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "developmental",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "evolutionary example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 13
+    },
+    {
+      "id": 3653,
+      "word": "evolve",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to develop gradually",
+      "definitionTh": "พัฒนา",
+      "example": "The inspection method will evolve over time.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "develop",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "evolution"
+        ],
+        "verb": [
+          "evolve"
+        ],
+        "adjective": [
+          "evolutionary"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "evolve gradually"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 12
+    },
+    {
+      "id": 3654,
+      "word": "exaggerate",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to describe something as greater than it is",
+      "definitionTh": "กล่าวเกินจริง",
+      "example": "The report provides a clear example of “exaggerate”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "overstate",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "exaggerate example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 11
+    },
+    {
+      "id": 3655,
+      "word": "exceed",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to be greater than a limit or amount",
+      "definitionTh": "เกิน",
+      "example": "Do not exceed the pressure limit.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "surpass",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "exceed a limit"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 10
+    },
+    {
+      "id": 3656,
+      "word": "excellence",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the quality of being extremely good",
+      "definitionTh": "ความเป็นเลิศ",
+      "example": "The project supports operational excellence.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "superiority",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "technical excellence"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 9
+    },
+    {
+      "id": 3657,
+      "word": "exception",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a case not following a general rule",
+      "definitionTh": "ข้อยกเว้น",
+      "example": "Document every process exception.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "exemption",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "exception"
+        ],
+        "verb": [
+          "except"
+        ],
+        "adjective": [
+          "exceptional"
+        ],
+        "adverb": [
+          "exceptionally"
+        ]
+      },
+      "collocations": [
+        "exception rule"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 8
+    },
+    {
+      "id": 3658,
+      "word": "exceptional",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "unusually excellent or rare",
+      "definitionTh": "ยอดเยี่ยมเป็นพิเศษ",
+      "example": "The camera delivered exceptional accuracy.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "outstanding",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "exceptional performance"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 7
+    },
+    {
+      "id": 3659,
+      "word": "excess",
+      "pos": "n., adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "more than what is needed",
+      "definitionTh": "ส่วนเกิน",
+      "example": "Remove excess material before inspection.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "surplus",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "shortage",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "excess heat"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 6
+    },
+    {
+      "id": 3660,
+      "word": "excessive",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "greater than is reasonable or acceptable",
+      "definitionTh": "มากเกินไป",
+      "example": "Excessive vibration reduces accuracy.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "too much",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "excessive noise"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 5
+    },
+    {
+      "id": 3661,
+      "word": "exclude",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to deliberately leave out",
+      "definitionTh": "กันออก",
+      "example": "Exclude invalid samples from analysis.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "omit",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "include",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "exclusion"
+        ],
+        "verb": [
+          "exclude"
+        ],
+        "adjective": [
+          "exclusive"
+        ],
+        "adverb": [
+          "exclusively"
+        ]
+      },
+      "collocations": [
+        "exclude from"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 4
+    },
+    {
+      "id": 3662,
+      "word": "exclusion",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the act of leaving someone or something out",
+      "definitionTh": "การกีดกัน",
+      "example": "Record the reason for data exclusion.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "omission",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "inclusion",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "exclusion criteria"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 3
+    },
+    {
+      "id": 3663,
+      "word": "exclusive",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "limited to one person, group, or item",
+      "definitionTh": "เฉพาะ / พิเศษ",
+      "example": "The supplier granted exclusive access.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "restricted",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "inclusive",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "exclusive rights"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 2
+    },
+    {
+      "id": 3664,
+      "word": "exclusively",
+      "pos": "adv.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "only and not involving others",
+      "definitionTh": "โดยเฉพาะเท่านั้น",
+      "example": "The test focuses exclusively on stick defects.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "solely",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "used exclusively"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 1
+    }
+  ]
+}

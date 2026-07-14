@@ -1,0 +1,3722 @@
+{
+  "version": 2,
+  "source": "Oxford 5000 (American English)",
+  "batch": 36,
+  "level": "B2-C1",
+  "totalWords": 100,
+  "metadata": {
+    "created": "2026-07-14",
+    "language": "en-US",
+    "description": "Batch 36 — additional Oxford 5000 words 501-600; source-aligned from attached PDF"
+  },
+  "words": [
+    {
+      "id": 3465,
+      "word": "denounce",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to publicly criticize or accuse strongly",
+      "definitionTh": "ประณาม",
+      "example": "The policy denounces unsafe behavior.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "condemn",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "praise",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "publicly denounce"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 100
+    },
+    {
+      "id": 3466,
+      "word": "dense",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "closely packed together",
+      "definitionTh": "หนาแน่น",
+      "example": "A dense layer of frost blocked the view.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "thick",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "sparse",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "density"
+        ],
+        "verb": [
+          "densify"
+        ],
+        "adjective": [
+          "dense"
+        ],
+        "adverb": [
+          "densely"
+        ]
+      },
+      "collocations": [
+        "dense material"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 99
+    },
+    {
+      "id": 3467,
+      "word": "density",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the amount of mass or people in a given space",
+      "definitionTh": "ความหนาแน่น",
+      "example": "Measure the product density.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "concentration",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "high density"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 98
+    },
+    {
+      "id": 3468,
+      "word": "depart",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to leave a place, especially on a journey",
+      "definitionTh": "ออกเดินทาง",
+      "example": "The shipment will depart at noon.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "leave",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "arrive",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "depart from"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 97
+    },
+    {
+      "id": 3469,
+      "word": "dependence",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the state of relying on someone or something",
+      "definitionTh": "การพึ่งพา",
+      "example": "Reduce dependence on manual inspection.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "reliance",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "independence",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "dependence"
+        ],
+        "verb": [
+          "depend"
+        ],
+        "adjective": [
+          "dependent"
+        ],
+        "adverb": [
+          "dependently"
+        ]
+      },
+      "collocations": [
+        "dependence on"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 96
+    },
+    {
+      "id": 3470,
+      "word": "dependent",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "requiring support from something else",
+      "definitionTh": "ขึ้นอยู่กับ",
+      "example": "Accuracy is dependent on stable lighting.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "reliant",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "independent",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "dependent on"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 95
+    },
+    {
+      "id": 3471,
+      "word": "depict",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to show or describe in a picture or words",
+      "definitionTh": "พรรณนา",
+      "example": "The diagram depicts the inspection flow.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "portray",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "depiction"
+        ],
+        "verb": [
+          "depict"
+        ],
+        "adjective": [
+          "depicted"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "depict clearly"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 94
+    },
+    {
+      "id": 3472,
+      "word": "deploy",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to position people or equipment for use",
+      "definitionTh": "นำไปใช้ / จัดกำลัง",
+      "example": "Deploy the model to the production server.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "position",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "deployment"
+        ],
+        "verb": [
+          "deploy"
+        ],
+        "adjective": [
+          "deployed"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "deploy a system"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 93
+    },
+    {
+      "id": 3473,
+      "word": "deployment",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the act of putting resources into position",
+      "definitionTh": "การนำไปใช้",
+      "example": "The deployment starts after validation.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "rollout",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "model deployment"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 92
+    },
+    {
+      "id": 3474,
+      "word": "deposit",
+      "pos": "n., v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "money placed in an account; to place money or material",
+      "definitionTh": "เงินฝาก / ฝาก",
+      "example": "Ice formed a deposit on the lens.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "layer",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "security deposit"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 91
+    },
+    {
+      "id": 3475,
+      "word": "depression",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a medical condition of persistent sadness or an economic decline",
+      "definitionTh": "ภาวะซึมเศร้า / การตกต่ำ",
+      "example": "The report provides a clear example of “depression”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "decline",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "depression example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 90
+    },
+    {
+      "id": 3476,
+      "word": "deprive",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to prevent someone from having something",
+      "definitionTh": "พราก",
+      "example": "The report provides a clear example of “deprive”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "deny",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "deprive example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 89
+    },
+    {
+      "id": 3477,
+      "word": "deputy",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a person appointed as second in command",
+      "definitionTh": "รอง / ผู้แทน",
+      "example": "The report provides a clear example of “deputy”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "assistant",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "deputy example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 88
+    },
+    {
+      "id": 3478,
+      "word": "derive",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to obtain or develop from a source",
+      "definitionTh": "ได้รับมาจาก",
+      "example": "The report provides a clear example of “derive”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "obtain",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "derivation"
+        ],
+        "verb": [
+          "derive"
+        ],
+        "adjective": [
+          "derived"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "derive example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 87
+    },
+    {
+      "id": 3479,
+      "word": "descend",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to move downward",
+      "definitionTh": "ลงมา",
+      "example": "The report provides a clear example of “descend”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "go down",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "ascend",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "descent"
+        ],
+        "verb": [
+          "descend"
+        ],
+        "adjective": [
+          "descending"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "descend example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 86
+    },
+    {
+      "id": 3480,
+      "word": "descent",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the act of moving downward",
+      "definitionTh": "การลงมา",
+      "example": "The report provides a clear example of “descent”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "decline",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "descent example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 85
+    },
+    {
+      "id": 3481,
+      "word": "designate",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to officially choose or name for a role",
+      "definitionTh": "กำหนด / แต่งตั้ง",
+      "example": "The report provides a clear example of “designate”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "appoint",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "designation"
+        ],
+        "verb": [
+          "designate"
+        ],
+        "adjective": [
+          "designated"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "designate example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 84
+    },
+    {
+      "id": 3482,
+      "word": "desirable",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "worth having or wanting",
+      "definitionTh": "เป็นที่พึงปรารถนา",
+      "example": "The report provides a clear example of “desirable”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "attractive",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "undesirable",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "desirable example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 83
+    },
+    {
+      "id": 3483,
+      "word": "desktop",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the main screen or workspace of a computer",
+      "definitionTh": "เดสก์ท็อป",
+      "example": "The report provides a clear example of “desktop”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "workspace",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "desktop example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 82
+    },
+    {
+      "id": 3484,
+      "word": "desperately",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "in a way showing very little hope",
+      "definitionTh": "อย่างสิ้นหวัง",
+      "example": "The report provides a clear example of “desperately”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "urgently",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "desperately example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 81
+    },
+    {
+      "id": 3485,
+      "word": "destruction",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the act of destroying something",
+      "definitionTh": "การทำลาย",
+      "example": "The report provides a clear example of “destruction”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "ruin",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "construction",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "destruction example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 80
+    },
+    {
+      "id": 3486,
+      "word": "destructive",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "causing great damage",
+      "definitionTh": "ทำลายล้าง",
+      "example": "The report provides a clear example of “destructive”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "damaging",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "constructive",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "destructive example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 79
+    },
+    {
+      "id": 3487,
+      "word": "detain",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to keep someone in official custody",
+      "definitionTh": "กักตัว",
+      "example": "The report provides a clear example of “detain”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "hold",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "detain example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 78
+    },
+    {
+      "id": 3488,
+      "word": "detection",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the act of discovering or noticing something",
+      "definitionTh": "การตรวจจับ",
+      "example": "The report provides a clear example of “detection”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "identification",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "detection example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 77
+    },
+    {
+      "id": 3489,
+      "word": "detention",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the state of being held in custody",
+      "definitionTh": "การกักขัง",
+      "example": "The report provides a clear example of “detention”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "custody",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "detention example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 76
+    },
+    {
+      "id": 3490,
+      "word": "deteriorate",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to become worse over time",
+      "definitionTh": "เสื่อมลง",
+      "example": "Image quality may deteriorate over time.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "worsen",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "improve",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "deteriorate rapidly"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 75
+    },
+    {
+      "id": 3491,
+      "word": "determination",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "firm intention to achieve something",
+      "definitionTh": "ความมุ่งมั่น",
+      "example": "The team showed strong determination.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "resolve",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "strong determination"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 74
+    },
+    {
+      "id": 3492,
+      "word": "devastate",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to cause severe damage or emotional shock",
+      "definitionTh": "ทำลายล้างอย่างหนัก",
+      "example": "A major failure could devastate production.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "destroy",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "devastation"
+        ],
+        "verb": [
+          "devastate"
+        ],
+        "adjective": [
+          "devastating"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "devastate an area"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 73
+    },
+    {
+      "id": 3493,
+      "word": "devil",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "an evil spirit in stories or religion",
+      "definitionTh": "ปีศาจ",
+      "example": "The report provides a clear example of “devil”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "demon",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "devil example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 72
+    },
+    {
+      "id": 3494,
+      "word": "devise",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to invent a plan or method",
+      "definitionTh": "คิดค้น",
+      "example": "Engineers devised a new bracket.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "invent",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "devise a solution"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 71
+    },
+    {
+      "id": 3495,
+      "word": "devote",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to give time or effort fully to a purpose",
+      "definitionTh": "อุทิศ",
+      "example": "Devote enough time to validation.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "dedicate",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "devote time"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 70
+    },
+    {
+      "id": 3496,
+      "word": "diagnose",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to identify an illness or problem",
+      "definitionTh": "วินิจฉัย",
+      "example": "Use the log to diagnose the fault.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "identify",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "diagnosis"
+        ],
+        "verb": [
+          "diagnose"
+        ],
+        "adjective": [
+          "diagnostic"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "diagnose a problem"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 69
+    },
+    {
+      "id": 3497,
+      "word": "diagnosis",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the identification of an illness or problem",
+      "definitionTh": "การวินิจฉัย",
+      "example": "The technician confirmed the diagnosis.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "assessment",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "fault diagnosis"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 68
+    },
+    {
+      "id": 3498,
+      "word": "dictate",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to give orders in an authoritative way",
+      "definitionTh": "บงการ",
+      "example": "The report provides a clear example of “dictate”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "command",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "dictate example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 67
+    },
+    {
+      "id": 3499,
+      "word": "dictator",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a ruler with total power",
+      "definitionTh": "เผด็จการ",
+      "example": "The report provides a clear example of “dictator”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "autocrat",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "dictator example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 66
+    },
+    {
+      "id": 3500,
+      "word": "differ",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to be unlike or vary",
+      "definitionTh": "แตกต่าง",
+      "example": "The report provides a clear example of “differ”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "vary",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "match",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "difference"
+        ],
+        "verb": [
+          "differ",
+          "differentiate"
+        ],
+        "adjective": [
+          "different",
+          "distinct"
+        ],
+        "adverb": [
+          "differently"
+        ]
+      },
+      "collocations": [
+        "differ example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 65
+    },
+    {
+      "id": 3501,
+      "word": "differentiate",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to recognize or show differences",
+      "definitionTh": "แยกแยะ",
+      "example": "The camera differentiates good and defective parts.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "distinguish",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "differentiate between"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 64
+    },
+    {
+      "id": 3502,
+      "word": "dignity",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the quality of being worthy of respect",
+      "definitionTh": "ศักดิ์ศรี",
+      "example": "The report provides a clear example of “dignity”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "self-respect",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "dignity"
+        ],
+        "verb": [],
+        "adjective": [
+          "dignified"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "dignity example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 63
+    },
+    {
+      "id": 3503,
+      "word": "dilemma",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a difficult choice between alternatives",
+      "definitionTh": "ภาวะกลืนไม่เข้าคายไม่ออก",
+      "example": "The report provides a clear example of “dilemma”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "difficult choice",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "dilemma example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 62
+    },
+    {
+      "id": 3504,
+      "word": "dime",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a coin worth ten cents",
+      "definitionTh": "เหรียญสิบเซนต์",
+      "example": "The report provides a clear example of “dime”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "ten-cent coin",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "dime example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 61
+    },
+    {
+      "id": 3505,
+      "word": "dimension",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a measurable aspect or size",
+      "definitionTh": "มิติ",
+      "example": "Check every critical dimension.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "measurement",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "dimension"
+        ],
+        "verb": [],
+        "adjective": [
+          "dimensional"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "product dimension"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 60
+    },
+    {
+      "id": 3506,
+      "word": "diminish",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to become smaller or less important",
+      "definitionTh": "ลดน้อยลง",
+      "example": "The signal may diminish with distance.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "decrease",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "increase",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "diminish gradually"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 59
+    },
+    {
+      "id": 3507,
+      "word": "dip",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to put briefly into liquid or decrease sharply",
+      "definitionTh": "จุ่ม / ลดลง",
+      "example": "The temperature dipped below the limit.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "drop",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "slight dip"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 58
+    },
+    {
+      "id": 3508,
+      "word": "diplomat",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a person representing a country abroad",
+      "definitionTh": "นักการทูต",
+      "example": "The report provides a clear example of “diplomat”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "envoy",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "diplomat",
+          "diplomacy"
+        ],
+        "verb": [],
+        "adjective": [
+          "diplomatic"
+        ],
+        "adverb": [
+          "diplomatically"
+        ]
+      },
+      "collocations": [
+        "diplomat example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 57
+    },
+    {
+      "id": 3509,
+      "word": "diplomatic",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "relating to relations between countries",
+      "definitionTh": "ทางการทูต",
+      "example": "The report provides a clear example of “diplomatic”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "tactful",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "diplomatic example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 56
+    },
+    {
+      "id": 3510,
+      "word": "directory",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "an organized list of names or files",
+      "definitionTh": "ไดเรกทอรี",
+      "example": "Save the file in the project directory.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "folder",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "root directory"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 55
+    },
+    {
+      "id": 3511,
+      "word": "disability",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a condition limiting physical or mental ability",
+      "definitionTh": "ความพิการ",
+      "example": "The interface should support users with a disability.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "impairment",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "physical disability"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 54
+    },
+    {
+      "id": 3512,
+      "word": "disabled",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "having a physical or mental condition limiting activities",
+      "definitionTh": "พิการ",
+      "example": "The report provides a clear example of “disabled”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "impaired",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "enabled",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "disabled example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 53
+    },
+    {
+      "id": 3513,
+      "word": "disagreement",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a difference of opinion",
+      "definitionTh": "ความไม่เห็นด้วย",
+      "example": "The teams resolved the disagreement.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "dispute",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "agreement",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "major disagreement"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 52
+    },
+    {
+      "id": 3514,
+      "word": "disappoint",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to fail to meet expectations",
+      "definitionTh": "ทำให้ผิดหวัง",
+      "example": "The report provides a clear example of “disappoint”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "let down",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "satisfy",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "disappointment"
+        ],
+        "verb": [
+          "disappoint"
+        ],
+        "adjective": [
+          "disappointed",
+          "disappointing"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "disappoint example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 51
+    },
+    {
+      "id": 3515,
+      "word": "disappointment",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the feeling caused by unmet expectations",
+      "definitionTh": "ความผิดหวัง",
+      "example": "The report provides a clear example of “disappointment”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "dissatisfaction",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "disappointment example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 50
+    },
+    {
+      "id": 3516,
+      "word": "disastrous",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "causing great damage or failure",
+      "definitionTh": "หายนะ",
+      "example": "A wrong setting could have disastrous results.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "catastrophic",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "disastrous consequence"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 49
+    },
+    {
+      "id": 3517,
+      "word": "discard",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to throw away or stop using",
+      "definitionTh": "ทิ้ง / ละทิ้ง",
+      "example": "Discard the damaged sample.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "dispose of",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "keep",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "safely discard"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 48
+    },
+    {
+      "id": 3518,
+      "word": "discharge",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to release, remove, or allow someone to leave",
+      "definitionTh": "ปล่อย / จำหน่าย",
+      "example": "The valve discharges excess pressure.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "release",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "electrical discharge"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 47
+    },
+    {
+      "id": 3519,
+      "word": "disclose",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to make secret information known",
+      "definitionTh": "เปิดเผย",
+      "example": "Do not disclose confidential data.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "reveal",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "conceal",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "disclosure"
+        ],
+        "verb": [
+          "disclose"
+        ],
+        "adjective": [
+          "disclosed"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "disclose information"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 46
+    },
+    {
+      "id": 3520,
+      "word": "disclosure",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the act of revealing information",
+      "definitionTh": "การเปิดเผย",
+      "example": "The report provides a clear example of “disclosure”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "revelation",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "disclosure example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 45
+    },
+    {
+      "id": 3521,
+      "word": "discourage",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to make someone less willing to act",
+      "definitionTh": "ทำให้ท้อใจ",
+      "example": "Complex forms discourage reporting.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "deter",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "encourage",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "discourage use"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 44
+    },
+    {
+      "id": 3522,
+      "word": "discourse",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "formal discussion or written communication",
+      "definitionTh": "วาทกรรม",
+      "example": "The report provides a clear example of “discourse”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "discussion",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "discourse example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 43
+    },
+    {
+      "id": 3523,
+      "word": "discretion",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "careful freedom to decide what to do",
+      "definitionTh": "ดุลยพินิจ",
+      "example": "Use professional discretion when escalating.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "judgment",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "at your discretion"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 42
+    },
+    {
+      "id": 3524,
+      "word": "discrimination",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "unfair treatment based on group characteristics",
+      "definitionTh": "การเลือกปฏิบัติ",
+      "example": "The policy prohibits discrimination.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "bias",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "workplace discrimination"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 41
+    },
+    {
+      "id": 3525,
+      "word": "dismissal",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the act of removing someone from a job",
+      "definitionTh": "การเลิกจ้าง",
+      "example": "Serious misconduct may lead to dismissal.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "termination",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "employment",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "unfair dismissal"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 40
+    },
+    {
+      "id": 3526,
+      "word": "disorder",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a condition that disrupts normal function",
+      "definitionTh": "ความผิดปกติ",
+      "example": "The inspection detected a structural disorder.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "condition",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "order",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "medical disorder"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 39
+    },
+    {
+      "id": 3527,
+      "word": "displace",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to force someone or something to move",
+      "definitionTh": "ย้ายออก",
+      "example": "Vibration may displace the sensor.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "move",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "displace air"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 38
+    },
+    {
+      "id": 3528,
+      "word": "disposal",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the act of getting rid of something",
+      "definitionTh": "การกำจัด",
+      "example": "Follow the approved waste disposal method.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "removal",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "safe disposal"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 37
+    },
+    {
+      "id": 3529,
+      "word": "dispose",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to get rid of something",
+      "definitionTh": "กำจัด",
+      "example": "Dispose of rejected material correctly.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "discard",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "disposal"
+        ],
+        "verb": [
+          "dispose"
+        ],
+        "adjective": [
+          "disposable"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "dispose of"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 36
+    },
+    {
+      "id": 3530,
+      "word": "dispute",
+      "pos": "n., v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a serious disagreement; to argue about something",
+      "definitionTh": "ข้อพิพาท / โต้แย้ง",
+      "example": "The evidence helped resolve the dispute.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "argument",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "dispute"
+        ],
+        "verb": [
+          "dispute"
+        ],
+        "adjective": [
+          "disputed"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "resolve a dispute"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 35
+    },
+    {
+      "id": 3531,
+      "word": "disrupt",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to interrupt normal activity",
+      "definitionTh": "รบกวน",
+      "example": "Network loss can disrupt inspection.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "interrupt",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "stabilize",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "disruption"
+        ],
+        "verb": [
+          "disrupt"
+        ],
+        "adjective": [
+          "disruptive"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "disrupt operations"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 34
+    },
+    {
+      "id": 3532,
+      "word": "disruption",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "an interruption that prevents normal operation",
+      "definitionTh": "การหยุดชะงัก",
+      "example": "The upgrade caused minimal disruption.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "interruption",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "service disruption"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 33
+    },
+    {
+      "id": 3533,
+      "word": "dissolve",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to become liquid or formally end",
+      "definitionTh": "ละลาย",
+      "example": "The powder dissolves in water.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "melt",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "dissolve completely"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 32
+    },
+    {
+      "id": 3534,
+      "word": "distant",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "far away in space or relationship",
+      "definitionTh": "ห่างไกล",
+      "example": "The report provides a clear example of “distant”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "remote",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "near",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "distant example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 31
+    },
+    {
+      "id": 3535,
+      "word": "distinct",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "clearly different from something else",
+      "definitionTh": "แตกต่างชัดเจน",
+      "example": "The defect has a distinct pattern.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "separate",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "similar",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "distinction"
+        ],
+        "verb": [
+          "distinguish"
+        ],
+        "adjective": [
+          "distinct",
+          "distinctive"
+        ],
+        "adverb": [
+          "distinctly"
+        ]
+      },
+      "collocations": [
+        "distinct feature"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 30
+    },
+    {
+      "id": 3536,
+      "word": "distinction",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a clear difference between things",
+      "definitionTh": "ความแตกต่าง",
+      "example": "The model makes a clear distinction.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "difference",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "clear distinction"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 29
+    },
+    {
+      "id": 3537,
+      "word": "distinctive",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "having a special quality that makes it recognizable",
+      "definitionTh": "โดดเด่น",
+      "example": "The product has a distinctive mark.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "characteristic",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "distinctive feature"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 28
+    },
+    {
+      "id": 3538,
+      "word": "distinguish",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to recognize the difference between things",
+      "definitionTh": "แยกแยะ",
+      "example": "The model distinguishes wood from ice cream.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "differentiate",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "distinguish between"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 27
+    },
+    {
+      "id": 3539,
+      "word": "distort",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to change the true shape, sound, or meaning",
+      "definitionTh": "บิดเบือน",
+      "example": "Reflections can distort the image.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "misrepresent",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "clarify",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "distortion"
+        ],
+        "verb": [
+          "distort"
+        ],
+        "adjective": [
+          "distorted"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "distort data"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 26
+    },
+    {
+      "id": 3540,
+      "word": "distract",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to take attention away from something",
+      "definitionTh": "ทำให้เสียสมาธิ",
+      "example": "Noise may distract the operator.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "divert",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "focus",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "distract attention"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 25
+    },
+    {
+      "id": 3541,
+      "word": "distress",
+      "pos": "n., v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "extreme worry or suffering; to cause it",
+      "definitionTh": "ความทุกข์ / ทำให้ทุกข์",
+      "example": "The alarm signal indicates distress.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "suffering",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "distress"
+        ],
+        "verb": [
+          "distress"
+        ],
+        "adjective": [
+          "distressed",
+          "distressing"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "emotional distress"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 24
+    },
+    {
+      "id": 3542,
+      "word": "disturb",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to interrupt comfort or normal activity",
+      "definitionTh": "รบกวน",
+      "example": "Do not disturb the camera alignment.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "interrupt",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "disturbance"
+        ],
+        "verb": [
+          "disturb"
+        ],
+        "adjective": [
+          "disturbed",
+          "disturbing"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "disturb operation"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 23
+    },
+    {
+      "id": 3543,
+      "word": "disturbing",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "causing worry or concern",
+      "definitionTh": "น่ากังวล",
+      "example": "The trend shows a disturbing increase.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "worrying",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "disturbing result"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 22
+    },
+    {
+      "id": 3544,
+      "word": "dive",
+      "pos": "v., n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to move quickly into water; a jump into water",
+      "definitionTh": "ดำน้ำ",
+      "example": "The engineer dived into the data.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "plunge",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "deep dive"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 21
+    },
+    {
+      "id": 3545,
+      "word": "diverse",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "including many different kinds",
+      "definitionTh": "หลากหลาย",
+      "example": "Test the model on diverse products.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "varied",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "uniform",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "diversity"
+        ],
+        "verb": [
+          "diversify"
+        ],
+        "adjective": [
+          "diverse"
+        ],
+        "adverb": [
+          "diversely"
+        ]
+      },
+      "collocations": [
+        "diverse range"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 20
+    },
+    {
+      "id": 3546,
+      "word": "diversity",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the presence of many different types",
+      "definitionTh": "ความหลากหลาย",
+      "example": "Data diversity improves model robustness.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "variety",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "data diversity"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 19
+    },
+    {
+      "id": 3547,
+      "word": "divert",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to change direction or redirect",
+      "definitionTh": "เบี่ยงเบน",
+      "example": "The gate diverts rejected products.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "redirect",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "continue",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "diversion"
+        ],
+        "verb": [
+          "divert"
+        ],
+        "adjective": [
+          "diverted"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "divert flow"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 18
+    },
+    {
+      "id": 3548,
+      "word": "divine",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "relating to a god or sacred power",
+      "definitionTh": "ศักดิ์สิทธิ์",
+      "example": "The report provides a clear example of “divine”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "sacred",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "divine example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 17
+    },
+    {
+      "id": 3549,
+      "word": "divorce",
+      "pos": "n., v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the legal ending of a marriage; to end a marriage",
+      "definitionTh": "การหย่า / หย่า",
+      "example": "The report provides a clear example of “divorce”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "separation",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "divorce"
+        ],
+        "verb": [
+          "divorce"
+        ],
+        "adjective": [
+          "divorced"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "divorce example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 16
+    },
+    {
+      "id": 3550,
+      "word": "doctrine",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a set of beliefs taught by a group",
+      "definitionTh": "หลักคำสอน",
+      "example": "The report provides a clear example of “doctrine”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "teaching",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "doctrine example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 15
+    },
+    {
+      "id": 3551,
+      "word": "documentation",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "written material explaining a system or process",
+      "definitionTh": "เอกสารประกอบ",
+      "example": "Update the technical documentation.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "records",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "project documentation"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 14
+    },
+    {
+      "id": 3552,
+      "word": "domain",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "an area of knowledge or control",
+      "definitionTh": "ขอบเขต",
+      "example": "The application belongs to the quality domain.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "field",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "business domain"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 13
+    },
+    {
+      "id": 3553,
+      "word": "dominance",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the state of having greater power or influence",
+      "definitionTh": "การครอบงำ",
+      "example": "The report provides a clear example of “dominance”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "control",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "dominance example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 12
+    },
+    {
+      "id": 3554,
+      "word": "dominant",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "more powerful or important than others",
+      "definitionTh": "ครอบงำ",
+      "example": "Lighting was the dominant factor.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "leading",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "subordinate",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "dominant cause"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 11
+    },
+    {
+      "id": 3555,
+      "word": "donation",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "money or goods given to help",
+      "definitionTh": "การบริจาค",
+      "example": "The company made a donation.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "gift",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "charitable donation"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 10
+    },
+    {
+      "id": 3556,
+      "word": "donor",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a person who gives money, blood, or organs",
+      "definitionTh": "ผู้บริจาค",
+      "example": "Each donor received a receipt.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "giver",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "blood donor"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 9
+    },
+    {
+      "id": 3557,
+      "word": "dose",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a measured amount of medicine",
+      "definitionTh": "ปริมาณยา",
+      "example": "Measure the correct chemical dose.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "amount",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "recommended dose"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 8
+    },
+    {
+      "id": 3558,
+      "word": "dot",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a very small round mark",
+      "definitionTh": "จุด",
+      "example": "The image contains a small red dot.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "spot",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "data point"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 7
+    },
+    {
+      "id": 3559,
+      "word": "drain",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to remove liquid from something",
+      "definitionTh": "ระบาย",
+      "example": "Drain the tank before maintenance.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "empty",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "fill",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "drain valve"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 6
+    },
+    {
+      "id": 3560,
+      "word": "dramatically",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "in a sudden and noticeable way",
+      "definitionTh": "อย่างมาก",
+      "example": "Accuracy improved dramatically.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "significantly",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "dramatically increase"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 5
+    },
+    {
+      "id": 3561,
+      "word": "drift",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to move slowly without control",
+      "definitionTh": "ลอยไป",
+      "example": "Sensor values may drift over time.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "wander",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "sensor drift"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 4
+    },
+    {
+      "id": 3562,
+      "word": "driving",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "providing the main force or motivation",
+      "definitionTh": "ขับเคลื่อน",
+      "example": "Cost reduction is a driving factor.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "motivating",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "driving force"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 3
+    },
+    {
+      "id": 3563,
+      "word": "drought",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a long period with little or no rain",
+      "definitionTh": "ภัยแล้ง",
+      "example": "The region experienced a severe drought.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "dry period",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "prolonged drought"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 2
+    },
+    {
+      "id": 3564,
+      "word": "drown",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to die from being unable to breathe underwater",
+      "definitionTh": "จมน้ำ",
+      "example": "Never enter deep water without protection.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "submerge",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "drown in"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 1
+    }
+  ]
+}

@@ -1,0 +1,2914 @@
+{
+  "version": 2,
+  "source": "Oxford 3000",
+  "batch": 20,
+  "level": "Mixed",
+  "totalWords": 100,
+  "metadata": {
+    "created": "2026-07-14",
+    "language": "en",
+    "description": "Batch 20 of 50 — Oxford 3000 words 1901-2000; source-aligned sequence"
+  },
+  "words": [
+    {
+      "id": 1901,
+      "word": "pension1",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a regular payment made after retirement",
+      "definitionTh": "เงินบำนาญ",
+      "example": "He receives a monthly pension.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "pension scheme"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 100
+    },
+    {
+      "id": 1902,
+      "word": "people",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to ผู้คน",
+      "definitionTh": "ผู้คน",
+      "example": "Many people attended the training.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "people example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 99
+    },
+    {
+      "id": 1903,
+      "word": "pepper",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to พริกไทย",
+      "definitionTh": "พริกไทย",
+      "example": "Add a little black pepper.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "pepper example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 98
+    },
+    {
+      "id": 1904,
+      "word": "per",
+      "pos": "prep.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "for each",
+      "definitionTh": "ต่อ / ตาม",
+      "example": "The line produces 100 units per hour.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "per hour"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 97
+    },
+    {
+      "id": 1905,
+      "word": "per cent",
+      "pos": "n., adj./adv.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "one part in every hundred",
+      "definitionTh": "เปอร์เซ็นต์",
+      "example": "Defects fell by five per cent.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "ten per cent"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 96
+    },
+    {
+      "id": 1906,
+      "word": "percentage",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "an amount expressed as parts of one hundred",
+      "definitionTh": "ร้อยละ",
+      "example": "Calculate the defect percentage.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "small percentage"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 95
+    },
+    {
+      "id": 1907,
+      "word": "perfect",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to สมบูรณ์แบบ",
+      "definitionTh": "สมบูรณ์แบบ",
+      "example": "The lesson gives a clear example of “perfect”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "perfect condition"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 94
+    },
+    {
+      "id": 1908,
+      "word": "perfectly",
+      "pos": "adv.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to อย่างสมบูรณ์",
+      "definitionTh": "อย่างสมบูรณ์",
+      "example": "The lesson gives a clear example of “perfectly”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "perfectly example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 93
+    },
+    {
+      "id": 1909,
+      "word": "perform",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to ปฏิบัติ / แสดง",
+      "definitionTh": "ปฏิบัติ / แสดง",
+      "example": "The lesson gives a clear example of “perform”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "perform a task"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 92
+    },
+    {
+      "id": 1910,
+      "word": "performance",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to ผลงาน / การแสดง",
+      "definitionTh": "ผลงาน / การแสดง",
+      "example": "The lesson gives a clear example of “performance”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "high performance"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 91
+    },
+    {
+      "id": 1911,
+      "word": "perhaps",
+      "pos": "adv.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to บางที",
+      "definitionTh": "บางที",
+      "example": "The lesson gives a clear example of “perhaps”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "perhaps example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 90
+    },
+    {
+      "id": 1912,
+      "word": "period",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to ช่วงเวลา",
+      "definitionTh": "ช่วงเวลา",
+      "example": "The lesson gives a clear example of “period”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "period example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 89
+    },
+    {
+      "id": 1913,
+      "word": "permanent",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to ถาวร",
+      "definitionTh": "ถาวร",
+      "example": "The lesson gives a clear example of “permanent”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "permanent example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 88
+    },
+    {
+      "id": 1914,
+      "word": "permission",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to การอนุญาต",
+      "definitionTh": "การอนุญาต",
+      "example": "The lesson gives a clear example of “permission”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "get permission"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 87
+    },
+    {
+      "id": 1915,
+      "word": "permit",
+      "pos": "v., n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to อนุญาต / ใบอนุญาต",
+      "definitionTh": "อนุญาต / ใบอนุญาต",
+      "example": "The lesson gives a clear example of “permit”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "work permit"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 86
+    },
+    {
+      "id": 1916,
+      "word": "person",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to บุคคล",
+      "definitionTh": "บุคคล",
+      "example": "The lesson gives a clear example of “person”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "person example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 85
+    },
+    {
+      "id": 1917,
+      "word": "personal",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to ส่วนตัว",
+      "definitionTh": "ส่วนตัว",
+      "example": "The lesson gives a clear example of “personal”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "personal example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 84
+    },
+    {
+      "id": 1918,
+      "word": "personality",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to บุคลิกภาพ",
+      "definitionTh": "บุคลิกภาพ",
+      "example": "The lesson gives a clear example of “personality”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "personality example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 83
+    },
+    {
+      "id": 1919,
+      "word": "personally",
+      "pos": "adv.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to โดยส่วนตัว",
+      "definitionTh": "โดยส่วนตัว",
+      "example": "The lesson gives a clear example of “personally”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "personally example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 82
+    },
+    {
+      "id": 1920,
+      "word": "perspective",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to มุมมอง",
+      "definitionTh": "มุมมอง",
+      "example": "The lesson gives a clear example of “perspective”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "different perspective"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 81
+    },
+    {
+      "id": 1921,
+      "word": "persuade",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to โน้มน้าว",
+      "definitionTh": "โน้มน้าว",
+      "example": "The lesson gives a clear example of “persuade”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "persuade example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 80
+    },
+    {
+      "id": 1922,
+      "word": "pet",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to สัตว์เลี้ยง",
+      "definitionTh": "สัตว์เลี้ยง",
+      "example": "The lesson gives a clear example of “pet”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "pet example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 79
+    },
+    {
+      "id": 1923,
+      "word": "petrol",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to น้ำมันเบนซิน",
+      "definitionTh": "น้ำมันเบนซิน",
+      "example": "The lesson gives a clear example of “petrol”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "petrol example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 78
+    },
+    {
+      "id": 1924,
+      "word": "phase",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to ระยะ",
+      "definitionTh": "ระยะ",
+      "example": "The lesson gives a clear example of “phase”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "project phase"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 77
+    },
+    {
+      "id": 1925,
+      "word": "phenomenon",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to ปรากฏการณ์",
+      "definitionTh": "ปรากฏการณ์",
+      "example": "The lesson gives a clear example of “phenomenon”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "phenomenon example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 76
+    },
+    {
+      "id": 1926,
+      "word": "philosophy",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to ปรัชญา",
+      "definitionTh": "ปรัชญา",
+      "example": "The lesson gives a clear example of “philosophy”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "philosophy example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 75
+    },
+    {
+      "id": 1927,
+      "word": "phone",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to โทรศัพท์",
+      "definitionTh": "โทรศัพท์",
+      "example": "The lesson gives a clear example of “phone”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "mobile phone"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 74
+    },
+    {
+      "id": 1928,
+      "word": "photo",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to รูปถ่าย",
+      "definitionTh": "รูปถ่าย",
+      "example": "The lesson gives a clear example of “photo”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "digital photo"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 73
+    },
+    {
+      "id": 1929,
+      "word": "photograph",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to ภาพถ่าย / ถ่ายภาพ",
+      "definitionTh": "ภาพถ่าย / ถ่ายภาพ",
+      "example": "The lesson gives a clear example of “photograph”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "take a photograph"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 72
+    },
+    {
+      "id": 1930,
+      "word": "photographer",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to ช่างภาพ",
+      "definitionTh": "ช่างภาพ",
+      "example": "The lesson gives a clear example of “photographer”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "photographer example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 71
+    },
+    {
+      "id": 1931,
+      "word": "photography",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to การถ่ายภาพ",
+      "definitionTh": "การถ่ายภาพ",
+      "example": "The lesson gives a clear example of “photography”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "photography example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 70
+    },
+    {
+      "id": 1932,
+      "word": "phrase",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to วลี",
+      "definitionTh": "วลี",
+      "example": "The lesson gives a clear example of “phrase”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "phrase example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 69
+    },
+    {
+      "id": 1933,
+      "word": "physical",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to ทางกายภาพ",
+      "definitionTh": "ทางกายภาพ",
+      "example": "The lesson gives a clear example of “physical”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "physical damage"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 68
+    },
+    {
+      "id": 1934,
+      "word": "physics",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to ฟิสิกส์",
+      "definitionTh": "ฟิสิกส์",
+      "example": "The lesson gives a clear example of “physics”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "physics example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 67
+    },
+    {
+      "id": 1935,
+      "word": "piano",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to เปียโน",
+      "definitionTh": "เปียโน",
+      "example": "The lesson gives a clear example of “piano”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "piano example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 66
+    },
+    {
+      "id": 1936,
+      "word": "pick",
+      "pos": "v., n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to เลือก / หยิบ",
+      "definitionTh": "เลือก / หยิบ",
+      "example": "The lesson gives a clear example of “pick”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "pick up"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 65
+    },
+    {
+      "id": 1937,
+      "word": "picture",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to รูปภาพ",
+      "definitionTh": "รูปภาพ",
+      "example": "The lesson gives a clear example of “picture”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "clear picture"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 64
+    },
+    {
+      "id": 1938,
+      "word": "piece",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to ชิ้น",
+      "definitionTh": "ชิ้น",
+      "example": "The lesson gives a clear example of “piece”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "piece of equipment"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 63
+    },
+    {
+      "id": 1939,
+      "word": "pig",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to หมู",
+      "definitionTh": "หมู",
+      "example": "The lesson gives a clear example of “pig”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "pig example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 62
+    },
+    {
+      "id": 1940,
+      "word": "pile",
+      "pos": "n., v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to กอง / กองไว้",
+      "definitionTh": "กอง / กองไว้",
+      "example": "The lesson gives a clear example of “pile”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "pile of boxes"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 61
+    },
+    {
+      "id": 1941,
+      "word": "pilot",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to นักบิน",
+      "definitionTh": "นักบิน",
+      "example": "The lesson gives a clear example of “pilot”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "airline pilot"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 60
+    },
+    {
+      "id": 1942,
+      "word": "pin",
+      "pos": "n., v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to เข็มหมุด / ปัก",
+      "definitionTh": "เข็มหมุด / ปัก",
+      "example": "The lesson gives a clear example of “pin”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "safety pin"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 59
+    },
+    {
+      "id": 1943,
+      "word": "pink",
+      "pos": "adj., n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to สีชมพู",
+      "definitionTh": "สีชมพู",
+      "example": "The lesson gives a clear example of “pink”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "pink example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 58
+    },
+    {
+      "id": 1944,
+      "word": "pipe",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to ท่อ",
+      "definitionTh": "ท่อ",
+      "example": "The lesson gives a clear example of “pipe”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "water pipe"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 57
+    },
+    {
+      "id": 1945,
+      "word": "pitch",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to ระดับเสียง / สนาม",
+      "definitionTh": "ระดับเสียง / สนาม",
+      "example": "The lesson gives a clear example of “pitch”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "high pitch"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 56
+    },
+    {
+      "id": 1946,
+      "word": "place",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to สถานที่ / วาง",
+      "definitionTh": "สถานที่ / วาง",
+      "example": "The lesson gives a clear example of “place”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "safe place"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 55
+    },
+    {
+      "id": 1947,
+      "word": "plain",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to เรียบง่าย",
+      "definitionTh": "เรียบง่าย",
+      "example": "The lesson gives a clear example of “plain”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "plain example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 54
+    },
+    {
+      "id": 1948,
+      "word": "plan",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to แผน / วางแผน",
+      "definitionTh": "แผน / วางแผน",
+      "example": "The lesson gives a clear example of “plan”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "action plan"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 53
+    },
+    {
+      "id": 1949,
+      "word": "plane",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to เครื่องบิน",
+      "definitionTh": "เครื่องบิน",
+      "example": "The lesson gives a clear example of “plane”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "board a plane"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 52
+    },
+    {
+      "id": 1950,
+      "word": "planet",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to ดาวเคราะห์",
+      "definitionTh": "ดาวเคราะห์",
+      "example": "The lesson gives a clear example of “planet”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "planet example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 51
+    },
+    {
+      "id": 1951,
+      "word": "planning",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to การวางแผน",
+      "definitionTh": "การวางแผน",
+      "example": "The lesson gives a clear example of “planning”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "project planning"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 50
+    },
+    {
+      "id": 1952,
+      "word": "plant",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to พืช / โรงงาน",
+      "definitionTh": "พืช / โรงงาน",
+      "example": "The lesson gives a clear example of “plant”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "production plant"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 49
+    },
+    {
+      "id": 1953,
+      "word": "plastic",
+      "pos": "n., adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to พลาสติก",
+      "definitionTh": "พลาสติก",
+      "example": "The lesson gives a clear example of “plastic”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "plastic container"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 48
+    },
+    {
+      "id": 1954,
+      "word": "plate",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to จาน",
+      "definitionTh": "จาน",
+      "example": "The lesson gives a clear example of “plate”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "plate example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 47
+    },
+    {
+      "id": 1955,
+      "word": "platform",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to แพลตฟอร์ม",
+      "definitionTh": "แพลตฟอร์ม",
+      "example": "The lesson gives a clear example of “platform”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "digital platform"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 46
+    },
+    {
+      "id": 1956,
+      "word": "play",
+      "pos": "v., n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to เล่น / ละคร",
+      "definitionTh": "เล่น / ละคร",
+      "example": "The lesson gives a clear example of “play”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "play a role"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 45
+    },
+    {
+      "id": 1957,
+      "word": "player",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to ผู้เล่น",
+      "definitionTh": "ผู้เล่น",
+      "example": "The lesson gives a clear example of “player”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "team player"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 44
+    },
+    {
+      "id": 1958,
+      "word": "pleasant",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to น่าพอใจ",
+      "definitionTh": "น่าพอใจ",
+      "example": "The lesson gives a clear example of “pleasant”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "pleasant experience"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 43
+    },
+    {
+      "id": 1959,
+      "word": "please",
+      "pos": "exclam., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to กรุณา",
+      "definitionTh": "กรุณา",
+      "example": "The lesson gives a clear example of “please”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "please note"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 42
+    },
+    {
+      "id": 1960,
+      "word": "pleased",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to พอใจ",
+      "definitionTh": "พอใจ",
+      "example": "The lesson gives a clear example of “pleased”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "pleased with"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 41
+    },
+    {
+      "id": 1961,
+      "word": "pleasure",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to ความยินดี",
+      "definitionTh": "ความยินดี",
+      "example": "The lesson gives a clear example of “pleasure”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "great pleasure"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 40
+    },
+    {
+      "id": 1962,
+      "word": "plenty",
+      "pos": "pron.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to มากมาย",
+      "definitionTh": "มากมาย",
+      "example": "The lesson gives a clear example of “plenty”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "plenty of"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 39
+    },
+    {
+      "id": 1963,
+      "word": "plot",
+      "pos": "n., v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to โครงเรื่อง / วางแผน",
+      "definitionTh": "โครงเรื่อง / วางแผน",
+      "example": "The lesson gives a clear example of “plot”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "plot a graph"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 38
+    },
+    {
+      "id": 1964,
+      "word": "plus1",
+      "pos": "prep., adj., conj., n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "used to show addition",
+      "definitionTh": "บวก",
+      "example": "The lesson gives a clear example of “plus1”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "plus tax"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 37
+    },
+    {
+      "id": 1965,
+      "word": "pocket",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to กระเป๋า",
+      "definitionTh": "กระเป๋า",
+      "example": "The lesson gives a clear example of “pocket”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "pocket example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 36
+    },
+    {
+      "id": 1966,
+      "word": "poem",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to บทกวี",
+      "definitionTh": "บทกวี",
+      "example": "The lesson gives a clear example of “poem”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "write a poem"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 35
+    },
+    {
+      "id": 1967,
+      "word": "poet",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to กวี",
+      "definitionTh": "กวี",
+      "example": "The lesson gives a clear example of “poet”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "famous poet"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 34
+    },
+    {
+      "id": 1968,
+      "word": "poetry",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to กวีนิพนธ์",
+      "definitionTh": "กวีนิพนธ์",
+      "example": "The lesson gives a clear example of “poetry”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "modern poetry"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 33
+    },
+    {
+      "id": 1969,
+      "word": "point",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to จุด / ชี้",
+      "definitionTh": "จุด / ชี้",
+      "example": "The lesson gives a clear example of “point”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "key point"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 32
+    },
+    {
+      "id": 1970,
+      "word": "pointed",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to แหลม",
+      "definitionTh": "แหลม",
+      "example": "The lesson gives a clear example of “pointed”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "pointed tip"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 31
+    },
+    {
+      "id": 1971,
+      "word": "poison",
+      "pos": "n., v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to พิษ / วางยา",
+      "definitionTh": "พิษ / วางยา",
+      "example": "The lesson gives a clear example of “poison”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "deadly poison"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 30
+    },
+    {
+      "id": 1972,
+      "word": "poisonous",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to มีพิษ",
+      "definitionTh": "มีพิษ",
+      "example": "The lesson gives a clear example of “poisonous”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "poisonous gas"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 29
+    },
+    {
+      "id": 1973,
+      "word": "police",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the organization responsible for maintaining law and order",
+      "definitionTh": "ตำรวจ",
+      "example": "The lesson gives a clear example of “police”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "local police"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 28
+    },
+    {
+      "id": 1974,
+      "word": "policeman",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to ตำรวจชาย",
+      "definitionTh": "ตำรวจชาย",
+      "example": "The lesson gives a clear example of “policeman”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "policeman example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 27
+    },
+    {
+      "id": 1975,
+      "word": "policy",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to นโยบาย",
+      "definitionTh": "นโยบาย",
+      "example": "The lesson gives a clear example of “policy”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "safety policy"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 26
+    },
+    {
+      "id": 1976,
+      "word": "polite",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to สุภาพ",
+      "definitionTh": "สุภาพ",
+      "example": "The lesson gives a clear example of “polite”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "polite request"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 25
+    },
+    {
+      "id": 1977,
+      "word": "political",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to ทางการเมือง",
+      "definitionTh": "ทางการเมือง",
+      "example": "The lesson gives a clear example of “political”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "political decision"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 24
+    },
+    {
+      "id": 1978,
+      "word": "politician",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to นักการเมือง",
+      "definitionTh": "นักการเมือง",
+      "example": "The lesson gives a clear example of “politician”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "local politician"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 23
+    },
+    {
+      "id": 1979,
+      "word": "politics",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to การเมือง",
+      "definitionTh": "การเมือง",
+      "example": "The lesson gives a clear example of “politics”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "national politics"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 22
+    },
+    {
+      "id": 1980,
+      "word": "pollution",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to มลพิษ",
+      "definitionTh": "มลพิษ",
+      "example": "The lesson gives a clear example of “pollution”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "air pollution"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 21
+    },
+    {
+      "id": 1981,
+      "word": "pool",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to สระน้ำ",
+      "definitionTh": "สระน้ำ",
+      "example": "The lesson gives a clear example of “pool”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "swimming pool"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 20
+    },
+    {
+      "id": 1982,
+      "word": "poor",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to ยากจน / คุณภาพต่ำ",
+      "definitionTh": "ยากจน / คุณภาพต่ำ",
+      "example": "The lesson gives a clear example of “poor”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "poor quality"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 19
+    },
+    {
+      "id": 1983,
+      "word": "pop",
+      "pos": "n., adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to เพลงป๊อป",
+      "definitionTh": "เพลงป๊อป",
+      "example": "The lesson gives a clear example of “pop”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "pop music"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 18
+    },
+    {
+      "id": 1984,
+      "word": "popular",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to เป็นที่นิยม",
+      "definitionTh": "เป็นที่นิยม",
+      "example": "The lesson gives a clear example of “popular”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "very popular"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 17
+    },
+    {
+      "id": 1985,
+      "word": "popularity",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to ความนิยม",
+      "definitionTh": "ความนิยม",
+      "example": "The lesson gives a clear example of “popularity”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "growing popularity"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 16
+    },
+    {
+      "id": 1986,
+      "word": "population",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to ประชากร",
+      "definitionTh": "ประชากร",
+      "example": "The lesson gives a clear example of “population”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "local population"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 15
+    },
+    {
+      "id": 1987,
+      "word": "port",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to ท่าเรือ",
+      "definitionTh": "ท่าเรือ",
+      "example": "The lesson gives a clear example of “port”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "shipping port"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 14
+    },
+    {
+      "id": 1988,
+      "word": "portrait",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to ภาพเหมือน",
+      "definitionTh": "ภาพเหมือน",
+      "example": "The lesson gives a clear example of “portrait”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "family portrait"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 13
+    },
+    {
+      "id": 1989,
+      "word": "pose",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to วางท่า",
+      "definitionTh": "วางท่า",
+      "example": "The lesson gives a clear example of “pose”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "pose a threat"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 12
+    },
+    {
+      "id": 1990,
+      "word": "position",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to ตำแหน่ง",
+      "definitionTh": "ตำแหน่ง",
+      "example": "The lesson gives a clear example of “position”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "fixed position"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 11
+    },
+    {
+      "id": 1991,
+      "word": "positive",
+      "pos": "adj., n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to เชิงบวก",
+      "definitionTh": "เชิงบวก",
+      "example": "The lesson gives a clear example of “positive”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "positive impact"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 10
+    },
+    {
+      "id": 1992,
+      "word": "possess",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to ครอบครอง",
+      "definitionTh": "ครอบครอง",
+      "example": "The lesson gives a clear example of “possess”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "possess skills"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 9
+    },
+    {
+      "id": 1993,
+      "word": "possession",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to ทรัพย์สิน",
+      "definitionTh": "ทรัพย์สิน",
+      "example": "The lesson gives a clear example of “possession”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "personal possession"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 8
+    },
+    {
+      "id": 1994,
+      "word": "possibility",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to ความเป็นไปได้",
+      "definitionTh": "ความเป็นไปได้",
+      "example": "The lesson gives a clear example of “possibility”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "real possibility"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 7
+    },
+    {
+      "id": 1995,
+      "word": "possible",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to เป็นไปได้",
+      "definitionTh": "เป็นไปได้",
+      "example": "The lesson gives a clear example of “possible”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "possible cause"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 6
+    },
+    {
+      "id": 1996,
+      "word": "possibly",
+      "pos": "adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "perhaps or maybe",
+      "definitionTh": "อาจจะ",
+      "example": "The lesson gives a clear example of “possibly”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "possibly due to"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 5
+    },
+    {
+      "id": 1997,
+      "word": "post",
+      "pos": "n., v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to ไปรษณีย์ / โพสต์",
+      "definitionTh": "ไปรษณีย์ / โพสต์",
+      "example": "The lesson gives a clear example of “post”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "social media post"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 4
+    },
+    {
+      "id": 1998,
+      "word": "poster",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to โปสเตอร์",
+      "definitionTh": "โปสเตอร์",
+      "example": "The lesson gives a clear example of “poster”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "information poster"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 3
+    },
+    {
+      "id": 1999,
+      "word": "pot",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to หม้อ",
+      "definitionTh": "หม้อ",
+      "example": "The lesson gives a clear example of “pot”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "cooking pot"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 2
+    },
+    {
+      "id": 2000,
+      "word": "potato",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an English word or expression referring to มันฝรั่ง",
+      "definitionTh": "มันฝรั่ง",
+      "example": "The lesson gives a clear example of “potato”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "boiled potato"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 1
+    }
+  ]
+}

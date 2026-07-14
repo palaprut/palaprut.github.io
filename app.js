@@ -1160,11 +1160,27 @@ function buildVocabStructure(){
   const dateToDayIndex = {};
   studyDates.forEach((d, i) => { dateToDayIndex[dateKey(d)] = i; });
 
-  // จัดกลุ่มวันท่องศัพท์เป็นสัปดาห์ละ 5 วัน แล้วหาวันสอบ (เสาร์-อาทิตย์ถัดไป)
-  const weeks = [];
-  for(let i=0;i<days.length;i+=DAYS_PER_WEEK){
-    weeks.push({dayIndices: Array.from({length: Math.min(DAYS_PER_WEEK, days.length-i)}, (_,k)=>i+k)});
-  }
+  // จัดกลุ่มวันท่องศัพท์เป็นสัปดาห์ตามปฏิทิน (Monday–Sunday) เพื่อให้มีข้อสอบทุกสัปดาห์
+  // ไม่ว่าคุณจะเริ่มจำวันไหนก็ตาม
+  const getWeekStart = d => {
+    const copy = new Date(d);
+    copy.setHours(0,0,0,0);
+    const day = copy.getDay();
+    const diff = (day + 6) % 7;
+    copy.setDate(copy.getDate() - diff);
+    return copy;
+  };
+  const weekKey = d => {
+    const start = getWeekStart(d);
+    return `${start.getFullYear()}-${start.getMonth()+1}-${start.getDate()}`;
+  };
+  const weekGroups = new Map();
+  studyDates.forEach((date, idx) => {
+    const key = weekKey(date);
+    if(!weekGroups.has(key)) weekGroups.set(key, []);
+    weekGroups.get(key).push(idx);
+  });
+  const weeks = Array.from(weekGroups.values()).map(dayIndices => ({ dayIndices }));
   const nextSaturdayAfter = d => { const c = new Date(d); do{ c.setDate(c.getDate()+1); } while(c.getDay() !== 6); return c; };
   weeks.forEach(w => {
     const lastDate = studyDates[w.dayIndices[w.dayIndices.length-1]];
@@ -1175,11 +1191,13 @@ function buildVocabStructure(){
   const dateToQuizWeek = {};
   weeks.forEach((w, wi) => { w.quizDates.forEach(d => { dateToQuizWeek[dateKey(d)] = wi; }); });
 
+  const initialViewDate = studyDates[0] || today;
+
   return {
     days, weeks, dateKey, dateToDayIndex, dateToQuizWeek, today,
     dayCompleted: new Array(days.length).fill(false),
     quizCompleted: new Array(weeks.length).fill(false),
-    viewYear: today.getFullYear(), viewMonth: today.getMonth(),
+    viewYear: initialViewDate.getFullYear(), viewMonth: initialViewDate.getMonth(),
     currentDay: 0, dayIndices: [], pos: 0, known: new Set(), flipped: false,
     quizWeekIndex: 0, quizQuestions: [], quizPos: 0, quizScore: 0, quizAnswered: false,
     _lastSpokenCardKey: null, _lastSpokenQuizKey: null
@@ -1190,6 +1208,12 @@ function showVocabSub(id){
   document.querySelectorAll("#screen-vocab .vocab-subscreen").forEach(s => s.classList.remove("active"));
   const target = document.getElementById(id);
   if(target) target.classList.add("active");
+
+  const titleEl = document.getElementById("vocabScreenTitle");
+  if(titleEl){
+    const hideTitle = id === "vocab-deck" || id === "vocab-quiz";
+    titleEl.style.display = hideTitle ? "none" : "";
+  }
 }
 
 document.getElementById("vocabBackToSelectFromStats").onclick = () => openVocabHome();
@@ -1658,9 +1682,11 @@ document.getElementById("vocabQuizSubmitBtn").onclick = async () => {
 function finishVocabQuiz(){
   const st = vocabState;
   st.quizScore = st.quizQuestions.reduce((sum, w, i) => sum + (st.quizAnswers[i] && st.quizAnswers[i].toLowerCase() === w[1].toLowerCase() ? 1 : 0), 0);
-  st.quizCompleted[st.quizWeekIndex] = true;
   const total = st.quizQuestions.length;
   const pct = total ? Math.round((st.quizScore/total)*100) : 0;
+  // ทำเครื่องหมายว่า "สอบผ่านแล้ว" (สีส้มเข้มบนปฏิทิน) เฉพาะเมื่อได้คะแนน 80% ขึ้นไป
+  // ถ้าเคยผ่านมาแล้ว จะไม่ลดสถานะลง (ไม่ overwrite เป็น false)
+  if(pct >= 80) st.quizCompleted[st.quizWeekIndex] = true;
 
   const byLevel = {};
   st.quizQuestions.forEach((w, i) => {

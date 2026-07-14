@@ -1,0 +1,3659 @@
+{
+  "version": 2,
+  "source": "Oxford 5000 (American English)",
+  "batch": 40,
+  "level": "B2-C1",
+  "totalWords": 100,
+  "metadata": {
+    "created": "2026-07-14",
+    "language": "en-US",
+    "description": "Batch 40 — additional Oxford 5000 words 901-1000; source-aligned from attached PDF"
+  },
+  "words": [
+    {
+      "id": 3865,
+      "word": "identification",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the process of proving or recognizing identity",
+      "definitionTh": "การระบุตัวตน",
+      "example": "Use the serial number for product identification.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "recognition",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "anonymity",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "positive identification"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 100
+    },
+    {
+      "id": 3866,
+      "word": "ideological",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "relating to a system of political or social ideas",
+      "definitionTh": "ทางอุดมการณ์",
+      "example": "The report provides a clear example of “ideological”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "doctrinal",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "ideological example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 99
+    },
+    {
+      "id": 3867,
+      "word": "ideology",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a system of ideas guiding a group or society",
+      "definitionTh": "อุดมการณ์",
+      "example": "The report provides a clear example of “ideology”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "belief system",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "ideology"
+        ],
+        "verb": [],
+        "adjective": [
+          "ideological"
+        ],
+        "adverb": [
+          "ideologically"
+        ]
+      },
+      "collocations": [
+        "ideology example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 98
+    },
+    {
+      "id": 3868,
+      "word": "idiot",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a person considered very foolish",
+      "definitionTh": "คนโง่",
+      "example": "The report provides a clear example of “idiot”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "fool",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "idiot example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 97
+    },
+    {
+      "id": 3869,
+      "word": "ignorance",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "lack of knowledge or information",
+      "definitionTh": "ความไม่รู้",
+      "example": "The report provides a clear example of “ignorance”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "unawareness",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "knowledge",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "ignorance"
+        ],
+        "verb": [
+          "ignore"
+        ],
+        "adjective": [
+          "ignorant"
+        ],
+        "adverb": [
+          "ignorantly"
+        ]
+      },
+      "collocations": [
+        "ignorance example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 96
+    },
+    {
+      "id": 3870,
+      "word": "illusion",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a false appearance or belief",
+      "definitionTh": "ภาพลวงตา",
+      "example": "The report provides a clear example of “illusion”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "delusion",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "reality",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "illusion example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 95
+    },
+    {
+      "id": 3871,
+      "word": "imagery",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "language or pictures that create mental images",
+      "definitionTh": "ภาพพจน์",
+      "example": "The report provides a clear example of “imagery”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "visual language",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "imagery example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 94
+    },
+    {
+      "id": 3872,
+      "word": "immense",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "extremely large or great",
+      "definitionTh": "มหาศาล",
+      "example": "The report provides a clear example of “immense”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "enormous",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "tiny",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "immense example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 93
+    },
+    {
+      "id": 3873,
+      "word": "immigration",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the act of moving into another country to live",
+      "definitionTh": "การย้ายถิ่นเข้า",
+      "example": "The report provides a clear example of “immigration”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "migration",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "immigration example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 92
+    },
+    {
+      "id": 3874,
+      "word": "imminent",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "likely to happen very soon",
+      "definitionTh": "ใกล้จะเกิดขึ้น",
+      "example": "The report provides a clear example of “imminent”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "forthcoming",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "imminent example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 91
+    },
+    {
+      "id": 3875,
+      "word": "immune",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "protected against a disease or effect",
+      "definitionTh": "มีภูมิคุ้มกัน",
+      "example": "The report provides a clear example of “immune”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "resistant",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "susceptible",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "immunity"
+        ],
+        "verb": [
+          "immunize"
+        ],
+        "adjective": [
+          "immune"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "immune example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 90
+    },
+    {
+      "id": 3876,
+      "word": "implement",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to put a plan or system into operation",
+      "definitionTh": "นำไปปฏิบัติ",
+      "example": "The report provides a clear example of “implement”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "execute",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "implementation"
+        ],
+        "verb": [
+          "implement"
+        ],
+        "adjective": [
+          "implemented"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "implement example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 89
+    },
+    {
+      "id": 3877,
+      "word": "implementation",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the process of putting a plan into effect",
+      "definitionTh": "การดำเนินงาน",
+      "example": "The implementation follows three phases.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "rollout",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "system implementation"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 88
+    },
+    {
+      "id": 3878,
+      "word": "implication",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a possible effect or suggested meaning",
+      "definitionTh": "ผลกระทบโดยนัย",
+      "example": "Assess the safety implication of the change.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "consequence",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "practical implication"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 87
+    },
+    {
+      "id": 3879,
+      "word": "imprison",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to put someone in prison",
+      "definitionTh": "จำคุก",
+      "example": "The report provides a clear example of “imprison”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "jail",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "imprisonment"
+        ],
+        "verb": [
+          "imprison"
+        ],
+        "adjective": [
+          "imprisoned"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "imprison example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 86
+    },
+    {
+      "id": 3880,
+      "word": "inability",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "lack of ability to do something",
+      "definitionTh": "การไม่สามารถ",
+      "example": "The report provides a clear example of “inability”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "incapacity",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "ability",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "inability example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 85
+    },
+    {
+      "id": 3881,
+      "word": "inadequate",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "not enough or not good enough",
+      "definitionTh": "ไม่เพียงพอ",
+      "example": "The report provides a clear example of “inadequate”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "deficient",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "adequate",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "inadequate example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 84
+    },
+    {
+      "id": 3882,
+      "word": "inappropriate",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "not suitable or acceptable",
+      "definitionTh": "ไม่เหมาะสม",
+      "example": "The report provides a clear example of “inappropriate”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "unsuitable",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "appropriate",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "inappropriate example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 83
+    },
+    {
+      "id": 3883,
+      "word": "incarcerate",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to put someone in prison",
+      "definitionTh": "กักขัง",
+      "example": "The report provides a clear example of “incarcerate”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "imprison",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "incarceration"
+        ],
+        "verb": [
+          "incarcerate"
+        ],
+        "adjective": [
+          "incarcerated"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "incarcerate example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 82
+    },
+    {
+      "id": 3884,
+      "word": "incarceration",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the state of being kept in prison",
+      "definitionTh": "การคุมขัง",
+      "example": "The report provides a clear example of “incarceration”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "confinement",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "incarceration example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 81
+    },
+    {
+      "id": 3885,
+      "word": "incentive",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "something that motivates action",
+      "definitionTh": "สิ่งจูงใจ",
+      "example": "The program provides an incentive for improvement.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "motivation",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "financial incentive"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 80
+    },
+    {
+      "id": 3886,
+      "word": "incidence",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the rate or occurrence of an event",
+      "definitionTh": "อุบัติการณ์",
+      "example": "Track the incidence of stick defects.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "occurrence",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "incidence rate"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 79
+    },
+    {
+      "id": 3887,
+      "word": "inclined",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "likely or willing to do something",
+      "definitionTh": "มีแนวโน้ม",
+      "example": "The report provides a clear example of “inclined”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "disposed",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "inclined example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 78
+    },
+    {
+      "id": 3888,
+      "word": "inclusion",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the act of including someone or something",
+      "definitionTh": "การรวมเข้า",
+      "example": "The report provides a clear example of “inclusion”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "incorporation",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "exclusion",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "inclusion example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 77
+    },
+    {
+      "id": 3889,
+      "word": "incorporate",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to include as part of a whole",
+      "definitionTh": "รวมเข้าด้วยกัน",
+      "example": "Incorporate operator feedback into the design.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "include",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "incorporation"
+        ],
+        "verb": [
+          "incorporate"
+        ],
+        "adjective": [
+          "incorporated"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "incorporate data"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 76
+    },
+    {
+      "id": 3890,
+      "word": "incorrect",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "not correct",
+      "definitionTh": "ไม่ถูกต้อง",
+      "example": "The report provides a clear example of “incorrect”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "wrong",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "correct",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "incorrect example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 75
+    },
+    {
+      "id": 3891,
+      "word": "incur",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to cause a cost, debt, or result",
+      "definitionTh": "ก่อให้เกิด",
+      "example": "The report provides a clear example of “incur”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "sustain",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "incur example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 74
+    },
+    {
+      "id": 3892,
+      "word": "independence",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "freedom from control by others",
+      "definitionTh": "เอกราช",
+      "example": "The report provides a clear example of “independence”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "autonomy",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "dependence",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "independence example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 73
+    },
+    {
+      "id": 3893,
+      "word": "index",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "an ordered list or numerical measure",
+      "definitionTh": "ดัชนี",
+      "example": "Use the index to locate each record.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "list",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "performance index"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 72
+    },
+    {
+      "id": 3894,
+      "word": "indication",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a sign that something exists or may happen",
+      "definitionTh": "ข้อบ่งชี้",
+      "example": "A high temperature is an indication of overload.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "sign",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "clear indication"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 71
+    },
+    {
+      "id": 3895,
+      "word": "indicator",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a measure that shows a condition or trend",
+      "definitionTh": "ตัวบ่งชี้",
+      "example": "Defect rate is a key performance indicator.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "measure",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "leading indicator"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 70
+    },
+    {
+      "id": 3896,
+      "word": "indictment",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a formal accusation of a serious crime",
+      "definitionTh": "คำฟ้อง",
+      "example": "The report provides a clear example of “indictment”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "charge",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "indictment example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 69
+    },
+    {
+      "id": 3897,
+      "word": "indigenous",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "originating naturally in a particular place",
+      "definitionTh": "ชนพื้นเมือง",
+      "example": "The report provides a clear example of “indigenous”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "native",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "foreign",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "indigenous example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 68
+    },
+    {
+      "id": 3898,
+      "word": "induce",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to cause a particular condition or response",
+      "definitionTh": "ก่อให้เกิด",
+      "example": "Vibration may induce image blur.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "cause",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "inducement"
+        ],
+        "verb": [
+          "induce"
+        ],
+        "adjective": [
+          "induced"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "induce change"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 67
+    },
+    {
+      "id": 3899,
+      "word": "indulge",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to allow oneself excessive pleasure",
+      "definitionTh": "ปล่อยตัวตามใจ",
+      "example": "The report provides a clear example of “indulge”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "pamper",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "indulge example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 66
+    },
+    {
+      "id": 3900,
+      "word": "inequality",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "an unfair difference in rights or resources",
+      "definitionTh": "ความไม่เท่าเทียม",
+      "example": "The report provides a clear example of “inequality”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "disparity",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "equality",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "inequality example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 65
+    },
+    {
+      "id": 3901,
+      "word": "inevitable",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "certain to happen and impossible to avoid",
+      "definitionTh": "หลีกเลี่ยงไม่ได้",
+      "example": "Some variation is inevitable.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "unavoidable",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "avoidable",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "inevitable result"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 64
+    },
+    {
+      "id": 3902,
+      "word": "inevitably",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "in a way that cannot be avoided",
+      "definitionTh": "อย่างหลีกเลี่ยงไม่ได้",
+      "example": "The report provides a clear example of “inevitably”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "unavoidably",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "inevitably example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 63
+    },
+    {
+      "id": 3903,
+      "word": "infamous",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "well known for a negative reason",
+      "definitionTh": "มีชื่อเสียงในทางไม่ดี",
+      "example": "The report provides a clear example of “infamous”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "notorious",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "respected",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "infamous example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 62
+    },
+    {
+      "id": 3904,
+      "word": "infant",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a very young child",
+      "definitionTh": "ทารก",
+      "example": "The report provides a clear example of “infant”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "baby",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "infant example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 61
+    },
+    {
+      "id": 3905,
+      "word": "infect",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to introduce disease into a person or system",
+      "definitionTh": "ทำให้ติดเชื้อ",
+      "example": "The report provides a clear example of “infect”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "contaminate",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "infection"
+        ],
+        "verb": [
+          "infect"
+        ],
+        "adjective": [
+          "infectious"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "infect example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 60
+    },
+    {
+      "id": 3906,
+      "word": "infer",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to reach a conclusion from evidence",
+      "definitionTh": "อนุมาน",
+      "example": "Infer the root cause from the pattern.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "deduce",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "infer from"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 59
+    },
+    {
+      "id": 3907,
+      "word": "inflation",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a general rise in prices",
+      "definitionTh": "เงินเฟ้อ",
+      "example": "The report provides a clear example of “inflation”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "price rise",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "inflation example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 58
+    },
+    {
+      "id": 3908,
+      "word": "inflict",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to cause pain, damage, or suffering",
+      "definitionTh": "ก่อให้เกิดความเสียหาย",
+      "example": "The report provides a clear example of “inflict”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "impose",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "inflict example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 57
+    },
+    {
+      "id": 3909,
+      "word": "influential",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "having the power to affect decisions or behavior",
+      "definitionTh": "มีอิทธิพล",
+      "example": "The report provides a clear example of “influential”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "powerful",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "influential example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 56
+    },
+    {
+      "id": 3910,
+      "word": "info",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "informal information",
+      "definitionTh": "ข้อมูล",
+      "example": "The report provides a clear example of “info”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "information",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "info example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 55
+    },
+    {
+      "id": 3911,
+      "word": "infrastructure",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "basic systems and structures supporting society or operations",
+      "definitionTh": "โครงสร้างพื้นฐาน",
+      "example": "The project requires network infrastructure.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "foundation systems",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "digital infrastructure"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 54
+    },
+    {
+      "id": 3912,
+      "word": "inhabitant",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a person who lives in a place",
+      "definitionTh": "ผู้อยู่อาศัย",
+      "example": "The report provides a clear example of “inhabitant”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "resident",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "inhabitant example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 53
+    },
+    {
+      "id": 3913,
+      "word": "inherent",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "existing as a natural and permanent part",
+      "definitionTh": "โดยธรรมชาติ",
+      "example": "Every method has inherent limitations.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "intrinsic",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "acquired",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "inherent risk"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 52
+    },
+    {
+      "id": 3914,
+      "word": "inherit",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to receive property or a quality from someone",
+      "definitionTh": "รับมรดก",
+      "example": "The report provides a clear example of “inherit”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "receive",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "inheritance"
+        ],
+        "verb": [
+          "inherit"
+        ],
+        "adjective": [
+          "inherited"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "inherit example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 51
+    },
+    {
+      "id": 3915,
+      "word": "inhibit",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to prevent or slow an action",
+      "definitionTh": "ยับยั้ง",
+      "example": "Poor lighting can inhibit detection.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "restrain",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "encourage",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "inhibit growth"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 50
+    },
+    {
+      "id": 3916,
+      "word": "initiate",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to cause a process to begin",
+      "definitionTh": "เริ่มต้น",
+      "example": "Initiate the test after calibration.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "start",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "initiate action"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 49
+    },
+    {
+      "id": 3917,
+      "word": "inject",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to put a substance into something using pressure",
+      "definitionTh": "ฉีด",
+      "example": "The report provides a clear example of “inject”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "introduce",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "inject example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 48
+    },
+    {
+      "id": 3918,
+      "word": "injection",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the act of putting a substance into something",
+      "definitionTh": "การฉีด",
+      "example": "The report provides a clear example of “injection”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "shot",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "injection example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 47
+    },
+    {
+      "id": 3919,
+      "word": "injustice",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "lack of fairness or justice",
+      "definitionTh": "ความไม่ยุติธรรม",
+      "example": "The report provides a clear example of “injustice”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "unfairness",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "justice",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "injustice example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 46
+    },
+    {
+      "id": 3920,
+      "word": "ink",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "colored liquid used for writing or printing",
+      "definitionTh": "หมึก",
+      "example": "The report provides a clear example of “ink”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "pigment",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "ink example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 45
+    },
+    {
+      "id": 3921,
+      "word": "inmate",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a person kept in a prison or institution",
+      "definitionTh": "ผู้ต้องขัง",
+      "example": "The report provides a clear example of “inmate”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "prisoner",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "inmate example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 44
+    },
+    {
+      "id": 3922,
+      "word": "innovation",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a new idea, method, or product",
+      "definitionTh": "นวัตกรรม",
+      "example": "The camera project supports innovation.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "invention",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "process innovation"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 43
+    },
+    {
+      "id": 3923,
+      "word": "innovative",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "introducing new ideas or methods",
+      "definitionTh": "มีนวัตกรรม",
+      "example": "The team proposed an innovative solution.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "creative",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "conventional",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "innovative design"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 42
+    },
+    {
+      "id": 3924,
+      "word": "input",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "information supplied to a system",
+      "definitionTh": "ข้อมูลนำเข้า",
+      "example": "Verify each PLC input signal.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "data",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "digital input"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 41
+    },
+    {
+      "id": 3925,
+      "word": "inquire",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to ask for information",
+      "definitionTh": "สอบถาม",
+      "example": "The report provides a clear example of “inquire”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "ask",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "inquiry"
+        ],
+        "verb": [
+          "inquire"
+        ],
+        "adjective": [
+          "inquisitive"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "inquire example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 40
+    },
+    {
+      "id": 3926,
+      "word": "insert",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to put something inside something else",
+      "definitionTh": "แทรก",
+      "example": "The report provides a clear example of “insert”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "place",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "insertion"
+        ],
+        "verb": [
+          "insert"
+        ],
+        "adjective": [
+          "inserted"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "insert example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 39
+    },
+    {
+      "id": 3927,
+      "word": "insertion",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the act of placing something inside",
+      "definitionTh": "การแทรก",
+      "example": "The report provides a clear example of “insertion”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "addition",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "insertion example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 38
+    },
+    {
+      "id": 3928,
+      "word": "insider",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a person with special access or knowledge",
+      "definitionTh": "คนวงใน",
+      "example": "The report provides a clear example of “insider”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "internal member",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "insider example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 37
+    },
+    {
+      "id": 3929,
+      "word": "inspect",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to examine carefully for quality or safety",
+      "definitionTh": "ตรวจสอบ",
+      "example": "Inspect the lens before production.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "examine",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "inspection",
+          "inspector"
+        ],
+        "verb": [
+          "inspect"
+        ],
+        "adjective": [
+          "inspectable"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "inspect carefully"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 36
+    },
+    {
+      "id": 3930,
+      "word": "inspection",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the act of examining carefully",
+      "definitionTh": "การตรวจสอบ",
+      "example": "The system performs automatic inspection.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "review",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "visual inspection"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 35
+    },
+    {
+      "id": 3931,
+      "word": "inspector",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a person who officially examines something",
+      "definitionTh": "ผู้ตรวจสอบ",
+      "example": "The quality inspector reviewed the result.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "examiner",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "quality inspector"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 34
+    },
+    {
+      "id": 3932,
+      "word": "inspiration",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a person or idea that stimulates creativity",
+      "definitionTh": "แรงบันดาลใจ",
+      "example": "The report provides a clear example of “inspiration”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "motivation",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "inspiration example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 33
+    },
+    {
+      "id": 3933,
+      "word": "installation",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the process of putting equipment or software in place",
+      "definitionTh": "การติดตั้ง",
+      "example": "Complete the camera installation safely.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "setup",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "equipment installation"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 32
+    },
+    {
+      "id": 3934,
+      "word": "instant",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "happening immediately",
+      "definitionTh": "ทันที",
+      "example": "The dashboard provides instant feedback.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "immediate",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "instant response"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 31
+    },
+    {
+      "id": 3935,
+      "word": "instantly",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "immediately and without delay",
+      "definitionTh": "อย่างทันที",
+      "example": "The report provides a clear example of “instantly”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "immediately",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "instantly example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 30
+    },
+    {
+      "id": 3936,
+      "word": "instinct",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a natural automatic feeling or behavior",
+      "definitionTh": "สัญชาตญาณ",
+      "example": "The report provides a clear example of “instinct”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "intuition",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "instinct example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 29
+    },
+    {
+      "id": 3937,
+      "word": "institutional",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "relating to an established organization",
+      "definitionTh": "ทางสถาบัน",
+      "example": "The report provides a clear example of “institutional”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "organizational",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "institutional example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 28
+    },
+    {
+      "id": 3938,
+      "word": "instruct",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to tell someone formally what to do",
+      "definitionTh": "สั่งสอน",
+      "example": "The report provides a clear example of “instruct”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "direct",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "instruction",
+          "instructor"
+        ],
+        "verb": [
+          "instruct"
+        ],
+        "adjective": [
+          "instructional"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "instruct example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 27
+    },
+    {
+      "id": 3939,
+      "word": "instrumental",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "important in achieving a result",
+      "definitionTh": "มีส่วนสำคัญ",
+      "example": "Reliable data was instrumental in the decision.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "essential",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "instrumental role"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 26
+    },
+    {
+      "id": 3940,
+      "word": "insufficient",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "not enough for a need",
+      "definitionTh": "ไม่เพียงพอ",
+      "example": "The current lighting is insufficient.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "deficient",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "sufficient",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "insufficient evidence"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 25
+    },
+    {
+      "id": 3941,
+      "word": "insult",
+      "pos": "n., v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to offend someone with words or actions",
+      "definitionTh": "ดูหมิ่น",
+      "example": "The report provides a clear example of “insult”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "offend",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "insult example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 24
+    },
+    {
+      "id": 3942,
+      "word": "intact",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "complete and not damaged",
+      "definitionTh": "สมบูรณ์ไม่เสียหาย",
+      "example": "Keep the seal intact during testing.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "undamaged",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "damaged",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "remain intact"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 23
+    },
+    {
+      "id": 3943,
+      "word": "intake",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the amount entering a system",
+      "definitionTh": "ปริมาณรับเข้า",
+      "example": "Measure air intake at the cabinet.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "input volume",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "air intake"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 22
+    },
+    {
+      "id": 3944,
+      "word": "integral",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "necessary and forming part of a whole",
+      "definitionTh": "เป็นส่วนสำคัญ",
+      "example": "Traceability is integral to the system.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "essential",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "integral part"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 21
+    },
+    {
+      "id": 3945,
+      "word": "integrate",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to combine parts into one system",
+      "definitionTh": "บูรณาการ",
+      "example": "Integrate the camera with the PLC.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "combine",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "separate",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "integration"
+        ],
+        "verb": [
+          "integrate"
+        ],
+        "adjective": [
+          "integral",
+          "integrated"
+        ],
+        "adverb": [
+          "integrally"
+        ]
+      },
+      "collocations": [
+        "integrate with"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 20
+    },
+    {
+      "id": 3946,
+      "word": "integrated",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "combined into a unified system",
+      "definitionTh": "บูรณาการแล้ว",
+      "example": "Use an integrated inspection platform.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "unified",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "separate",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "integrated system"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 19
+    },
+    {
+      "id": 3947,
+      "word": "integration",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the process of combining systems or groups",
+      "definitionTh": "การบูรณาการ",
+      "example": "Test PLC and camera integration.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "combination",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "system integration"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 18
+    },
+    {
+      "id": 3948,
+      "word": "integrity",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "honesty and completeness",
+      "definitionTh": "ความซื่อสัตย์ / ความสมบูรณ์",
+      "example": "Validate the integrity of the raw data.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "honesty",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "corruption",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "data integrity"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 17
+    },
+    {
+      "id": 3949,
+      "word": "intellectual",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "relating to thought and understanding",
+      "definitionTh": "ทางปัญญา",
+      "example": "The report provides a clear example of “intellectual”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "cognitive",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "intellectual example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 16
+    },
+    {
+      "id": 3950,
+      "word": "intensify",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to make stronger or more severe",
+      "definitionTh": "ทำให้เข้มข้นขึ้น",
+      "example": "Higher speed may intensify vibration.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "strengthen",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "weaken",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "intensify efforts"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 15
+    },
+    {
+      "id": 3951,
+      "word": "intensity",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the strength or degree of something",
+      "definitionTh": "ความเข้มข้น",
+      "example": "Adjust the light intensity.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "strength",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "light intensity"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 14
+    },
+    {
+      "id": 3952,
+      "word": "intensive",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "involving concentrated effort or activity",
+      "definitionTh": "เข้มข้น",
+      "example": "The model completed intensive testing.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "concentrated",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "intensive training"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 13
+    },
+    {
+      "id": 3953,
+      "word": "intent",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a purpose or plan",
+      "definitionTh": "เจตนา",
+      "example": "The report provides a clear example of “intent”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "purpose",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "intent example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 12
+    },
+    {
+      "id": 3954,
+      "word": "interact",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to communicate or act with others",
+      "definitionTh": "โต้ตอบ",
+      "example": "The operator can interact with the dashboard.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "communicate",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "interaction"
+        ],
+        "verb": [
+          "interact"
+        ],
+        "adjective": [
+          "interactive"
+        ],
+        "adverb": [
+          "interactively"
+        ]
+      },
+      "collocations": [
+        "interact with"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 11
+    },
+    {
+      "id": 3955,
+      "word": "interaction",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "communication or mutual action",
+      "definitionTh": "ปฏิสัมพันธ์",
+      "example": "Record every operator interaction.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "exchange",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "user interaction"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 10
+    },
+    {
+      "id": 3956,
+      "word": "interactive",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "allowing two-way user response",
+      "definitionTh": "เชิงโต้ตอบ",
+      "example": "The dashboard includes interactive charts.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "responsive",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "passive",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "interactive display"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 9
+    },
+    {
+      "id": 3957,
+      "word": "interface",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a point where systems or people connect",
+      "definitionTh": "ส่วนเชื่อมต่อ",
+      "example": "Use a simple operator interface.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "connection",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "user interface"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 8
+    },
+    {
+      "id": 3958,
+      "word": "interfere",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to obstruct or become involved improperly",
+      "definitionTh": "รบกวน",
+      "example": "Reflections may interfere with detection.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "obstruct",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "assist",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "interfere with"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 7
+    },
+    {
+      "id": 3959,
+      "word": "interference",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "unwanted disturbance affecting a process",
+      "definitionTh": "การรบกวน",
+      "example": "Shield the cable from electrical interference.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "disturbance",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "signal interference"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 6
+    },
+    {
+      "id": 3960,
+      "word": "interim",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "temporary and between two stages",
+      "definitionTh": "ชั่วคราว",
+      "example": "Use an interim control until installation.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "temporary",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "interim measure"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 5
+    },
+    {
+      "id": 3961,
+      "word": "interior",
+      "pos": "adj., n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the inside part of something",
+      "definitionTh": "ภายใน",
+      "example": "Inspect the interior of the cabinet.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "inside",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "exterior",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "interior surface"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 4
+    },
+    {
+      "id": 3962,
+      "word": "intermediate",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "between basic and advanced levels",
+      "definitionTh": "ระดับกลาง",
+      "example": "Add an intermediate verification step.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "mid-level",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "intermediate level"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 3
+    },
+    {
+      "id": 3963,
+      "word": "interpretation",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "an explanation of meaning",
+      "definitionTh": "การตีความ",
+      "example": "Document the interpretation of each score.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "explanation",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "data interpretation"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 2
+    },
+    {
+      "id": 3964,
+      "word": "intersection",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a place where roads or lines cross",
+      "definitionTh": "ทางแยก",
+      "example": "Install the sign near the intersection.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "crossroads",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "road intersection"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 1
+    }
+  ]
+}

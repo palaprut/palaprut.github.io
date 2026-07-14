@@ -1,0 +1,3536 @@
+{
+  "version": 2,
+  "source": "Oxford 3000",
+  "batch": 27,
+  "level": "Mixed",
+  "totalWords": 100,
+  "metadata": {
+    "created": "2026-07-14",
+    "language": "en",
+    "description": "Batch 27 of 50 — Oxford 3000 words 2601-2700; source-aligned sequence"
+  },
+  "words": [
+    {
+      "id": 2601,
+      "word": "system",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a set of connected parts working together",
+      "definitionTh": "ระบบ",
+      "example": "The inspection system records every defect.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "framework",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "system"
+        ],
+        "verb": [
+          "systematize"
+        ],
+        "adjective": [
+          "systematic"
+        ],
+        "adverb": [
+          "systematically"
+        ]
+      },
+      "collocations": [
+        "inspection system"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 100
+    },
+    {
+      "id": 2602,
+      "word": "table",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a flat piece of furniture or an arrangement of data",
+      "definitionTh": "โต๊ะ / ตาราง",
+      "example": "The results are shown in the table.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "chart",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "data table"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 99
+    },
+    {
+      "id": 2603,
+      "word": "tablet",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a small portable computer or a compressed medicine",
+      "definitionTh": "แท็บเล็ต / แผ่นยา",
+      "example": "The operator entered data on a tablet.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "portable computer",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "tablet computer"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 98
+    },
+    {
+      "id": 2604,
+      "word": "tail",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the back part of an animal’s body",
+      "definitionTh": "หาง",
+      "example": "The dog moved its tail.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "long tail"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 97
+    },
+    {
+      "id": 2605,
+      "word": "take",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to carry, use, accept, or require time",
+      "definitionTh": "เอา / ใช้เวลา",
+      "example": "Take a sample every hour.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "collect",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "give",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "take action"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 96
+    },
+    {
+      "id": 2606,
+      "word": "tale",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a story, especially one that may be imaginary",
+      "definitionTh": "เรื่องเล่า",
+      "example": "The book tells an old tale.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "story",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "fairy tale"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 95
+    },
+    {
+      "id": 2607,
+      "word": "talent",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a natural ability to do something well",
+      "definitionTh": "พรสวรรค์",
+      "example": "She has a talent for engineering.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "ability",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "talent"
+        ],
+        "verb": [],
+        "adjective": [
+          "talented"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "natural talent"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 94
+    },
+    {
+      "id": 2608,
+      "word": "talk",
+      "pos": "v., n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to speak with someone; a conversation",
+      "definitionTh": "พูดคุย",
+      "example": "We need to talk about the result.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "speak",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "talk",
+          "talker"
+        ],
+        "verb": [
+          "talk"
+        ],
+        "adjective": [
+          "talkative"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "talk about"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 93
+    },
+    {
+      "id": 2609,
+      "word": "tall",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "having greater than average height",
+      "definitionTh": "สูง",
+      "example": "The tank is three metres tall.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "high",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "short",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "tall building"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 92
+    },
+    {
+      "id": 2610,
+      "word": "tank",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a large container for liquid or gas",
+      "definitionTh": "ถัง",
+      "example": "Check the temperature inside the tank.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "container",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "storage tank"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 91
+    },
+    {
+      "id": 2611,
+      "word": "tape",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a narrow strip used for joining or recording",
+      "definitionTh": "เทป",
+      "example": "Secure the cable with tape.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "adhesive tape"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 90
+    },
+    {
+      "id": 2612,
+      "word": "target",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a goal or level that someone aims to reach",
+      "definitionTh": "เป้าหมาย",
+      "example": "The team achieved its target.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "goal",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "performance target"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 89
+    },
+    {
+      "id": 2613,
+      "word": "task",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a piece of work that must be completed",
+      "definitionTh": "งาน",
+      "example": "Complete the inspection task first.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "job",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "routine task"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 88
+    },
+    {
+      "id": 2614,
+      "word": "taste",
+      "pos": "v., n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the flavour of food; to experience flavour",
+      "definitionTh": "รสชาติ / ชิม",
+      "example": "The product has a sweet taste.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "flavour",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "taste"
+        ],
+        "verb": [
+          "taste"
+        ],
+        "adjective": [
+          "tasty"
+        ],
+        "adverb": [
+          "tastefully"
+        ]
+      },
+      "collocations": [
+        "sweet taste"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 87
+    },
+    {
+      "id": 2615,
+      "word": "tax",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "money collected by a government",
+      "definitionTh": "ภาษี",
+      "example": "The price includes tax.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "income tax"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 86
+    },
+    {
+      "id": 2616,
+      "word": "taxi",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a car that carries passengers for payment",
+      "definitionTh": "แท็กซี่",
+      "example": "We took a taxi to the factory.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "cab",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "taxi driver"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 85
+    },
+    {
+      "id": 2617,
+      "word": "tea",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a drink made by adding hot water to leaves",
+      "definitionTh": "ชา",
+      "example": "She drinks tea in the morning.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "green tea"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 84
+    },
+    {
+      "id": 2618,
+      "word": "teach",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to help someone learn",
+      "definitionTh": "สอน",
+      "example": "The trainer will teach the new procedure.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "instruct",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "learn",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "teacher",
+          "teaching"
+        ],
+        "verb": [
+          "teach"
+        ],
+        "adjective": [
+          "teachable"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "teach a skill"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 83
+    },
+    {
+      "id": 2619,
+      "word": "teacher",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a person who teaches",
+      "definitionTh": "ครู",
+      "example": "The teacher explained the lesson.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "educator",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "teacher",
+          "teaching"
+        ],
+        "verb": [
+          "teach"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "English teacher"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 82
+    },
+    {
+      "id": 2620,
+      "word": "teaching",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the activity or profession of helping people learn",
+      "definitionTh": "การสอน",
+      "example": "Teaching requires good communication.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "teacher",
+          "teaching"
+        ],
+        "verb": [
+          "teach"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "teaching method"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 81
+    },
+    {
+      "id": 2621,
+      "word": "team",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a group of people working or playing together",
+      "definitionTh": "ทีม",
+      "example": "The project team reviewed the data.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "group",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "project team"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 80
+    },
+    {
+      "id": 2622,
+      "word": "tear",
+      "pos": "v., n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to pull apart; a drop of liquid from the eye",
+      "definitionTh": "ฉีก / น้ำตา",
+      "example": "Do not tear the document.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "tear apart"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 79
+    },
+    {
+      "id": 2623,
+      "word": "technical",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "relating to practical skills, machines, or science",
+      "definitionTh": "ทางเทคนิค",
+      "example": "The supplier provides technical support.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "specialized",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "technique",
+          "technology"
+        ],
+        "verb": [],
+        "adjective": [
+          "technical"
+        ],
+        "adverb": [
+          "technically"
+        ]
+      },
+      "collocations": [
+        "technical issue"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 78
+    },
+    {
+      "id": 2624,
+      "word": "technique",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a particular method of doing something",
+      "definitionTh": "เทคนิค",
+      "example": "Use the correct measurement technique.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "method",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "technique",
+          "technician"
+        ],
+        "verb": [],
+        "adjective": [
+          "technical"
+        ],
+        "adverb": [
+          "technically"
+        ]
+      },
+      "collocations": [
+        "inspection technique"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 77
+    },
+    {
+      "id": 2625,
+      "word": "technology",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "scientific knowledge used for practical purposes",
+      "definitionTh": "เทคโนโลยี",
+      "example": "The factory adopted new technology.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "applied science",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "technology",
+          "technologist"
+        ],
+        "verb": [],
+        "adjective": [
+          "technological"
+        ],
+        "adverb": [
+          "technologically"
+        ]
+      },
+      "collocations": [
+        "digital technology"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 76
+    },
+    {
+      "id": 2626,
+      "word": "teenage",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "relating to people aged thirteen to nineteen",
+      "definitionTh": "วัยรุ่น",
+      "example": "The programme supports teenage students.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "teenager"
+        ],
+        "verb": [],
+        "adjective": [
+          "teenage"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "teenage years"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 75
+    },
+    {
+      "id": 2627,
+      "word": "teenager",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a person aged from thirteen to nineteen",
+      "definitionTh": "วัยรุ่น",
+      "example": "The teenager attended the course.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "adolescent",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "teenager"
+        ],
+        "verb": [],
+        "adjective": [
+          "teenage"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "young teenager"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 74
+    },
+    {
+      "id": 2628,
+      "word": "telephone",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a device used to speak to someone at a distance",
+      "definitionTh": "โทรศัพท์",
+      "example": "The telephone rang during the meeting.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "phone",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "telephone"
+        ],
+        "verb": [
+          "telephone"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "telephone number"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 73
+    },
+    {
+      "id": 2629,
+      "word": "television",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a system or device for showing moving images",
+      "definitionTh": "โทรทัศน์",
+      "example": "The news was shown on television.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "TV",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "television programme"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 72
+    },
+    {
+      "id": 2630,
+      "word": "tell",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to give information to someone",
+      "definitionTh": "บอก",
+      "example": "Tell the supervisor about the fault.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "inform",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "teller"
+        ],
+        "verb": [
+          "tell"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "tell the truth"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 71
+    },
+    {
+      "id": 2631,
+      "word": "temperature",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the measured degree of heat",
+      "definitionTh": "อุณหภูมิ",
+      "example": "Monitor the filler temperature continuously.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "temperature"
+        ],
+        "verb": [],
+        "adjective": [
+          "thermal"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "operating temperature"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 70
+    },
+    {
+      "id": 2632,
+      "word": "temporary",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "lasting for only a limited time",
+      "definitionTh": "ชั่วคราว",
+      "example": "We installed a temporary guard.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "short-term",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "permanent",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "temporary solution"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 69
+    },
+    {
+      "id": 2633,
+      "word": "ten",
+      "pos": "number",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the number 10",
+      "definitionTh": "สิบ",
+      "example": "Ten samples were tested.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "ten minutes"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 68
+    },
+    {
+      "id": 2634,
+      "word": "tend",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to usually behave in a particular way",
+      "definitionTh": "มีแนวโน้ม",
+      "example": "Defects tend to occur at start-up.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "be likely",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "tend to"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 67
+    },
+    {
+      "id": 2635,
+      "word": "tennis",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a game played with rackets and a ball",
+      "definitionTh": "เทนนิส",
+      "example": "They play tennis after work.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "tennis court"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 66
+    },
+    {
+      "id": 2636,
+      "word": "tent",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a portable shelter made of fabric",
+      "definitionTh": "เต็นท์",
+      "example": "The team slept in a tent.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "camping tent"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 65
+    },
+    {
+      "id": 2637,
+      "word": "term",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a word, period, or condition in an agreement",
+      "definitionTh": "คำศัพท์ / ระยะเวลา",
+      "example": "Define each technical term.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "word",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "technical term"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 64
+    },
+    {
+      "id": 2638,
+      "word": "terrible",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "extremely bad or unpleasant",
+      "definitionTh": "แย่มาก",
+      "example": "The machine made a terrible noise.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "awful",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "excellent",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "terrible condition"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 63
+    },
+    {
+      "id": 2639,
+      "word": "test",
+      "pos": "v., n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to examine performance or quality; an examination",
+      "definitionTh": "ทดสอบ / การทดสอบ",
+      "example": "Run the test three times.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "examine",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "test",
+          "tester"
+        ],
+        "verb": [
+          "test"
+        ],
+        "adjective": [
+          "tested"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "performance test"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 62
+    },
+    {
+      "id": 2640,
+      "word": "text",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "written words, especially in a message or document",
+      "definitionTh": "ข้อความ",
+      "example": "Enter the text in the field.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "written words",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "text message"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 61
+    },
+    {
+      "id": 2641,
+      "word": "than",
+      "pos": "conj./prep.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "used to compare two things",
+      "definitionTh": "กว่า",
+      "example": "This camera is faster than the old one.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "compared with",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "greater than"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 60
+    },
+    {
+      "id": 2642,
+      "word": "thank",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to express appreciation",
+      "definitionTh": "ขอบคุณ",
+      "example": "Thank the team for its support.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "express gratitude",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "blame",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "thanks"
+        ],
+        "verb": [
+          "thank"
+        ],
+        "adjective": [
+          "thankful"
+        ],
+        "adverb": [
+          "thankfully"
+        ]
+      },
+      "collocations": [
+        "thank you"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 59
+    },
+    {
+      "id": 2643,
+      "word": "that",
+      "pos": "det./pron./conj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "used to identify a person or thing or connect clauses",
+      "definitionTh": "นั้น / ที่",
+      "example": "That sensor needs calibration.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "that is"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 58
+    },
+    {
+      "id": 2644,
+      "word": "the",
+      "pos": "definite article",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "used before a specific noun",
+      "definitionTh": "คำนำหน้านาม",
+      "example": "The machine is ready.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "the same"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 57
+    },
+    {
+      "id": 2645,
+      "word": "theatre",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a building where plays or performances are presented",
+      "definitionTh": "โรงละคร",
+      "example": "The play was performed in a theatre.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "playhouse",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "local theatre"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 56
+    },
+    {
+      "id": 2646,
+      "word": "their",
+      "pos": "det.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "belonging to them",
+      "definitionTh": "ของพวกเขา",
+      "example": "Their report is complete.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "their work"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 55
+    },
+    {
+      "id": 2647,
+      "word": "theirs",
+      "pos": "pron.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the one or ones belonging to them",
+      "definitionTh": "ของพวกเขา",
+      "example": "The final decision is theirs.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "theirs alone"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 54
+    },
+    {
+      "id": 2648,
+      "word": "them",
+      "pos": "pron.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "used to refer to people as the object",
+      "definitionTh": "พวกเขา",
+      "example": "Send them the updated file.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "tell them"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 53
+    },
+    {
+      "id": 2649,
+      "word": "theme",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the main subject or idea",
+      "definitionTh": "หัวข้อหลัก",
+      "example": "Safety is the main theme.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "subject",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "central theme"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 52
+    },
+    {
+      "id": 2650,
+      "word": "themselves",
+      "pos": "pron.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "used when people are both subject and object",
+      "definitionTh": "ตัวพวกเขาเอง",
+      "example": "They completed the task themselves.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "by themselves"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 51
+    },
+    {
+      "id": 2651,
+      "word": "then",
+      "pos": "adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "at that time or next",
+      "definitionTh": "จากนั้น",
+      "example": "Check the sensor, then restart the line.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "next",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "and then"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 50
+    },
+    {
+      "id": 2652,
+      "word": "theory",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a set of ideas explaining something",
+      "definitionTh": "ทฤษฎี",
+      "example": "The experiment supports the theory.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "explanation",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "theory",
+          "theorist"
+        ],
+        "verb": [
+          "theorize"
+        ],
+        "adjective": [
+          "theoretical"
+        ],
+        "adverb": [
+          "theoretically"
+        ]
+      },
+      "collocations": [
+        "scientific theory"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 49
+    },
+    {
+      "id": 2653,
+      "word": "therapy",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "treatment intended to improve health",
+      "definitionTh": "การบำบัด",
+      "example": "The patient received physical therapy.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "treatment",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "physical therapy"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 48
+    },
+    {
+      "id": 2654,
+      "word": "there",
+      "pos": "adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "in or at that place",
+      "definitionTh": "ที่นั่น",
+      "example": "Place the box over there.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "there is"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 47
+    },
+    {
+      "id": 2655,
+      "word": "therefore",
+      "pos": "adv.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "for that reason",
+      "definitionTh": "ดังนั้น",
+      "example": "The risk is high; therefore, action is required.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "consequently",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "therefore necessary"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 46
+    },
+    {
+      "id": 2656,
+      "word": "they",
+      "pos": "pron.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "used to refer to people previously mentioned",
+      "definitionTh": "พวกเขา",
+      "example": "They reviewed the process.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "they said"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 45
+    },
+    {
+      "id": 2657,
+      "word": "thick",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "having a large distance between opposite surfaces",
+      "definitionTh": "หนา",
+      "example": "The material is too thick.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "dense",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "thin",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "thickness"
+        ],
+        "verb": [
+          "thicken"
+        ],
+        "adjective": [
+          "thick"
+        ],
+        "adverb": [
+          "thickly"
+        ]
+      },
+      "collocations": [
+        "thick layer"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 44
+    },
+    {
+      "id": 2658,
+      "word": "thief",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a person who steals",
+      "definitionTh": "ขโมย",
+      "example": "The police arrested the thief.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "robber",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "car thief"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 43
+    },
+    {
+      "id": 2659,
+      "word": "thin",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "having little distance between opposite surfaces",
+      "definitionTh": "บาง",
+      "example": "Apply a thin layer of oil.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "slim",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "thick",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "thinness"
+        ],
+        "verb": [
+          "thin"
+        ],
+        "adjective": [
+          "thin"
+        ],
+        "adverb": [
+          "thinly"
+        ]
+      },
+      "collocations": [
+        "thin layer"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 42
+    },
+    {
+      "id": 2660,
+      "word": "thing",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an object, idea, event, or situation",
+      "definitionTh": "สิ่งของ",
+      "example": "The first thing is to stop the machine.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "item",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "important thing"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 41
+    },
+    {
+      "id": 2661,
+      "word": "think",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to use the mind to form ideas or opinions",
+      "definitionTh": "คิด",
+      "example": "Think about the root cause.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "consider",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "thought",
+          "thinking"
+        ],
+        "verb": [
+          "think"
+        ],
+        "adjective": [
+          "thoughtful"
+        ],
+        "adverb": [
+          "thoughtfully"
+        ]
+      },
+      "collocations": [
+        "think about"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 40
+    },
+    {
+      "id": 2662,
+      "word": "thinking",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the process of using the mind to consider something",
+      "definitionTh": "การคิด",
+      "example": "Critical thinking supports good decisions.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "reasoning",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "thought",
+          "thinking"
+        ],
+        "verb": [
+          "think"
+        ],
+        "adjective": [
+          "thoughtful"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "critical thinking"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 39
+    },
+    {
+      "id": 2663,
+      "word": "third",
+      "pos": "ordinal number",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "number three in order",
+      "definitionTh": "ที่สาม",
+      "example": "This is the third inspection point.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "number three",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "third place"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 38
+    },
+    {
+      "id": 2664,
+      "word": "thirsty",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "needing or wanting a drink",
+      "definitionTh": "กระหายน้ำ",
+      "example": "The operator was thirsty after the shift.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "needing a drink",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "hydrated",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "feel thirsty"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 37
+    },
+    {
+      "id": 2665,
+      "word": "thirteen",
+      "pos": "number",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the number 13",
+      "definitionTh": "สิบสาม",
+      "example": "Thirteen samples passed.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "thirteen years"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 36
+    },
+    {
+      "id": 2666,
+      "word": "thirty",
+      "pos": "number",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the number 30",
+      "definitionTh": "สามสิบ",
+      "example": "The test lasted thirty minutes.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "thirty minutes"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 35
+    },
+    {
+      "id": 2667,
+      "word": "this",
+      "pos": "det./pron.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "used to refer to a nearby thing or present situation",
+      "definitionTh": "นี้",
+      "example": "This result needs review.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "this time"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 34
+    },
+    {
+      "id": 2668,
+      "word": "though",
+      "pos": "conj./adv.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "despite the fact that",
+      "definitionTh": "แม้ว่า",
+      "example": "The test passed, though the margin was small.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "although",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "even though"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 33
+    },
+    {
+      "id": 2669,
+      "word": "thought",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "an idea or the act of thinking",
+      "definitionTh": "ความคิด",
+      "example": "The engineer shared a useful thought.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "idea",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "thought",
+          "thinking"
+        ],
+        "verb": [
+          "think"
+        ],
+        "adjective": [
+          "thoughtful"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "careful thought"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 32
+    },
+    {
+      "id": 2670,
+      "word": "thousand",
+      "pos": "number",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the number 1,000",
+      "definitionTh": "หนึ่งพัน",
+      "example": "The line produces one thousand units.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "one thousand"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 31
+    },
+    {
+      "id": 2671,
+      "word": "threat",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a statement or situation that may cause harm",
+      "definitionTh": "ภัยคุกคาม",
+      "example": "The loose part is a safety threat.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "danger",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "threat"
+        ],
+        "verb": [
+          "threaten"
+        ],
+        "adjective": [
+          "threatening"
+        ],
+        "adverb": [
+          "threateningly"
+        ]
+      },
+      "collocations": [
+        "serious threat"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 30
+    },
+    {
+      "id": 2672,
+      "word": "threaten",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to say or show that you may harm someone",
+      "definitionTh": "ข่มขู่",
+      "example": "Excess heat can threaten product quality.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "endanger",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "protect",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "threat"
+        ],
+        "verb": [
+          "threaten"
+        ],
+        "adjective": [
+          "threatening"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "threaten safety"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 29
+    },
+    {
+      "id": 2673,
+      "word": "three",
+      "pos": "number",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the number 3",
+      "definitionTh": "สาม",
+      "example": "Use three sensors.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "three times"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 28
+    },
+    {
+      "id": 2674,
+      "word": "throat",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the passage inside the neck used for breathing and swallowing",
+      "definitionTh": "ลำคอ",
+      "example": "The dust irritated his throat.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "sore throat"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 27
+    },
+    {
+      "id": 2675,
+      "word": "through",
+      "pos": "prep./adv.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "from one side or end to the other",
+      "definitionTh": "ผ่าน",
+      "example": "The product moves through the tunnel.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "across",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "pass through"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 26
+    },
+    {
+      "id": 2676,
+      "word": "throughout",
+      "pos": "adv.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "in every part of a place or period",
+      "definitionTh": "ตลอดทั่วทั้ง",
+      "example": "Monitor quality throughout the process.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "all through",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "throughout the day"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 25
+    },
+    {
+      "id": 2677,
+      "word": "throw",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to send something through the air with the hand",
+      "definitionTh": "ขว้าง",
+      "example": "Do not throw waste on the floor.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "toss",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "throw"
+        ],
+        "verb": [
+          "throw"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "throw away"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 24
+    },
+    {
+      "id": 2678,
+      "word": "Thursday",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the day after Wednesday",
+      "definitionTh": "วันพฤหัสบดี",
+      "example": "The audit is scheduled for Thursday.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "on Thursday"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 23
+    },
+    {
+      "id": 2679,
+      "word": "thus",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "as a result or in this way",
+      "definitionTh": "ดังนั้น",
+      "example": "The bracket failed, thus stopping the line.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "therefore",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "thus reducing"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 22
+    },
+    {
+      "id": 2680,
+      "word": "ticket",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a printed or digital document allowing entry or travel",
+      "definitionTh": "ตั๋ว",
+      "example": "Submit an IT support ticket.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "pass",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "support ticket"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 21
+    },
+    {
+      "id": 2681,
+      "word": "tidy",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "arranged neatly and in order",
+      "definitionTh": "เป็นระเบียบ",
+      "example": "Keep the work area tidy.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "neat",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "messy",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "tidiness"
+        ],
+        "verb": [
+          "tidy"
+        ],
+        "adjective": [
+          "tidy"
+        ],
+        "adverb": [
+          "tidily"
+        ]
+      },
+      "collocations": [
+        "tidy workplace"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 20
+    },
+    {
+      "id": 2682,
+      "word": "tie",
+      "pos": "v., n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to fasten with a knot; a narrow piece of clothing",
+      "definitionTh": "ผูก / เนกไท",
+      "example": "Tie the cable securely.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "fasten",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "tie"
+        ],
+        "verb": [
+          "tie"
+        ],
+        "adjective": [
+          "tied"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "cable tie"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 19
+    },
+    {
+      "id": 2683,
+      "word": "tight",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "fixed firmly or fitting closely",
+      "definitionTh": "แน่น",
+      "example": "Make sure the connection is tight.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "firm",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "loose",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "tightness"
+        ],
+        "verb": [
+          "tighten"
+        ],
+        "adjective": [
+          "tight"
+        ],
+        "adverb": [
+          "tightly"
+        ]
+      },
+      "collocations": [
+        "tight fit"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 18
+    },
+    {
+      "id": 2684,
+      "word": "till",
+      "pos": "prep./conj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "until a particular time",
+      "definitionTh": "จนกระทั่ง",
+      "example": "Wait till the motor stops.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "until",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "till then"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 17
+    },
+    {
+      "id": 2685,
+      "word": "time",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "what is measured in seconds, minutes, hours, days, and years",
+      "definitionTh": "เวลา",
+      "example": "Record the inspection time.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "period",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "time"
+        ],
+        "verb": [
+          "time"
+        ],
+        "adjective": [
+          "timely"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "cycle time"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 16
+    },
+    {
+      "id": 2686,
+      "word": "tin",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a soft silver metal or a metal container",
+      "definitionTh": "ดีบุก / กระป๋อง",
+      "example": "The food is packed in a tin.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "tin can"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 15
+    },
+    {
+      "id": 2687,
+      "word": "tiny",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "extremely small",
+      "definitionTh": "เล็กมาก",
+      "example": "The camera detected a tiny crack.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "very small",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "huge",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "tiny defect"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 14
+    },
+    {
+      "id": 2688,
+      "word": "tip",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the pointed end or a useful piece of advice",
+      "definitionTh": "ปลาย / เคล็ดลับ",
+      "example": "Clean the sensor tip.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "advice",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "useful tip"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 13
+    },
+    {
+      "id": 2689,
+      "word": "tired",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "needing rest or sleep",
+      "definitionTh": "เหนื่อย",
+      "example": "The operator felt tired.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "weary",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "energetic",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "tiredness"
+        ],
+        "verb": [
+          "tire"
+        ],
+        "adjective": [
+          "tired",
+          "tiring"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "feel tired"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 12
+    },
+    {
+      "id": 2690,
+      "word": "title",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the name of a book, document, job, or work",
+      "definitionTh": "ชื่อเรื่อง",
+      "example": "Add a clear title to the chart.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "heading",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "title"
+        ],
+        "verb": [
+          "title"
+        ],
+        "adjective": [
+          "titled"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "report title"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 11
+    },
+    {
+      "id": 2691,
+      "word": "to",
+      "pos": "prep./infinitive marker",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "used to show direction, purpose, or an infinitive",
+      "definitionTh": "ไปยัง",
+      "example": "Move the camera to the left.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "to be"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 10
+    },
+    {
+      "id": 2692,
+      "word": "today",
+      "pos": "adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the present day",
+      "definitionTh": "วันนี้",
+      "example": "The trial starts today.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "this day",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "today morning"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 9
+    },
+    {
+      "id": 2693,
+      "word": "toe",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "one of the five end parts of the foot",
+      "definitionTh": "นิ้วเท้า",
+      "example": "The box fell near his toe.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "big toe"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 8
+    },
+    {
+      "id": 2694,
+      "word": "together",
+      "pos": "adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "with each other or in one group",
+      "definitionTh": "ด้วยกัน",
+      "example": "The teams worked together.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "jointly",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "apart",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "work together"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 7
+    },
+    {
+      "id": 2695,
+      "word": "toilet",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a fixture or room used for removing body waste",
+      "definitionTh": "ห้องน้ำ",
+      "example": "The toilet is near the entrance.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "public toilet"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 6
+    },
+    {
+      "id": 2696,
+      "word": "tomato",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a soft red fruit used as food",
+      "definitionTh": "มะเขือเทศ",
+      "example": "Add one tomato to the salad.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "fresh tomato"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 5
+    },
+    {
+      "id": 2697,
+      "word": "tomorrow",
+      "pos": "adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the day after today",
+      "definitionTh": "พรุ่งนี้",
+      "example": "The supplier will arrive tomorrow.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "next day",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "tomorrow morning"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 4
+    },
+    {
+      "id": 2698,
+      "word": "tone",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the quality of a voice or sound",
+      "definitionTh": "น้ำเสียง",
+      "example": "Use a professional tone in the email.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "manner",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "professional tone"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 3
+    },
+    {
+      "id": 2699,
+      "word": "tongue",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the part of the mouth used for taste and speech",
+      "definitionTh": "ลิ้น",
+      "example": "The tongue helps us taste.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "tip of the tongue"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 2
+    },
+    {
+      "id": 2700,
+      "word": "tonight",
+      "pos": "adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "during the present night",
+      "definitionTh": "คืนนี้",
+      "example": "The night shift starts tonight.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "this evening",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "tonight at nine"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 1
+    }
+  ]
+}

@@ -35,3 +35,7 @@ $jsonText = $result | ConvertTo-Json -Depth 100
 )
 
 Write-Host "Done! Total words:" $allWords.Count
+
+# commmand to run this script:
+# Unblock-File .\merge.ps1
+# .\merge.ps1

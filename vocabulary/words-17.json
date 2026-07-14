@@ -1,0 +1,3792 @@
+{
+  "version": 2,
+  "source": "Oxford 3000",
+  "batch": 17,
+  "level": "Mixed",
+  "totalWords": 100,
+  "metadata": {
+    "created": "2026-07-14",
+    "language": "en",
+    "description": "Batch 17 of 50 — Oxford 3000 words 1601-1700; source-aligned sequence"
+  },
+  "words": [
+    {
+      "id": 1601,
+      "word": "married",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "having a husband or wife",
+      "definitionTh": "แต่งงานแล้ว",
+      "example": "They have been married for ten years.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "wedded",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "single",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "marriage"
+        ],
+        "verb": [
+          "marry"
+        ],
+        "adjective": [
+          "married"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "married couple"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 100
+    },
+    {
+      "id": 1602,
+      "word": "marry",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to become the husband or wife of someone",
+      "definitionTh": "แต่งงาน",
+      "example": "They plan to marry next year.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "wed",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "divorce",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "marriage"
+        ],
+        "verb": [
+          "marry"
+        ],
+        "adjective": [
+          "married"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "marry someone"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 99
+    },
+    {
+      "id": 1603,
+      "word": "mass",
+      "pos": "n., adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a large amount or number; involving many people",
+      "definitionTh": "มวล / จำนวนมาก",
+      "example": "The camera detects a mass of material.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "large amount",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "mass production"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 98
+    },
+    {
+      "id": 1604,
+      "word": "massive",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "extremely large or serious",
+      "definitionTh": "มหาศาล",
+      "example": "The change produced massive savings.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "enormous",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "tiny",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "mass"
+        ],
+        "verb": [],
+        "adjective": [
+          "massive"
+        ],
+        "adverb": [
+          "massively"
+        ]
+      },
+      "collocations": [
+        "massive impact"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 97
+    },
+    {
+      "id": 1605,
+      "word": "master",
+      "pos": "n., v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a skilled person; to learn something completely",
+      "definitionTh": "ผู้เชี่ยวชาญ / ชำนาญ",
+      "example": "She mastered the new software.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "expert",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "master a skill"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 96
+    },
+    {
+      "id": 1606,
+      "word": "match (contest/correspond)",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a sports contest; to be the same or suitable",
+      "definitionTh": "การแข่งขัน / เข้ากัน",
+      "example": "The data matches the report.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "contest",
+          "level": "A1"
+        },
+        {
+          "word": "correspond",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "match"
+        ],
+        "verb": [
+          "match"
+        ],
+        "adjective": [
+          "matching"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "match the data"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 95
+    },
+    {
+      "id": 1607,
+      "word": "matching",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "having the same colour, pattern, or style",
+      "definitionTh": "เข้าชุดกัน",
+      "example": "The parts have matching labels.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "corresponding",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "match"
+        ],
+        "verb": [
+          "match"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "matching parts"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 94
+    },
+    {
+      "id": 1608,
+      "word": "material",
+      "pos": "n., adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a substance used to make something; relating to physical matter",
+      "definitionTh": "วัสดุ",
+      "example": "Select the correct packaging material.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "substance",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "raw material"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 93
+    },
+    {
+      "id": 1609,
+      "word": "mathematics",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the study of numbers, quantities, and shapes",
+      "definitionTh": "คณิตศาสตร์",
+      "example": "Mathematics is important in engineering.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "maths",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "mathematics",
+          "mathematician"
+        ],
+        "verb": [],
+        "adjective": [
+          "mathematical"
+        ],
+        "adverb": [
+          "mathematically"
+        ]
+      },
+      "collocations": [
+        "study mathematics"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 92
+    },
+    {
+      "id": 1610,
+      "word": "maths",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "mathematics",
+      "definitionTh": "คณิตศาสตร์",
+      "example": "She is good at maths.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "mathematics",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "mathematics",
+          "mathematician"
+        ],
+        "verb": [],
+        "adjective": [
+          "mathematical"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "maths lesson"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 91
+    },
+    {
+      "id": 1611,
+      "word": "matter",
+      "pos": "n., v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a subject or substance; to be important",
+      "definitionTh": "เรื่อง / สสาร / สำคัญ",
+      "example": "Every detail matters.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "issue",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "important matter"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 90
+    },
+    {
+      "id": 1612,
+      "word": "maximum",
+      "pos": "adj., n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the greatest possible or allowed amount",
+      "definitionTh": "สูงสุด",
+      "example": "The maximum pressure is five bar.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "highest",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "minimum",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "maximum limit"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 89
+    },
+    {
+      "id": 1613,
+      "word": "May",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the fifth month of the year",
+      "definitionTh": "พฤษภาคม",
+      "example": "The trial begins in May.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "in May"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 88
+    },
+    {
+      "id": 1614,
+      "word": "may",
+      "pos": "modal v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "used to show possibility or permission",
+      "definitionTh": "อาจ / ได้รับอนุญาต",
+      "example": "The temperature may increase.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "might",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "may be"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 87
+    },
+    {
+      "id": 1615,
+      "word": "maybe",
+      "pos": "adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "possibly",
+      "definitionTh": "บางที",
+      "example": "Maybe we should repeat the test.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "perhaps",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "certainly",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "maybe later"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 86
+    },
+    {
+      "id": 1616,
+      "word": "me",
+      "pos": "pron.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "used by a speaker to refer to himself or herself as the object",
+      "definitionTh": "ฉัน / ผม",
+      "example": "Please send me the file.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "tell me"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 85
+    },
+    {
+      "id": 1617,
+      "word": "meal",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "food eaten at a particular time",
+      "definitionTh": "มื้ออาหาร",
+      "example": "We had a meal after the meeting.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "food",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "evening meal"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 84
+    },
+    {
+      "id": 1618,
+      "word": "mean",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to have a particular meaning or intend",
+      "definitionTh": "หมายถึง / ตั้งใจ",
+      "example": "What does this symbol mean?",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "signify",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "meaning",
+          "means"
+        ],
+        "verb": [
+          "mean"
+        ],
+        "adjective": [
+          "meaningful"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "mean that"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 83
+    },
+    {
+      "id": 1619,
+      "word": "meaning",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the idea represented by a word, sign, or action",
+      "definitionTh": "ความหมาย",
+      "example": "Check the meaning of the term.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "definition",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "meaninglessness",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "meaning"
+        ],
+        "verb": [
+          "mean"
+        ],
+        "adjective": [
+          "meaningful"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "exact meaning"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 82
+    },
+    {
+      "id": 1620,
+      "word": "means",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a method or way of doing something",
+      "definitionTh": "วิธี / หนทาง",
+      "example": "Email is a common means of communication.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "method",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "means of transport"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 81
+    },
+    {
+      "id": 1621,
+      "word": "meanwhile",
+      "pos": "adv.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "during the same period of time",
+      "definitionTh": "ในขณะเดียวกัน",
+      "example": "Meanwhile, the team checked the machine.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "in the meantime",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "meanwhile continue"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 80
+    },
+    {
+      "id": 1622,
+      "word": "measure",
+      "pos": "v., n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to find a size or amount; an action taken for a purpose",
+      "definitionTh": "วัด / มาตรการ",
+      "example": "Measure the temperature accurately.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "assess",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "measure",
+          "measurement"
+        ],
+        "verb": [
+          "measure"
+        ],
+        "adjective": [
+          "measurable"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "measure accurately"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 79
+    },
+    {
+      "id": 1623,
+      "word": "measurement",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the result or process of measuring",
+      "definitionTh": "การวัด",
+      "example": "Record each measurement.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "reading",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "measure"
+        ],
+        "verb": [
+          "measure"
+        ],
+        "adjective": [
+          "measurable"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "accurate measurement"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 78
+    },
+    {
+      "id": 1624,
+      "word": "meat",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "animal flesh eaten as food",
+      "definitionTh": "เนื้อสัตว์",
+      "example": "Keep raw meat refrigerated.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "animal flesh",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "raw meat"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 77
+    },
+    {
+      "id": 1625,
+      "word": "media",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "television, radio, newspapers, and online communication",
+      "definitionTh": "สื่อ",
+      "example": "The event received media attention.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "press",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "social media"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 76
+    },
+    {
+      "id": 1626,
+      "word": "medical",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "relating to medicine or health care",
+      "definitionTh": "ทางการแพทย์",
+      "example": "She needs medical treatment.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "clinical",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "medicine"
+        ],
+        "verb": [],
+        "adjective": [
+          "medical"
+        ],
+        "adverb": [
+          "medically"
+        ]
+      },
+      "collocations": [
+        "medical treatment"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 75
+    },
+    {
+      "id": 1627,
+      "word": "medicine",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a substance used to treat illness or the study of treatment",
+      "definitionTh": "ยา / การแพทย์",
+      "example": "Take the medicine after food.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "medication",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "medicine"
+        ],
+        "verb": [],
+        "adjective": [
+          "medical"
+        ],
+        "adverb": [
+          "medically"
+        ]
+      },
+      "collocations": [
+        "take medicine"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 74
+    },
+    {
+      "id": 1628,
+      "word": "medium",
+      "pos": "adj., n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "between small and large; a means of communication",
+      "definitionTh": "ปานกลาง / สื่อกลาง",
+      "example": "Choose a medium-sized box.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "middle-sized",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "medium size"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 73
+    },
+    {
+      "id": 1629,
+      "word": "meet",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to come together with someone",
+      "definitionTh": "พบ / ประชุม",
+      "example": "We will meet the supplier tomorrow.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "encounter",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "meeting"
+        ],
+        "verb": [
+          "meet"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "meet a requirement"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 72
+    },
+    {
+      "id": 1630,
+      "word": "meeting",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an occasion when people come together to discuss something",
+      "definitionTh": "การประชุม",
+      "example": "The meeting starts at nine.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "conference",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "meeting"
+        ],
+        "verb": [
+          "meet"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "team meeting"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 71
+    },
+    {
+      "id": 1631,
+      "word": "melt",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to become or make liquid because of heat",
+      "definitionTh": "ละลาย",
+      "example": "The ice will melt quickly.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "liquefy",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "freeze",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "melting"
+        ],
+        "verb": [
+          "melt"
+        ],
+        "adjective": [
+          "melted"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "melt completely"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 70
+    },
+    {
+      "id": 1632,
+      "word": "member",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a person or organization belonging to a group",
+      "definitionTh": "สมาชิก",
+      "example": "Each team member signed the form.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "participant",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "team member"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 69
+    },
+    {
+      "id": 1633,
+      "word": "memory",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the ability to remember or something remembered",
+      "definitionTh": "ความจำ",
+      "example": "The device stores data in memory.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "recollection",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "memory"
+        ],
+        "verb": [
+          "memorize"
+        ],
+        "adjective": [
+          "memorable"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "long-term memory"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 68
+    },
+    {
+      "id": 1634,
+      "word": "mental",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "relating to the mind",
+      "definitionTh": "ทางจิตใจ",
+      "example": "Rest supports mental health.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "psychological",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "physical",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "mentality"
+        ],
+        "verb": [],
+        "adjective": [
+          "mental"
+        ],
+        "adverb": [
+          "mentally"
+        ]
+      },
+      "collocations": [
+        "mental health"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 67
+    },
+    {
+      "id": 1635,
+      "word": "mention",
+      "pos": "v., n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to refer to something briefly; a brief reference",
+      "definitionTh": "กล่าวถึง",
+      "example": "The report mentions three risks.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "refer to",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "mention"
+        ],
+        "verb": [
+          "mention"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "mention briefly"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 66
+    },
+    {
+      "id": 1636,
+      "word": "menu",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a list of food choices or computer options",
+      "definitionTh": "เมนู",
+      "example": "Select Settings from the menu.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "list of choices",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "main menu"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 65
+    },
+    {
+      "id": 1637,
+      "word": "mess",
+      "pos": "n., v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a dirty or untidy state; to make untidy",
+      "definitionTh": "ความยุ่งเหยิง / ทำให้เลอะ",
+      "example": "Clean up the mess immediately.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "disorder",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "mess"
+        ],
+        "verb": [
+          "mess"
+        ],
+        "adjective": [
+          "messy"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "make a mess"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 64
+    },
+    {
+      "id": 1638,
+      "word": "message",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "information sent to someone",
+      "definitionTh": "ข้อความ",
+      "example": "I received your message.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "communication",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "send a message"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 63
+    },
+    {
+      "id": 1639,
+      "word": "metal",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a hard material such as iron or steel",
+      "definitionTh": "โลหะ",
+      "example": "The guard is made of metal.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "metallic material",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "metal"
+        ],
+        "verb": [],
+        "adjective": [
+          "metallic"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "metal part"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 62
+    },
+    {
+      "id": 1640,
+      "word": "method",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a particular way of doing something",
+      "definitionTh": "วิธีการ",
+      "example": "This method reduces defects.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "procedure",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "test method"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 61
+    },
+    {
+      "id": 1641,
+      "word": "metre",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a unit of length equal to 100 centimetres",
+      "definitionTh": "เมตร",
+      "example": "The cable is three metres long.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "100 centimetres",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "one metre"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 60
+    },
+    {
+      "id": 1642,
+      "word": "middle",
+      "pos": "n., adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the central part or position",
+      "definitionTh": "ตรงกลาง",
+      "example": "Place the sensor in the middle.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "centre",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "edge",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "middle"
+        ],
+        "verb": [],
+        "adjective": [
+          "middle"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "in the middle"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 59
+    },
+    {
+      "id": 1643,
+      "word": "midnight",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "twelve o'clock at night",
+      "definitionTh": "เที่ยงคืน",
+      "example": "The shift ends at midnight.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "12 a.m.",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "at midnight"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 58
+    },
+    {
+      "id": 1644,
+      "word": "might",
+      "pos": "modal v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "used to show possibility",
+      "definitionTh": "อาจจะ",
+      "example": "The change might improve quality.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "may",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "might be"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 57
+    },
+    {
+      "id": 1645,
+      "word": "mild",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "not severe, strong, or extreme",
+      "definitionTh": "อ่อน / ไม่รุนแรง",
+      "example": "He had mild symptoms.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "moderate",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "severe",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "mildness"
+        ],
+        "verb": [],
+        "adjective": [
+          "mild"
+        ],
+        "adverb": [
+          "mildly"
+        ]
+      },
+      "collocations": [
+        "mild symptoms"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 56
+    },
+    {
+      "id": 1646,
+      "word": "mile",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a unit of distance equal to about 1.6 kilometres",
+      "definitionTh": "ไมล์",
+      "example": "The town is one mile away.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "1.6 kilometres",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "one mile"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 55
+    },
+    {
+      "id": 1647,
+      "word": "military",
+      "pos": "adj., n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "relating to armed forces; the armed forces",
+      "definitionTh": "ทางทหาร / กองทัพ",
+      "example": "The site was once a military base.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "armed forces",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "military"
+        ],
+        "verb": [],
+        "adjective": [
+          "military"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "military service"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 54
+    },
+    {
+      "id": 1648,
+      "word": "milk",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a white liquid produced by mammals and used as food",
+      "definitionTh": "นม",
+      "example": "Milk is stored in the tank.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "dairy liquid",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "fresh milk"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 53
+    },
+    {
+      "id": 1649,
+      "word": "million",
+      "pos": "number",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the number 1,000,000",
+      "definitionTh": "หนึ่งล้าน",
+      "example": "The project saved one million baht.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "1,000,000",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "one million"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 52
+    },
+    {
+      "id": 1650,
+      "word": "mind",
+      "pos": "n., v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the part that thinks; to object or take care",
+      "definitionTh": "จิตใจ / ใส่ใจ",
+      "example": "Keep the risk in mind.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "thought",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "mind"
+        ],
+        "verb": [
+          "mind"
+        ],
+        "adjective": [
+          "mindful"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "keep in mind"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 51
+    },
+    {
+      "id": 1651,
+      "word": "mine (belongs to me)",
+      "pos": "pron.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "belonging to the speaker",
+      "definitionTh": "ของฉัน",
+      "example": "This notebook is mine.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "my own",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "a friend of mine"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 50
+    },
+    {
+      "id": 1652,
+      "word": "mine (hole in the ground)",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a place where minerals are taken from the ground",
+      "definitionTh": "เหมือง",
+      "example": "The coal mine closed last year.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "mineral pit",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "coal mine"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 49
+    },
+    {
+      "id": 1653,
+      "word": "mineral",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a natural substance found in the earth",
+      "definitionTh": "แร่ธาตุ",
+      "example": "The water contains minerals.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "natural substance",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "mineral water"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 48
+    },
+    {
+      "id": 1654,
+      "word": "minimum",
+      "pos": "adj., n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the smallest possible or allowed amount",
+      "definitionTh": "ขั้นต่ำ",
+      "example": "The minimum temperature is two degrees.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "lowest",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "maximum",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "minimum"
+        ],
+        "verb": [],
+        "adjective": [
+          "minimum"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "minimum requirement"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 47
+    },
+    {
+      "id": 1655,
+      "word": "minister",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a senior member of a government",
+      "definitionTh": "รัฐมนตรี",
+      "example": "The minister announced the policy.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "government official",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "prime minister"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 46
+    },
+    {
+      "id": 1656,
+      "word": "minor",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "small or less important",
+      "definitionTh": "เล็กน้อย",
+      "example": "Only minor changes are needed.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "small",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "major",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "minority"
+        ],
+        "verb": [],
+        "adjective": [
+          "minor"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "minor issue"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 45
+    },
+    {
+      "id": 1657,
+      "word": "minority",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the smaller part of a group",
+      "definitionTh": "ส่วนน้อย",
+      "example": "A minority opposed the proposal.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "smaller group",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "majority",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "minority"
+        ],
+        "verb": [],
+        "adjective": [
+          "minor"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "small minority"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 44
+    },
+    {
+      "id": 1658,
+      "word": "minute1",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a period of sixty seconds",
+      "definitionTh": "นาที",
+      "example": "Wait one minute.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "sixty seconds",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "one minute"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 43
+    },
+    {
+      "id": 1659,
+      "word": "mirror",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a surface that reflects an image",
+      "definitionTh": "กระจกเงา",
+      "example": "The mirror reflects the light.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "reflector",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "rear-view mirror"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 42
+    },
+    {
+      "id": 1660,
+      "word": "miss",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to fail to hit, catch, attend, or notice",
+      "definitionTh": "พลาด / คิดถึง",
+      "example": "Do not miss the inspection step.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "overlook",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "hit",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "miss"
+        ],
+        "verb": [
+          "miss"
+        ],
+        "adjective": [
+          "missing"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "miss a step"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 41
+    },
+    {
+      "id": 1661,
+      "word": "missing",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "not present or unable to be found",
+      "definitionTh": "หายไป",
+      "example": "One document is missing.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "lost",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "present",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "miss"
+        ],
+        "verb": [
+          "miss"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "missing data"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 40
+    },
+    {
+      "id": 1662,
+      "word": "mission",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "an important task or purpose",
+      "definitionTh": "ภารกิจ",
+      "example": "Our mission is to improve safety.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "purpose",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "company mission"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 39
+    },
+    {
+      "id": 1663,
+      "word": "mistake",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an error; to understand someone or something incorrectly",
+      "definitionTh": "ข้อผิดพลาด / เข้าใจผิด",
+      "example": "We corrected the mistake.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "error",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "correctness",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "mistake"
+        ],
+        "verb": [
+          "mistake"
+        ],
+        "adjective": [
+          "mistaken"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "make a mistake"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 38
+    },
+    {
+      "id": 1664,
+      "word": "mix",
+      "pos": "v., n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to combine substances; a combination",
+      "definitionTh": "ผสม / ส่วนผสม",
+      "example": "Mix the ingredients thoroughly.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "combine",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "mix",
+          "mixture"
+        ],
+        "verb": [
+          "mix"
+        ],
+        "adjective": [
+          "mixed"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "mix together"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 37
+    },
+    {
+      "id": 1665,
+      "word": "mixed",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "consisting of different kinds combined together",
+      "definitionTh": "ผสมกัน",
+      "example": "The test produced mixed results.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "combined",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "separate",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "mix",
+          "mixture"
+        ],
+        "verb": [
+          "mix"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "mixed results"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 36
+    },
+    {
+      "id": 1666,
+      "word": "mixture",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a substance made by combining different things",
+      "definitionTh": "ส่วนผสม",
+      "example": "Heat the mixture slowly.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "blend",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "mix"
+        ],
+        "verb": [
+          "mix"
+        ],
+        "adjective": [
+          "mixed"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "liquid mixture"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 35
+    },
+    {
+      "id": 1667,
+      "word": "mobile",
+      "pos": "adj., n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "able to move easily; a mobile phone",
+      "definitionTh": "เคลื่อนที่ได้ / โทรศัพท์มือถือ",
+      "example": "The team uses a mobile inspection unit.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "portable",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "mobile device"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 34
+    },
+    {
+      "id": 1668,
+      "word": "model",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a representation or type; to represent how something works",
+      "definitionTh": "แบบจำลอง / สร้างแบบจำลอง",
+      "example": "The model predicts defect risk.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "representation",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "model"
+        ],
+        "verb": [
+          "model"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "risk model"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 33
+    },
+    {
+      "id": 1669,
+      "word": "modern",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "relating to the present time and recent methods",
+      "definitionTh": "ทันสมัย",
+      "example": "The factory uses modern technology.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "contemporary",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "old-fashioned",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "modernity"
+        ],
+        "verb": [
+          "modernize"
+        ],
+        "adjective": [
+          "modern"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "modern technology"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 32
+    },
+    {
+      "id": 1670,
+      "word": "modify",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to change something slightly",
+      "definitionTh": "แก้ไข / ดัดแปลง",
+      "example": "We modified the camera bracket.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "alter",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "modification"
+        ],
+        "verb": [
+          "modify"
+        ],
+        "adjective": [
+          "modified"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "modify a design"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 31
+    },
+    {
+      "id": 1671,
+      "word": "moment",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a very short period of time",
+      "definitionTh": "ชั่วขณะ",
+      "example": "Please wait a moment.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "instant",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "at the moment"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 30
+    },
+    {
+      "id": 1672,
+      "word": "Monday",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the day after Sunday and before Tuesday",
+      "definitionTh": "วันจันทร์",
+      "example": "The meeting is on Monday.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "on Monday"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 29
+    },
+    {
+      "id": 1673,
+      "word": "money",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "what people use to buy goods and services",
+      "definitionTh": "เงิน",
+      "example": "The project saves money.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "currency",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "save money"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 28
+    },
+    {
+      "id": 1674,
+      "word": "monitor",
+      "pos": "n., v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a screen or device; to watch and check over time",
+      "definitionTh": "จอภาพ / เฝ้าติดตาม",
+      "example": "We monitor the temperature continuously.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "observe",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "monitor",
+          "monitoring"
+        ],
+        "verb": [
+          "monitor"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "monitor performance"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 27
+    },
+    {
+      "id": 1675,
+      "word": "monkey",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "an animal with a long tail that climbs trees",
+      "definitionTh": "ลิง",
+      "example": "The monkey climbed the tree.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "primate",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "wild monkey"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 26
+    },
+    {
+      "id": 1676,
+      "word": "month",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "one of the twelve periods of a year",
+      "definitionTh": "เดือน",
+      "example": "The trial lasted one month.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "calendar month",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "last month"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 25
+    },
+    {
+      "id": 1677,
+      "word": "mood",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "the way someone feels at a particular time",
+      "definitionTh": "อารมณ์",
+      "example": "Music can improve your mood.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "state of mind",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "good mood"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 24
+    },
+    {
+      "id": 1678,
+      "word": "moon",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the natural object that moves around the earth",
+      "definitionTh": "ดวงจันทร์",
+      "example": "The moon was bright tonight.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "lunar body",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "full moon"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 23
+    },
+    {
+      "id": 1679,
+      "word": "moral",
+      "pos": "adj., n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "relating to right and wrong; a lesson about behaviour",
+      "definitionTh": "ทางศีลธรรม / คติสอนใจ",
+      "example": "The story has a clear moral.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "ethical lesson",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "immoral",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "morality"
+        ],
+        "verb": [],
+        "adjective": [
+          "moral"
+        ],
+        "adverb": [
+          "morally"
+        ]
+      },
+      "collocations": [
+        "moral responsibility"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 22
+    },
+    {
+      "id": 1680,
+      "word": "more",
+      "pos": "det./pron., adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a greater amount or number",
+      "definitionTh": "มากกว่า",
+      "example": "We need more data.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "additional",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "less",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "more than"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 21
+    },
+    {
+      "id": 1681,
+      "word": "morning",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the early part of the day",
+      "definitionTh": "ตอนเช้า",
+      "example": "The inspection starts in the morning.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "early day",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "in the morning"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 20
+    },
+    {
+      "id": 1682,
+      "word": "most",
+      "pos": "det./pron., adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the greatest amount, number, or degree",
+      "definitionTh": "มากที่สุด / ส่วนใหญ่",
+      "example": "Most defects occurred at start-up.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "majority",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "least",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "mostly"
+        ]
+      },
+      "collocations": [
+        "most people"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 19
+    },
+    {
+      "id": 1683,
+      "word": "mostly",
+      "pos": "adv.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "mainly or usually",
+      "definitionTh": "ส่วนใหญ่",
+      "example": "The samples were mostly acceptable.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "mainly",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "most"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "mostly complete"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 18
+    },
+    {
+      "id": 1684,
+      "word": "mother",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a female parent",
+      "definitionTh": "แม่",
+      "example": "Her mother is a teacher.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "mum",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "mother",
+          "motherhood"
+        ],
+        "verb": [],
+        "adjective": [
+          "motherly"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "her mother"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 17
+    },
+    {
+      "id": 1685,
+      "word": "motor",
+      "pos": "n., adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a machine that produces movement; relating to movement",
+      "definitionTh": "มอเตอร์ / เกี่ยวกับการเคลื่อนไหว",
+      "example": "The motor drives the conveyor.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "engine",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "motor"
+        ],
+        "verb": [],
+        "adjective": [
+          "motorized"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "electric motor"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 16
+    },
+    {
+      "id": 1686,
+      "word": "motorcycle",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a two-wheeled motor vehicle",
+      "definitionTh": "รถจักรยานยนต์",
+      "example": "He rides a motorcycle to work.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "motorbike",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "ride a motorcycle"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 15
+    },
+    {
+      "id": 1687,
+      "word": "mount",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to fix something in position or climb onto something",
+      "definitionTh": "ติดตั้ง / ขึ้น",
+      "example": "Mount the camera above the line.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "install",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "mount",
+          "mounting"
+        ],
+        "verb": [
+          "mount"
+        ],
+        "adjective": [
+          "mounted"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "mount a camera"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 14
+    },
+    {
+      "id": 1688,
+      "word": "mountain",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a very high area of land",
+      "definitionTh": "ภูเขา",
+      "example": "They climbed the mountain.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "peak",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "high mountain"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 13
+    },
+    {
+      "id": 1689,
+      "word": "mouse",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a small animal or a computer pointing device",
+      "definitionTh": "หนู / เมาส์",
+      "example": "Click the icon with the mouse.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "pointing device",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "computer mouse"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 12
+    },
+    {
+      "id": 1690,
+      "word": "mouth",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the opening in the face used for eating and speaking",
+      "definitionTh": "ปาก",
+      "example": "Open your mouth.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "oral opening",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "open your mouth"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 11
+    },
+    {
+      "id": 1691,
+      "word": "move",
+      "pos": "v., n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to change position; an act of changing position",
+      "definitionTh": "เคลื่อน / การเคลื่อนที่",
+      "example": "Move the sensor closer.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "shift",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "stay",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "move",
+          "movement"
+        ],
+        "verb": [
+          "move"
+        ],
+        "adjective": [
+          "moving"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "move forward"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 10
+    },
+    {
+      "id": 1692,
+      "word": "movement",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the act or process of moving",
+      "definitionTh": "การเคลื่อนไหว",
+      "example": "The camera detects movement.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "motion",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "stillness",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "movement"
+        ],
+        "verb": [
+          "move"
+        ],
+        "adjective": [
+          "moving"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "rapid movement"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 9
+    },
+    {
+      "id": 1693,
+      "word": "movie",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a film",
+      "definitionTh": "ภาพยนตร์",
+      "example": "We watched a movie.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "film",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "watch a movie"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 8
+    },
+    {
+      "id": 1694,
+      "word": "much",
+      "pos": "det./pron., adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a large amount",
+      "definitionTh": "มาก",
+      "example": "The process does not use much water.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "a lot",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "little",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "much more"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 7
+    },
+    {
+      "id": 1695,
+      "word": "mud",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "wet soft earth",
+      "definitionTh": "โคลน",
+      "example": "The tyres were covered in mud.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "wet soil",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "covered in mud"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 6
+    },
+    {
+      "id": 1696,
+      "word": "multiple",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "many or involving several parts",
+      "definitionTh": "หลาย / หลายส่วน",
+      "example": "The system checks multiple points.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "several",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "single",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "multiple options"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 5
+    },
+    {
+      "id": 1697,
+      "word": "multiply",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to calculate a number by another or increase greatly",
+      "definitionTh": "คูณ / เพิ่มทวี",
+      "example": "Multiply the value by two.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "times",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "divide",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "multiplication"
+        ],
+        "verb": [
+          "multiply"
+        ],
+        "adjective": "multiple",
+        "adverb": []
+      },
+      "collocations": [
+        "multiply by"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 4
+    },
+    {
+      "id": 1698,
+      "word": "mum",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a mother",
+      "definitionTh": "แม่",
+      "example": "My mum called me.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "mother",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "my mum"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 3
+    },
+    {
+      "id": 1699,
+      "word": "murder",
+      "pos": "n., v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "the unlawful killing of a person; to kill unlawfully",
+      "definitionTh": "ฆาตกรรม / สังหาร",
+      "example": "The police investigated the murder.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "unlawful killing",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "murder",
+          "murderer"
+        ],
+        "verb": [
+          "murder"
+        ],
+        "adjective": [
+          "murderous"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "murder investigation"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 2
+    },
+    {
+      "id": 1700,
+      "word": "muscle",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "body tissue that produces movement",
+      "definitionTh": "กล้ามเนื้อ",
+      "example": "Exercise strengthens the muscles.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "body tissue",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "muscle"
+        ],
+        "verb": [],
+        "adjective": [
+          "muscular"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "muscle strength"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 1
+    }
+  ]
+}

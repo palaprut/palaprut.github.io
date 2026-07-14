@@ -1,0 +1,2393 @@
+{
+  "version": 2,
+  "source": "Oxford 3000",
+  "batch": 30,
+  "level": "Mixed",
+  "totalWords": 64,
+  "metadata": {
+    "created": "2026-07-14",
+    "language": "en",
+    "description": "Batch 30 — final Oxford 3000 source sequence; 64 remaining entries, IDs 2901-2964"
+  },
+  "words": [
+    {
+      "id": 2901,
+      "word": "who",
+      "pos": "pron.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "used to ask or state which person",
+      "definitionTh": "ใคร",
+      "example": "Who approved the change?",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "which person",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "who is responsible"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 64
+    },
+    {
+      "id": 2902,
+      "word": "whole",
+      "pos": "adj., n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "complete or all of something",
+      "definitionTh": "ทั้งหมด / ทั้งหมดทั้งมวล",
+      "example": "Inspect the whole production line.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "entire",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "partial",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "whole process"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 63
+    },
+    {
+      "id": 2903,
+      "word": "whom",
+      "pos": "pron.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "used as the object form of who",
+      "definitionTh": "ใคร / ผู้ซึ่ง",
+      "example": "Whom should I contact?",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "which person",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "to whom"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 62
+    },
+    {
+      "id": 2904,
+      "word": "whose",
+      "pos": "det./pron.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "used to ask or state who something belongs to",
+      "definitionTh": "ของใคร",
+      "example": "Whose tool is this?",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "whose responsibility"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 61
+    },
+    {
+      "id": 2905,
+      "word": "why",
+      "pos": "adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "for what reason",
+      "definitionTh": "ทำไม",
+      "example": "Why did the alarm stop?",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "for what reason",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "reason why"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 60
+    },
+    {
+      "id": 2906,
+      "word": "wide",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "measuring a large distance from side to side",
+      "definitionTh": "กว้าง",
+      "example": "The conveyor is one metre wide.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "broad",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "narrow",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "width"
+        ],
+        "verb": [
+          "widen"
+        ],
+        "adjective": [
+          "wide"
+        ],
+        "adverb": [
+          "widely"
+        ]
+      },
+      "collocations": [
+        "wide range"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 59
+    },
+    {
+      "id": 2907,
+      "word": "widely",
+      "pos": "adv.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "over a large area or by many people",
+      "definitionTh": "อย่างกว้างขวาง",
+      "example": "The method is widely used in industry.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "broadly",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "widely used"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 58
+    },
+    {
+      "id": 2908,
+      "word": "wife",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a married woman in relation to her spouse",
+      "definitionTh": "ภรรยา",
+      "example": "His wife works at a hospital.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "spouse",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "husband and wife"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 57
+    },
+    {
+      "id": 2909,
+      "word": "wild",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "living or growing naturally without human control",
+      "definitionTh": "ป่า / ตามธรรมชาติ",
+      "example": "Wild animals must not enter the site.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "untamed",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "wildlife",
+          "wildness"
+        ],
+        "verb": [],
+        "adjective": [
+          "wild"
+        ],
+        "adverb": [
+          "wildly"
+        ]
+      },
+      "collocations": [
+        "wild animal"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 56
+    },
+    {
+      "id": 2910,
+      "word": "wildlife",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "animals and plants living naturally",
+      "definitionTh": "สัตว์ป่าและพืชป่า",
+      "example": "The project protects local wildlife.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "wild animals",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "wildlife protection"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 55
+    },
+    {
+      "id": 2911,
+      "word": "will",
+      "pos": "modal v., n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "used for future actions; determination or a legal document",
+      "definitionTh": "จะ / ความตั้งใจ",
+      "example": "The trial will start tomorrow.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "will be"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 54
+    },
+    {
+      "id": 2912,
+      "word": "willing",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "ready and prepared to do something",
+      "definitionTh": "เต็มใจ",
+      "example": "The team is willing to test the solution.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "prepared",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unwilling",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "willing to"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 53
+    },
+    {
+      "id": 2913,
+      "word": "win",
+      "pos": "v., n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to be successful in a competition; a victory",
+      "definitionTh": "ชนะ / ชัยชนะ",
+      "example": "The team hopes to win the award.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "succeed",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "lose",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "win",
+          "winner"
+        ],
+        "verb": [
+          "win"
+        ],
+        "adjective": [
+          "winning"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "win a prize"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 52
+    },
+    {
+      "id": 2914,
+      "word": "wind",
+      "pos": "n., v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "moving air; to turn or wrap around something",
+      "definitionTh": "ลม / พัน",
+      "example": "Strong wind delayed the delivery.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "moving air",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "wind"
+        ],
+        "verb": [
+          "wind"
+        ],
+        "adjective": [
+          "windy"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "strong wind"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 51
+    },
+    {
+      "id": 2915,
+      "word": "window",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an opening with glass or an area on a computer screen",
+      "definitionTh": "หน้าต่าง",
+      "example": "Open the application window.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "opening",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "browser window"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 50
+    },
+    {
+      "id": 2916,
+      "word": "wine",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an alcoholic drink made from grapes",
+      "definitionTh": "ไวน์",
+      "example": "The restaurant serves wine.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "grape wine",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "red wine"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 49
+    },
+    {
+      "id": 2917,
+      "word": "wing",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a body part used by birds for flying or a side section",
+      "definitionTh": "ปีก / ส่วนด้านข้าง",
+      "example": "The bird injured one wing.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "airfoil",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "aircraft wing"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 48
+    },
+    {
+      "id": 2918,
+      "word": "winner",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a person or thing that wins",
+      "definitionTh": "ผู้ชนะ",
+      "example": "The winner received a prize.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "champion",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "win",
+          "winner"
+        ],
+        "verb": [
+          "win"
+        ],
+        "adjective": [
+          "winning"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "award winner"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 47
+    },
+    {
+      "id": 2919,
+      "word": "winter",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the coldest season of the year",
+      "definitionTh": "ฤดูหนาว",
+      "example": "Demand changes during winter.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "cold season",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "winter season"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 46
+    },
+    {
+      "id": 2920,
+      "word": "wire",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a thin metal thread used to carry electricity or signals",
+      "definitionTh": "สายไฟ",
+      "example": "Check the wire for damage.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "cable",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "electrical wire"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 45
+    },
+    {
+      "id": 2921,
+      "word": "wise",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "showing good judgment based on knowledge and experience",
+      "definitionTh": "ฉลาด / มีปัญญา",
+      "example": "It is wise to verify the data first.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "sensible",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "foolish",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "wisdom"
+        ],
+        "verb": [],
+        "adjective": [
+          "wise"
+        ],
+        "adverb": [
+          "wisely"
+        ]
+      },
+      "collocations": [
+        "wise decision"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 44
+    },
+    {
+      "id": 2922,
+      "word": "wish",
+      "pos": "v., n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to want something to happen; a desire",
+      "definitionTh": "ปรารถนา / ความปรารถนา",
+      "example": "We wish to improve the process.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "desire",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "wish"
+        ],
+        "verb": [
+          "wish"
+        ],
+        "adjective": [
+          "wishful"
+        ],
+        "adverb": [
+          "wishfully"
+        ]
+      },
+      "collocations": [
+        "best wishes"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 43
+    },
+    {
+      "id": 2923,
+      "word": "with",
+      "pos": "prep.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "together with, using, or having something",
+      "definitionTh": "กับ / ด้วย",
+      "example": "Measure the part with a sensor.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "without",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "with care"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 42
+    },
+    {
+      "id": 2924,
+      "word": "within",
+      "pos": "prep., adv.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "inside a limit, area, or period",
+      "definitionTh": "ภายใน",
+      "example": "Keep the temperature within the limit.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "inside",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "outside",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "within limits"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 41
+    },
+    {
+      "id": 2925,
+      "word": "without",
+      "pos": "prep.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "not having or using something",
+      "definitionTh": "โดยไม่มี",
+      "example": "Do not operate without the guard.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "lacking",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "with",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "without delay"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 40
+    },
+    {
+      "id": 2926,
+      "word": "witness",
+      "pos": "n., v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a person who sees an event; to see an event happen",
+      "definitionTh": "พยาน / เป็นพยาน",
+      "example": "A witness reported the incident.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "observer",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "witness"
+        ],
+        "verb": [
+          "witness"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "key witness"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 39
+    },
+    {
+      "id": 2927,
+      "word": "woman",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an adult female person",
+      "definitionTh": "ผู้หญิง",
+      "example": "The woman entered the office.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "adult female",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "young woman"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 38
+    },
+    {
+      "id": 2928,
+      "word": "wonder",
+      "pos": "v., n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to think about something with curiosity; a feeling of surprise",
+      "definitionTh": "สงสัย / ความมหัศจรรย์",
+      "example": "I wonder why the value changed.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "question",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "wonder"
+        ],
+        "verb": [
+          "wonder"
+        ],
+        "adjective": [
+          "wonderful"
+        ],
+        "adverb": [
+          "wonderfully"
+        ]
+      },
+      "collocations": [
+        "wonder why"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 37
+    },
+    {
+      "id": 2929,
+      "word": "wonderful",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "extremely good or pleasant",
+      "definitionTh": "ยอดเยี่ยม",
+      "example": "The team achieved a wonderful result.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "excellent",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "terrible",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "wonder"
+        ],
+        "verb": [
+          "wonder"
+        ],
+        "adjective": [
+          "wonderful"
+        ],
+        "adverb": [
+          "wonderfully"
+        ]
+      },
+      "collocations": [
+        "wonderful experience"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 36
+    },
+    {
+      "id": 2930,
+      "word": "wood",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the hard material forming a tree",
+      "definitionTh": "ไม้",
+      "example": "The handle is made of wood.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "timber",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "wood"
+        ],
+        "verb": [],
+        "adjective": [
+          "wooden"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "solid wood"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 35
+    },
+    {
+      "id": 2931,
+      "word": "wooden",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "made of wood",
+      "definitionTh": "ทำด้วยไม้",
+      "example": "The product uses a wooden stick.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "wood-made",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "wood"
+        ],
+        "verb": [],
+        "adjective": [
+          "wooden"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "wooden stick"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 34
+    },
+    {
+      "id": 2932,
+      "word": "wool",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "soft hair from sheep used to make cloth",
+      "definitionTh": "ขนแกะ",
+      "example": "The sweater is made of wool.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "fleece",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "wool fabric"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 33
+    },
+    {
+      "id": 2933,
+      "word": "word",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a unit of language with meaning",
+      "definitionTh": "คำ",
+      "example": "Check every word in the instruction.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "term",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "key word"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 32
+    },
+    {
+      "id": 2934,
+      "word": "work",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a job or activity; to perform a task or function",
+      "definitionTh": "งาน / ทำงาน",
+      "example": "The new camera works correctly.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "labour",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "work",
+          "worker",
+          "working"
+        ],
+        "verb": [
+          "work"
+        ],
+        "adjective": [
+          "working"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "work properly"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 31
+    },
+    {
+      "id": 2935,
+      "word": "worker",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a person who performs a job",
+      "definitionTh": "คนงาน",
+      "example": "Each worker received safety training.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "employee",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "work",
+          "worker"
+        ],
+        "verb": [
+          "work"
+        ],
+        "adjective": [
+          "working"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "factory worker"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 30
+    },
+    {
+      "id": 2936,
+      "word": "working",
+      "pos": "adj., n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "operating correctly or relating to work",
+      "definitionTh": "ทำงานอยู่ / การทำงาน",
+      "example": "The machine is in working condition.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "operating",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "work",
+          "worker",
+          "working"
+        ],
+        "verb": [
+          "work"
+        ],
+        "adjective": [
+          "working"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "working condition"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 29
+    },
+    {
+      "id": 2937,
+      "word": "world",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the earth and all its people and places",
+      "definitionTh": "โลก",
+      "example": "The product is sold around the world.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "earth",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "around the world"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 28
+    },
+    {
+      "id": 2938,
+      "word": "worried",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "feeling anxious about a problem",
+      "definitionTh": "กังวล",
+      "example": "The team was worried about the delay.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "concerned",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "calm",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "worry"
+        ],
+        "verb": [
+          "worry"
+        ],
+        "adjective": [
+          "worried",
+          "worrying"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "worried about"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 27
+    },
+    {
+      "id": 2939,
+      "word": "worry",
+      "pos": "v., n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to feel anxious; a feeling of anxiety",
+      "definitionTh": "กังวล / ความกังวล",
+      "example": "Do not worry about the minor change.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "be anxious",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "worry"
+        ],
+        "verb": [
+          "worry"
+        ],
+        "adjective": [
+          "worried",
+          "worrying"
+        ],
+        "adverb": [
+          "worryingly"
+        ]
+      },
+      "collocations": [
+        "cause concern"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 26
+    },
+    {
+      "id": 2940,
+      "word": "worse",
+      "pos": "adj., adv., n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "more bad or unpleasant",
+      "definitionTh": "แย่กว่า",
+      "example": "The second result was worse.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "poorer",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "better",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "get worse"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 25
+    },
+    {
+      "id": 2941,
+      "word": "worst",
+      "pos": "adj., adv., n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the most bad or unpleasant",
+      "definitionTh": "แย่ที่สุด",
+      "example": "This is the worst-case condition.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "poorest",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "best",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "worst case"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 24
+    },
+    {
+      "id": 2942,
+      "word": "worth",
+      "pos": "adj., n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "having a particular value or deserving an action",
+      "definitionTh": "คุ้มค่า / มูลค่า",
+      "example": "The improvement is worth the investment.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "value",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "worth considering"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 23
+    },
+    {
+      "id": 2943,
+      "word": "would",
+      "pos": "modal v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "used for imagined situations, preferences, or polite requests",
+      "definitionTh": "จะ / คงจะ",
+      "example": "This change would reduce defects.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "would be"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 22
+    },
+    {
+      "id": 2944,
+      "word": "wound",
+      "pos": "n., v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "an injury where the skin is damaged; to injure",
+      "definitionTh": "บาดแผล / ทำให้บาดเจ็บ",
+      "example": "Clean the wound immediately.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "injury",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "wound"
+        ],
+        "verb": [
+          "wound"
+        ],
+        "adjective": [
+          "wounded"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "open wound"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 21
+    },
+    {
+      "id": 2945,
+      "word": "wow",
+      "pos": "exclam.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "used to express strong surprise or admiration",
+      "definitionTh": "ว้าว",
+      "example": "Wow, the image is very clear.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "amazing",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "wow factor"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 20
+    },
+    {
+      "id": 2946,
+      "word": "wrap",
+      "pos": "v., n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to cover something by folding material around it",
+      "definitionTh": "ห่อ / สิ่งห่อหุ้ม",
+      "example": "Wrap the part in protective material.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "cover",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "wrap",
+          "wrapper"
+        ],
+        "verb": [
+          "wrap"
+        ],
+        "adjective": [
+          "wrapped"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "wrap securely"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 19
+    },
+    {
+      "id": 2947,
+      "word": "write",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to make words or symbols on a surface",
+      "definitionTh": "เขียน",
+      "example": "Write the result in the report.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "record",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "writer",
+          "writing"
+        ],
+        "verb": [
+          "write"
+        ],
+        "adjective": [
+          "written"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "write down"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 18
+    },
+    {
+      "id": 2948,
+      "word": "writer",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a person who writes books, articles, or other texts",
+      "definitionTh": "นักเขียน",
+      "example": "The writer revised the article.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "author",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "writer",
+          "writing"
+        ],
+        "verb": [
+          "write"
+        ],
+        "adjective": [
+          "written"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "technical writer"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 17
+    },
+    {
+      "id": 2949,
+      "word": "writing",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the activity or result of producing written words",
+      "definitionTh": "การเขียน",
+      "example": "Clear writing improves the procedure.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "text",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "writer",
+          "writing"
+        ],
+        "verb": [
+          "write"
+        ],
+        "adjective": [
+          "written"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "technical writing"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 16
+    },
+    {
+      "id": 2950,
+      "word": "wrong",
+      "pos": "adj., adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "not correct or suitable",
+      "definitionTh": "ผิด",
+      "example": "The sensor was installed in the wrong position.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "incorrect",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "right",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "wrong"
+        ],
+        "verb": [
+          "wrong"
+        ],
+        "adjective": [
+          "wrong"
+        ],
+        "adverb": [
+          "wrongly"
+        ]
+      },
+      "collocations": [
+        "wrong answer"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 15
+    },
+    {
+      "id": 2951,
+      "word": "yard",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an outdoor area beside a building or a unit of length",
+      "definitionTh": "ลาน / หลา",
+      "example": "The truck is waiting in the yard.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "courtyard",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "factory yard"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 14
+    },
+    {
+      "id": 2952,
+      "word": "yeah",
+      "pos": "exclam.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an informal way of saying yes",
+      "definitionTh": "ใช่",
+      "example": "Yeah, the test is complete.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "yes",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "yeah right"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 13
+    },
+    {
+      "id": 2953,
+      "word": "year",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a period of twelve months",
+      "definitionTh": "ปี",
+      "example": "The project lasts one year.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "twelve months",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "last year"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 12
+    },
+    {
+      "id": 2954,
+      "word": "yellow",
+      "pos": "adj., n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "having the colour between green and orange",
+      "definitionTh": "สีเหลือง",
+      "example": "The warning label is yellow.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "golden",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "yellow light"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 11
+    },
+    {
+      "id": 2955,
+      "word": "yes",
+      "pos": "exclam.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "used to give a positive answer",
+      "definitionTh": "ใช่",
+      "example": "Yes, the guard is closed.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "no",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "say yes"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 10
+    },
+    {
+      "id": 2956,
+      "word": "yesterday",
+      "pos": "adv., n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the day before today",
+      "definitionTh": "เมื่อวาน",
+      "example": "The trial started yesterday.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "the previous day",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "yesterday morning"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 9
+    },
+    {
+      "id": 2957,
+      "word": "yet",
+      "pos": "adv., conj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "until now or nevertheless",
+      "definitionTh": "ยัง / แต่กระนั้น",
+      "example": "The report is not finished yet.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "so far",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "not yet"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 8
+    },
+    {
+      "id": 2958,
+      "word": "you",
+      "pos": "pron.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "used to refer to the person or people being addressed",
+      "definitionTh": "คุณ / พวกคุณ",
+      "example": "You must wear safety shoes.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "you should"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 7
+    },
+    {
+      "id": 2959,
+      "word": "young",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "having lived or existed for only a short time",
+      "definitionTh": "อายุน้อย",
+      "example": "The young engineer joined the team.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "youthful",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "old",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "youth"
+        ],
+        "verb": [],
+        "adjective": [
+          "young"
+        ],
+        "adverb": [
+          "young"
+        ]
+      },
+      "collocations": [
+        "young people"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 6
+    },
+    {
+      "id": 2960,
+      "word": "your",
+      "pos": "det.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "belonging to the person being addressed",
+      "definitionTh": "ของคุณ",
+      "example": "Check your equipment before use.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "your team"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 5
+    },
+    {
+      "id": 2961,
+      "word": "yours",
+      "pos": "pron.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the one or ones belonging to the person addressed",
+      "definitionTh": "ของคุณ",
+      "example": "This safety helmet is yours.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "yours sincerely"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 4
+    },
+    {
+      "id": 2962,
+      "word": "yourself",
+      "pos": "pron.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "used when the person addressed is both subject and object",
+      "definitionTh": "ตัวคุณเอง",
+      "example": "Check the result yourself.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "by yourself"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 3
+    },
+    {
+      "id": 2963,
+      "word": "youth",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "the period of being young or young people as a group",
+      "definitionTh": "วัยเยาว์ / เยาวชน",
+      "example": "The programme supports local youth.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "young people",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "youth"
+        ],
+        "verb": [],
+        "adjective": [
+          "young"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "youth development"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 2
+    },
+    {
+      "id": 2964,
+      "word": "zero",
+      "pos": "number, n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the number 0 or no amount",
+      "definitionTh": "ศูนย์",
+      "example": "Our target is zero defects.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "none",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "one",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "zero defects"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 1
+    }
+  ]
+}

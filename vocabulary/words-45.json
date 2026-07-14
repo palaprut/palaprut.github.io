@@ -1,0 +1,3569 @@
+{
+  "version": 2,
+  "source": "Oxford 5000 (American English)",
+  "batch": 45,
+  "level": "B2-C1",
+  "totalWords": 100,
+  "metadata": {
+    "created": "2026-07-14",
+    "language": "en-US",
+    "description": "Batch 45 — additional Oxford 5000 words 1401-1500; source-aligned from attached PDF"
+  },
+  "words": [
+    {
+      "id": 4365,
+      "word": "productivity",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the rate at which useful work or output is produced",
+      "definitionTh": "ผลิตภาพ",
+      "example": "Automation increased inspection productivity.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "output efficiency",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "labor productivity"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 100
+    },
+    {
+      "id": 4366,
+      "word": "profitable",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "producing financial gain",
+      "definitionTh": "ทำกำไร",
+      "example": "The proposal must be technically sound and profitable.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "lucrative",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unprofitable",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "profitable investment"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 99
+    },
+    {
+      "id": 4367,
+      "word": "profound",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "having deep meaning or influence",
+      "definitionTh": "ลึกซึ้ง",
+      "example": "The report provides a clear example of “profound”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "deep",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "profound example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 98
+    },
+    {
+      "id": 4368,
+      "word": "programming",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the activity of writing computer instructions",
+      "definitionTh": "การเขียนโปรแกรม",
+      "example": "PLC programming controls the reject sequence.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "coding",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "computer programming"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 97
+    },
+    {
+      "id": 4369,
+      "word": "progressive",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "supporting gradual improvement or reform",
+      "definitionTh": "ก้าวหน้า",
+      "example": "The report provides a clear example of “progressive”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "reformist",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "regressive",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "progressive example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 96
+    },
+    {
+      "id": 4370,
+      "word": "prohibit",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to officially forbid something",
+      "definitionTh": "ห้าม",
+      "example": "The report provides a clear example of “prohibit”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "ban",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "allow",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "prohibition"
+        ],
+        "verb": [
+          "prohibit"
+        ],
+        "adjective": [
+          "prohibited"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "prohibit example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 95
+    },
+    {
+      "id": 4371,
+      "word": "projection",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "an estimate of a future amount or an image cast forward",
+      "definitionTh": "การคาดการณ์ / การฉาย",
+      "example": "Use the trend for the annual projection.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "forecast",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "cost projection"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 94
+    },
+    {
+      "id": 4372,
+      "word": "prominent",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "important and well known",
+      "definitionTh": "โดดเด่น",
+      "example": "The report provides a clear example of “prominent”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "leading",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "prominent example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 93
+    },
+    {
+      "id": 4373,
+      "word": "promising",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "showing signs of future success",
+      "definitionTh": "มีแนวโน้มดี",
+      "example": "The first trial produced promising results.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "encouraging",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unpromising",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "promising solution"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 92
+    },
+    {
+      "id": 4374,
+      "word": "promotion",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "movement to a higher position or public support",
+      "definitionTh": "การส่งเสริม",
+      "example": "Document the product-promotion plan.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "advancement",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "sales promotion"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 91
+    },
+    {
+      "id": 4375,
+      "word": "prompt",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to cause someone to act or respond",
+      "definitionTh": "กระตุ้น",
+      "example": "The alarm prompts the operator to act.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "stimulate",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "prompt action"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 90
+    },
+    {
+      "id": 4376,
+      "word": "pronounced",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "very noticeable or strongly marked",
+      "definitionTh": "เด่นชัด",
+      "example": "The defect pattern became more pronounced.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "marked",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "pronounced effect"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 89
+    },
+    {
+      "id": 4377,
+      "word": "propaganda",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "information designed to influence public opinion",
+      "definitionTh": "การโฆษณาชวนเชื่อ",
+      "example": "The report provides a clear example of “propaganda”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "persuasion",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "propaganda example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 88
+    },
+    {
+      "id": 4378,
+      "word": "proportion",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a part compared with the whole",
+      "definitionTh": "สัดส่วน",
+      "example": "Calculate the proportion of rejected products.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "share",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "large proportion"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 87
+    },
+    {
+      "id": 4379,
+      "word": "proposition",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a formal suggestion or statement",
+      "definitionTh": "ข้อเสนอ",
+      "example": "The report provides a clear example of “proposition”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "proposal",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "proposition example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 86
+    },
+    {
+      "id": 4380,
+      "word": "prosecute",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to bring legal action against someone",
+      "definitionTh": "ดำเนินคดี",
+      "example": "The report provides a clear example of “prosecute”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "charge",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "prosecution",
+          "prosecutor"
+        ],
+        "verb": [
+          "prosecute"
+        ],
+        "adjective": [
+          "prosecutable"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "prosecute example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 85
+    },
+    {
+      "id": 4381,
+      "word": "prosecution",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the process of conducting a legal case",
+      "definitionTh": "การดำเนินคดี",
+      "example": "The report provides a clear example of “prosecution”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "legal action",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "prosecution example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 84
+    },
+    {
+      "id": 4382,
+      "word": "prosecutor",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a lawyer representing the state in a criminal case",
+      "definitionTh": "อัยการ",
+      "example": "The report provides a clear example of “prosecutor”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "state attorney",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "prosecutor example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 83
+    },
+    {
+      "id": 4383,
+      "word": "prospective",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "expected or likely to become something in future",
+      "definitionTh": "ที่คาดหวังในอนาคต",
+      "example": "The report provides a clear example of “prospective”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "potential",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "prospective example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 82
+    },
+    {
+      "id": 4384,
+      "word": "prosperity",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the state of being successful and wealthy",
+      "definitionTh": "ความเจริญรุ่งเรือง",
+      "example": "The report provides a clear example of “prosperity”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "success",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "prosperity example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 81
+    },
+    {
+      "id": 4385,
+      "word": "protective",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "intended to prevent damage or injury",
+      "definitionTh": "ป้องกัน",
+      "example": "The report provides a clear example of “protective”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "defensive",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "harmful",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "protective example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 80
+    },
+    {
+      "id": 4386,
+      "word": "protein",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a nutrient needed for body growth and repair",
+      "definitionTh": "โปรตีน",
+      "example": "The report provides a clear example of “protein”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "nutrient",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "protein example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 79
+    },
+    {
+      "id": 4387,
+      "word": "protester",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a person taking part in a public protest",
+      "definitionTh": "ผู้ประท้วง",
+      "example": "The report provides a clear example of “protester”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "demonstrator",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "protester example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 78
+    },
+    {
+      "id": 4388,
+      "word": "protocol",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "an agreed system of rules for a process",
+      "definitionTh": "ระเบียบวิธี",
+      "example": "Follow the validation protocol.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "procedure",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "test protocol"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 77
+    },
+    {
+      "id": 4389,
+      "word": "province",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a major administrative area of a country",
+      "definitionTh": "จังหวัด",
+      "example": "The report provides a clear example of “province”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "region",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "province example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 76
+    },
+    {
+      "id": 4390,
+      "word": "provincial",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "relating to an area outside the main center",
+      "definitionTh": "ส่วนภูมิภาค",
+      "example": "The report provides a clear example of “provincial”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "regional",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "provincial example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 75
+    },
+    {
+      "id": 4391,
+      "word": "provision",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "an arrangement or supply prepared for a need",
+      "definitionTh": "ข้อกำหนด / การจัดหา",
+      "example": "Include a provision for future expansion.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "supply",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "safety provision"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 74
+    },
+    {
+      "id": 4392,
+      "word": "provoke",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to cause a reaction or strong response",
+      "definitionTh": "กระตุ้นให้เกิด",
+      "example": "Excess heat can provoke a shutdown.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "trigger",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "provoke a reaction"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 73
+    },
+    {
+      "id": 4393,
+      "word": "psychiatric",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "relating to mental illness and its treatment",
+      "definitionTh": "ทางจิตเวช",
+      "example": "The report provides a clear example of “psychiatric”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "mental-health related",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "psychiatric example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 72
+    },
+    {
+      "id": 4394,
+      "word": "psychological",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "relating to the mind and behavior",
+      "definitionTh": "ทางจิตวิทยา",
+      "example": "The report provides a clear example of “psychological”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "mental",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "psychological example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 71
+    },
+    {
+      "id": 4395,
+      "word": "publicity",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "public attention created for a person or product",
+      "definitionTh": "การประชาสัมพันธ์",
+      "example": "The report provides a clear example of “publicity”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "promotion",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "publicity example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 70
+    },
+    {
+      "id": 4396,
+      "word": "publishing",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the business of producing books or information",
+      "definitionTh": "การตีพิมพ์",
+      "example": "The report provides a clear example of “publishing”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "publication",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "publishing example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 69
+    },
+    {
+      "id": 4397,
+      "word": "pulse",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the regular beat of blood or a short signal",
+      "definitionTh": "ชีพจร",
+      "example": "Measure the encoder pulse.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "beat",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "electrical pulse"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 68
+    },
+    {
+      "id": 4398,
+      "word": "pump",
+      "pos": "v., n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a device moving fluid; to move fluid",
+      "definitionTh": "ปั๊ม / สูบ",
+      "example": "The pump circulates cooling water.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "move fluid",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "water pump"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 67
+    },
+    {
+      "id": 4399,
+      "word": "punch",
+      "pos": "n., v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a hit with the fist or a tool making holes",
+      "definitionTh": "หมัด / ต่อย",
+      "example": "The report provides a clear example of “punch”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "strike",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "punch example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 66
+    },
+    {
+      "id": 4400,
+      "word": "punk",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a style or person linked to rebellious music culture",
+      "definitionTh": "พังก์",
+      "example": "The report provides a clear example of “punk”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "rebel",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "punk example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 65
+    },
+    {
+      "id": 4401,
+      "word": "purely",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "completely and without other elements",
+      "definitionTh": "อย่างแท้จริง",
+      "example": "The decision was based purely on data.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "entirely",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "partly",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "purely technical"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 64
+    },
+    {
+      "id": 4402,
+      "word": "pursuit",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the act of trying to achieve or obtain something",
+      "definitionTh": "การแสวงหา",
+      "example": "The report provides a clear example of “pursuit”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "quest",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "pursuit example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 63
+    },
+    {
+      "id": 4403,
+      "word": "puzzle",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a problem designed to test thought",
+      "definitionTh": "ปริศนา",
+      "example": "The report provides a clear example of “puzzle”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "riddle",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "puzzle example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 62
+    },
+    {
+      "id": 4404,
+      "word": "query",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a request for information in a system",
+      "definitionTh": "คำถาม",
+      "example": "Run a query against the defect database.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "request",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "database query"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 61
+    },
+    {
+      "id": 4405,
+      "word": "quest",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a long search for something important",
+      "definitionTh": "ภารกิจค้นหา",
+      "example": "The report provides a clear example of “quest”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "search",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "quest example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 60
+    },
+    {
+      "id": 4406,
+      "word": "questionnaire",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a written set of questions for collecting data",
+      "definitionTh": "แบบสอบถาม",
+      "example": "Use a questionnaire to collect operator feedback.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "survey",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "survey questionnaire"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 59
+    },
+    {
+      "id": 4407,
+      "word": "quota",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a fixed permitted amount",
+      "definitionTh": "โควตา",
+      "example": "The system met the production quota.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "allowance",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "daily quota"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 58
+    },
+    {
+      "id": 4408,
+      "word": "racial",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "relating to race or ethnic group",
+      "definitionTh": "ทางเชื้อชาติ",
+      "example": "The report provides a clear example of “racial”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "ethnic",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "racial example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 57
+    },
+    {
+      "id": 4409,
+      "word": "racism",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "unfair belief or treatment based on race",
+      "definitionTh": "การเหยียดเชื้อชาติ",
+      "example": "The report provides a clear example of “racism”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "racial prejudice",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "racism example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 56
+    },
+    {
+      "id": 4410,
+      "word": "racist",
+      "pos": "adj., n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a person with racist beliefs",
+      "definitionTh": "ผู้เหยียดเชื้อชาติ",
+      "example": "The report provides a clear example of “racist”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "bigot",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "racist example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 55
+    },
+    {
+      "id": 4411,
+      "word": "radar",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a system detecting objects with radio waves",
+      "definitionTh": "เรดาร์",
+      "example": "Radar detects objects at a distance.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "detection system",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "radar signal"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 54
+    },
+    {
+      "id": 4412,
+      "word": "radiation",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "energy transmitted as waves or particles",
+      "definitionTh": "รังสี",
+      "example": "Shield the sensor from heat radiation.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "energy emission",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "thermal radiation"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 53
+    },
+    {
+      "id": 4413,
+      "word": "radical",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "extreme or affecting fundamental change",
+      "definitionTh": "รุนแรง / ถอนราก",
+      "example": "The report provides a clear example of “radical”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "fundamental",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "conservative",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "radical example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 52
+    },
+    {
+      "id": 4414,
+      "word": "rage",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "intense uncontrolled anger",
+      "definitionTh": "ความโกรธ",
+      "example": "The report provides a clear example of “rage”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "fury",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "rage example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 51
+    },
+    {
+      "id": 4415,
+      "word": "raid",
+      "pos": "n., v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a sudden attack; to attack a place",
+      "definitionTh": "การจู่โจม",
+      "example": "The report provides a clear example of “raid”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "attack",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "raid example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 50
+    },
+    {
+      "id": 4416,
+      "word": "rail",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a metal bar or railway track",
+      "definitionTh": "ราง",
+      "example": "The report provides a clear example of “rail”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "track",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "rail example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 49
+    },
+    {
+      "id": 4417,
+      "word": "rally",
+      "pos": "n., v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a public gathering or renewed recovery",
+      "definitionTh": "การชุมนุม",
+      "example": "The report provides a clear example of “rally”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "gathering",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "rally example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 48
+    },
+    {
+      "id": 4418,
+      "word": "random",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "chosen without a fixed pattern",
+      "definitionTh": "สุ่ม",
+      "example": "Select a random sample for validation.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "arbitrary",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "systematic",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "random sample"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 47
+    },
+    {
+      "id": 4419,
+      "word": "ranking",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a position in an ordered list",
+      "definitionTh": "การจัดอันดับ",
+      "example": "Review the supplier ranking.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "position",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "performance ranking"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 46
+    },
+    {
+      "id": 4420,
+      "word": "rape",
+      "pos": "n., v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a serious criminal act of forced sexual violence",
+      "definitionTh": "การข่มขืน",
+      "example": "The report provides a clear example of “rape”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "sexual assault",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "rape example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 45
+    },
+    {
+      "id": 4421,
+      "word": "rat",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a small rodent",
+      "definitionTh": "หนู",
+      "example": "The report provides a clear example of “rat”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "rodent",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "rat example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 44
+    },
+    {
+      "id": 4422,
+      "word": "rating",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a score showing quality or performance",
+      "definitionTh": "คะแนน",
+      "example": "The enclosure has an IP rating.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "score",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "safety rating"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 43
+    },
+    {
+      "id": 4423,
+      "word": "ratio",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a relationship between two numerical quantities",
+      "definitionTh": "อัตราส่วน",
+      "example": "Calculate the defect ratio.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "proportion",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "signal-to-noise ratio"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 42
+    },
+    {
+      "id": 4424,
+      "word": "rational",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "based on reason and logic",
+      "definitionTh": "มีเหตุผล",
+      "example": "Use a rational scoring method.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "logical",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "irrational",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "rational decision"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 41
+    },
+    {
+      "id": 4425,
+      "word": "ray",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a narrow beam of light or energy",
+      "definitionTh": "รังสี / ลำแสง",
+      "example": "The report provides a clear example of “ray”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "beam",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "ray example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 40
+    },
+    {
+      "id": 4426,
+      "word": "readily",
+      "pos": "adv.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "easily and without delay",
+      "definitionTh": "อย่างพร้อม",
+      "example": "The report provides a clear example of “readily”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "easily",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "reluctantly",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "readily example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 39
+    },
+    {
+      "id": 4427,
+      "word": "realization",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the act of understanding something clearly",
+      "definitionTh": "การตระหนักรู้",
+      "example": "The trial led to the realization that lighting was critical.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "awareness",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "sudden realization"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 38
+    },
+    {
+      "id": 4428,
+      "word": "realm",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "an area of activity, knowledge, or influence",
+      "definitionTh": "ขอบเขต",
+      "example": "The report provides a clear example of “realm”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "domain",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "realm example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 37
+    },
+    {
+      "id": 4429,
+      "word": "rear",
+      "pos": "adj., n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the back part of something",
+      "definitionTh": "ด้านหลัง",
+      "example": "The report provides a clear example of “rear”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "back",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "front",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "rear example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 36
+    },
+    {
+      "id": 4430,
+      "word": "reasonably",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "in a fair or sensible way",
+      "definitionTh": "อย่างสมเหตุสมผล",
+      "example": "The report provides a clear example of “reasonably”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "fairly",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unreasonably",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "reasonably example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 35
+    },
+    {
+      "id": 4431,
+      "word": "reasoning",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the process of forming conclusions logically",
+      "definitionTh": "การให้เหตุผล",
+      "example": "Document the reasoning behind each score.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "logic",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "logical reasoning"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 34
+    },
+    {
+      "id": 4432,
+      "word": "reassure",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to restore someone’s confidence",
+      "definitionTh": "ทำให้มั่นใจ",
+      "example": "The test results reassure the project team.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "comfort",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "alarm",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "reassure stakeholders"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 33
+    },
+    {
+      "id": 4433,
+      "word": "rebel",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a person opposing authority",
+      "definitionTh": "กบฏ",
+      "example": "The report provides a clear example of “rebel”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "insurgent",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "loyalist",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "rebel",
+          "rebellion"
+        ],
+        "verb": [
+          "rebel"
+        ],
+        "adjective": [
+          "rebellious"
+        ],
+        "adverb": [
+          "rebelliously"
+        ]
+      },
+      "collocations": [
+        "rebel example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 32
+    },
+    {
+      "id": 4434,
+      "word": "rebellion",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "organized resistance against authority",
+      "definitionTh": "การกบฏ",
+      "example": "The report provides a clear example of “rebellion”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "uprising",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "rebellion example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 31
+    },
+    {
+      "id": 4435,
+      "word": "rebuild",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to build again after damage",
+      "definitionTh": "สร้างใหม่",
+      "example": "Rebuild the model with verified data.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "reconstruct",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "demolish",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "rebuilding",
+          "reconstruction"
+        ],
+        "verb": [
+          "rebuild",
+          "reconstruct"
+        ],
+        "adjective": [
+          "rebuilt"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "rebuild a system"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 30
+    },
+    {
+      "id": 4436,
+      "word": "receiver",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a device or person that receives signals",
+      "definitionTh": "เครื่องรับ",
+      "example": "Check the wireless receiver signal.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "receptor",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "signal receiver"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 29
+    },
+    {
+      "id": 4437,
+      "word": "recession",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a period of reduced economic activity",
+      "definitionTh": "ภาวะเศรษฐกิจถดถอย",
+      "example": "The report provides a clear example of “recession”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "downturn",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "growth",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "recession example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 28
+    },
+    {
+      "id": 4438,
+      "word": "recipient",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a person who receives something",
+      "definitionTh": "ผู้รับ",
+      "example": "The report provides a clear example of “recipient”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "beneficiary",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "recipient example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 27
+    },
+    {
+      "id": 4439,
+      "word": "reckon",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to think or calculate informally",
+      "definitionTh": "คิดว่า",
+      "example": "The report provides a clear example of “reckon”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "suppose",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "reckon example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 26
+    },
+    {
+      "id": 4440,
+      "word": "recognition",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the act of identifying value or achievement",
+      "definitionTh": "การยอมรับ",
+      "example": "The model performs pattern recognition.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "acknowledgment",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "image recognition"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 25
+    },
+    {
+      "id": 4441,
+      "word": "reconstruction",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the process of building again",
+      "definitionTh": "การสร้างใหม่",
+      "example": "The system supports 3D reconstruction.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "restoration",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "image reconstruction"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 24
+    },
+    {
+      "id": 4442,
+      "word": "recount",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to tell the details of an event again",
+      "definitionTh": "เล่าใหม่",
+      "example": "The report provides a clear example of “recount”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "retell",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "recount example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 23
+    },
+    {
+      "id": 4443,
+      "word": "recovery",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the process of returning to normal",
+      "definitionTh": "การฟื้นตัว",
+      "example": "Test system recovery after power loss.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "restoration",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "recovery procedure"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 22
+    },
+    {
+      "id": 4444,
+      "word": "recruit",
+      "pos": "v., n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to find and bring in new members or employees",
+      "definitionTh": "รับสมัคร",
+      "example": "Recruit trained technicians for the project.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "hire",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "recruit",
+          "recruitment"
+        ],
+        "verb": [
+          "recruit"
+        ],
+        "adjective": [
+          "recruitable"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "recruit staff"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 21
+    },
+    {
+      "id": 4445,
+      "word": "recruitment",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the process of hiring new people",
+      "definitionTh": "การสรรหา",
+      "example": "The recruitment process requires technical screening.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "hiring",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "staff recruitment"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 20
+    },
+    {
+      "id": 4446,
+      "word": "referee",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "an official controlling a sports match",
+      "definitionTh": "กรรมการ",
+      "example": "The report provides a clear example of “referee”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "official",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "referee example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 19
+    },
+    {
+      "id": 4447,
+      "word": "referendum",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a public vote on a specific issue",
+      "definitionTh": "ประชามติ",
+      "example": "The report provides a clear example of “referendum”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "public vote",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "referendum example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 18
+    },
+    {
+      "id": 4448,
+      "word": "reflection",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "an image in a surface or careful thought",
+      "definitionTh": "การสะท้อน",
+      "example": "Reduce reflection from the wet surface.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "image",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "light reflection"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 17
+    },
+    {
+      "id": 4449,
+      "word": "reform",
+      "pos": "n., v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a change intended to improve a system",
+      "definitionTh": "ปฏิรูป",
+      "example": "The project supports process reform.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "improve",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "reform"
+        ],
+        "verb": [
+          "reform"
+        ],
+        "adjective": [
+          "reformed"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "regulatory reform"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 16
+    },
+    {
+      "id": 4450,
+      "word": "refuge",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a safe place giving protection",
+      "definitionTh": "ที่ลี้ภัย",
+      "example": "The report provides a clear example of “refuge”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "shelter",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "refuge example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 15
+    },
+    {
+      "id": 4451,
+      "word": "refugee",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a person forced to leave home for safety",
+      "definitionTh": "ผู้ลี้ภัย",
+      "example": "The report provides a clear example of “refugee”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "displaced person",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "refugee example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 14
+    },
+    {
+      "id": 4452,
+      "word": "refusal",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the act of refusing or not accepting",
+      "definitionTh": "การปฏิเสธ",
+      "example": "The report provides a clear example of “refusal”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "denial",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "refusal example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 13
+    },
+    {
+      "id": 4453,
+      "word": "regain",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to get back something previously lost",
+      "definitionTh": "ได้คืน",
+      "example": "The report provides a clear example of “regain”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "recover",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "lose",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "regain example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 12
+    },
+    {
+      "id": 4454,
+      "word": "regardless",
+      "pos": "adv.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "without being affected by circumstances",
+      "definitionTh": "โดยไม่คำนึงถึง",
+      "example": "The report provides a clear example of “regardless”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "irrespective",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "conditionally",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "regardless example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 11
+    },
+    {
+      "id": 4455,
+      "word": "regime",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a system or government in power",
+      "definitionTh": "ระบอบการปกครอง",
+      "example": "The report provides a clear example of “regime”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "government",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "regime example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 10
+    },
+    {
+      "id": 4456,
+      "word": "registration",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the process of officially recording details",
+      "definitionTh": "การลงทะเบียน",
+      "example": "Complete equipment registration.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "enrollment",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "product registration"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 9
+    },
+    {
+      "id": 4457,
+      "word": "regulate",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to control an activity by rules",
+      "definitionTh": "ควบคุม",
+      "example": "The controller regulates temperature.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "control",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "regulation",
+          "regulator"
+        ],
+        "verb": [
+          "regulate"
+        ],
+        "adjective": [
+          "regulatory"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "regulate pressure"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 8
+    },
+    {
+      "id": 4458,
+      "word": "regulator",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a person or body controlling an industry",
+      "definitionTh": "หน่วยงานกำกับ",
+      "example": "The pressure regulator requires calibration.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "supervisor",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "pressure regulator"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 7
+    },
+    {
+      "id": 4459,
+      "word": "regulatory",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "relating to official rules and controls",
+      "definitionTh": "ทางกฎระเบียบ",
+      "example": "Review all regulatory requirements.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "compliance-related",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "regulatory compliance"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 6
+    },
+    {
+      "id": 4460,
+      "word": "rehabilitation",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the process of restoring health or function",
+      "definitionTh": "การฟื้นฟู",
+      "example": "The equipment needs structural rehabilitation.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "recovery",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "rehabilitation program"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 5
+    },
+    {
+      "id": 4461,
+      "word": "reign",
+      "pos": "n., v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the period a ruler holds power; to rule",
+      "definitionTh": "ครองราชย์",
+      "example": "The report provides a clear example of “reign”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "rule",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "reign example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 4
+    },
+    {
+      "id": 4462,
+      "word": "reinforce",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to make stronger with additional support",
+      "definitionTh": "เสริมกำลัง",
+      "example": "Reinforce the camera bracket.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "strengthen",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "weaken",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "reinforce a structure"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 3
+    },
+    {
+      "id": 4463,
+      "word": "rejection",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the act of refusing or not accepting",
+      "definitionTh": "การปฏิเสธ",
+      "example": "Analyze every rejection event.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "refusal",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "acceptance",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "automatic rejection"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 2
+    },
+    {
+      "id": 4464,
+      "word": "relevance",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the degree to which something relates to a subject",
+      "definitionTh": "ความเกี่ยวข้อง",
+      "example": "Check the relevance of each criterion.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "applicability",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "irrelevance",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "technical relevance"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 1
+    }
+  ]
+}

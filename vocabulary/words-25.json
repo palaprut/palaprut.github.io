@@ -1,0 +1,3669 @@
+{
+  "version": 2,
+  "source": "Oxford 3000",
+  "batch": 25,
+  "level": "Mixed",
+  "totalWords": 100,
+  "metadata": {
+    "created": "2026-07-14",
+    "language": "en",
+    "description": "Batch 25 of 50 — Oxford 3000 words 2401-2500; source-aligned sequence"
+  },
+  "words": [
+    {
+      "id": 2401,
+      "word": "sincere",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "sincere",
+      "definitionTh": "จริงใจ",
+      "example": "Her apology was sincere.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "honest",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "insincere",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "sincerity"
+        ],
+        "verb": [],
+        "adjective": [
+          "sincere"
+        ],
+        "adverb": [
+          "sincerely"
+        ]
+      },
+      "collocations": [
+        "sincere apology"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 100
+    },
+    {
+      "id": 2402,
+      "word": "sing",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "sing",
+      "definitionTh": "ร้องเพลง",
+      "example": "The children sing together.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "perform vocally",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "singer",
+          "singing"
+        ],
+        "verb": [
+          "sing"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "sing a song"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 99
+    },
+    {
+      "id": 2403,
+      "word": "singer",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "singer",
+      "definitionTh": "นักร้อง",
+      "example": "The singer performed on stage.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "vocalist",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "singer",
+          "singing"
+        ],
+        "verb": [
+          "sing"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "lead singer"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 98
+    },
+    {
+      "id": 2404,
+      "word": "singing",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "singing",
+      "definitionTh": "การร้องเพลง",
+      "example": "Singing is part of the lesson.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "singer",
+          "singing"
+        ],
+        "verb": [
+          "sing"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "singing voice"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 97
+    },
+    {
+      "id": 2405,
+      "word": "single",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "single",
+      "definitionTh": "เดี่ยว / หนึ่งเดียว",
+      "example": "Use a single sensor for this test.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "one",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "multiple",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "single unit"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 96
+    },
+    {
+      "id": 2406,
+      "word": "sink",
+      "pos": "v., n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "sink",
+      "definitionTh": "จม / อ่างล้าง",
+      "example": "The damaged part may sink.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "descend",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "float",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "sink"
+        ],
+        "verb": [
+          "sink"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "kitchen sink"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 95
+    },
+    {
+      "id": 2407,
+      "word": "sir",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "sir",
+      "definitionTh": "คุณผู้ชาย",
+      "example": "Excuse me, sir.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "Dear Sir"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 94
+    },
+    {
+      "id": 2408,
+      "word": "sister",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "sister",
+      "definitionTh": "พี่สาว / น้องสาว",
+      "example": "My sister works at a hospital.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "older sister"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 93
+    },
+    {
+      "id": 2409,
+      "word": "sit",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "sit",
+      "definitionTh": "นั่ง",
+      "example": "Please sit near the screen.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "seat"
+        ],
+        "verb": [
+          "sit"
+        ],
+        "adjective": [
+          "seated"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "sit down"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 92
+    },
+    {
+      "id": 2410,
+      "word": "site",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "site",
+      "definitionTh": "สถานที่",
+      "example": "The installation site is ready.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "location",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "factory site"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 91
+    },
+    {
+      "id": 2411,
+      "word": "situation",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "situation",
+      "definitionTh": "สถานการณ์",
+      "example": "Assess the current situation.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "condition",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "difficult situation"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 90
+    },
+    {
+      "id": 2412,
+      "word": "six",
+      "pos": "number",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "six",
+      "definitionTh": "หก",
+      "example": "Six samples passed.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "six times"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 89
+    },
+    {
+      "id": 2413,
+      "word": "sixteen",
+      "pos": "number",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "sixteen",
+      "definitionTh": "สิบหก",
+      "example": "Sixteen employees attended.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "sixteen years"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 88
+    },
+    {
+      "id": 2414,
+      "word": "sixty",
+      "pos": "number",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "sixty",
+      "definitionTh": "หกสิบ",
+      "example": "The target is sixty percent.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "sixty percent"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 87
+    },
+    {
+      "id": 2415,
+      "word": "size",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "size",
+      "definitionTh": "ขนาด",
+      "example": "Check the product size.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "correct size"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 86
+    },
+    {
+      "id": 2416,
+      "word": "ski",
+      "pos": "v., n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "ski",
+      "definitionTh": "สกี",
+      "example": "They ski during winter.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "ski",
+          "skiing",
+          "skier"
+        ],
+        "verb": [
+          "ski"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "ski resort"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 85
+    },
+    {
+      "id": 2417,
+      "word": "skiing",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "skiing",
+      "definitionTh": "การเล่นสกี",
+      "example": "Skiing requires balance.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "ski",
+          "skiing",
+          "skier"
+        ],
+        "verb": [
+          "ski"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "go skiing"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 84
+    },
+    {
+      "id": 2418,
+      "word": "skill",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "skill",
+      "definitionTh": "ทักษะ",
+      "example": "Inspection requires technical skill.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "ability",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "skill"
+        ],
+        "verb": [],
+        "adjective": [
+          "skilled",
+          "skillful"
+        ],
+        "adverb": [
+          "skillfully"
+        ]
+      },
+      "collocations": [
+        "technical skill"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 83
+    },
+    {
+      "id": 2419,
+      "word": "skin",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "skin",
+      "definitionTh": "ผิวหนัง",
+      "example": "Wear gloves to protect your skin.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "skin contact"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 82
+    },
+    {
+      "id": 2420,
+      "word": "skirt",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "skirt",
+      "definitionTh": "กระโปรง",
+      "example": "She wore a blue skirt.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "long skirt"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 81
+    },
+    {
+      "id": 2421,
+      "word": "sky",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "sky",
+      "definitionTh": "ท้องฟ้า",
+      "example": "The sky is clear.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "blue sky"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 80
+    },
+    {
+      "id": 2422,
+      "word": "sleep",
+      "pos": "v., n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "sleep",
+      "definitionTh": "นอนหลับ",
+      "example": "Adults need enough sleep.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "rest",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "sleep"
+        ],
+        "verb": [
+          "sleep"
+        ],
+        "adjective": [
+          "sleepy"
+        ],
+        "adverb": [
+          "sleepily"
+        ]
+      },
+      "collocations": [
+        "deep sleep"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 79
+    },
+    {
+      "id": 2423,
+      "word": "slice",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "slice",
+      "definitionTh": "ชิ้นบาง / หั่น",
+      "example": "Cut the sample into a thin slice.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "piece",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "slice"
+        ],
+        "verb": [
+          "slice"
+        ],
+        "adjective": [
+          "sliced"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "slice of bread"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 78
+    },
+    {
+      "id": 2424,
+      "word": "slide",
+      "pos": "v., n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "slide",
+      "definitionTh": "เลื่อน",
+      "example": "Move to the next slide.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "glide",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "slide"
+        ],
+        "verb": [
+          "slide"
+        ],
+        "adjective": [
+          "sliding"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "presentation slide"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 77
+    },
+    {
+      "id": 2425,
+      "word": "slight",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "slight",
+      "definitionTh": "เล็กน้อย",
+      "example": "There was a slight increase.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "small",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "major",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "slight"
+        ],
+        "adverb": [
+          "slightly"
+        ]
+      },
+      "collocations": [
+        "slight difference"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 76
+    },
+    {
+      "id": 2426,
+      "word": "slightly",
+      "pos": "adv.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "slightly",
+      "definitionTh": "เล็กน้อย",
+      "example": "The pressure rose slightly.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "a little",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "slightly higher"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 75
+    },
+    {
+      "id": 2427,
+      "word": "slip",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "slip",
+      "definitionTh": "ลื่น / หลุด",
+      "example": "A wet floor may cause a slip.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "slide",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "slip"
+        ],
+        "verb": [
+          "slip"
+        ],
+        "adjective": [
+          "slippery"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "slip hazard"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 74
+    },
+    {
+      "id": 2428,
+      "word": "slope",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "slope",
+      "definitionTh": "ความลาดชัน",
+      "example": "Measure the slope of the line.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "incline",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "steep slope"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 73
+    },
+    {
+      "id": 2429,
+      "word": "slow",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "slow",
+      "definitionTh": "ช้า",
+      "example": "The conveyor is too slow.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "unhurried",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "fast",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "slowness"
+        ],
+        "verb": [
+          "slow"
+        ],
+        "adjective": [
+          "slow"
+        ],
+        "adverb": [
+          "slowly"
+        ]
+      },
+      "collocations": [
+        "slow speed"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 72
+    },
+    {
+      "id": 2430,
+      "word": "slowly",
+      "pos": "adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "slowly",
+      "definitionTh": "อย่างช้า ๆ",
+      "example": "Increase the pressure slowly.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "gradually",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "quickly",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "move slowly"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 71
+    },
+    {
+      "id": 2431,
+      "word": "small",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "small",
+      "definitionTh": "เล็ก",
+      "example": "The camera detected a small defect.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "little",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "large",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "small amount"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 70
+    },
+    {
+      "id": 2432,
+      "word": "smart",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "smart",
+      "definitionTh": "ฉลาด / อัจฉริยะ",
+      "example": "The factory uses a smart sensor.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "intelligent",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "stupid",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "smartness"
+        ],
+        "verb": [],
+        "adjective": [
+          "smart"
+        ],
+        "adverb": [
+          "smartly"
+        ]
+      },
+      "collocations": [
+        "smart device"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 69
+    },
+    {
+      "id": 2433,
+      "word": "smartphone",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "smartphone",
+      "definitionTh": "สมาร์ตโฟน",
+      "example": "Open the app on your smartphone.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "smartphone app"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 68
+    },
+    {
+      "id": 2434,
+      "word": "smell",
+      "pos": "v., n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "smell",
+      "definitionTh": "กลิ่น / ดม",
+      "example": "The product has an unusual smell.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "odour",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "smell"
+        ],
+        "verb": [
+          "smell"
+        ],
+        "adjective": [
+          "smelly"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "strong smell"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 67
+    },
+    {
+      "id": 2435,
+      "word": "smile",
+      "pos": "v., n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "smile",
+      "definitionTh": "ยิ้ม",
+      "example": "She smiled at the visitor.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "grin",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "smile"
+        ],
+        "verb": [
+          "smile"
+        ],
+        "adjective": [
+          "smiling"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "friendly smile"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 66
+    },
+    {
+      "id": 2436,
+      "word": "smoke",
+      "pos": "v., n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "smoke",
+      "definitionTh": "ควัน / สูบบุหรี่",
+      "example": "Smoke triggered the alarm.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "fumes",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "smoke",
+          "smoking"
+        ],
+        "verb": [
+          "smoke"
+        ],
+        "adjective": [
+          "smoky"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "black smoke"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 65
+    },
+    {
+      "id": 2437,
+      "word": "smoking",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "smoking",
+      "definitionTh": "การสูบบุหรี่",
+      "example": "Smoking is prohibited here.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "smoke",
+          "smoking"
+        ],
+        "verb": [
+          "smoke"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "no smoking"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 64
+    },
+    {
+      "id": 2438,
+      "word": "smooth",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "smooth",
+      "definitionTh": "เรียบ",
+      "example": "The surface should be smooth.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "even",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "rough",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "smoothness"
+        ],
+        "verb": [
+          "smooth"
+        ],
+        "adjective": [
+          "smooth"
+        ],
+        "adverb": [
+          "smoothly"
+        ]
+      },
+      "collocations": [
+        "smooth surface"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 63
+    },
+    {
+      "id": 2439,
+      "word": "snake",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "snake",
+      "definitionTh": "งู",
+      "example": "A snake crossed the road.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "poisonous snake"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 62
+    },
+    {
+      "id": 2440,
+      "word": "snow",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "snow",
+      "definitionTh": "หิมะ",
+      "example": "Snow covered the road.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "snowfall",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "snow"
+        ],
+        "verb": [
+          "snow"
+        ],
+        "adjective": [
+          "snowy"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "heavy snow"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 61
+    },
+    {
+      "id": 2441,
+      "word": "so",
+      "pos": "adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "so",
+      "definitionTh": "ดังนั้น / มาก",
+      "example": "The signal was weak, so we repeated the test.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "therefore",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "so that"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 60
+    },
+    {
+      "id": 2442,
+      "word": "soap",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "soap",
+      "definitionTh": "สบู่",
+      "example": "Wash your hands with soap.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "liquid soap"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 59
+    },
+    {
+      "id": 2443,
+      "word": "soccer",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "soccer",
+      "definitionTh": "ฟุตบอล",
+      "example": "They play soccer on Sunday.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "football",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "soccer team"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 58
+    },
+    {
+      "id": 2444,
+      "word": "social",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "social",
+      "definitionTh": "ทางสังคม",
+      "example": "The campaign has a social impact.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "societal",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "society"
+        ],
+        "verb": [
+          "socialize"
+        ],
+        "adjective": [
+          "social"
+        ],
+        "adverb": [
+          "socially"
+        ]
+      },
+      "collocations": [
+        "social media"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 57
+    },
+    {
+      "id": 2445,
+      "word": "society",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "society",
+      "definitionTh": "สังคม",
+      "example": "Technology changes society.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "community",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "society"
+        ],
+        "verb": [
+          "socialize"
+        ],
+        "adjective": [
+          "social"
+        ],
+        "adverb": [
+          "socially"
+        ]
+      },
+      "collocations": [
+        "modern society"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 56
+    },
+    {
+      "id": 2446,
+      "word": "sock",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "sock",
+      "definitionTh": "ถุงเท้า",
+      "example": "He wore a clean sock.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "pair of socks"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 55
+    },
+    {
+      "id": 2447,
+      "word": "soft",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "soft",
+      "definitionTh": "นุ่ม",
+      "example": "Use a soft cloth on the lens.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "gentle",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "hard",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "softness"
+        ],
+        "verb": [
+          "soften"
+        ],
+        "adjective": [
+          "soft"
+        ],
+        "adverb": [
+          "softly"
+        ]
+      },
+      "collocations": [
+        "soft material"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 54
+    },
+    {
+      "id": 2448,
+      "word": "software",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "software",
+      "definitionTh": "ซอฟต์แวร์",
+      "example": "Update the inspection software.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "programs",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "software update"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 53
+    },
+    {
+      "id": 2449,
+      "word": "soil",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "soil",
+      "definitionTh": "ดิน",
+      "example": "The sample contained soil.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "earth",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "soil quality"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 52
+    },
+    {
+      "id": 2450,
+      "word": "solar",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "solar",
+      "definitionTh": "พลังงานแสงอาทิตย์",
+      "example": "The site uses solar power.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "sun-powered",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "solar energy"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 51
+    },
+    {
+      "id": 2451,
+      "word": "soldier",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "soldier",
+      "definitionTh": "ทหาร",
+      "example": "The soldier followed the order.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "army soldier"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 50
+    },
+    {
+      "id": 2452,
+      "word": "solid",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "solid",
+      "definitionTh": "ของแข็ง / แข็งแรง",
+      "example": "The material becomes solid when cooled.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "firm",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "liquid",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "solid state"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 49
+    },
+    {
+      "id": 2453,
+      "word": "solution",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "solution",
+      "definitionTh": "วิธีแก้ปัญหา",
+      "example": "We selected a practical solution.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "answer",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "problem",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "solution"
+        ],
+        "verb": [
+          "solve"
+        ],
+        "adjective": [
+          "solvable"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "technical solution"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 48
+    },
+    {
+      "id": 2454,
+      "word": "solve",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "solve",
+      "definitionTh": "แก้ปัญหา",
+      "example": "The team solved the problem.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "resolve",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "solution"
+        ],
+        "verb": [
+          "solve"
+        ],
+        "adjective": [
+          "solvable"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "solve a problem"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 47
+    },
+    {
+      "id": 2455,
+      "word": "some",
+      "pos": "det./pron.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "some",
+      "definitionTh": "บาง",
+      "example": "Some samples failed.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "some of"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 46
+    },
+    {
+      "id": 2456,
+      "word": "somebody",
+      "pos": "pron.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "somebody",
+      "definitionTh": "ใครบางคน",
+      "example": "Somebody left the door open.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "someone",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "somebody else"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 45
+    },
+    {
+      "id": 2457,
+      "word": "someone",
+      "pos": "pron.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "someone",
+      "definitionTh": "ใครสักคน",
+      "example": "Someone should check the alarm.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "somebody",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "someone else"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 44
+    },
+    {
+      "id": 2458,
+      "word": "something",
+      "pos": "pron.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "something",
+      "definitionTh": "บางสิ่ง",
+      "example": "Something blocked the sensor.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "an object",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "something wrong"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 43
+    },
+    {
+      "id": 2459,
+      "word": "sometimes",
+      "pos": "adv.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "sometimes",
+      "definitionTh": "บางครั้ง",
+      "example": "The fault sometimes occurs at start-up.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "occasionally",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "sometimes difficult"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 42
+    },
+    {
+      "id": 2460,
+      "word": "somewhat",
+      "pos": "adv.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "somewhat",
+      "definitionTh": "ค่อนข้าง",
+      "example": "The result was somewhat surprising.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "rather",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "somewhat different"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 41
+    },
+    {
+      "id": 2461,
+      "word": "somewhere",
+      "pos": "adv.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "somewhere",
+      "definitionTh": "ที่ไหนสักแห่ง",
+      "example": "The leak is somewhere near the valve.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "in some place",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "somewhere else"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 40
+    },
+    {
+      "id": 2462,
+      "word": "son",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "son",
+      "definitionTh": "ลูกชาย",
+      "example": "Her son studies engineering.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "young son"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 39
+    },
+    {
+      "id": 2463,
+      "word": "song",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "song",
+      "definitionTh": "เพลง",
+      "example": "They listened to a song.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "tune",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "popular song"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 38
+    },
+    {
+      "id": 2464,
+      "word": "soon",
+      "pos": "adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "soon",
+      "definitionTh": "เร็ว ๆ นี้",
+      "example": "The repair will finish soon.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "shortly",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "later",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "as soon as"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 37
+    },
+    {
+      "id": 2465,
+      "word": "sorry",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "sorry",
+      "definitionTh": "เสียใจ",
+      "example": "I am sorry for the delay.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "regretful",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unapologetic",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "feel sorry"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 36
+    },
+    {
+      "id": 2466,
+      "word": "sort",
+      "pos": "n., v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "sort",
+      "definitionTh": "ประเภท / จัดประเภท",
+      "example": "Sort the data by date.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "type",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "sort"
+        ],
+        "verb": [
+          "sort"
+        ],
+        "adjective": [
+          "sorted"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "sort by"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 35
+    },
+    {
+      "id": 2467,
+      "word": "soul",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "soul",
+      "definitionTh": "จิตวิญญาณ",
+      "example": "The character believes in the soul.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "spirit",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "human soul"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 34
+    },
+    {
+      "id": 2468,
+      "word": "sound",
+      "pos": "n., v., adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "sound",
+      "definitionTh": "เสียง",
+      "example": "The motor made an unusual sound.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "noise",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "sound"
+        ],
+        "verb": [
+          "sound"
+        ],
+        "adjective": [
+          "sound"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "loud sound"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 33
+    },
+    {
+      "id": 2469,
+      "word": "soup",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "soup",
+      "definitionTh": "ซุป",
+      "example": "The soup is hot.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "vegetable soup"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 32
+    },
+    {
+      "id": 2470,
+      "word": "source",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "source",
+      "definitionTh": "แหล่งที่มา",
+      "example": "Identify the source of the defect.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "origin",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "data source"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 31
+    },
+    {
+      "id": 2471,
+      "word": "south",
+      "pos": "n., adj., adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "south",
+      "definitionTh": "ทิศใต้",
+      "example": "The warehouse is south of the plant.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "southern direction",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "north",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "south side"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 30
+    },
+    {
+      "id": 2472,
+      "word": "southern",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "southern",
+      "definitionTh": "ทางใต้",
+      "example": "The supplier is in southern Thailand.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "southern region"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 29
+    },
+    {
+      "id": 2473,
+      "word": "space",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "space",
+      "definitionTh": "พื้นที่ / อวกาศ",
+      "example": "Leave enough space around the machine.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "room",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "storage space"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 28
+    },
+    {
+      "id": 2474,
+      "word": "speak",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "speak",
+      "definitionTh": "พูด",
+      "example": "Please speak clearly.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "talk",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "speaker",
+          "speech"
+        ],
+        "verb": [
+          "speak"
+        ],
+        "adjective": [
+          "spoken"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "speak English"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 27
+    },
+    {
+      "id": 2475,
+      "word": "speaker",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "speaker",
+      "definitionTh": "ผู้พูด / ลำโพง",
+      "example": "The speaker explained the results.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "presenter",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "speaker",
+          "speech"
+        ],
+        "verb": [
+          "speak"
+        ],
+        "adjective": [
+          "spoken"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "guest speaker"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 26
+    },
+    {
+      "id": 2476,
+      "word": "special",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "special",
+      "definitionTh": "พิเศษ",
+      "example": "This case requires special attention.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "particular",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "ordinary",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "specialist"
+        ],
+        "verb": [
+          "specialize"
+        ],
+        "adjective": [
+          "special",
+          "specific"
+        ],
+        "adverb": [
+          "specially"
+        ]
+      },
+      "collocations": [
+        "special requirement"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 25
+    },
+    {
+      "id": 2477,
+      "word": "specialist",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "specialist",
+      "definitionTh": "ผู้เชี่ยวชาญ",
+      "example": "A vision specialist reviewed the design.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "expert",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "specialist"
+        ],
+        "verb": [
+          "specialize"
+        ],
+        "adjective": [
+          "special"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "technical specialist"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 24
+    },
+    {
+      "id": 2478,
+      "word": "species",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "species",
+      "definitionTh": "สายพันธุ์",
+      "example": "The park protects many species.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "type",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "animal species"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 23
+    },
+    {
+      "id": 2479,
+      "word": "specific",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "specific",
+      "definitionTh": "เฉพาะเจาะจง",
+      "example": "Set a specific target.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "particular",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "general",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "specificity"
+        ],
+        "verb": [
+          "specify"
+        ],
+        "adjective": [
+          "specific"
+        ],
+        "adverb": [
+          "specifically"
+        ]
+      },
+      "collocations": [
+        "specific requirement"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 22
+    },
+    {
+      "id": 2480,
+      "word": "specifically",
+      "pos": "adv.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "specifically",
+      "definitionTh": "โดยเฉพาะ",
+      "example": "The test specifically checks colour.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "particularly",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "specifically designed"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 21
+    },
+    {
+      "id": 2481,
+      "word": "speech",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "speech",
+      "definitionTh": "คำพูด",
+      "example": "She gave a short speech.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "talk",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "speech",
+          "speaker"
+        ],
+        "verb": [
+          "speak"
+        ],
+        "adjective": [
+          "spoken"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "opening speech"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 20
+    },
+    {
+      "id": 2482,
+      "word": "speed",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "speed",
+      "definitionTh": "ความเร็ว",
+      "example": "Reduce the conveyor speed.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "rate",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "speed"
+        ],
+        "verb": [
+          "speed"
+        ],
+        "adjective": [
+          "speedy"
+        ],
+        "adverb": [
+          "speedily"
+        ]
+      },
+      "collocations": [
+        "operating speed"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 19
+    },
+    {
+      "id": 2483,
+      "word": "spell",
+      "pos": "v., n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "spell",
+      "definitionTh": "สะกด",
+      "example": "Please spell your name.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "spell",
+          "spelling"
+        ],
+        "verb": [
+          "spell"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "spell correctly"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 18
+    },
+    {
+      "id": 2484,
+      "word": "spelling",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "spelling",
+      "definitionTh": "การสะกด",
+      "example": "Check the spelling.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "spell",
+          "spelling"
+        ],
+        "verb": [
+          "spell"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "spelling mistake"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 17
+    },
+    {
+      "id": 2485,
+      "word": "spend",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "spend",
+      "definitionTh": "ใช้จ่าย / ใช้เวลา",
+      "example": "We spent two hours testing.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "use",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "spending"
+        ],
+        "verb": [
+          "spend"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "spend time"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 16
+    },
+    {
+      "id": 2486,
+      "word": "spending",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "spending",
+      "definitionTh": "การใช้จ่าย",
+      "example": "The project reduced spending.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "spending"
+        ],
+        "verb": [
+          "spend"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "capital spending"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 15
+    },
+    {
+      "id": 2487,
+      "word": "spicy",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "spicy",
+      "definitionTh": "เผ็ด",
+      "example": "The sauce is very spicy.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "hot",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "mild",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "spicy food"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 14
+    },
+    {
+      "id": 2488,
+      "word": "spider",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "spider",
+      "definitionTh": "แมงมุม",
+      "example": "A spider was on the wall.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "small spider"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 13
+    },
+    {
+      "id": 2489,
+      "word": "spirit",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "spirit",
+      "definitionTh": "วิญญาณ / จิตใจ",
+      "example": "The team showed a strong spirit.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "morale",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "spirit"
+        ],
+        "verb": [],
+        "adjective": [
+          "spiritual"
+        ],
+        "adverb": [
+          "spiritually"
+        ]
+      },
+      "collocations": [
+        "team spirit"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 12
+    },
+    {
+      "id": 2490,
+      "word": "spiritual",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "spiritual",
+      "definitionTh": "ทางจิตวิญญาณ",
+      "example": "The temple is a spiritual place.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "religious",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "spirit"
+        ],
+        "verb": [],
+        "adjective": [
+          "spiritual"
+        ],
+        "adverb": [
+          "spiritually"
+        ]
+      },
+      "collocations": [
+        "spiritual belief"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 11
+    },
+    {
+      "id": 2491,
+      "word": "split",
+      "pos": "v., n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "split",
+      "definitionTh": "แยก",
+      "example": "Split the data into two groups.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "divide",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "combine",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "split"
+        ],
+        "verb": [
+          "split"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "split into"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 10
+    },
+    {
+      "id": 2492,
+      "word": "spoken",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "spoken",
+      "definitionTh": "ที่พูด",
+      "example": "Spoken English requires practice.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "verbal",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "spoken language"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 9
+    },
+    {
+      "id": 2493,
+      "word": "spoon",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "spoon",
+      "definitionTh": "ช้อน",
+      "example": "Stir the mixture with a spoon.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "wooden spoon"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 8
+    },
+    {
+      "id": 2494,
+      "word": "sport",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "sport",
+      "definitionTh": "กีฬา",
+      "example": "Running is a popular sport.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "game",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "sport"
+        ],
+        "verb": [],
+        "adjective": [
+          "sporting"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "team sport"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 7
+    },
+    {
+      "id": 2495,
+      "word": "spot",
+      "pos": "n., v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "spot",
+      "definitionTh": "จุด / พบเห็น",
+      "example": "The camera spotted a defect.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "notice",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "spot"
+        ],
+        "verb": [
+          "spot"
+        ],
+        "adjective": [
+          "spotty"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "blind spot"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 6
+    },
+    {
+      "id": 2496,
+      "word": "spread",
+      "pos": "v., n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "spread",
+      "definitionTh": "แพร่กระจาย",
+      "example": "Prevent contamination from spreading.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "extend",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "spread"
+        ],
+        "verb": [
+          "spread"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "spread rapidly"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 5
+    },
+    {
+      "id": 2497,
+      "word": "spring",
+      "pos": "v., n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "spring",
+      "definitionTh": "ฤดูใบไม้ผลิ / สปริง",
+      "example": "The valve uses a metal spring.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "spring"
+        ],
+        "verb": [
+          "spring"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "spring season"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 4
+    },
+    {
+      "id": 2498,
+      "word": "square",
+      "pos": "adj., n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "square",
+      "definitionTh": "สี่เหลี่ยมจัตุรัส",
+      "example": "Cut a square piece.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "quadrilateral",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "square"
+        ],
+        "verb": [
+          "square"
+        ],
+        "adjective": [
+          "square"
+        ],
+        "adverb": [
+          "squarely"
+        ]
+      },
+      "collocations": [
+        "square metre"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 3
+    },
+    {
+      "id": 2499,
+      "word": "stable",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "stable",
+      "definitionTh": "มั่นคง",
+      "example": "The temperature remained stable.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "steady",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unstable",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "stability"
+        ],
+        "verb": [
+          "stabilize"
+        ],
+        "adjective": [
+          "stable"
+        ],
+        "adverb": [
+          "stably"
+        ]
+      },
+      "collocations": [
+        "stable condition"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 2
+    },
+    {
+      "id": 2500,
+      "word": "stadium",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "stadium",
+      "definitionTh": "สนามกีฬา",
+      "example": "The match was held in a stadium.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "arena",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "football stadium"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 1
+    }
+  ]
+}

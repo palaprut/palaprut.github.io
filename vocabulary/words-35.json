@@ -1,0 +1,3622 @@
+{
+  "version": 2,
+  "source": "Oxford 5000 (American English)",
+  "batch": 35,
+  "level": "B2-C1",
+  "totalWords": 100,
+  "metadata": {
+    "created": "2026-07-14",
+    "language": "en-US",
+    "description": "Batch 35 — additional Oxford 5000 words 401-500; continuing IDs after Batch 34"
+  },
+  "words": [
+    {
+      "id": 3365,
+      "word": "convention",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "an accepted practice or a large formal meeting",
+      "definitionTh": "ธรรมเนียม / การประชุม",
+      "example": "The report uses “convention” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "custom",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "convention"
+        ],
+        "verb": [],
+        "adjective": [
+          "conventional"
+        ],
+        "adverb": [
+          "conventionally"
+        ]
+      },
+      "collocations": [
+        "convention example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 100
+    },
+    {
+      "id": 3366,
+      "word": "conventional",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "following accepted or traditional methods",
+      "definitionTh": "ตามธรรมเนียม",
+      "example": "The report uses “conventional” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "traditional",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unconventional",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "conventional example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 99
+    },
+    {
+      "id": 3367,
+      "word": "conversion",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the process of changing into another form",
+      "definitionTh": "การแปลง",
+      "example": "The conversion changed the signal into digital data.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "transformation",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "conversion"
+        ],
+        "verb": [
+          "convert"
+        ],
+        "adjective": [
+          "convertible"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "data conversion"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 98
+    },
+    {
+      "id": 3368,
+      "word": "convey",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to communicate or transport something",
+      "definitionTh": "ถ่ายทอด",
+      "example": "The dashboard conveys the risk clearly.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "communicate",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "convey information"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 97
+    },
+    {
+      "id": 3369,
+      "word": "convict",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to officially find someone guilty of a crime",
+      "definitionTh": "ตัดสินว่ามีความผิด",
+      "example": "The report uses “convict” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "find guilty",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "acquit",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "convict",
+          "conviction"
+        ],
+        "verb": [
+          "convict"
+        ],
+        "adjective": [
+          "convicted"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "convict example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 96
+    },
+    {
+      "id": 3370,
+      "word": "conviction",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a strong belief or a formal guilty judgment",
+      "definitionTh": "ความเชื่อมั่น / คำพิพากษา",
+      "example": "The report uses “conviction” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "belief",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "conviction example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 95
+    },
+    {
+      "id": 3371,
+      "word": "convincing",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "able to make someone believe something",
+      "definitionTh": "น่าเชื่อถือ",
+      "example": "The trial produced convincing evidence.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "persuasive",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unconvincing",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "convincing evidence"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 94
+    },
+    {
+      "id": 3372,
+      "word": "cooperate",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to work together toward a shared result",
+      "definitionTh": "ร่วมมือ",
+      "example": "Production and engineering must cooperate.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "collaborate",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "resist",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "cooperation"
+        ],
+        "verb": [
+          "cooperate"
+        ],
+        "adjective": [
+          "cooperative"
+        ],
+        "adverb": [
+          "cooperatively"
+        ]
+      },
+      "collocations": [
+        "cooperate with"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 93
+    },
+    {
+      "id": 3373,
+      "word": "cooperative",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "willing to work with others",
+      "definitionTh": "ที่ร่วมมือกัน",
+      "example": "The report uses “cooperative” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "helpful",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "cooperative example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 92
+    },
+    {
+      "id": 3374,
+      "word": "coordinate",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to organize people or activities to work together",
+      "definitionTh": "ประสานงาน",
+      "example": "The project owner coordinates all testing activities.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "organize",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "coordination",
+          "coordinator"
+        ],
+        "verb": [
+          "coordinate"
+        ],
+        "adjective": [
+          "coordinated"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "coordinate activities"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 91
+    },
+    {
+      "id": 3375,
+      "word": "coordination",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the organization of connected activities",
+      "definitionTh": "การประสานงาน",
+      "example": "Good coordination reduced downtime.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "organization",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "cross-functional coordination"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 90
+    },
+    {
+      "id": 3376,
+      "word": "coordinator",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a person who organizes related activities",
+      "definitionTh": "ผู้ประสานงาน",
+      "example": "The report uses “coordinator” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "organizer",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "coordinator example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 89
+    },
+    {
+      "id": 3377,
+      "word": "cop",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "an informal word for a police officer",
+      "definitionTh": "ตำรวจ",
+      "example": "The report uses “cop” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "police officer",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "cop example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 88
+    },
+    {
+      "id": 3378,
+      "word": "cope",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to manage a difficult situation successfully",
+      "definitionTh": "รับมือ",
+      "example": "The system can cope with high line speed.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "manage",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "cope with"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 87
+    },
+    {
+      "id": 3379,
+      "word": "copper",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a reddish metal that conducts electricity well",
+      "definitionTh": "ทองแดง",
+      "example": "Use copper wire for the connection.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "metal",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "copper wire"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 86
+    },
+    {
+      "id": 3380,
+      "word": "copyright",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the legal right to control use of original work",
+      "definitionTh": "ลิขสิทธิ์",
+      "example": "The report uses “copyright” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "legal protection",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "copyright example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 85
+    },
+    {
+      "id": 3381,
+      "word": "corporation",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a large company recognized as a legal entity",
+      "definitionTh": "บริษัท",
+      "example": "The report uses “corporation” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "company",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "corporation example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 84
+    },
+    {
+      "id": 3382,
+      "word": "correction",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a change that makes something accurate",
+      "definitionTh": "การแก้ไข",
+      "example": "Apply the correction before recalculation.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "amendment",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "corrective correction"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 83
+    },
+    {
+      "id": 3383,
+      "word": "correlate",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to show a relationship between two things",
+      "definitionTh": "มีความสัมพันธ์กัน",
+      "example": "Defects correlate with high vibration.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "relate",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "correlation"
+        ],
+        "verb": [
+          "correlate"
+        ],
+        "adjective": [
+          "correlated"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "correlate with"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 82
+    },
+    {
+      "id": 3384,
+      "word": "correlation",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a measurable relationship between variables",
+      "definitionTh": "ความสัมพันธ์",
+      "example": "The analysis found a strong correlation.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "relationship",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "strong correlation"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 81
+    },
+    {
+      "id": 3385,
+      "word": "correspond",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to match or communicate by writing",
+      "definitionTh": "สอดคล้อง / ติดต่อ",
+      "example": "The measured value corresponds to the standard.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "match",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "correspondence",
+          "correspondent"
+        ],
+        "verb": [
+          "correspond"
+        ],
+        "adjective": [
+          "corresponding"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "correspond to"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 80
+    },
+    {
+      "id": 3386,
+      "word": "correspondence",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "written communication or close agreement",
+      "definitionTh": "การติดต่อ / จดหมาย",
+      "example": "The report uses “correspondence” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "communication",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "correspondence example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 79
+    },
+    {
+      "id": 3387,
+      "word": "correspondent",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a person who reports news from a place",
+      "definitionTh": "ผู้สื่อข่าว",
+      "example": "The report uses “correspondent” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "reporter",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "correspondent example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 78
+    },
+    {
+      "id": 3388,
+      "word": "corresponding",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "matching or directly related",
+      "definitionTh": "ที่สอดคล้องกัน",
+      "example": "The report uses “corresponding” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "matching",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "corresponding example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 77
+    },
+    {
+      "id": 3389,
+      "word": "corridor",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a long passage connecting rooms or areas",
+      "definitionTh": "ทางเดิน",
+      "example": "The report uses “corridor” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "passage",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "corridor example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 76
+    },
+    {
+      "id": 3390,
+      "word": "corrupt",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "dishonest or changed from its correct form",
+      "definitionTh": "ทุจริต",
+      "example": "The report uses “corrupt” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "dishonest",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "honest",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "corruption"
+        ],
+        "verb": [
+          "corrupt"
+        ],
+        "adjective": [
+          "corrupt"
+        ],
+        "adverb": [
+          "corruptly"
+        ]
+      },
+      "collocations": [
+        "corrupt example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 75
+    },
+    {
+      "id": 3391,
+      "word": "corruption",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "dishonest conduct or damaging alteration",
+      "definitionTh": "การทุจริต",
+      "example": "The report uses “corruption” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "dishonesty",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "corruption example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 74
+    },
+    {
+      "id": 3392,
+      "word": "costly",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "expensive or causing serious loss",
+      "definitionTh": "มีค่าใช้จ่ายสูง",
+      "example": "The report uses “costly” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "expensive",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "inexpensive",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "costly example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 73
+    },
+    {
+      "id": 3393,
+      "word": "councilor",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "an elected member of a local council",
+      "definitionTh": "สมาชิกสภา",
+      "example": "The report uses “councilor” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "representative",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "councilor example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 72
+    },
+    {
+      "id": 3394,
+      "word": "counseling",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "professional advice and emotional support",
+      "definitionTh": "การให้คำปรึกษา",
+      "example": "The report uses “counseling” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "guidance",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "counseling example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 71
+    },
+    {
+      "id": 3395,
+      "word": "counselor",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a person who gives guidance or advice",
+      "definitionTh": "ที่ปรึกษา",
+      "example": "The report uses “counselor” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "adviser",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "counselor example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 70
+    },
+    {
+      "id": 3396,
+      "word": "counter",
+      "pos": "n., v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a flat work surface or to argue against",
+      "definitionTh": "เคาน์เตอร์ / โต้แย้ง",
+      "example": "The report uses “counter” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "oppose",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "counter example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 69
+    },
+    {
+      "id": 3397,
+      "word": "counterpart",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a person or thing with a similar role elsewhere",
+      "definitionTh": "คู่เทียบ",
+      "example": "The report uses “counterpart” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "equivalent",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "counterpart example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 68
+    },
+    {
+      "id": 3398,
+      "word": "countless",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "too many to be counted",
+      "definitionTh": "นับไม่ถ้วน",
+      "example": "The report uses “countless” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "numerous",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "countless example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 67
+    },
+    {
+      "id": 3399,
+      "word": "coup",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a sudden illegal seizure of government power",
+      "definitionTh": "รัฐประหาร",
+      "example": "The report uses “coup” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "takeover",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "coup example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 66
+    },
+    {
+      "id": 3400,
+      "word": "courtesy",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "polite behavior and respect for others",
+      "definitionTh": "ความสุภาพ",
+      "example": "The report uses “courtesy” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "politeness",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "courtesy example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 65
+    },
+    {
+      "id": 3401,
+      "word": "coverage",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the amount or range included or reported",
+      "definitionTh": "การครอบคลุม",
+      "example": "Check the camera coverage area.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "scope",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "inspection coverage"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 64
+    },
+    {
+      "id": 3402,
+      "word": "cowboy",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a person who works with cattle",
+      "definitionTh": "คาวบอย",
+      "example": "The report uses “cowboy” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "cowhand",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "cowboy example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 63
+    },
+    {
+      "id": 3403,
+      "word": "crack",
+      "pos": "v., n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a narrow break or to split without separating fully",
+      "definitionTh": "รอยแตก / แตกร้าว",
+      "example": "The camera detected a small crack.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "fissure",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "surface crack"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 62
+    },
+    {
+      "id": 3404,
+      "word": "craft",
+      "pos": "n., v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "skill in making things; to make carefully",
+      "definitionTh": "งานฝีมือ / ประดิษฐ์",
+      "example": "Craft a clear technical proposal.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "skill",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "craft a plan"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 61
+    },
+    {
+      "id": 3405,
+      "word": "crawl",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to move slowly on hands and knees or close to a surface",
+      "definitionTh": "คลาน",
+      "example": "The report uses “crawl” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "creep",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "crawl example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 60
+    },
+    {
+      "id": 3406,
+      "word": "creativity",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the ability to produce original ideas",
+      "definitionTh": "ความคิดสร้างสรรค์",
+      "example": "The solution required engineering creativity.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "originality",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "creative thinking"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 59
+    },
+    {
+      "id": 3407,
+      "word": "creator",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a person who makes something new",
+      "definitionTh": "ผู้สร้าง",
+      "example": "The report uses “creator” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "maker",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "creator example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 58
+    },
+    {
+      "id": 3408,
+      "word": "credibility",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the quality of being trusted and believed",
+      "definitionTh": "ความน่าเชื่อถือ",
+      "example": "Traceable data improves credibility.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "trustworthiness",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "technical credibility"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 57
+    },
+    {
+      "id": 3409,
+      "word": "credible",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "believable and worthy of trust",
+      "definitionTh": "น่าเชื่อถือ",
+      "example": "The report uses “credible” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "believable",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unbelievable",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "credibility"
+        ],
+        "verb": [],
+        "adjective": [
+          "credible"
+        ],
+        "adverb": [
+          "credibly"
+        ]
+      },
+      "collocations": [
+        "credible example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 56
+    },
+    {
+      "id": 3410,
+      "word": "creep",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to move slowly and quietly",
+      "definitionTh": "คืบคลาน",
+      "example": "The report uses “creep” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "crawl",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "creep example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 55
+    },
+    {
+      "id": 3411,
+      "word": "critically",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "in a way that carefully judges quality or is extremely important",
+      "definitionTh": "อย่างมีวิจารณญาณ",
+      "example": "Review the evidence critically.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "analytically",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "critically important"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 54
+    },
+    {
+      "id": 3412,
+      "word": "critique",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a detailed analysis and judgment of something",
+      "definitionTh": "บทวิจารณ์",
+      "example": "The team prepared a design critique.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "evaluation",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "critical critique"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 53
+    },
+    {
+      "id": 3413,
+      "word": "crown",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a royal headpiece or the top part of something",
+      "definitionTh": "มงกุฎ",
+      "example": "The report uses “crown” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "top",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "crown example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 52
+    },
+    {
+      "id": 3414,
+      "word": "crude",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "rough, basic, or not refined",
+      "definitionTh": "หยาบ / ดิบ",
+      "example": "The first prototype was crude but functional.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "rough",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "refined",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "crude estimate"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 51
+    },
+    {
+      "id": 3415,
+      "word": "cruise",
+      "pos": "n., v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a holiday journey by ship or to travel steadily",
+      "definitionTh": "ล่องเรือ",
+      "example": "The report uses “cruise” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "voyage",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "cruise example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 50
+    },
+    {
+      "id": 3416,
+      "word": "crush",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to press or break with strong force",
+      "definitionTh": "บดขยี้",
+      "example": "Do not crush the cable under the frame.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "compress",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "crush damage"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 49
+    },
+    {
+      "id": 3417,
+      "word": "crystal",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a clear mineral solid with a regular structure",
+      "definitionTh": "คริสตัล",
+      "example": "The report uses “crystal” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "mineral",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "crystal example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 48
+    },
+    {
+      "id": 3418,
+      "word": "cue",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a signal indicating that an action should begin",
+      "definitionTh": "สัญญาณบอก",
+      "example": "The PLC signal is the cue to start inspection.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "signal",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "visual cue"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 47
+    },
+    {
+      "id": 3419,
+      "word": "cult",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a small group with unusual beliefs or intense devotion",
+      "definitionTh": "ลัทธิ",
+      "example": "The report uses “cult” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "sect",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "cult example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 46
+    },
+    {
+      "id": 3420,
+      "word": "cultivate",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to grow crops or develop a skill or quality",
+      "definitionTh": "เพาะปลูก / พัฒนา",
+      "example": "The program cultivates a safety culture.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "develop",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "cultivation"
+        ],
+        "verb": [
+          "cultivate"
+        ],
+        "adjective": [
+          "cultivated"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "cultivate skills"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 45
+    },
+    {
+      "id": 3421,
+      "word": "curiosity",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a strong desire to know or learn",
+      "definitionTh": "ความอยากรู้อยากเห็น",
+      "example": "Technical curiosity supports innovation.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "inquisitiveness",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "curiosity"
+        ],
+        "verb": [],
+        "adjective": [
+          "curious"
+        ],
+        "adverb": [
+          "curiously"
+        ]
+      },
+      "collocations": [
+        "intellectual curiosity"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 44
+    },
+    {
+      "id": 3422,
+      "word": "curious",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "wanting to know or learn something",
+      "definitionTh": "อยากรู้อยากเห็น",
+      "example": "The report uses “curious” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "inquisitive",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "indifferent",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "curious example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 43
+    },
+    {
+      "id": 3423,
+      "word": "curriculum",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the subjects and content taught in a course",
+      "definitionTh": "หลักสูตร",
+      "example": "The curriculum includes machine vision.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "syllabus",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "training curriculum"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 42
+    },
+    {
+      "id": 3424,
+      "word": "custody",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "legal care, control, or protection of someone",
+      "definitionTh": "การควบคุมดูแล",
+      "example": "The report uses “custody” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "care",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "custody example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 41
+    },
+    {
+      "id": 3425,
+      "word": "cute",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "attractive in a pleasant or childlike way",
+      "definitionTh": "น่ารัก",
+      "example": "The report uses “cute” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "attractive",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unattractive",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "cute example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 40
+    },
+    {
+      "id": 3426,
+      "word": "cutting",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the act of cutting or a piece cut from a plant",
+      "definitionTh": "การตัด / กิ่งชำ",
+      "example": "The report uses “cutting” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "cut piece",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "cutting example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 39
+    },
+    {
+      "id": 3427,
+      "word": "cynical",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "doubting that people act for sincere reasons",
+      "definitionTh": "มองโลกในแง่ร้าย",
+      "example": "The report uses “cynical” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "distrustful",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "cynical example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 38
+    },
+    {
+      "id": 3428,
+      "word": "dairy",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "relating to milk and milk products",
+      "definitionTh": "ผลิตภัณฑ์นม",
+      "example": "The sensor is suitable for dairy processing.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "milk-related",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "dairy product"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 37
+    },
+    {
+      "id": 3429,
+      "word": "dam",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a barrier built to hold back water",
+      "definitionTh": "เขื่อน",
+      "example": "The dam controls water flow.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "barrier",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "concrete dam"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 36
+    },
+    {
+      "id": 3430,
+      "word": "damaging",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "causing physical or reputational harm",
+      "definitionTh": "ก่อความเสียหาย",
+      "example": "Excess heat is damaging to the sensor.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "harmful",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "beneficial",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "damaging effect"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 35
+    },
+    {
+      "id": 3431,
+      "word": "dare",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to be brave enough to do something risky",
+      "definitionTh": "กล้า",
+      "example": "The report uses “dare” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "risk",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "dare example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 34
+    },
+    {
+      "id": 3432,
+      "word": "darkness",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the absence of light",
+      "definitionTh": "ความมืด",
+      "example": "The report uses “darkness” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "absence of light",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "light",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "darkness example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 33
+    },
+    {
+      "id": 3433,
+      "word": "database",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "an organized electronic collection of data",
+      "definitionTh": "ฐานข้อมูล",
+      "example": "Store every result in the database.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "data repository",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "central database"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 32
+    },
+    {
+      "id": 3434,
+      "word": "dawn",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the time when daylight first appears",
+      "definitionTh": "รุ่งอรุณ",
+      "example": "The report uses “dawn” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "daybreak",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "dawn example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 31
+    },
+    {
+      "id": 3435,
+      "word": "deadline",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the latest time by which work must be finished",
+      "definitionTh": "กำหนดส่ง",
+      "example": "The installation deadline is Friday.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "due date",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "meet a deadline"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 30
+    },
+    {
+      "id": 3436,
+      "word": "deadly",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "likely to cause death or extreme harm",
+      "definitionTh": "ถึงตาย",
+      "example": "The report uses “deadly” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "fatal",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "harmless",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "deadly example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 29
+    },
+    {
+      "id": 3437,
+      "word": "dealer",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a person or business that buys and sells goods",
+      "definitionTh": "ผู้ค้า",
+      "example": "The report uses “dealer” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "seller",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "dealer example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 28
+    },
+    {
+      "id": 3438,
+      "word": "debris",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "scattered pieces left after damage or destruction",
+      "definitionTh": "ซากปรักหักพัง",
+      "example": "The report uses “debris” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "wreckage",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "debris example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 27
+    },
+    {
+      "id": 3439,
+      "word": "debut",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a first public appearance or performance",
+      "definitionTh": "การเปิดตัว",
+      "example": "The report uses “debut” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "first appearance",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "debut example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 26
+    },
+    {
+      "id": 3440,
+      "word": "decision-making",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the process of choosing between options",
+      "definitionTh": "การตัดสินใจ",
+      "example": "Reliable data supports decision-making.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "choice process",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "data-driven decision-making"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 25
+    },
+    {
+      "id": 3441,
+      "word": "decisive",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "able to decide quickly or producing a clear result",
+      "definitionTh": "เด็ดขาด",
+      "example": "The test provided decisive evidence.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "determined",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "indecisive",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "decisive action"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 24
+    },
+    {
+      "id": 3442,
+      "word": "deck",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a floor of a ship or a flat outdoor platform",
+      "definitionTh": "ดาดฟ้า / ชั้น",
+      "example": "The report uses “deck” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "platform",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "deck example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 23
+    },
+    {
+      "id": 3443,
+      "word": "declaration",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "an official or public statement",
+      "definitionTh": "คำประกาศ",
+      "example": "The report uses “declaration” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "statement",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "declaration example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 22
+    },
+    {
+      "id": 3444,
+      "word": "dedicated",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "committed to a task or reserved for one use",
+      "definitionTh": "ทุ่มเท",
+      "example": "Use a dedicated network for the cameras.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "committed",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "uncommitted",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "dedicated system"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 21
+    },
+    {
+      "id": 3445,
+      "word": "dedication",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "strong commitment to a purpose",
+      "definitionTh": "ความทุ่มเท",
+      "example": "The report uses “dedication” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "commitment",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "dedication example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 20
+    },
+    {
+      "id": 3446,
+      "word": "deed",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "an action or a legal ownership document",
+      "definitionTh": "การกระทำ",
+      "example": "The report uses “deed” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "action",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "deed example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 19
+    },
+    {
+      "id": 3447,
+      "word": "deem",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to consider something to have a particular quality",
+      "definitionTh": "ถือว่า",
+      "example": "The report uses “deem” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "consider",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "deem example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 18
+    },
+    {
+      "id": 3448,
+      "word": "default",
+      "pos": "n., v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a preset option or failure to meet an obligation",
+      "definitionTh": "ค่าเริ่มต้น / ผิดนัด",
+      "example": "Review the default camera settings.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "preset",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "default setting"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 17
+    },
+    {
+      "id": 3449,
+      "word": "defect",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a fault that makes something imperfect",
+      "definitionTh": "ข้อบกพร่อง",
+      "example": "The camera detected a wooden-stick defect.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "fault",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "perfection",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "critical defect"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 16
+    },
+    {
+      "id": 3450,
+      "word": "defender",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a person who protects someone or something",
+      "definitionTh": "ผู้ป้องกัน",
+      "example": "The report uses “defender” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "protector",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "defender example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 15
+    },
+    {
+      "id": 3451,
+      "word": "defensive",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "intended to protect or reacting to criticism",
+      "definitionTh": "เชิงป้องกัน",
+      "example": "The report uses “defensive” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "protective",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "defensive example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 14
+    },
+    {
+      "id": 3452,
+      "word": "deficiency",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a lack of something necessary",
+      "definitionTh": "การขาดแคลน",
+      "example": "The audit identified a lighting deficiency.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "shortage",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "abundance",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "technical deficiency"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 13
+    },
+    {
+      "id": 3453,
+      "word": "deficit",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "an amount by which spending or need exceeds supply",
+      "definitionTh": "การขาดดุล",
+      "example": "The project has a budget deficit.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "shortfall",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "surplus",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "budget deficit"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 12
+    },
+    {
+      "id": 3454,
+      "word": "defy",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to openly resist or refuse to obey",
+      "definitionTh": "ต่อต้าน",
+      "example": "The report uses “defy” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "resist",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "obey",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "defy example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 11
+    },
+    {
+      "id": 3455,
+      "word": "delegate",
+      "pos": "n., v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a representative or to assign responsibility",
+      "definitionTh": "ผู้แทน / มอบหมาย",
+      "example": "Delegate each action to an owner.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "representative",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "delegate",
+          "delegation"
+        ],
+        "verb": [
+          "delegate"
+        ],
+        "adjective": [
+          "delegated"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "delegate responsibility"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 10
+    },
+    {
+      "id": 3456,
+      "word": "delegation",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a group of representatives or assignment of authority",
+      "definitionTh": "คณะผู้แทน",
+      "example": "The report uses “delegation” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "representative group",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "delegation example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 9
+    },
+    {
+      "id": 3457,
+      "word": "delete",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to remove data or text",
+      "definitionTh": "ลบ",
+      "example": "Do not delete the raw data.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "remove",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "retain",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "delete a file"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 8
+    },
+    {
+      "id": 3458,
+      "word": "delicate",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "easily damaged or requiring careful handling",
+      "definitionTh": "บอบบาง",
+      "example": "Handle the delicate lens carefully.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "fragile",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "robust",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "delicate component"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 7
+    },
+    {
+      "id": 3459,
+      "word": "delighted",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "very pleased",
+      "definitionTh": "ยินดีมาก",
+      "example": "The report uses “delighted” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "pleased",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "disappointed",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "delighted example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 6
+    },
+    {
+      "id": 3460,
+      "word": "democracy",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a system of government chosen by the people",
+      "definitionTh": "ประชาธิปไตย",
+      "example": "The report uses “democracy” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "popular government",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "democracy"
+        ],
+        "verb": [
+          "democratize"
+        ],
+        "adjective": [
+          "democratic"
+        ],
+        "adverb": [
+          "democratically"
+        ]
+      },
+      "collocations": [
+        "democracy example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 5
+    },
+    {
+      "id": 3461,
+      "word": "democratic",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "based on equal participation or elected government",
+      "definitionTh": "ตามระบอบประชาธิปไตย",
+      "example": "The report uses “democratic” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "representative",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "authoritarian",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "democratic example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 4
+    },
+    {
+      "id": 3462,
+      "word": "demon",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "an evil spirit in stories or religion",
+      "definitionTh": "ปีศาจ",
+      "example": "The report uses “demon” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "evil spirit",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "demon example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 3
+    },
+    {
+      "id": 3463,
+      "word": "demonstration",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a public display, protest, or explanation",
+      "definitionTh": "การสาธิต",
+      "example": "The supplier gave a system demonstration.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "display",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "live demonstration"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 2
+    },
+    {
+      "id": 3464,
+      "word": "denial",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a statement that something is not true",
+      "definitionTh": "การปฏิเสธ",
+      "example": "The report uses “denial” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "rejection",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "admission",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "denial example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 1
+    }
+  ]
+}

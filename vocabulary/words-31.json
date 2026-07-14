@@ -1,0 +1,3811 @@
+{
+  "version": 2,
+  "source": "Oxford 5000 (American English)",
+  "batch": 31,
+  "level": "B2-C1",
+  "totalWords": 100,
+  "metadata": {
+    "created": "2026-07-14",
+    "language": "en-US",
+    "description": "Batch 31 — first 100 additional Oxford 5000 words, continuing IDs after Batch 30"
+  },
+  "words": [
+    {
+      "id": 2965,
+      "word": "abolish",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to officially end a law or system",
+      "definitionTh": "ยกเลิก",
+      "example": "The new policy will abolish the outdated rule.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "eliminate",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "establish",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "abolition"
+        ],
+        "verb": [
+          "abolish"
+        ],
+        "adjective": [
+          "abolished"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "abolish a law"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 100
+    },
+    {
+      "id": 2966,
+      "word": "abortion",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a medical procedure that ends a pregnancy",
+      "definitionTh": "การยุติการตั้งครรภ์",
+      "example": "The report uses “abortion” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "abortion example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 99
+    },
+    {
+      "id": 2967,
+      "word": "absence",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the state of not being present",
+      "definitionTh": "การขาด / การไม่อยู่",
+      "example": "The alarm failed in the absence of power.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "nonattendance",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "presence",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "absence"
+        ],
+        "verb": [],
+        "adjective": [
+          "absent"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "absence of data"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 98
+    },
+    {
+      "id": 2968,
+      "word": "absent",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "not present in a place",
+      "definitionTh": "ไม่อยู่",
+      "example": "The required label was absent.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "missing",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "present",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "absence"
+        ],
+        "verb": [],
+        "adjective": [
+          "absent"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "absent from"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 97
+    },
+    {
+      "id": 2969,
+      "word": "absorb",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to take in liquid, heat, or information",
+      "definitionTh": "ดูดซับ",
+      "example": "The material can absorb moisture.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "take in",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "absorption"
+        ],
+        "verb": [
+          "absorb"
+        ],
+        "adjective": [
+          "absorbent"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "absorb heat"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 96
+    },
+    {
+      "id": 2970,
+      "word": "abstract",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "existing as an idea rather than a physical thing",
+      "definitionTh": "นามธรรม",
+      "example": "The model represents an abstract concept.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "conceptual",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "concrete",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "abstract idea"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 95
+    },
+    {
+      "id": 2971,
+      "word": "absurd",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "completely unreasonable or illogical",
+      "definitionTh": "ไร้เหตุผล",
+      "example": "The proposed limit seemed absurd.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "ridiculous",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "reasonable",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "absurd claim"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 94
+    },
+    {
+      "id": 2972,
+      "word": "abuse",
+      "pos": "n., v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the harmful or improper use of something",
+      "definitionTh": "การใช้ในทางที่ผิด / ใช้ในทางที่ผิด",
+      "example": "The policy prevents abuse of company systems.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "misuse",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "protect",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "abuse"
+        ],
+        "verb": [
+          "abuse"
+        ],
+        "adjective": [
+          "abusive"
+        ],
+        "adverb": [
+          "abusively"
+        ]
+      },
+      "collocations": [
+        "abuse of power"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 93
+    },
+    {
+      "id": 2973,
+      "word": "academy",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "an institution for specialized study or training",
+      "definitionTh": "สถาบันการศึกษา",
+      "example": "She completed training at a technical academy.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "institute",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "training academy"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 92
+    },
+    {
+      "id": 2974,
+      "word": "accelerate",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to make something happen or move faster",
+      "definitionTh": "เร่งความเร็ว",
+      "example": "Automation can accelerate the inspection process.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "speed up",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "decelerate",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "accelerate growth"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 91
+    },
+    {
+      "id": 2975,
+      "word": "accent",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a particular way of pronouncing words",
+      "definitionTh": "สำเนียง",
+      "example": "Her accent is easy to understand.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "pronunciation",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "strong accent"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 90
+    },
+    {
+      "id": 2976,
+      "word": "acceptance",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the act of agreeing to or approving something",
+      "definitionTh": "การยอมรับ",
+      "example": "The equipment passed the acceptance test.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "approval",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "rejection",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "acceptance"
+        ],
+        "verb": [
+          "accept"
+        ],
+        "adjective": [
+          "acceptable"
+        ],
+        "adverb": [
+          "acceptably"
+        ]
+      },
+      "collocations": [
+        "user acceptance"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 89
+    },
+    {
+      "id": 2977,
+      "word": "accessible",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "easy to reach, use, or understand",
+      "definitionTh": "เข้าถึงได้",
+      "example": "The dashboard is accessible from the control room.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "reachable",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "inaccessible",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "access"
+        ],
+        "verb": [
+          "access"
+        ],
+        "adjective": [
+          "accessible"
+        ],
+        "adverb": [
+          "accessibly"
+        ]
+      },
+      "collocations": [
+        "easily accessible"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 88
+    },
+    {
+      "id": 2978,
+      "word": "accidentally",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "by chance and not intentionally",
+      "definitionTh": "โดยบังเอิญ",
+      "example": "The operator accidentally deleted the record.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "unintentionally",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "deliberately",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "accidentally damaged"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 87
+    },
+    {
+      "id": 2979,
+      "word": "accommodate",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to provide space or meet a need",
+      "definitionTh": "รองรับ / จัดที่ให้",
+      "example": "The rack can accommodate four cameras.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "provide for",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "accommodation"
+        ],
+        "verb": [
+          "accommodate"
+        ],
+        "adjective": [
+          "accommodating"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "accommodate demand"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 86
+    },
+    {
+      "id": 2980,
+      "word": "accommodation",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a place to live or stay temporarily",
+      "definitionTh": "ที่พัก",
+      "example": "The company arranged accommodation near the site.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "lodging",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "hotel accommodation"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 85
+    },
+    {
+      "id": 2981,
+      "word": "accomplish",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to succeed in completing something",
+      "definitionTh": "ทำสำเร็จ",
+      "example": "The team accomplished its main objective.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "achieve",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "fail",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "accomplishment"
+        ],
+        "verb": [
+          "accomplish"
+        ],
+        "adjective": [
+          "accomplished"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "accomplish a task"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 84
+    },
+    {
+      "id": 2982,
+      "word": "accomplishment",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "something achieved successfully",
+      "definitionTh": "ความสำเร็จ",
+      "example": "Reducing defects was a major accomplishment.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "achievement",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "major accomplishment"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 83
+    },
+    {
+      "id": 2983,
+      "word": "accordingly",
+      "pos": "adv.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "in a way that is appropriate to the situation",
+      "definitionTh": "ตามนั้น",
+      "example": "The risk increased, so the plan was adjusted accordingly.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "therefore",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "act accordingly"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 82
+    },
+    {
+      "id": 2984,
+      "word": "accountability",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "responsibility for actions and results",
+      "definitionTh": "ความรับผิดชอบต่อผลลัพธ์",
+      "example": "The workflow improves data accountability.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "responsibility",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "accountability"
+        ],
+        "verb": [
+          "account"
+        ],
+        "adjective": [
+          "accountable"
+        ],
+        "adverb": [
+          "accountably"
+        ]
+      },
+      "collocations": [
+        "clear accountability"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 81
+    },
+    {
+      "id": 2985,
+      "word": "accountable",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "required to explain actions or accept responsibility",
+      "definitionTh": "ต้องรับผิดชอบ",
+      "example": "Each owner is accountable for assigned actions.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "responsible",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unaccountable",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "accountable for"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 80
+    },
+    {
+      "id": 2986,
+      "word": "accountant",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a person who prepares and checks financial records",
+      "definitionTh": "นักบัญชี",
+      "example": "The accountant reviewed the purchase records.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "bookkeeper",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "company accountant"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 79
+    },
+    {
+      "id": 2987,
+      "word": "accumulate",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to gradually collect or increase",
+      "definitionTh": "สะสม",
+      "example": "Dust can accumulate on the lens.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "gather",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "accumulation"
+        ],
+        "verb": [
+          "accumulate"
+        ],
+        "adjective": [
+          "accumulative"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "accumulate over time"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 78
+    },
+    {
+      "id": 2988,
+      "word": "accumulation",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a quantity gathered over time",
+      "definitionTh": "การสะสม",
+      "example": "The inspection found an accumulation of ice.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "buildup",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "dust accumulation"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 77
+    },
+    {
+      "id": 2989,
+      "word": "accuracy",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the quality of being correct and exact",
+      "definitionTh": "ความแม่นยำ",
+      "example": "Calibration improves measurement accuracy.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "precision",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "accuracy"
+        ],
+        "verb": [],
+        "adjective": [
+          "accurate"
+        ],
+        "adverb": [
+          "accurately"
+        ]
+      },
+      "collocations": [
+        "high accuracy"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 76
+    },
+    {
+      "id": 2990,
+      "word": "accurately",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "in a correct and exact way",
+      "definitionTh": "อย่างแม่นยำ",
+      "example": "The sensor measures temperature accurately.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "precisely",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "inaccurately",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "measure accurately"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 75
+    },
+    {
+      "id": 2991,
+      "word": "accusation",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a claim that someone has done something wrong",
+      "definitionTh": "ข้อกล่าวหา",
+      "example": "The report uses “accusation” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "allegation",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "accusation",
+          "accused"
+        ],
+        "verb": [
+          "accuse"
+        ],
+        "adjective": [
+          "accused"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "accusation example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 74
+    },
+    {
+      "id": 2992,
+      "word": "accused",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a person charged with an offense",
+      "definitionTh": "จำเลย / ผู้ถูกกล่าวหา",
+      "example": "The report uses “accused” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "defendant",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "accused example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 73
+    },
+    {
+      "id": 2993,
+      "word": "acid",
+      "pos": "n., adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a chemical substance with a pH below seven",
+      "definitionTh": "กรด / ที่เป็นกรด",
+      "example": "Wear protection when handling acid.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "acidic substance",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "acid",
+          "acidity"
+        ],
+        "verb": [
+          "acidify"
+        ],
+        "adjective": [
+          "acidic"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "acid solution"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 72
+    },
+    {
+      "id": 2994,
+      "word": "acquisition",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the act of obtaining or buying something",
+      "definitionTh": "การได้มา",
+      "example": "The acquisition added new technology.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "purchase",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "acquisition"
+        ],
+        "verb": [
+          "acquire"
+        ],
+        "adjective": [
+          "acquired"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "data acquisition"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 71
+    },
+    {
+      "id": 2995,
+      "word": "acre",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a unit for measuring land area",
+      "definitionTh": "เอเคอร์",
+      "example": "The report uses “acre” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "acre example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 70
+    },
+    {
+      "id": 2996,
+      "word": "activate",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to make a device or process start working",
+      "definitionTh": "เปิดใช้งาน",
+      "example": "Press the button to activate the alarm.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "enable",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "deactivate",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "activation"
+        ],
+        "verb": [
+          "activate"
+        ],
+        "adjective": [
+          "active"
+        ],
+        "adverb": [
+          "actively"
+        ]
+      },
+      "collocations": [
+        "activate a system"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 69
+    },
+    {
+      "id": 2997,
+      "word": "activation",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the process of making something active",
+      "definitionTh": "การเปิดใช้งาน",
+      "example": "Sensor activation starts the camera.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "enablement",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "automatic activation"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 68
+    },
+    {
+      "id": 2998,
+      "word": "activist",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a person who campaigns for social or political change",
+      "definitionTh": "นักเคลื่อนไหว",
+      "example": "The report uses “activist” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "campaigner",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "activist example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 67
+    },
+    {
+      "id": 2999,
+      "word": "acute",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "severe, sharp, or requiring urgent attention",
+      "definitionTh": "รุนแรง / เฉียบพลัน",
+      "example": "The process experienced an acute shortage.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "severe",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "mild",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "acute problem"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 66
+    },
+    {
+      "id": 3000,
+      "word": "adaptation",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a change made to suit new conditions",
+      "definitionTh": "การปรับตัว",
+      "example": "The bracket is an adaptation of the old design.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "adjustment",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "adaptation"
+        ],
+        "verb": [
+          "adapt"
+        ],
+        "adjective": [
+          "adaptable"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "design adaptation"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 65
+    },
+    {
+      "id": 3001,
+      "word": "addiction",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a strong dependence on a substance or activity",
+      "definitionTh": "การเสพติด",
+      "example": "The report uses “addiction” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "dependence",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "addiction"
+        ],
+        "verb": [
+          "addict"
+        ],
+        "adjective": [
+          "addictive"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "addiction example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 64
+    },
+    {
+      "id": 3002,
+      "word": "additionally",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "as an extra point or item",
+      "definitionTh": "นอกจากนี้",
+      "example": "Additionally, record the batch number.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "furthermore",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "additionally required"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 63
+    },
+    {
+      "id": 3003,
+      "word": "adequate",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "enough for a particular purpose",
+      "definitionTh": "เพียงพอ",
+      "example": "The lighting is adequate for inspection.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "sufficient",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "inadequate",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "adequacy"
+        ],
+        "verb": [],
+        "adjective": [
+          "adequate"
+        ],
+        "adverb": [
+          "adequately"
+        ]
+      },
+      "collocations": [
+        "adequate lighting"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 62
+    },
+    {
+      "id": 3004,
+      "word": "adequately",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to a satisfactory or sufficient degree",
+      "definitionTh": "อย่างเพียงพอ",
+      "example": "The guard adequately protects the operator.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "sufficiently",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "adequately trained"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 61
+    },
+    {
+      "id": 3005,
+      "word": "adhere",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to stick firmly or follow a rule",
+      "definitionTh": "ยึดติด / ปฏิบัติตาม",
+      "example": "The label must adhere to the surface.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "comply",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "adherence"
+        ],
+        "verb": [
+          "adhere"
+        ],
+        "adjective": [
+          "adherent"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "adhere to standards"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 60
+    },
+    {
+      "id": 3006,
+      "word": "adjacent",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "next to or very near something",
+      "definitionTh": "ที่อยู่ติดกัน",
+      "example": "The sensor is adjacent to the conveyor.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "next to",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "distant",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "adjacent area"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 59
+    },
+    {
+      "id": 3007,
+      "word": "adjust",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to change something slightly for better performance",
+      "definitionTh": "ปรับ",
+      "example": "Adjust the camera angle carefully.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "modify",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "adjustment"
+        ],
+        "verb": [
+          "adjust"
+        ],
+        "adjective": [
+          "adjustable"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "adjust the setting"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 58
+    },
+    {
+      "id": 3008,
+      "word": "adjustment",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a small change made to improve suitability",
+      "definitionTh": "การปรับ",
+      "example": "A small adjustment improved image quality.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "modification",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "minor adjustment"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 57
+    },
+    {
+      "id": 3009,
+      "word": "administer",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to manage or officially provide something",
+      "definitionTh": "บริหาร / จัดการ",
+      "example": "The report uses “administer” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "manage",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "administration",
+          "administrator"
+        ],
+        "verb": [
+          "administer"
+        ],
+        "adjective": [
+          "administrative"
+        ],
+        "adverb": [
+          "administratively"
+        ]
+      },
+      "collocations": [
+        "administer example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 56
+    },
+    {
+      "id": 3010,
+      "word": "administrative",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "relating to the management of an organization",
+      "definitionTh": "ด้านการบริหาร",
+      "example": "The change requires administrative approval.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "managerial",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "administrative task"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 55
+    },
+    {
+      "id": 3011,
+      "word": "administrator",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a person who manages an organization or system",
+      "definitionTh": "ผู้ดูแลระบบ / ผู้บริหาร",
+      "example": "The system administrator created the account.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "manager",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "system administrator"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 54
+    },
+    {
+      "id": 3012,
+      "word": "admission",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "entry permission or an acknowledgment of truth",
+      "definitionTh": "การรับเข้า / การยอมรับ",
+      "example": "Admission to the area requires a badge.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "entry",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "admission"
+        ],
+        "verb": [
+          "admit"
+        ],
+        "adjective": [
+          "admissible"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "admission fee"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 53
+    },
+    {
+      "id": 3013,
+      "word": "adolescent",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a young person developing into an adult",
+      "definitionTh": "วัยรุ่น",
+      "example": "The report uses “adolescent” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "teenager",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "adolescence",
+          "adolescent"
+        ],
+        "verb": [],
+        "adjective": [
+          "adolescent"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "adolescent example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 52
+    },
+    {
+      "id": 3014,
+      "word": "adoption",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the act of accepting or beginning to use something",
+      "definitionTh": "การนำมาใช้ / การรับบุตรบุญธรรม",
+      "example": "The report uses “adoption” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "acceptance",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "adoption"
+        ],
+        "verb": [
+          "adopt"
+        ],
+        "adjective": [
+          "adopted"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "adoption example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 51
+    },
+    {
+      "id": 3015,
+      "word": "adverse",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "harmful or unfavorable",
+      "definitionTh": "ไม่พึงประสงค์",
+      "example": "High humidity had an adverse effect.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "harmful",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "favorable",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "adverse effect"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 50
+    },
+    {
+      "id": 3016,
+      "word": "advocate",
+      "pos": "n., v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a person who publicly supports a cause; to support it",
+      "definitionTh": "ผู้สนับสนุน / สนับสนุน",
+      "example": "The engineer advocates preventive maintenance.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "supporter",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "advocate",
+          "advocacy"
+        ],
+        "verb": [
+          "advocate"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "advocate change"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 49
+    },
+    {
+      "id": 3017,
+      "word": "aesthetic",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "concerned with beauty or artistic appearance",
+      "definitionTh": "ด้านสุนทรียภาพ",
+      "example": "The report uses “aesthetic” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "artistic",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "aesthetic example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 48
+    },
+    {
+      "id": 3018,
+      "word": "affection",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a feeling of liking and caring for someone",
+      "definitionTh": "ความรักใคร่",
+      "example": "The report uses “affection” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "fondness",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "affection"
+        ],
+        "verb": [
+          "affect"
+        ],
+        "adjective": [
+          "affectionate"
+        ],
+        "adverb": [
+          "affectionately"
+        ]
+      },
+      "collocations": [
+        "affection example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 47
+    },
+    {
+      "id": 3019,
+      "word": "affordable",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "not too expensive for people to buy",
+      "definitionTh": "ราคาเข้าถึงได้",
+      "example": "The team selected an affordable camera.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "reasonably priced",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "expensive",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "affordable option"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 46
+    },
+    {
+      "id": 3020,
+      "word": "aftermath",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the consequences following a harmful event",
+      "definitionTh": "ผลที่ตามมา",
+      "example": "The team reviewed the aftermath of the shutdown.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "consequence",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "in the aftermath"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 45
+    },
+    {
+      "id": 3021,
+      "word": "aged",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "having reached a particular age or being old",
+      "definitionTh": "มีอายุ",
+      "example": "The report uses “aged” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "elderly",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "young",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "aged example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 44
+    },
+    {
+      "id": 3022,
+      "word": "aggression",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "hostile or violent behavior",
+      "definitionTh": "ความก้าวร้าว",
+      "example": "The report uses “aggression” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "hostility",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "peacefulness",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "aggression"
+        ],
+        "verb": [],
+        "adjective": [
+          "aggressive"
+        ],
+        "adverb": [
+          "aggressively"
+        ]
+      },
+      "collocations": [
+        "aggression example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 43
+    },
+    {
+      "id": 3023,
+      "word": "agricultural",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "relating to farming",
+      "definitionTh": "ทางการเกษตร",
+      "example": "The sensor is used in agricultural equipment.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "farming",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "agricultural sector"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 42
+    },
+    {
+      "id": 3024,
+      "word": "agriculture",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the practice and business of farming",
+      "definitionTh": "เกษตรกรรม",
+      "example": "Technology improves efficiency in agriculture.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "farming",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "agriculture"
+        ],
+        "verb": [],
+        "adjective": [
+          "agricultural"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "modern agriculture"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 41
+    },
+    {
+      "id": 3025,
+      "word": "aide",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a person who assists an important person",
+      "definitionTh": "ผู้ช่วย",
+      "example": "The project aide prepared the documents.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "assistant",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "senior aide"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 40
+    },
+    {
+      "id": 3026,
+      "word": "AIDS",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a serious illness that weakens the immune system",
+      "definitionTh": "โรคเอดส์",
+      "example": "The course includes general information about AIDS.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "AIDS awareness"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 39
+    },
+    {
+      "id": 3027,
+      "word": "alert",
+      "pos": "v., n., adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to warn; a warning; quick to notice danger",
+      "definitionTh": "เตือน / การแจ้งเตือน / ตื่นตัว",
+      "example": "The system sends an alert after detection.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "warning",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unaware",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "safety alert"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 38
+    },
+    {
+      "id": 3028,
+      "word": "alien",
+      "pos": "n., adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a being from another world or something unfamiliar",
+      "definitionTh": "มนุษย์ต่างดาว / แปลกแยก",
+      "example": "The report uses “alien” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "foreign",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "alien example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 37
+    },
+    {
+      "id": 3029,
+      "word": "align",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to place things in a straight line or make them agree",
+      "definitionTh": "จัดแนว",
+      "example": "Align the camera with the product center.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "line up",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "misalign",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "alignment"
+        ],
+        "verb": [
+          "align"
+        ],
+        "adjective": [
+          "aligned"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "align with"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 36
+    },
+    {
+      "id": 3030,
+      "word": "alignment",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the correct positioning or agreement of things",
+      "definitionTh": "การจัดแนว",
+      "example": "Check the sensor alignment.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "positioning",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "correct alignment"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 35
+    },
+    {
+      "id": 3031,
+      "word": "alike",
+      "pos": "adv., adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "in the same or a similar way",
+      "definitionTh": "เหมือนกัน",
+      "example": "The two samples look alike.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "similar",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "different",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "look alike"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 34
+    },
+    {
+      "id": 3032,
+      "word": "allegation",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a claim of wrongdoing without proof",
+      "definitionTh": "ข้อกล่าวอ้าง",
+      "example": "The report uses “allegation” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "accusation",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "allegation"
+        ],
+        "verb": [
+          "allege"
+        ],
+        "adjective": [
+          "alleged"
+        ],
+        "adverb": [
+          "allegedly"
+        ]
+      },
+      "collocations": [
+        "allegation example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 33
+    },
+    {
+      "id": 3033,
+      "word": "allege",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to claim that someone has done something wrong",
+      "definitionTh": "กล่าวหา",
+      "example": "The report uses “allege” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "claim",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "allege example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 32
+    },
+    {
+      "id": 3034,
+      "word": "allegedly",
+      "pos": "adv.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "according to an unproven claim",
+      "definitionTh": "ตามที่ถูกกล่าวหา",
+      "example": "The report uses “allegedly” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "supposedly",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "allegedly example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 31
+    },
+    {
+      "id": 3035,
+      "word": "alliance",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "an agreement between groups to cooperate",
+      "definitionTh": "พันธมิตร",
+      "example": "The companies formed a technical alliance.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "partnership",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "alliance",
+          "ally"
+        ],
+        "verb": [
+          "ally"
+        ],
+        "adjective": [
+          "allied"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "strategic alliance"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 30
+    },
+    {
+      "id": 3036,
+      "word": "allocate",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to officially assign resources for a purpose",
+      "definitionTh": "จัดสรร",
+      "example": "Allocate enough time for testing.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "assign",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "allocation"
+        ],
+        "verb": [
+          "allocate"
+        ],
+        "adjective": [
+          "allocated"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "allocate resources"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 29
+    },
+    {
+      "id": 3037,
+      "word": "allocation",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "an amount or share officially assigned",
+      "definitionTh": "การจัดสรร",
+      "example": "The budget allocation was approved.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "assignment",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "resource allocation"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 28
+    },
+    {
+      "id": 3038,
+      "word": "allowance",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "an amount of money or quantity regularly provided",
+      "definitionTh": "เงินหรือปริมาณที่จัดให้",
+      "example": "The design includes a small tolerance allowance.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "allocation",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "travel allowance"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 27
+    },
+    {
+      "id": 3039,
+      "word": "ally",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a person or group that cooperates with another",
+      "definitionTh": "พันธมิตร",
+      "example": "The report uses “ally” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "partner",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "opponent",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "ally example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 26
+    },
+    {
+      "id": 3040,
+      "word": "alongside",
+      "pos": "prep.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "next to or together with",
+      "definitionTh": "ข้าง ๆ / ร่วมกับ",
+      "example": "The camera operates alongside the existing sensor.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "beside",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "apart from",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "work alongside"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 25
+    },
+    {
+      "id": 3041,
+      "word": "altogether",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "completely or considering everything",
+      "definitionTh": "โดยรวม / ทั้งหมด",
+      "example": "Altogether, the team tested ten samples.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "completely",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "altogether different"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 24
+    },
+    {
+      "id": 3042,
+      "word": "aluminum",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a light silver-colored metal",
+      "definitionTh": "อะลูมิเนียม",
+      "example": "The frame is made of aluminum.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "light metal",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "aluminum frame"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 23
+    },
+    {
+      "id": 3043,
+      "word": "amateur",
+      "pos": "adj., n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "doing an activity without professional status",
+      "definitionTh": "สมัครเล่น / มือสมัครเล่น",
+      "example": "The event is open to amateur photographers.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "nonprofessional",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "amateur photographer"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 22
+    },
+    {
+      "id": 3044,
+      "word": "ambassador",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a senior official representing a country abroad",
+      "definitionTh": "เอกอัครราชทูต",
+      "example": "The ambassador attended the ceremony.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "envoy",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "brand ambassador"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 21
+    },
+    {
+      "id": 3045,
+      "word": "ambitious",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "determined to achieve success",
+      "definitionTh": "ทะเยอทะยาน",
+      "example": "The team set an ambitious target.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "determined",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unambitious",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "ambitious goal"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 20
+    },
+    {
+      "id": 3046,
+      "word": "ambulance",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a vehicle for taking sick or injured people to hospital",
+      "definitionTh": "รถพยาบาล",
+      "example": "An ambulance arrived at the site.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "emergency vehicle",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "call an ambulance"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 19
+    },
+    {
+      "id": 3047,
+      "word": "amend",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to officially change a document or law",
+      "definitionTh": "แก้ไขปรับปรุง",
+      "example": "Amend the procedure after the trial.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "revise",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "amendment"
+        ],
+        "verb": [
+          "amend"
+        ],
+        "adjective": [
+          "amended"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "amend a document"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 18
+    },
+    {
+      "id": 3048,
+      "word": "amendment",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "an official change to a document or law",
+      "definitionTh": "การแก้ไขเพิ่มเติม",
+      "example": "The standard includes a recent amendment.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "revision",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "proposed amendment"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 17
+    },
+    {
+      "id": 3049,
+      "word": "amid",
+      "pos": "prep.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "in the middle of or surrounded by",
+      "definitionTh": "ท่ามกลาง",
+      "example": "The line continued amid heavy demand.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "among",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "amid concerns"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 16
+    },
+    {
+      "id": 3050,
+      "word": "amusing",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "funny and entertaining",
+      "definitionTh": "น่าขบขัน",
+      "example": "The speaker told an amusing story.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "entertaining",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "boring",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "amusing story"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 15
+    },
+    {
+      "id": 3051,
+      "word": "analogy",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a comparison used to explain an idea",
+      "definitionTh": "การเปรียบเทียบ",
+      "example": "The trainer used an analogy to explain the system.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "comparison",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "use an analogy"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 14
+    },
+    {
+      "id": 3052,
+      "word": "analyst",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a person who examines information in detail",
+      "definitionTh": "นักวิเคราะห์",
+      "example": "The analyst reviewed the defect trend.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "specialist",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "analysis",
+          "analyst"
+        ],
+        "verb": [
+          "analyze"
+        ],
+        "adjective": [
+          "analytical"
+        ],
+        "adverb": [
+          "analytically"
+        ]
+      },
+      "collocations": [
+        "data analyst"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 13
+    },
+    {
+      "id": 3053,
+      "word": "ancestor",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a person from whom someone is descended",
+      "definitionTh": "บรรพบุรุษ",
+      "example": "The museum displays tools used by our ancestors.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "forebear",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "common ancestor"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 12
+    },
+    {
+      "id": 3054,
+      "word": "anchor",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a heavy object used to keep a ship in place",
+      "definitionTh": "สมอ",
+      "example": "Use the bolt to anchor the frame.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "mooring device",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "anchor point"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 11
+    },
+    {
+      "id": 3055,
+      "word": "angel",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a spiritual being represented as a messenger",
+      "definitionTh": "เทวดา",
+      "example": "The report uses “angel” in a clear context.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "spiritual being",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "angel example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 10
+    },
+    {
+      "id": 3056,
+      "word": "animation",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "moving images created from drawings or computer graphics",
+      "definitionTh": "แอนิเมชัน",
+      "example": "The presentation includes a process animation.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "animated film",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "animation"
+        ],
+        "verb": [
+          "animate"
+        ],
+        "adjective": [
+          "animated"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "computer animation"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 9
+    },
+    {
+      "id": 3057,
+      "word": "annually",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "once every year",
+      "definitionTh": "เป็นประจำทุกปี",
+      "example": "The system is calibrated annually.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "yearly",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "review annually"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 8
+    },
+    {
+      "id": 3058,
+      "word": "anonymous",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "with no name or identity shown",
+      "definitionTh": "ไม่ระบุตัวตน",
+      "example": "The survey responses are anonymous.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "unnamed",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "identified",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "anonymous feedback"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 7
+    },
+    {
+      "id": 3059,
+      "word": "anticipate",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to expect something and prepare for it",
+      "definitionTh": "คาดการณ์",
+      "example": "We anticipate higher demand next month.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "expect",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "anticipation"
+        ],
+        "verb": [
+          "anticipate"
+        ],
+        "adjective": [
+          "anticipated"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "anticipate demand"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 6
+    },
+    {
+      "id": 3060,
+      "word": "anxiety",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a feeling of worry or nervousness",
+      "definitionTh": "ความวิตกกังวล",
+      "example": "Clear instructions can reduce anxiety.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "worry",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "calm",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "anxiety"
+        ],
+        "verb": [],
+        "adjective": [
+          "anxious"
+        ],
+        "adverb": [
+          "anxiously"
+        ]
+      },
+      "collocations": [
+        "reduce anxiety"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 5
+    },
+    {
+      "id": 3061,
+      "word": "apology",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a statement expressing regret",
+      "definitionTh": "คำขอโทษ",
+      "example": "The supplier issued an apology for the delay.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "expression of regret",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "apology"
+        ],
+        "verb": [
+          "apologize"
+        ],
+        "adjective": [
+          "apologetic"
+        ],
+        "adverb": [
+          "apologetically"
+        ]
+      },
+      "collocations": [
+        "formal apology"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 4
+    },
+    {
+      "id": 3062,
+      "word": "apparatus",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a set of equipment used for a particular purpose",
+      "definitionTh": "อุปกรณ์",
+      "example": "Inspect the laboratory apparatus before use.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "equipment",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "testing apparatus"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 3
+    },
+    {
+      "id": 3063,
+      "word": "apparel",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "clothing of a particular type",
+      "definitionTh": "เครื่องแต่งกาย",
+      "example": "Protective apparel is required in the area.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "clothing",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "protective apparel"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 2
+    },
+    {
+      "id": 3064,
+      "word": "appealing",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "attractive or interesting",
+      "definitionTh": "น่าดึงดูด",
+      "example": "The dashboard has a clear and appealing design.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "attractive",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unappealing",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "appeal"
+        ],
+        "verb": [
+          "appeal"
+        ],
+        "adjective": [
+          "appealing"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "visually appealing"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 1
+    }
+  ]
+}

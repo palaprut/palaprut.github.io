@@ -1,0 +1,4158 @@
+{
+  "version": 2,
+  "source": "Oxford 3000",
+  "batch": 14,
+  "level": "Mixed",
+  "totalWords": 100,
+  "metadata": {
+    "created": "2026-07-14",
+    "language": "en",
+    "description": "Batch 14 of 50 — Oxford 3000 words 1301-1400; source-aligned sequence"
+  },
+  "words": [
+    {
+      "id": 1301,
+      "word": "hurricane",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a violent tropical storm with very strong winds",
+      "definitionTh": "พายุเฮอริเคน",
+      "example": "The hurricane damaged many buildings.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "tropical storm",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "severe hurricane"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 100
+    },
+    {
+      "id": 1302,
+      "word": "hurry",
+      "pos": "n., v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to move or act quickly; a need to be quick",
+      "definitionTh": "รีบ / ความเร่งรีบ",
+      "example": "Please hurry or we will be late.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "rush",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "delay",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "hurry"
+        ],
+        "verb": [
+          "hurry"
+        ],
+        "adjective": [
+          "hurried"
+        ],
+        "adverb": [
+          "hurriedly"
+        ]
+      },
+      "collocations": [
+        "in a hurry"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 99
+    },
+    {
+      "id": 1303,
+      "word": "hurt",
+      "pos": "v., adj., n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to cause pain or injury; injured or upset",
+      "definitionTh": "ทำให้เจ็บ / บาดเจ็บ",
+      "example": "He hurt his hand at work.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "injure",
+          "level": "A2"
+        },
+        {
+          "word": "wounded",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "heal",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "hurt"
+        ],
+        "verb": [
+          "hurt"
+        ],
+        "adjective": [
+          "hurtful"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "get hurt"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 98
+    },
+    {
+      "id": 1304,
+      "word": "husband",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a married man in relation to his spouse",
+      "definitionTh": "สามี",
+      "example": "Her husband works at the hospital.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "spouse",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "her husband"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 97
+    },
+    {
+      "id": 1305,
+      "word": "I",
+      "pos": "pron.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "used by a speaker to refer to himself or herself",
+      "definitionTh": "ฉัน / ผม",
+      "example": "I will check the report today.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "I think"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 96
+    },
+    {
+      "id": 1306,
+      "word": "ice",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "water that has frozen and become solid",
+      "definitionTh": "น้ำแข็ง",
+      "example": "The ice melted quickly.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "frozen water",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "ice cube"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 95
+    },
+    {
+      "id": 1307,
+      "word": "ice cream",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a sweet frozen food made from milk or cream",
+      "definitionTh": "ไอศกรีม",
+      "example": "They ate ice cream after dinner.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "frozen dessert",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "vanilla ice cream"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 94
+    },
+    {
+      "id": 1308,
+      "word": "idea",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a thought, plan, or suggestion",
+      "definitionTh": "ความคิด / แนวคิด",
+      "example": "She proposed a useful idea.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "thought",
+          "level": "A1"
+        },
+        {
+          "word": "concept",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "idea"
+        ],
+        "verb": [],
+        "adjective": [
+          "ideal"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "good idea"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 93
+    },
+    {
+      "id": 1309,
+      "word": "ideal",
+      "pos": "adj., n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "perfectly suitable; a perfect example or standard",
+      "definitionTh": "เหมาะที่สุด / อุดมคติ",
+      "example": "This temperature is ideal for storage.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "perfect",
+          "level": "A2"
+        },
+        {
+          "word": "optimum",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unsuitable",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "ideal"
+        ],
+        "verb": [],
+        "adjective": [
+          "ideal"
+        ],
+        "adverb": [
+          "ideally"
+        ]
+      },
+      "collocations": [
+        "ideal solution"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 92
+    },
+    {
+      "id": 1310,
+      "word": "identify",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to recognize or name someone or something",
+      "definitionTh": "ระบุ / จำแนก",
+      "example": "We identified the root cause.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "recognize",
+          "level": "A2"
+        },
+        {
+          "word": "determine",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "misidentify",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "identity",
+          "identification"
+        ],
+        "verb": [
+          "identify"
+        ],
+        "adjective": [
+          "identifiable"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "identify a cause"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 91
+    },
+    {
+      "id": 1311,
+      "word": "identity",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "who a person is or the qualities that define something",
+      "definitionTh": "ตัวตน / อัตลักษณ์",
+      "example": "The card confirms her identity.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "individuality",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "identity"
+        ],
+        "verb": [
+          "identify"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "personal identity"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 90
+    },
+    {
+      "id": 1312,
+      "word": "if",
+      "pos": "conj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "used to introduce a possible or conditional situation",
+      "definitionTh": "ถ้า",
+      "example": "Call me if you need help.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "if necessary"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 89
+    },
+    {
+      "id": 1313,
+      "word": "ignore",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to pay no attention to someone or something",
+      "definitionTh": "เพิกเฉย",
+      "example": "Do not ignore the warning.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "disregard",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "notice",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "ignorance"
+        ],
+        "verb": [
+          "ignore"
+        ],
+        "adjective": [
+          "ignorant"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "ignore a warning"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 88
+    },
+    {
+      "id": 1314,
+      "word": "ill",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "not well or healthy",
+      "definitionTh": "ป่วย",
+      "example": "She was too ill to work.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "sick",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "healthy",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "illness"
+        ],
+        "verb": [],
+        "adjective": [
+          "ill"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "feel ill"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 87
+    },
+    {
+      "id": 1315,
+      "word": "illegal",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "not allowed by law",
+      "definitionTh": "ผิดกฎหมาย",
+      "example": "It is illegal to copy the software.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "unlawful",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "legal",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "illegality"
+        ],
+        "verb": [],
+        "adjective": [
+          "illegal"
+        ],
+        "adverb": [
+          "illegally"
+        ]
+      },
+      "collocations": [
+        "illegal activity"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 86
+    },
+    {
+      "id": 1316,
+      "word": "illness",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a disease or period of being unwell",
+      "definitionTh": "ความเจ็บป่วย",
+      "example": "He returned after a long illness.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "disease",
+          "level": "A2"
+        },
+        {
+          "word": "sickness",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "illness"
+        ],
+        "verb": [],
+        "adjective": [
+          "ill"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "serious illness"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 85
+    },
+    {
+      "id": 1317,
+      "word": "illustrate",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to explain or decorate using pictures or examples",
+      "definitionTh": "อธิบายด้วยภาพ / ยกตัวอย่าง",
+      "example": "The diagram illustrates the process.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "demonstrate",
+          "level": "B2"
+        },
+        {
+          "word": "show",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "illustration"
+        ],
+        "verb": [
+          "illustrate"
+        ],
+        "adjective": [
+          "illustrative"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "illustrate a point"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 84
+    },
+    {
+      "id": 1318,
+      "word": "illustration",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a picture or example used to explain something",
+      "definitionTh": "ภาพประกอบ / ตัวอย่าง",
+      "example": "The manual includes a clear illustration.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "picture",
+          "level": "B2"
+        },
+        {
+          "word": "example",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "illustration"
+        ],
+        "verb": [
+          "illustrate"
+        ],
+        "adjective": [
+          "illustrative"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "clear illustration"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 83
+    },
+    {
+      "id": 1319,
+      "word": "image",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a picture, photograph, or visual representation",
+      "definitionTh": "ภาพ",
+      "example": "The camera captured a sharp image.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "picture",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "image"
+        ],
+        "verb": [
+          "imagine"
+        ],
+        "adjective": [
+          "imaginary"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "digital image"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 82
+    },
+    {
+      "id": 1320,
+      "word": "imaginary",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "existing only in the mind and not real",
+      "definitionTh": "จินตนาการ / ไม่มีจริง",
+      "example": "The story describes an imaginary world.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "unreal",
+          "level": "B1"
+        },
+        {
+          "word": "fictional",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "real",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "imagination"
+        ],
+        "verb": [
+          "imagine"
+        ],
+        "adjective": [
+          "imaginary"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "imaginary world"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 81
+    },
+    {
+      "id": 1321,
+      "word": "imagination",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the ability to form ideas or pictures in the mind",
+      "definitionTh": "จินตนาการ",
+      "example": "The design shows great imagination.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "creativity",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "imagination"
+        ],
+        "verb": [
+          "imagine"
+        ],
+        "adjective": [
+          "imaginative"
+        ],
+        "adverb": [
+          "imaginatively"
+        ]
+      },
+      "collocations": [
+        "use your imagination"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 80
+    },
+    {
+      "id": 1322,
+      "word": "imagine",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to form a picture or idea in your mind",
+      "definitionTh": "จินตนาการ",
+      "example": "Imagine a factory with no defects.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "visualize",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "imagination"
+        ],
+        "verb": [
+          "imagine"
+        ],
+        "adjective": [
+          "imaginary",
+          "imaginative"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "imagine that"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 79
+    },
+    {
+      "id": 1323,
+      "word": "immediate",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "happening or done without delay",
+      "definitionTh": "ทันที",
+      "example": "The problem requires immediate action.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "instant",
+          "level": "B1"
+        },
+        {
+          "word": "urgent",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "delayed",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "immediate"
+        ],
+        "adverb": [
+          "immediately"
+        ]
+      },
+      "collocations": [
+        "immediate action"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 78
+    },
+    {
+      "id": 1324,
+      "word": "immediately",
+      "pos": "adv.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "without delay",
+      "definitionTh": "ทันที",
+      "example": "Stop the machine immediately.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "at once",
+          "level": "A2"
+        },
+        {
+          "word": "instantly",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "later",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "immediate"
+        ],
+        "adverb": [
+          "immediately"
+        ]
+      },
+      "collocations": [
+        "respond immediately"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 77
+    },
+    {
+      "id": 1325,
+      "word": "immigrant",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a person who comes to live permanently in another country",
+      "definitionTh": "ผู้อพยพ",
+      "example": "The city is home to many immigrants.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "migrant",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "immigrant",
+          "immigration"
+        ],
+        "verb": [
+          "immigrate"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "immigrant community"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 76
+    },
+    {
+      "id": 1326,
+      "word": "impact",
+      "pos": "n., v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a strong effect; to affect something strongly",
+      "definitionTh": "ผลกระทบ / ส่งผลกระทบ",
+      "example": "The change had a positive impact.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "effect",
+          "level": "B1"
+        },
+        {
+          "word": "influence",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "impact"
+        ],
+        "verb": [
+          "impact"
+        ],
+        "adjective": [
+          "impactful"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "major impact"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 75
+    },
+    {
+      "id": 1327,
+      "word": "impatient",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "annoyed because you have to wait",
+      "definitionTh": "ใจร้อน / ไม่อดทน",
+      "example": "The customer became impatient.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "restless",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "patient",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "impatience"
+        ],
+        "verb": [],
+        "adjective": [
+          "impatient"
+        ],
+        "adverb": [
+          "impatiently"
+        ]
+      },
+      "collocations": [
+        "become impatient"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 74
+    },
+    {
+      "id": 1328,
+      "word": "imply",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to suggest something without saying it directly",
+      "definitionTh": "สื่อเป็นนัย",
+      "example": "The results imply that the method works.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "suggest",
+          "level": "B2"
+        },
+        {
+          "word": "indicate",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "implication"
+        ],
+        "verb": [
+          "imply"
+        ],
+        "adjective": [
+          "implicit"
+        ],
+        "adverb": [
+          "implicitly"
+        ]
+      },
+      "collocations": [
+        "imply that"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 73
+    },
+    {
+      "id": 1329,
+      "word": "import",
+      "pos": "n., v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a product brought from abroad; to bring it into a country",
+      "definitionTh": "สินค้านำเข้า / นำเข้า",
+      "example": "The company imports specialist equipment.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "bring in",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "import",
+          "importer"
+        ],
+        "verb": [
+          "import"
+        ],
+        "adjective": [
+          "imported"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "import goods"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 72
+    },
+    {
+      "id": 1330,
+      "word": "importance",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "the quality of being important",
+      "definitionTh": "ความสำคัญ",
+      "example": "The training emphasized the importance of safety.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "significance",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "importance"
+        ],
+        "verb": [],
+        "adjective": [
+          "important"
+        ],
+        "adverb": [
+          "importantly"
+        ]
+      },
+      "collocations": [
+        "great importance"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 71
+    },
+    {
+      "id": 1331,
+      "word": "important",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "having great value, effect, or influence",
+      "definitionTh": "สำคัญ",
+      "example": "Accuracy is important in this process.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "significant",
+          "level": "A1"
+        },
+        {
+          "word": "essential",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unimportant",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "importance"
+        ],
+        "verb": [],
+        "adjective": [
+          "important"
+        ],
+        "adverb": [
+          "importantly"
+        ]
+      },
+      "collocations": [
+        "important factor"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 70
+    },
+    {
+      "id": 1332,
+      "word": "impose",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to officially force a rule, tax, or condition",
+      "definitionTh": "กำหนด / บังคับใช้",
+      "example": "The authority imposed new restrictions.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "enforce",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "imposition"
+        ],
+        "verb": [
+          "impose"
+        ],
+        "adjective": [
+          "imposed"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "impose a rule"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 69
+    },
+    {
+      "id": 1333,
+      "word": "impossible",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "not able to happen or be done",
+      "definitionTh": "เป็นไปไม่ได้",
+      "example": "It is impossible to finish today.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "unachievable",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "possible",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "impossibility"
+        ],
+        "verb": [],
+        "adjective": [
+          "impossible"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "almost impossible"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 68
+    },
+    {
+      "id": 1334,
+      "word": "impress",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to make someone admire or respect you",
+      "definitionTh": "ทำให้ประทับใจ",
+      "example": "The presentation impressed the managers.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "influence",
+          "level": "B2"
+        },
+        {
+          "word": "amaze",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "impression"
+        ],
+        "verb": [
+          "impress"
+        ],
+        "adjective": [
+          "impressed",
+          "impressive"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "impress someone"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 67
+    },
+    {
+      "id": 1335,
+      "word": "impressed",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "feeling admiration or approval",
+      "definitionTh": "ประทับใจ",
+      "example": "We were impressed by the result.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "amazed",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "impression"
+        ],
+        "verb": [
+          "impress"
+        ],
+        "adjective": [
+          "impressive"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "impressed by"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 66
+    },
+    {
+      "id": 1336,
+      "word": "impression",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "an opinion or feeling formed about someone or something",
+      "definitionTh": "ความประทับใจ / ความคิดเห็น",
+      "example": "The factory made a good impression.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "view",
+          "level": "B1"
+        },
+        {
+          "word": "effect",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "impression"
+        ],
+        "verb": [
+          "impress"
+        ],
+        "adjective": [
+          "impressive"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "first impression"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 65
+    },
+    {
+      "id": 1337,
+      "word": "impressive",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "causing admiration because of quality or size",
+      "definitionTh": "น่าประทับใจ",
+      "example": "The team achieved impressive savings.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "remarkable",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "impression"
+        ],
+        "verb": [
+          "impress"
+        ],
+        "adjective": [
+          "impressed"
+        ],
+        "adverb": [
+          "impressively"
+        ]
+      },
+      "collocations": [
+        "impressive result"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 64
+    },
+    {
+      "id": 1338,
+      "word": "improve",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to become or make something better",
+      "definitionTh": "ปรับปรุง",
+      "example": "We improved the inspection method.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "enhance",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "improvement"
+        ],
+        "verb": [
+          "improve"
+        ],
+        "adjective": [
+          "improved"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "improve quality"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 63
+    },
+    {
+      "id": 1339,
+      "word": "improvement",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a change that makes something better",
+      "definitionTh": "การปรับปรุง",
+      "example": "The project delivered a major improvement.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "enhancement",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "improvement"
+        ],
+        "verb": [
+          "improve"
+        ],
+        "adjective": [
+          "improved"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "continuous improvement"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 62
+    },
+    {
+      "id": 1340,
+      "word": "in",
+      "pos": "prep., adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "inside a place, period, or situation",
+      "definitionTh": "ใน",
+      "example": "The tools are in the cabinet.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "in detail"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 61
+    },
+    {
+      "id": 1341,
+      "word": "inch",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a unit of length equal to 2.54 centimetres",
+      "definitionTh": "นิ้ว",
+      "example": "Move the sensor one inch closer.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "2.54 centimetres",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "one inch"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 60
+    },
+    {
+      "id": 1342,
+      "word": "incident",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "an event, especially an unusual or unpleasant one",
+      "definitionTh": "เหตุการณ์",
+      "example": "The safety incident was investigated.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "event",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "incident"
+        ],
+        "verb": [],
+        "adjective": [
+          "incidental"
+        ],
+        "adverb": [
+          "incidentally"
+        ]
+      },
+      "collocations": [
+        "safety incident"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 59
+    },
+    {
+      "id": 1343,
+      "word": "include",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to contain something as part of a group or whole",
+      "definitionTh": "รวมถึง",
+      "example": "The price includes delivery.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "contain",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "inclusion"
+        ],
+        "verb": [
+          "include"
+        ],
+        "adjective": [
+          "included",
+          "inclusive"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "include information"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 58
+    },
+    {
+      "id": 1344,
+      "word": "included",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "contained as part of something",
+      "definitionTh": "รวมอยู่ด้วย",
+      "example": "Breakfast is included in the price.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "contained",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "inclusion"
+        ],
+        "verb": [
+          "include"
+        ],
+        "adjective": [
+          "inclusive"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "included in"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 57
+    },
+    {
+      "id": 1345,
+      "word": "including",
+      "pos": "prep.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "used to show that something is part of a group",
+      "definitionTh": "รวมถึง",
+      "example": "Five people attended, including the manager.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "such as",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "including examples"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 56
+    },
+    {
+      "id": 1346,
+      "word": "income",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "money received from work, business, or investments",
+      "definitionTh": "รายได้",
+      "example": "Her monthly income increased.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "earnings",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "income"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "monthly income"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 55
+    },
+    {
+      "id": 1347,
+      "word": "increase",
+      "pos": "v., n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to become or make greater; a rise in amount",
+      "definitionTh": "เพิ่ม / การเพิ่มขึ้น",
+      "example": "Production increased by ten percent.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "rise",
+          "level": "A2"
+        },
+        {
+          "word": "grow",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "decrease",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "increase"
+        ],
+        "verb": [
+          "increase"
+        ],
+        "adjective": [
+          "increasing"
+        ],
+        "adverb": [
+          "increasingly"
+        ]
+      },
+      "collocations": [
+        "increase output"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 54
+    },
+    {
+      "id": 1348,
+      "word": "increasingly",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "more and more",
+      "definitionTh": "มากขึ้นเรื่อย ๆ",
+      "example": "The process is increasingly automated.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "progressively",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "increase"
+        ],
+        "verb": [
+          "increase"
+        ],
+        "adjective": [
+          "increasing"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "increasingly important"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 53
+    },
+    {
+      "id": 1349,
+      "word": "incredible",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "extremely good, large, or difficult to believe",
+      "definitionTh": "เหลือเชื่อ",
+      "example": "The team made incredible progress.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "amazing",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "incredible"
+        ],
+        "adverb": [
+          "incredibly"
+        ]
+      },
+      "collocations": [
+        "incredible result"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 52
+    },
+    {
+      "id": 1350,
+      "word": "incredibly",
+      "pos": "adv.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to an extremely high degree",
+      "definitionTh": "อย่างเหลือเชื่อ",
+      "example": "The new camera is incredibly fast.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "extremely",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "incredible"
+        ],
+        "adverb": [
+          "incredibly"
+        ]
+      },
+      "collocations": [
+        "incredibly useful"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 51
+    },
+    {
+      "id": 1351,
+      "word": "indeed",
+      "pos": "adv.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "used to emphasize that something is true",
+      "definitionTh": "จริง ๆ / แท้จริง",
+      "example": "The result was indeed surprising.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "certainly",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "indeed correct"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 50
+    },
+    {
+      "id": 1352,
+      "word": "independent",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "not controlled by or depending on others",
+      "definitionTh": "เป็นอิสระ",
+      "example": "The test was reviewed by an independent expert.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "autonomous",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "dependent",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "independence"
+        ],
+        "verb": [],
+        "adjective": [
+          "independent"
+        ],
+        "adverb": [
+          "independently"
+        ]
+      },
+      "collocations": [
+        "independent review"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 49
+    },
+    {
+      "id": 1353,
+      "word": "indicate",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to show or point out something",
+      "definitionTh": "บ่งชี้",
+      "example": "The red light indicates a fault.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "show",
+          "level": "B1"
+        },
+        {
+          "word": "signal",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "indication",
+          "indicator"
+        ],
+        "verb": [
+          "indicate"
+        ],
+        "adjective": [
+          "indicative"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "indicate a problem"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 48
+    },
+    {
+      "id": 1354,
+      "word": "indirect",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "not direct or not following the shortest route",
+      "definitionTh": "โดยอ้อม",
+      "example": "The project produced indirect benefits.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "roundabout",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "direct",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "indirect"
+        ],
+        "adverb": [
+          "indirectly"
+        ]
+      },
+      "collocations": [
+        "indirect effect"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 47
+    },
+    {
+      "id": 1355,
+      "word": "individual",
+      "pos": "n., adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "one person or thing; relating to one person or thing",
+      "definitionTh": "บุคคล / รายบุคคล",
+      "example": "Each individual received training.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "person",
+          "level": "A2"
+        },
+        {
+          "word": "single",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "individual",
+          "individuality"
+        ],
+        "verb": [],
+        "adjective": [
+          "individual"
+        ],
+        "adverb": [
+          "individually"
+        ]
+      },
+      "collocations": [
+        "individual item"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 46
+    },
+    {
+      "id": 1356,
+      "word": "indoor",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "located, used, or happening inside a building",
+      "definitionTh": "ในร่ม",
+      "example": "The event was held in an indoor area.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "inside",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "outdoor",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "indoor area"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 45
+    },
+    {
+      "id": 1357,
+      "word": "indoors",
+      "pos": "adv.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "inside a building",
+      "definitionTh": "ในอาคาร",
+      "example": "The equipment must be stored indoors.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "inside",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "outdoors",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "stay indoors"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 44
+    },
+    {
+      "id": 1358,
+      "word": "industrial",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "relating to industry or factories",
+      "definitionTh": "ทางอุตสาหกรรม",
+      "example": "The camera is designed for industrial use.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "manufacturing",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "industry"
+        ],
+        "verb": [],
+        "adjective": [
+          "industrial"
+        ],
+        "adverb": [
+          "industrially"
+        ]
+      },
+      "collocations": [
+        "industrial camera"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 43
+    },
+    {
+      "id": 1359,
+      "word": "industry",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "businesses that produce goods or services of one type",
+      "definitionTh": "อุตสาหกรรม",
+      "example": "She works in the food industry.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "business sector",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "industry"
+        ],
+        "verb": [],
+        "adjective": [
+          "industrial"
+        ],
+        "adverb": [
+          "industrially"
+        ]
+      },
+      "collocations": [
+        "food industry"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 42
+    },
+    {
+      "id": 1360,
+      "word": "infection",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a disease caused by harmful organisms",
+      "definitionTh": "การติดเชื้อ",
+      "example": "Clean hands reduce the risk of infection.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "contamination",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "infection"
+        ],
+        "verb": [
+          "infect"
+        ],
+        "adjective": [
+          "infected",
+          "infectious"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "risk of infection"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 41
+    },
+    {
+      "id": 1361,
+      "word": "influence",
+      "pos": "n., v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "the power to affect someone or something; to affect",
+      "definitionTh": "อิทธิพล / มีอิทธิพล",
+      "example": "Temperature influences product quality.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "affect",
+          "level": "B1"
+        },
+        {
+          "word": "impact",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "influence"
+        ],
+        "verb": [
+          "influence"
+        ],
+        "adjective": [
+          "influential"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "influence a decision"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 40
+    },
+    {
+      "id": 1362,
+      "word": "inform",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to tell someone about something",
+      "definitionTh": "แจ้งให้ทราบ",
+      "example": "Please inform the supervisor immediately.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "notify",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "information"
+        ],
+        "verb": [
+          "inform"
+        ],
+        "adjective": [
+          "informative",
+          "informed"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "inform the manager"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 39
+    },
+    {
+      "id": 1363,
+      "word": "informal",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "relaxed and not official",
+      "definitionTh": "ไม่เป็นทางการ",
+      "example": "We had an informal discussion.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "casual",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "formal",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "informality"
+        ],
+        "verb": [],
+        "adjective": [
+          "informal"
+        ],
+        "adverb": [
+          "informally"
+        ]
+      },
+      "collocations": [
+        "informal meeting"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 38
+    },
+    {
+      "id": 1364,
+      "word": "information",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "facts or details about a subject",
+      "definitionTh": "ข้อมูล",
+      "example": "The dashboard provides useful information.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "data",
+          "level": "A1"
+        },
+        {
+          "word": "facts",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "information"
+        ],
+        "verb": [
+          "inform"
+        ],
+        "adjective": [
+          "informative"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "useful information"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 37
+    },
+    {
+      "id": 1365,
+      "word": "ingredient",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "one of the foods or substances used to make something",
+      "definitionTh": "ส่วนผสม",
+      "example": "Milk is the main ingredient.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "component",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "main ingredient"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 36
+    },
+    {
+      "id": 1366,
+      "word": "initial",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "happening at the beginning",
+      "definitionTh": "เริ่มแรก",
+      "example": "The initial test was successful.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "first",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "final",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "initial"
+        ],
+        "verb": [
+          "initial"
+        ],
+        "adjective": [
+          "initial"
+        ],
+        "adverb": [
+          "initially"
+        ]
+      },
+      "collocations": [
+        "initial test"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 35
+    },
+    {
+      "id": 1367,
+      "word": "initially",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "at the beginning",
+      "definitionTh": "ในตอนแรก",
+      "example": "Initially, the system was difficult to use.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "at first",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "finally",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "initial"
+        ],
+        "verb": [],
+        "adjective": [
+          "initial"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "initially planned"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 34
+    },
+    {
+      "id": 1368,
+      "word": "initiative",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a new plan or the ability to act independently",
+      "definitionTh": "โครงการริเริ่ม / ความคิดริเริ่ม",
+      "example": "The factory launched a safety initiative.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "project",
+          "level": "B2"
+        },
+        {
+          "word": "enterprise",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "new initiative"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 33
+    },
+    {
+      "id": 1369,
+      "word": "injure",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to physically hurt a person or animal",
+      "definitionTh": "ทำให้บาดเจ็บ",
+      "example": "The sharp edge could injure someone.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "hurt",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "injury"
+        ],
+        "verb": [
+          "injure"
+        ],
+        "adjective": [
+          "injured"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "injure a worker"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 32
+    },
+    {
+      "id": 1370,
+      "word": "injured",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "physically hurt",
+      "definitionTh": "ได้รับบาดเจ็บ",
+      "example": "The injured worker received treatment.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "hurt",
+          "level": "B1"
+        },
+        {
+          "word": "wounded",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "uninjured",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "injury"
+        ],
+        "verb": [
+          "injure"
+        ],
+        "adjective": [
+          "injured"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "injured person"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 31
+    },
+    {
+      "id": 1371,
+      "word": "injury",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "physical harm to the body",
+      "definitionTh": "การบาดเจ็บ",
+      "example": "The guard helps prevent injury.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "harm",
+          "level": "A2"
+        },
+        {
+          "word": "wound",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "injury"
+        ],
+        "verb": [
+          "injure"
+        ],
+        "adjective": [
+          "injured"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "prevent injury"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 30
+    },
+    {
+      "id": 1372,
+      "word": "inner",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "inside or closer to the centre",
+      "definitionTh": "ด้านใน",
+      "example": "Check the inner surface of the pipe.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "inside",
+          "level": "B2"
+        },
+        {
+          "word": "internal",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "outer",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "inner surface"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 29
+    },
+    {
+      "id": 1373,
+      "word": "innocent",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "not guilty of a crime or wrongdoing",
+      "definitionTh": "บริสุทธิ์ / ไม่มีความผิด",
+      "example": "The court found her innocent.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "not guilty",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "guilty",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "innocence"
+        ],
+        "verb": [],
+        "adjective": [
+          "innocent"
+        ],
+        "adverb": [
+          "innocently"
+        ]
+      },
+      "collocations": [
+        "found innocent"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 28
+    },
+    {
+      "id": 1374,
+      "word": "insect",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a small animal with six legs",
+      "definitionTh": "แมลง",
+      "example": "An insect landed on the window.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "bug",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "flying insect"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 27
+    },
+    {
+      "id": 1375,
+      "word": "inside",
+      "pos": "prep., adv., n., adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "in or into the inner part of something",
+      "definitionTh": "ข้างใน",
+      "example": "The sensor is inside the cabinet.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "within",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "outside",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "inside the box"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 26
+    },
+    {
+      "id": 1376,
+      "word": "insight",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a clear and deep understanding of something",
+      "definitionTh": "ข้อมูลเชิงลึก",
+      "example": "The data gave us valuable insight.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "understanding",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "valuable insight"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 25
+    },
+    {
+      "id": 1377,
+      "word": "insist",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to say firmly that something must happen or is true",
+      "definitionTh": "ยืนยัน / ยืนกราน",
+      "example": "The manager insisted on another test.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "demand",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "yield",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "insistence"
+        ],
+        "verb": [
+          "insist"
+        ],
+        "adjective": [
+          "insistent"
+        ],
+        "adverb": [
+          "insistently"
+        ]
+      },
+      "collocations": [
+        "insist on"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 24
+    },
+    {
+      "id": 1378,
+      "word": "inspire",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to make someone feel motivated or creative",
+      "definitionTh": "สร้างแรงบันดาลใจ",
+      "example": "The success inspired the whole team.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "motivate",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "inspiration"
+        ],
+        "verb": [
+          "inspire"
+        ],
+        "adjective": [
+          "inspired",
+          "inspiring"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "inspire others"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 23
+    },
+    {
+      "id": 1379,
+      "word": "install",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to put equipment or software in place ready for use",
+      "definitionTh": "ติดตั้ง",
+      "example": "The technician installed the camera.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "set up",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "installation"
+        ],
+        "verb": [
+          "install"
+        ],
+        "adjective": [
+          "installed"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "install equipment"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 22
+    },
+    {
+      "id": 1380,
+      "word": "instance",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "an example or particular case",
+      "definitionTh": "กรณี / ตัวอย่าง",
+      "example": "This is one instance of the problem.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "example",
+          "level": "B2"
+        },
+        {
+          "word": "case",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "for instance"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 21
+    },
+    {
+      "id": 1381,
+      "word": "instead",
+      "pos": "adv.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "in place of someone or something else",
+      "definitionTh": "แทน",
+      "example": "Use the new sensor instead.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "alternatively",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "as well",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "use instead"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 20
+    },
+    {
+      "id": 1382,
+      "word": "institute",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "an organization created for education or research",
+      "definitionTh": "สถาบัน",
+      "example": "The research institute published the study.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "academy",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "institute",
+          "institution"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "research institute"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 19
+    },
+    {
+      "id": 1383,
+      "word": "institution",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a large organization, especially one serving the public",
+      "definitionTh": "สถาบัน / องค์กร",
+      "example": "The university is a respected institution.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "organization",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "institution"
+        ],
+        "verb": [],
+        "adjective": [
+          "institutional"
+        ],
+        "adverb": [
+          "institutionally"
+        ]
+      },
+      "collocations": [
+        "financial institution"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 18
+    },
+    {
+      "id": 1384,
+      "word": "instruction",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "information explaining how to do something",
+      "definitionTh": "คำแนะนำ / คำสั่ง",
+      "example": "Follow the safety instruction.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "direction",
+          "level": "A2"
+        },
+        {
+          "word": "guidance",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "instruction",
+          "instructor"
+        ],
+        "verb": [
+          "instruct"
+        ],
+        "adjective": [
+          "instructional"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "follow instructions"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 17
+    },
+    {
+      "id": 1385,
+      "word": "instructor",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a person who teaches a skill",
+      "definitionTh": "ผู้สอน",
+      "example": "The instructor demonstrated the procedure.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "teacher",
+          "level": "A2"
+        },
+        {
+          "word": "trainer",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "instruction",
+          "instructor"
+        ],
+        "verb": [
+          "instruct"
+        ],
+        "adjective": [
+          "instructional"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "qualified instructor"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 16
+    },
+    {
+      "id": 1386,
+      "word": "instrument",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a tool used for measuring or a device for making music",
+      "definitionTh": "เครื่องมือ / เครื่องดนตรี",
+      "example": "The instrument measures pressure.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "device",
+          "level": "A2"
+        },
+        {
+          "word": "tool",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "measuring instrument"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 15
+    },
+    {
+      "id": 1387,
+      "word": "insurance",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "an arrangement that provides payment for loss or damage",
+      "definitionTh": "ประกันภัย",
+      "example": "The vehicle has full insurance.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "coverage",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "insurance",
+          "insurer"
+        ],
+        "verb": [
+          "insure"
+        ],
+        "adjective": [
+          "insured"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "health insurance"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 14
+    },
+    {
+      "id": 1388,
+      "word": "intelligence",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "the ability to learn and understand",
+      "definitionTh": "สติปัญญา",
+      "example": "Artificial intelligence supports inspection.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "intellect",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "intelligence"
+        ],
+        "verb": [],
+        "adjective": [
+          "intelligent"
+        ],
+        "adverb": [
+          "intelligently"
+        ]
+      },
+      "collocations": [
+        "artificial intelligence"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 13
+    },
+    {
+      "id": 1389,
+      "word": "intelligent",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "able to learn and understand well",
+      "definitionTh": "ฉลาด",
+      "example": "The system uses intelligent software.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "smart",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unintelligent",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "intelligence"
+        ],
+        "verb": [],
+        "adjective": [
+          "intelligent"
+        ],
+        "adverb": [
+          "intelligently"
+        ]
+      },
+      "collocations": [
+        "intelligent system"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 12
+    },
+    {
+      "id": 1390,
+      "word": "intend",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to plan or mean to do something",
+      "definitionTh": "ตั้งใจ",
+      "example": "We intend to complete the project this year.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "plan",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "intention"
+        ],
+        "verb": [
+          "intend"
+        ],
+        "adjective": [
+          "intended"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "intend to"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 11
+    },
+    {
+      "id": 1391,
+      "word": "intended",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "planned or designed for a particular purpose",
+      "definitionTh": "ที่ตั้งใจไว้",
+      "example": "The device works as intended.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "planned",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "intention"
+        ],
+        "verb": [
+          "intend"
+        ],
+        "adjective": [
+          "intended"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "as intended"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 10
+    },
+    {
+      "id": 1392,
+      "word": "intense",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "very strong or extreme",
+      "definitionTh": "รุนแรง / เข้มข้น",
+      "example": "The material was exposed to intense heat.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "extreme",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "mild",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "intensity"
+        ],
+        "verb": [],
+        "adjective": [
+          "intense"
+        ],
+        "adverb": [
+          "intensely"
+        ]
+      },
+      "collocations": [
+        "intense pressure"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 9
+    },
+    {
+      "id": 1393,
+      "word": "intention",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "something you plan or mean to do",
+      "definitionTh": "ความตั้งใจ",
+      "example": "Our intention is to improve safety.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "plan",
+          "level": "B1"
+        },
+        {
+          "word": "aim",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "intention"
+        ],
+        "verb": [
+          "intend"
+        ],
+        "adjective": [
+          "intended"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "intention to"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 8
+    },
+    {
+      "id": 1394,
+      "word": "interest",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a feeling of wanting to know more; to attract attention",
+      "definitionTh": "ความสนใจ / ทำให้สนใจ",
+      "example": "The project attracted management interest.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "curiosity",
+          "level": "A1"
+        },
+        {
+          "word": "attract",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "interest"
+        ],
+        "verb": [
+          "interest"
+        ],
+        "adjective": [
+          "interested",
+          "interesting"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "show interest"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 7
+    },
+    {
+      "id": 1395,
+      "word": "interested",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "wanting to know or learn more",
+      "definitionTh": "สนใจ",
+      "example": "She is interested in automation.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "curious",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "uninterested",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "interest"
+        ],
+        "verb": [
+          "interest"
+        ],
+        "adjective": [
+          "interesting"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "interested in"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 6
+    },
+    {
+      "id": 1396,
+      "word": "interesting",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "making you want to know more",
+      "definitionTh": "น่าสนใจ",
+      "example": "The report contains interesting findings.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "engaging",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "boring",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "interest"
+        ],
+        "verb": [
+          "interest"
+        ],
+        "adjective": [
+          "interested"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "interesting result"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 5
+    },
+    {
+      "id": 1397,
+      "word": "internal",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "inside an organization, object, or body",
+      "definitionTh": "ภายใน",
+      "example": "The issue was found during an internal audit.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "inner",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "external",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "internal"
+        ],
+        "adverb": [
+          "internally"
+        ]
+      },
+      "collocations": [
+        "internal audit"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 4
+    },
+    {
+      "id": 1398,
+      "word": "international",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "involving more than one country",
+      "definitionTh": "ระหว่างประเทศ",
+      "example": "The company follows international standards.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "global",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "domestic",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "international"
+        ],
+        "verb": [],
+        "adjective": [
+          "international"
+        ],
+        "adverb": [
+          "internationally"
+        ]
+      },
+      "collocations": [
+        "international standard"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 3
+    },
+    {
+      "id": 1399,
+      "word": "internet",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the global system connecting computers and information",
+      "definitionTh": "อินเทอร์เน็ต",
+      "example": "The device connects to the internet.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "online network",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "internet connection"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 2
+    },
+    {
+      "id": 1400,
+      "word": "interpret",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to explain the meaning of something or understand it in a particular way",
+      "definitionTh": "ตีความ / แปลความ",
+      "example": "We interpreted the test results carefully.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "explain",
+          "level": "B2"
+        },
+        {
+          "word": "understand",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "misinterpret",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "interpretation",
+          "interpreter"
+        ],
+        "verb": [
+          "interpret"
+        ],
+        "adjective": [
+          "interpretive"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "interpret results"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 1
+    }
+  ]
+}

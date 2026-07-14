@@ -1,0 +1,3877 @@
+{
+  "version": 2,
+  "source": "Oxford 3000",
+  "batch": 18,
+  "level": "Mixed",
+  "totalWords": 100,
+  "metadata": {
+    "created": "2026-07-14",
+    "language": "en",
+    "description": "Batch 18 of 50 — Oxford 3000 words 1701-1800; source-aligned sequence"
+  },
+  "words": [
+    {
+      "id": 1701,
+      "word": "museum",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a building where important objects are displayed",
+      "definitionTh": "พิพิธภัณฑ์",
+      "example": "We visited the science museum.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "exhibition centre",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "science museum"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 100
+    },
+    {
+      "id": 1702,
+      "word": "music",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "sounds arranged to create an artistic form",
+      "definitionTh": "ดนตรี",
+      "example": "She listens to music at work.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "musical sound",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "music",
+          "musician"
+        ],
+        "verb": [],
+        "adjective": [
+          "musical"
+        ],
+        "adverb": [
+          "musically"
+        ]
+      },
+      "collocations": [
+        "listen to music"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 99
+    },
+    {
+      "id": 1703,
+      "word": "musical",
+      "pos": "adj., n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "relating to music; a play with songs",
+      "definitionTh": "เกี่ยวกับดนตรี / ละครเพลง",
+      "example": "The school performed a musical.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "melodic",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "music",
+          "musician"
+        ],
+        "verb": [],
+        "adjective": [
+          "musical"
+        ],
+        "adverb": [
+          "musically"
+        ]
+      },
+      "collocations": [
+        "musical instrument"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 98
+    },
+    {
+      "id": 1704,
+      "word": "musician",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a person who plays or writes music",
+      "definitionTh": "นักดนตรี",
+      "example": "The musician played the piano.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "instrumentalist",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "music"
+        ],
+        "verb": [],
+        "adjective": [
+          "musical"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "professional musician"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 97
+    },
+    {
+      "id": 1705,
+      "word": "must",
+      "pos": "modal v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "used to show necessity or strong belief",
+      "definitionTh": "ต้อง",
+      "example": "You must wear safety shoes.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "have to",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "must be"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 96
+    },
+    {
+      "id": 1706,
+      "word": "my",
+      "pos": "det.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "belonging to the speaker",
+      "definitionTh": "ของฉัน",
+      "example": "This is my report.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "my name"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 95
+    },
+    {
+      "id": 1707,
+      "word": "myself",
+      "pos": "pron.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "used when the speaker is subject and object",
+      "definitionTh": "ตัวฉันเอง",
+      "example": "I checked the result myself.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "by myself"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 94
+    },
+    {
+      "id": 1708,
+      "word": "mysterious",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "difficult to explain or understand",
+      "definitionTh": "ลึกลับ",
+      "example": "The machine made a mysterious noise.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "puzzling",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "obvious",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "mystery"
+        ],
+        "verb": [],
+        "adjective": [
+          "mysterious"
+        ],
+        "adverb": [
+          "mysteriously"
+        ]
+      },
+      "collocations": [
+        "mysterious problem"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 93
+    },
+    {
+      "id": 1709,
+      "word": "mystery",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "something difficult to explain or understand",
+      "definitionTh": "ปริศนา",
+      "example": "The cause remained a mystery.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "puzzle",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "mystery"
+        ],
+        "verb": [],
+        "adjective": [
+          "mysterious"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "remain a mystery"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 92
+    },
+    {
+      "id": 1710,
+      "word": "nail",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a small metal pin or the hard part at a fingertip",
+      "definitionTh": "ตะปู / เล็บ",
+      "example": "He fixed the board with a nail.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "metal pin",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "metal nail"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 91
+    },
+    {
+      "id": 1711,
+      "word": "name",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a word used to identify someone or something; to identify",
+      "definitionTh": "ชื่อ / ตั้งชื่อ",
+      "example": "Write your name on the form.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "title",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "name"
+        ],
+        "verb": [
+          "name"
+        ],
+        "adjective": [
+          "named"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "full name"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 90
+    },
+    {
+      "id": 1712,
+      "word": "narrative",
+      "pos": "n., adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a story or account of events; relating to storytelling",
+      "definitionTh": "เรื่องเล่า / เชิงบรรยาย",
+      "example": "The report gives a clear narrative.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "story",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "narrative"
+        ],
+        "verb": [
+          "narrate"
+        ],
+        "adjective": [
+          "narrative"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "clear narrative"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 89
+    },
+    {
+      "id": 1713,
+      "word": "narrow",
+      "pos": "adj., v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "not wide; to become or make less wide",
+      "definitionTh": "แคบ / ทำให้แคบ",
+      "example": "The road becomes narrow here.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "slim",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "wide",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "narrowness"
+        ],
+        "verb": [
+          "narrow"
+        ],
+        "adjective": [
+          "narrow"
+        ],
+        "adverb": [
+          "narrowly"
+        ]
+      },
+      "collocations": [
+        "narrow gap"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 88
+    },
+    {
+      "id": 1714,
+      "word": "nation",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a country and its people",
+      "definitionTh": "ประเทศ / ชาติ",
+      "example": "The nation adopted a new policy.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "country",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "nation",
+          "nationality"
+        ],
+        "verb": [],
+        "adjective": [
+          "national",
+          "international"
+        ],
+        "adverb": [
+          "nationally"
+        ]
+      },
+      "collocations": [
+        "whole nation"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 87
+    },
+    {
+      "id": 1715,
+      "word": "national",
+      "pos": "adj., n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "relating to a whole country; a citizen of a country",
+      "definitionTh": "ระดับชาติ / พลเมือง",
+      "example": "This is a national standard.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "countrywide",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "nation",
+          "nationality"
+        ],
+        "verb": [],
+        "adjective": [
+          "national"
+        ],
+        "adverb": [
+          "nationally"
+        ]
+      },
+      "collocations": [
+        "national policy"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 86
+    },
+    {
+      "id": 1716,
+      "word": "native",
+      "pos": "adj., n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "connected with the place of birth; a person born there",
+      "definitionTh": "พื้นเมือง / คนพื้นเมือง",
+      "example": "She is a native speaker.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "local",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "native"
+        ],
+        "verb": [],
+        "adjective": [
+          "native"
+        ],
+        "adverb": [
+          "natively"
+        ]
+      },
+      "collocations": [
+        "native speaker"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 85
+    },
+    {
+      "id": 1717,
+      "word": "natural",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "existing in nature and not made by people",
+      "definitionTh": "ธรรมชาติ",
+      "example": "The product uses natural ingredients.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "organic",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "artificial",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "nature"
+        ],
+        "verb": [],
+        "adjective": [
+          "natural"
+        ],
+        "adverb": [
+          "naturally"
+        ]
+      },
+      "collocations": [
+        "natural material"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 84
+    },
+    {
+      "id": 1718,
+      "word": "naturally",
+      "pos": "adv.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "in a natural way or as expected",
+      "definitionTh": "โดยธรรมชาติ",
+      "example": "The material dries naturally.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "normally",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "nature"
+        ],
+        "verb": [],
+        "adjective": [
+          "natural"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "occur naturally"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 83
+    },
+    {
+      "id": 1719,
+      "word": "nature",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the physical world and its living things",
+      "definitionTh": "ธรรมชาติ",
+      "example": "We must protect nature.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "natural world",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "nature"
+        ],
+        "verb": [],
+        "adjective": [
+          "natural"
+        ],
+        "adverb": [
+          "naturally"
+        ]
+      },
+      "collocations": [
+        "protect nature"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 82
+    },
+    {
+      "id": 1720,
+      "word": "near",
+      "pos": "prep., adj., adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "at a short distance from",
+      "definitionTh": "ใกล้",
+      "example": "The sensor is near the filler.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "close",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "far",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "nearness"
+        ],
+        "verb": [],
+        "adjective": [
+          "near"
+        ],
+        "adverb": [
+          "near",
+          "nearly"
+        ]
+      },
+      "collocations": [
+        "near the factory"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 81
+    },
+    {
+      "id": 1721,
+      "word": "nearly",
+      "pos": "adv.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "almost",
+      "definitionTh": "เกือบจะ",
+      "example": "The tank is nearly full.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "almost",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "exactly",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "near"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "nearly complete"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 80
+    },
+    {
+      "id": 1722,
+      "word": "neat",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "tidy and arranged carefully",
+      "definitionTh": "เรียบร้อย",
+      "example": "Keep the work area neat.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "tidy",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "messy",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "neatness"
+        ],
+        "verb": [],
+        "adjective": [
+          "neat"
+        ],
+        "adverb": [
+          "neatly"
+        ]
+      },
+      "collocations": [
+        "neat arrangement"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 79
+    },
+    {
+      "id": 1723,
+      "word": "necessarily",
+      "pos": "adv.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "as an unavoidable result or in every case",
+      "definitionTh": "จำเป็นต้อง",
+      "example": "Higher cost does not necessarily mean better quality.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "inevitably",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "necessity"
+        ],
+        "verb": [],
+        "adjective": [
+          "necessary"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "not necessarily"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 78
+    },
+    {
+      "id": 1724,
+      "word": "necessary",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "needed for a purpose",
+      "definitionTh": "จำเป็น",
+      "example": "Calibration is necessary.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "essential",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unnecessary",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "necessity"
+        ],
+        "verb": [],
+        "adjective": [
+          "necessary"
+        ],
+        "adverb": [
+          "necessarily"
+        ]
+      },
+      "collocations": [
+        "necessary action"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 77
+    },
+    {
+      "id": 1725,
+      "word": "neck",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the body part connecting the head and shoulders",
+      "definitionTh": "คอ",
+      "example": "He injured his neck.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "body part",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "neck injury"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 76
+    },
+    {
+      "id": 1726,
+      "word": "need",
+      "pos": "v., n., modal v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to require something; a requirement",
+      "definitionTh": "ต้องการ / ความจำเป็น",
+      "example": "We need more data.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "require",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "need"
+        ],
+        "verb": [
+          "need"
+        ],
+        "adjective": [
+          "needed",
+          "needy"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "need to"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 75
+    },
+    {
+      "id": 1727,
+      "word": "needle",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a thin pointed tool used for sewing or medical purposes",
+      "definitionTh": "เข็ม",
+      "example": "Use a clean needle.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "pin",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "sharp needle"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 74
+    },
+    {
+      "id": 1728,
+      "word": "negative",
+      "pos": "adj., n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "bad, harmful, below zero, or expressing no",
+      "definitionTh": "เชิงลบ / ลบ",
+      "example": "The test result was negative.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "adverse",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "positive",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "negativity"
+        ],
+        "verb": [
+          "negate"
+        ],
+        "adjective": [
+          "negative"
+        ],
+        "adverb": [
+          "negatively"
+        ]
+      },
+      "collocations": [
+        "negative effect"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 73
+    },
+    {
+      "id": 1729,
+      "word": "neighbour",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a person living near another person",
+      "definitionTh": "เพื่อนบ้าน",
+      "example": "Our neighbour helped us.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "nearby resident",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "neighbour",
+          "neighbourhood"
+        ],
+        "verb": [],
+        "adjective": [
+          "neighbouring"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "next-door neighbour"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 72
+    },
+    {
+      "id": 1730,
+      "word": "neighbourhood",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "the area around where people live",
+      "definitionTh": "ละแวกบ้าน",
+      "example": "The neighbourhood is quiet.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "local area",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "neighbour"
+        ],
+        "verb": [],
+        "adjective": [
+          "neighbouring"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "local neighbourhood"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 71
+    },
+    {
+      "id": 1731,
+      "word": "neither",
+      "pos": "det./pron., adv.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "not one and not the other of two",
+      "definitionTh": "ไม่ทั้งสอง",
+      "example": "Neither option is suitable.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "not either",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "neither option"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 70
+    },
+    {
+      "id": 1732,
+      "word": "nerve",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a fibre carrying messages in the body; courage",
+      "definitionTh": "เส้นประสาท / ความกล้า",
+      "example": "The injury damaged a nerve.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "courage",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "nerve"
+        ],
+        "verb": [],
+        "adjective": [
+          "nervous"
+        ],
+        "adverb": [
+          "nervously"
+        ]
+      },
+      "collocations": [
+        "nerve damage"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 69
+    },
+    {
+      "id": 1733,
+      "word": "nervous",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "worried or afraid",
+      "definitionTh": "ประหม่า / กังวล",
+      "example": "She felt nervous before the presentation.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "anxious",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "calm",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "nerve",
+          "nervousness"
+        ],
+        "verb": [],
+        "adjective": [
+          "nervous"
+        ],
+        "adverb": [
+          "nervously"
+        ]
+      },
+      "collocations": [
+        "feel nervous"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 68
+    },
+    {
+      "id": 1734,
+      "word": "net",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "material made of connected threads or a system for catching",
+      "definitionTh": "ตาข่าย",
+      "example": "A safety net covered the opening.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "mesh",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "safety net"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 67
+    },
+    {
+      "id": 1735,
+      "word": "network",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a connected system of people, computers, or things",
+      "definitionTh": "เครือข่าย",
+      "example": "The camera uses the factory network.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "system",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "network"
+        ],
+        "verb": [
+          "network"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "computer network"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 66
+    },
+    {
+      "id": 1736,
+      "word": "never",
+      "pos": "adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "not at any time",
+      "definitionTh": "ไม่เคย",
+      "example": "Never bypass the safety guard.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "not ever",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "always",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "never use"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 65
+    },
+    {
+      "id": 1737,
+      "word": "nevertheless",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "despite what was just mentioned",
+      "definitionTh": "อย่างไรก็ตาม",
+      "example": "The test was difficult; nevertheless, it succeeded.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "however",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "nevertheless continue"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 64
+    },
+    {
+      "id": 1738,
+      "word": "new",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "recently made, obtained, or introduced",
+      "definitionTh": "ใหม่",
+      "example": "We installed a new sensor.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "recent",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "old",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "newness"
+        ],
+        "verb": [
+          "renew"
+        ],
+        "adjective": [
+          "new"
+        ],
+        "adverb": [
+          "newly"
+        ]
+      },
+      "collocations": [
+        "new system"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 63
+    },
+    {
+      "id": 1739,
+      "word": "news",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "information about recent events",
+      "definitionTh": "ข่าว",
+      "example": "The news was encouraging.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "report",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "news"
+        ],
+        "verb": [],
+        "adjective": [
+          "newsworthy"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "latest news"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 62
+    },
+    {
+      "id": 1740,
+      "word": "newspaper",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a publication containing news",
+      "definitionTh": "หนังสือพิมพ์",
+      "example": "He reads the newspaper every morning.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "daily paper",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "daily newspaper"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 61
+    },
+    {
+      "id": 1741,
+      "word": "next",
+      "pos": "adj., adv., n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "coming immediately after the present one",
+      "definitionTh": "ถัดไป",
+      "example": "The next meeting is on Friday.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "following",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "previous",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "next step"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 60
+    },
+    {
+      "id": 1742,
+      "word": "next to",
+      "pos": "prep.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "beside or immediately adjacent to",
+      "definitionTh": "ถัดจาก / ข้าง ๆ",
+      "example": "The cabinet is next to the machine.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "beside",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "next to the machine"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 59
+    },
+    {
+      "id": 1743,
+      "word": "nice",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "pleasant or enjoyable",
+      "definitionTh": "ดี / น่าพอใจ",
+      "example": "She gave a nice presentation.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "pleasant",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unpleasant",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "nice idea"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 58
+    },
+    {
+      "id": 1744,
+      "word": "night",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the period of darkness between evening and morning",
+      "definitionTh": "กลางคืน",
+      "example": "The line runs at night.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "night-time",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "day",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "at night"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 57
+    },
+    {
+      "id": 1745,
+      "word": "nightmare",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a frightening dream or very difficult situation",
+      "definitionTh": "ฝันร้าย",
+      "example": "The delay became a logistical nightmare.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "bad dream",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "worst nightmare"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 56
+    },
+    {
+      "id": 1746,
+      "word": "nine",
+      "pos": "number",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the number 9",
+      "definitionTh": "เก้า",
+      "example": "Nine people attended.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "9",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "nine items"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 55
+    },
+    {
+      "id": 1747,
+      "word": "nineteen",
+      "pos": "number",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the number 19",
+      "definitionTh": "สิบเก้า",
+      "example": "The class has nineteen students.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "19",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "nineteen people"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 54
+    },
+    {
+      "id": 1748,
+      "word": "ninety",
+      "pos": "number",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the number 90",
+      "definitionTh": "เก้าสิบ",
+      "example": "The target is ninety percent.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "90",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "ninety percent"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 53
+    },
+    {
+      "id": 1749,
+      "word": "no",
+      "pos": "exclam., det.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "used to give a negative answer or show none",
+      "definitionTh": "ไม่ / ไม่มี",
+      "example": "No defects were found.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "negative",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "yes",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "no problem"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 52
+    },
+    {
+      "id": 1750,
+      "word": "no one",
+      "pos": "pron.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "not any person",
+      "definitionTh": "ไม่มีใคร",
+      "example": "No one was injured.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "nobody",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "no one knows"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 51
+    },
+    {
+      "id": 1751,
+      "word": "nobody",
+      "pos": "pron.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "no person",
+      "definitionTh": "ไม่มีใคร",
+      "example": "Nobody entered the room.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "no one",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "everybody",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "nobody else"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 50
+    },
+    {
+      "id": 1752,
+      "word": "noise",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "an unpleasant or unwanted sound",
+      "definitionTh": "เสียงรบกวน",
+      "example": "The motor makes a loud noise.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "sound",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "silence",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "noise"
+        ],
+        "verb": [],
+        "adjective": [
+          "noisy"
+        ],
+        "adverb": [
+          "noisily"
+        ]
+      },
+      "collocations": [
+        "loud noise"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 49
+    },
+    {
+      "id": 1753,
+      "word": "noisy",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "making a lot of noise",
+      "definitionTh": "มีเสียงดัง",
+      "example": "The production area is noisy.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "loud",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "quiet",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "noise"
+        ],
+        "verb": [],
+        "adjective": [
+          "noisy"
+        ],
+        "adverb": [
+          "noisily"
+        ]
+      },
+      "collocations": [
+        "noisy area"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 48
+    },
+    {
+      "id": 1754,
+      "word": "none",
+      "pos": "pron.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "not any of a group",
+      "definitionTh": "ไม่มีเลย",
+      "example": "None of the samples failed.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "not any",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "all",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "none of"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 47
+    },
+    {
+      "id": 1755,
+      "word": "nor",
+      "pos": "conj./adv.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "used to add another negative statement",
+      "definitionTh": "และก็ไม่",
+      "example": "The machine did not stop, nor did it slow down.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "and not",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "neither nor"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 46
+    },
+    {
+      "id": 1756,
+      "word": "normal",
+      "pos": "adj., n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "usual or expected; the usual condition",
+      "definitionTh": "ปกติ / ภาวะปกติ",
+      "example": "The temperature is normal.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "usual",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "abnormal",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "normality"
+        ],
+        "verb": [
+          "normalize"
+        ],
+        "adjective": [
+          "normal"
+        ],
+        "adverb": [
+          "normally"
+        ]
+      },
+      "collocations": [
+        "normal operation"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 45
+    },
+    {
+      "id": 1757,
+      "word": "normally",
+      "pos": "adv.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "usually or in the expected way",
+      "definitionTh": "โดยปกติ",
+      "example": "The system normally starts automatically.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "usually",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "normality"
+        ],
+        "verb": [],
+        "adjective": [
+          "normal"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "normally open"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 44
+    },
+    {
+      "id": 1758,
+      "word": "north",
+      "pos": "n., adj., adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the direction opposite south",
+      "definitionTh": "ทิศเหนือ",
+      "example": "The site is north of Bangkok.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "northern direction",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "south",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "north"
+        ],
+        "verb": [],
+        "adjective": [
+          "northern"
+        ],
+        "adverb": [
+          "north"
+        ]
+      },
+      "collocations": [
+        "north side"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 43
+    },
+    {
+      "id": 1759,
+      "word": "northern",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "located in or from the north",
+      "definitionTh": "ทางเหนือ",
+      "example": "They work in northern Thailand.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "north",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "southern",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "north"
+        ],
+        "verb": [],
+        "adjective": [
+          "northern"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "northern region"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 42
+    },
+    {
+      "id": 1760,
+      "word": "nose",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the body part used for smelling and breathing",
+      "definitionTh": "จมูก",
+      "example": "The smell irritated his nose.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "smelling organ",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "blocked nose"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 41
+    },
+    {
+      "id": 1761,
+      "word": "not",
+      "pos": "adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "used to make a word or statement negative",
+      "definitionTh": "ไม่",
+      "example": "The machine is not ready.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "negative particle",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "affirmative",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "not available"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 40
+    },
+    {
+      "id": 1762,
+      "word": "note",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a short written record; to notice or record",
+      "definitionTh": "บันทึก / จด",
+      "example": "Please note the serial number.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "record",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "note"
+        ],
+        "verb": [
+          "note"
+        ],
+        "adjective": [
+          "notable"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "take note"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 39
+    },
+    {
+      "id": 1763,
+      "word": "nothing",
+      "pos": "pron.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "not anything",
+      "definitionTh": "ไม่มีอะไร",
+      "example": "Nothing was damaged.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "not anything",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "everything",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "nothing else"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 38
+    },
+    {
+      "id": 1764,
+      "word": "notice",
+      "pos": "v., n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to become aware of; a written announcement",
+      "definitionTh": "สังเกต / ประกาศ",
+      "example": "Did you notice the warning light?",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "observe",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "notice"
+        ],
+        "verb": [
+          "notice"
+        ],
+        "adjective": [
+          "noticeable"
+        ],
+        "adverb": [
+          "noticeably"
+        ]
+      },
+      "collocations": [
+        "notice a change"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 37
+    },
+    {
+      "id": 1765,
+      "word": "notion",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "an idea or belief",
+      "definitionTh": "แนวคิด / ความเชื่อ",
+      "example": "The data challenges that notion.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "idea",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "general notion"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 36
+    },
+    {
+      "id": 1766,
+      "word": "novel",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a long fictional story in book form",
+      "definitionTh": "นวนิยาย",
+      "example": "She read a historical novel.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "fiction book",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "novel",
+          "novelist"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "historical novel"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 35
+    },
+    {
+      "id": 1767,
+      "word": "November",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the eleventh month of the year",
+      "definitionTh": "พฤศจิกายน",
+      "example": "The project ends in November.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "eleventh month",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "in November"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 34
+    },
+    {
+      "id": 1768,
+      "word": "now",
+      "pos": "adv., conj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "at the present time",
+      "definitionTh": "ตอนนี้",
+      "example": "The system is working now.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "currently",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "right now"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 33
+    },
+    {
+      "id": 1769,
+      "word": "nowhere",
+      "pos": "adv.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "not in or to any place",
+      "definitionTh": "ไม่มีที่ไหน",
+      "example": "The missing file was nowhere to be found.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "not anywhere",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "nowhere near"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 32
+    },
+    {
+      "id": 1770,
+      "word": "nuclear",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "relating to atomic energy or the nucleus",
+      "definitionTh": "นิวเคลียร์",
+      "example": "The country uses nuclear energy.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "atomic",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "nuclear power"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 31
+    },
+    {
+      "id": 1771,
+      "word": "number",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a mathematical value; to assign numbers",
+      "definitionTh": "ตัวเลข / กำหนดหมายเลข",
+      "example": "Record the batch number.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "figure",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "number"
+        ],
+        "verb": [
+          "number"
+        ],
+        "adjective": [
+          "numerous"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "serial number"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 30
+    },
+    {
+      "id": 1772,
+      "word": "numerous",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "many",
+      "definitionTh": "จำนวนมาก",
+      "example": "We found numerous small defects.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "many",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "number"
+        ],
+        "verb": [],
+        "adjective": [
+          "numerous"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "numerous examples"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 29
+    },
+    {
+      "id": 1773,
+      "word": "nurse",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a person trained to care for sick people",
+      "definitionTh": "พยาบาล",
+      "example": "The nurse checked the patient.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "caregiver",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "qualified nurse"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 28
+    },
+    {
+      "id": 1774,
+      "word": "nut",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a hard-shelled seed or a small metal fastener",
+      "definitionTh": "ถั่ว / นอต",
+      "example": "Tighten the nut carefully.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "fastener",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "tighten a nut"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 27
+    },
+    {
+      "id": 1775,
+      "word": "obey",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to do what a rule or person says",
+      "definitionTh": "เชื่อฟัง / ปฏิบัติตาม",
+      "example": "Employees must obey safety rules.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "comply with",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "disobey",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "obedience"
+        ],
+        "verb": [
+          "obey"
+        ],
+        "adjective": [
+          "obedient"
+        ],
+        "adverb": [
+          "obediently"
+        ]
+      },
+      "collocations": [
+        "obey rules"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 26
+    },
+    {
+      "id": 1776,
+      "word": "object",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a thing; to express disagreement",
+      "definitionTh": "วัตถุ / คัดค้าน",
+      "example": "The sensor detected an object.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "thing",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "object",
+          "objection"
+        ],
+        "verb": [
+          "object"
+        ],
+        "adjective": [
+          "objective"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "foreign object"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 25
+    },
+    {
+      "id": 1777,
+      "word": "objective",
+      "pos": "n., adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a goal; based on facts rather than feelings",
+      "definitionTh": "วัตถุประสงค์ / เป็นกลาง",
+      "example": "Our objective is to reduce waste.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "goal",
+          "level": "B2"
+        },
+        {
+          "word": "impartial",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "subjective",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "object",
+          "objective"
+        ],
+        "verb": [],
+        "adjective": [
+          "objective"
+        ],
+        "adverb": [
+          "objectively"
+        ]
+      },
+      "collocations": [
+        "project objective"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 24
+    },
+    {
+      "id": 1778,
+      "word": "obligation",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a duty or legal responsibility",
+      "definitionTh": "ภาระผูกพัน / หน้าที่",
+      "example": "The company has a legal obligation.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "duty",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "obligation"
+        ],
+        "verb": [
+          "oblige"
+        ],
+        "adjective": [
+          "obligatory"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "legal obligation"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 23
+    },
+    {
+      "id": 1779,
+      "word": "observation",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the act of watching carefully or a comment based on it",
+      "definitionTh": "การสังเกต",
+      "example": "Record each observation.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "inspection",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "observation",
+          "observer"
+        ],
+        "verb": [
+          "observe"
+        ],
+        "adjective": [
+          "observant"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "direct observation"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 22
+    },
+    {
+      "id": 1780,
+      "word": "observe",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to watch carefully or notice",
+      "definitionTh": "สังเกต",
+      "example": "Observe the process for ten minutes.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "watch",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "observation",
+          "observer"
+        ],
+        "verb": [
+          "observe"
+        ],
+        "adjective": [
+          "observant"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "observe carefully"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 21
+    },
+    {
+      "id": 1781,
+      "word": "obtain",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to get something",
+      "definitionTh": "ได้รับ",
+      "example": "We obtained approval from management.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "get",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "obtain approval"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 20
+    },
+    {
+      "id": 1782,
+      "word": "obvious",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "easy to see or understand",
+      "definitionTh": "ชัดเจน",
+      "example": "The cause was obvious.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "clear",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unclear",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "obviousness"
+        ],
+        "verb": [],
+        "adjective": [
+          "obvious"
+        ],
+        "adverb": [
+          "obviously"
+        ]
+      },
+      "collocations": [
+        "obvious reason"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 19
+    },
+    {
+      "id": 1783,
+      "word": "obviously",
+      "pos": "adv.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "in a way that is easy to understand",
+      "definitionTh": "อย่างชัดเจน",
+      "example": "The part was obviously damaged.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "clearly",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "obvious"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "obviously wrong"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 18
+    },
+    {
+      "id": 1784,
+      "word": "occasion",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a particular time or special event",
+      "definitionTh": "โอกาส / ครั้ง",
+      "example": "On one occasion, the alarm failed.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "event",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "occasion"
+        ],
+        "verb": [],
+        "adjective": [
+          "occasional"
+        ],
+        "adverb": [
+          "occasionally"
+        ]
+      },
+      "collocations": [
+        "on occasion"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 17
+    },
+    {
+      "id": 1785,
+      "word": "occasionally",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "sometimes but not often",
+      "definitionTh": "เป็นครั้งคราว",
+      "example": "The sensor occasionally loses connection.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "sometimes",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "occasion"
+        ],
+        "verb": [],
+        "adjective": [
+          "occasional"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "occasionally occur"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 16
+    },
+    {
+      "id": 1786,
+      "word": "occur",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to happen",
+      "definitionTh": "เกิดขึ้น",
+      "example": "The fault occurs during start-up.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "happen",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "occurrence"
+        ],
+        "verb": [
+          "occur"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "occur frequently"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 15
+    },
+    {
+      "id": 1787,
+      "word": "ocean",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a very large area of salt water",
+      "definitionTh": "มหาสมุทร",
+      "example": "Plastic pollution harms the ocean.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "sea",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "ocean water"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 14
+    },
+    {
+      "id": 1788,
+      "word": "o'clock",
+      "pos": "adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "used after a number to state the time",
+      "definitionTh": "นาฬิกา",
+      "example": "The meeting starts at nine o'clock.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "nine o'clock"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 13
+    },
+    {
+      "id": 1789,
+      "word": "October",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the tenth month of the year",
+      "definitionTh": "ตุลาคม",
+      "example": "The audit is scheduled for October.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "tenth month",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "in October"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 12
+    },
+    {
+      "id": 1790,
+      "word": "odd",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "strange or not divisible by two",
+      "definitionTh": "แปลก / คี่",
+      "example": "The machine made an odd sound.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "strange",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "odd number"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 11
+    },
+    {
+      "id": 1791,
+      "word": "of",
+      "pos": "prep.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "used to show belonging, amount, or connection",
+      "definitionTh": "ของ",
+      "example": "Check the level of the tank.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "connected with",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "part of"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 10
+    },
+    {
+      "id": 1792,
+      "word": "off",
+      "pos": "adv., prep.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "away from or not operating",
+      "definitionTh": "ปิด / ออกจาก",
+      "example": "Turn the power off.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "not operating",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "on",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "switch off"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 9
+    },
+    {
+      "id": 1793,
+      "word": "offence",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "an illegal act or something causing upset",
+      "definitionTh": "ความผิด / การล่วงละเมิด",
+      "example": "The act is a serious offence.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "crime",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "offence"
+        ],
+        "verb": [
+          "offend"
+        ],
+        "adjective": [
+          "offensive"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "criminal offence"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 8
+    },
+    {
+      "id": 1794,
+      "word": "offend",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to make someone upset or commit an offence",
+      "definitionTh": "ทำให้ขุ่นเคือง",
+      "example": "His comment offended several people.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "upset",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "offence"
+        ],
+        "verb": [
+          "offend"
+        ],
+        "adjective": [
+          "offensive"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "offend someone"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 7
+    },
+    {
+      "id": 1795,
+      "word": "offensive",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "causing anger or unpleasantness",
+      "definitionTh": "น่ารังเกียจ / ก้าวร้าว",
+      "example": "The message contained offensive language.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "insulting",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "inoffensive",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "offence"
+        ],
+        "verb": [
+          "offend"
+        ],
+        "adjective": [
+          "offensive"
+        ],
+        "adverb": [
+          "offensively"
+        ]
+      },
+      "collocations": [
+        "offensive language"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 6
+    },
+    {
+      "id": 1796,
+      "word": "offer",
+      "pos": "v., n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to present something for acceptance; a proposal",
+      "definitionTh": "เสนอ / ข้อเสนอ",
+      "example": "The supplier offered a discount.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "propose",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "offer"
+        ],
+        "verb": [
+          "offer"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "make an offer"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 5
+    },
+    {
+      "id": 1797,
+      "word": "office",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a room or building where people work",
+      "definitionTh": "สำนักงาน",
+      "example": "Her office is on the second floor.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "workplace",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "head office"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 4
+    },
+    {
+      "id": 1798,
+      "word": "officer",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a person with authority in an organization",
+      "definitionTh": "เจ้าหน้าที่",
+      "example": "A safety officer inspected the area.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "official",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "safety officer"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 3
+    },
+    {
+      "id": 1799,
+      "word": "official",
+      "pos": "adj., n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "approved by an authority; a person in authority",
+      "definitionTh": "เป็นทางการ / เจ้าหน้าที่",
+      "example": "We received official approval.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "authorized",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "official"
+        ],
+        "verb": [],
+        "adjective": [
+          "official"
+        ],
+        "adverb": [
+          "officially"
+        ]
+      },
+      "collocations": [
+        "official document"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 2
+    },
+    {
+      "id": 1800,
+      "word": "often",
+      "pos": "adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "many times or frequently",
+      "definitionTh": "บ่อย",
+      "example": "We often review the data.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "frequently",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "rarely",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "frequency"
+        ],
+        "verb": [],
+        "adjective": [
+          "frequent"
+        ],
+        "adverb": [
+          "often"
+        ]
+      },
+      "collocations": [
+        "quite often"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 1
+    }
+  ]
+}

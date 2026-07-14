@@ -1,0 +1,3542 @@
+{
+  "version": 2,
+  "source": "Oxford 5000 (American English)",
+  "batch": 49,
+  "level": "B2-C1",
+  "totalWords": 100,
+  "metadata": {
+    "created": "2026-07-14",
+    "language": "en-US",
+    "description": "Batch 49 - additional Oxford 5000 words 1801-1900; source-aligned from attached PDF"
+  },
+  "words": [
+    {
+      "id": 4765,
+      "word": "tendency",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a usual direction of change or behavior",
+      "definitionTh": "แนวโน้ม",
+      "example": "Track the tendency of the defect rate.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "trend",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "upward tendency"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 100
+    },
+    {
+      "id": 4766,
+      "word": "tender",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "gentle, caring, or easy to damage",
+      "definitionTh": "อ่อนโยน",
+      "example": "The report provides a clear example of “tender”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "gentle",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "harsh",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "tender example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 99
+    },
+    {
+      "id": 4767,
+      "word": "tension",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "mental or physical pressure between opposing forces",
+      "definitionTh": "ความตึงเครียด",
+      "example": "Check cable tension before operation.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "strain",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "mechanical tension"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 98
+    },
+    {
+      "id": 4768,
+      "word": "tenure",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the period someone holds an office or property",
+      "definitionTh": "วาระการดำรงตำแหน่ง",
+      "example": "The report provides a clear example of “tenure”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "term",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "tenure example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 97
+    },
+    {
+      "id": 4769,
+      "word": "terminal1",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the end station of a transport route",
+      "definitionTh": "สถานีปลายทาง",
+      "example": "Connect the wire to the correct terminal.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "station",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "connection terminal"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 96
+    },
+    {
+      "id": 4770,
+      "word": "terminal2",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "relating to the final stage or end point",
+      "definitionTh": "ระยะสุดท้าย",
+      "example": "The system entered a terminal state.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "final",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "terminal condition"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 95
+    },
+    {
+      "id": 4771,
+      "word": "terminate",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to bring something to an end",
+      "definitionTh": "ยุติ",
+      "example": "Terminate the test after the safety alarm.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "end",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "termination",
+          "terminal"
+        ],
+        "verb": [
+          "terminate"
+        ],
+        "adjective": [
+          "terminal"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "terminate a process"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 94
+    },
+    {
+      "id": 4772,
+      "word": "terms",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "conditions of an agreement or specialized words",
+      "definitionTh": "เงื่อนไข",
+      "example": "Review the supplier terms before approval.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "conditions",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "contract terms"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 93
+    },
+    {
+      "id": 4773,
+      "word": "terrain",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the physical features of an area of land",
+      "definitionTh": "ภูมิประเทศ",
+      "example": "The report provides a clear example of “terrain”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "landscape",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "terrain example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 92
+    },
+    {
+      "id": 4774,
+      "word": "terribly",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to a very serious or unpleasant degree",
+      "definitionTh": "อย่างมาก",
+      "example": "The report provides a clear example of “terribly”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "awfully",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "pleasantly",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "terribly example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 91
+    },
+    {
+      "id": 4775,
+      "word": "terrific",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "extremely good or impressive",
+      "definitionTh": "ยอดเยี่ยม",
+      "example": "The report provides a clear example of “terrific”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "excellent",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "terrible",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "terrific example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 90
+    },
+    {
+      "id": 4776,
+      "word": "terrify",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to make someone feel extreme fear",
+      "definitionTh": "ทำให้หวาดกลัว",
+      "example": "The report provides a clear example of “terrify”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "frighten",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "terrify example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 89
+    },
+    {
+      "id": 4777,
+      "word": "territory",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "an area of land under a government or group",
+      "definitionTh": "ดินแดน",
+      "example": "The report provides a clear example of “territory”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "region",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "territory example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 88
+    },
+    {
+      "id": 4778,
+      "word": "terror",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "extreme fear or violent intimidation",
+      "definitionTh": "ความหวาดกลัว",
+      "example": "The report provides a clear example of “terror”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "fear",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "terror",
+          "terrorism",
+          "terrorist"
+        ],
+        "verb": [
+          "terrify"
+        ],
+        "adjective": [
+          "terrific",
+          "terrified"
+        ],
+        "adverb": [
+          "terribly"
+        ]
+      },
+      "collocations": [
+        "terror example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 87
+    },
+    {
+      "id": 4779,
+      "word": "terrorism",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the use of violence to achieve political aims",
+      "definitionTh": "การก่อการร้าย",
+      "example": "The report provides a clear example of “terrorism”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "political violence",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "terrorism example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 86
+    },
+    {
+      "id": 4780,
+      "word": "terrorist",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a person who uses violence for political aims",
+      "definitionTh": "ผู้ก่อการร้าย",
+      "example": "The report provides a clear example of “terrorist”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "extremist",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "terrorist example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 85
+    },
+    {
+      "id": 4781,
+      "word": "testify",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to give evidence formally",
+      "definitionTh": "ให้การเป็นพยาน",
+      "example": "The report provides a clear example of “testify”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "give evidence",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "testify example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 84
+    },
+    {
+      "id": 4782,
+      "word": "testimony",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a formal statement given as evidence",
+      "definitionTh": "คำให้การ",
+      "example": "The report provides a clear example of “testimony”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "evidence",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "testimony example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 83
+    },
+    {
+      "id": 4783,
+      "word": "testing",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the process of checking performance or quality",
+      "definitionTh": "การทดสอบ",
+      "example": "Complete system testing before deployment.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "verification",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "acceptance testing"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 82
+    },
+    {
+      "id": 4784,
+      "word": "textbook",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a book used for formal study",
+      "definitionTh": "ตำราเรียน",
+      "example": "The report provides a clear example of “textbook”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "course book",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "textbook example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 81
+    },
+    {
+      "id": 4785,
+      "word": "texture",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the feel or appearance of a surface",
+      "definitionTh": "พื้นผิวสัมผัส",
+      "example": "Surface texture affects image contrast.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "surface feel",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "product texture"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 80
+    },
+    {
+      "id": 4786,
+      "word": "thankfully",
+      "pos": "adv.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "used to express relief or gratitude",
+      "definitionTh": "โชคดีที่",
+      "example": "The report provides a clear example of “thankfully”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "fortunately",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "thankfully example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 79
+    },
+    {
+      "id": 4787,
+      "word": "theatrical",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "relating to drama or exaggerated performance",
+      "definitionTh": "เกี่ยวกับละคร",
+      "example": "The report provides a clear example of “theatrical”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "dramatic",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "theatrical example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 78
+    },
+    {
+      "id": 4788,
+      "word": "theft",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the crime of taking property without permission",
+      "definitionTh": "การขโมย",
+      "example": "The report provides a clear example of “theft”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "stealing",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "theft example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 77
+    },
+    {
+      "id": 4789,
+      "word": "theology",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the study of religious belief",
+      "definitionTh": "เทววิทยา",
+      "example": "The report provides a clear example of “theology”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "religious study",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "theology example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 76
+    },
+    {
+      "id": 4790,
+      "word": "theoretical",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "based on ideas rather than practical testing",
+      "definitionTh": "เชิงทฤษฎี",
+      "example": "The report provides a clear example of “theoretical”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "conceptual",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "practical",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "theoretical example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 75
+    },
+    {
+      "id": 4791,
+      "word": "therapist",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a professional who provides treatment or support",
+      "definitionTh": "นักบำบัด",
+      "example": "The report provides a clear example of “therapist”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "counselor",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "therapist example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 74
+    },
+    {
+      "id": 4792,
+      "word": "thereafter",
+      "pos": "adv.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "after that time",
+      "definitionTh": "หลังจากนั้น",
+      "example": "The report provides a clear example of “thereafter”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "subsequently",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "thereafter example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 73
+    },
+    {
+      "id": 4793,
+      "word": "thereby",
+      "pos": "adv.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "as a result of that action",
+      "definitionTh": "ด้วยเหตุนั้น",
+      "example": "The report provides a clear example of “thereby”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "thus",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "thereby example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 72
+    },
+    {
+      "id": 4794,
+      "word": "thesis",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a long academic research document",
+      "definitionTh": "วิทยานิพนธ์",
+      "example": "The report provides a clear example of “thesis”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "dissertation",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "thesis example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 71
+    },
+    {
+      "id": 4795,
+      "word": "thorough",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "complete and careful in every detail",
+      "definitionTh": "ละเอียดถี่ถ้วน",
+      "example": "The report provides a clear example of “thorough”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "comprehensive",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "superficial",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "thorough example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 70
+    },
+    {
+      "id": 4796,
+      "word": "thoroughly",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "in a complete and careful way",
+      "definitionTh": "อย่างละเอียด",
+      "example": "The report provides a clear example of “thoroughly”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "completely",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "thoroughly example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 69
+    },
+    {
+      "id": 4797,
+      "word": "thoughtful",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "showing care for other people",
+      "definitionTh": "ช่างคิด / ใส่ใจ",
+      "example": "The report provides a clear example of “thoughtful”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "considerate",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "thoughtful example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 68
+    },
+    {
+      "id": 4798,
+      "word": "thought-provoking",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "causing people to think deeply",
+      "definitionTh": "กระตุ้นความคิด",
+      "example": "The report provides a clear example of “thought-provoking”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "challenging",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "thought-provoking example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 67
+    },
+    {
+      "id": 4799,
+      "word": "thread",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a thin strand used for sewing or discussion sequence",
+      "definitionTh": "เส้นด้าย",
+      "example": "The report provides a clear example of “thread”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "strand",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "thread example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 66
+    },
+    {
+      "id": 4800,
+      "word": "threshold",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a level at which something begins or changes",
+      "definitionTh": "เกณฑ์",
+      "example": "Set the rejection threshold carefully.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "limit",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "detection threshold"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 65
+    },
+    {
+      "id": 4801,
+      "word": "thrilled",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "very excited and pleased",
+      "definitionTh": "ตื่นเต้นมาก",
+      "example": "The report provides a clear example of “thrilled”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "delighted",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "thrilled example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 64
+    },
+    {
+      "id": 4802,
+      "word": "thrive",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to grow and develop successfully",
+      "definitionTh": "เจริญเติบโต",
+      "example": "The model can thrive with diverse data.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "flourish",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "thriving"
+        ],
+        "verb": [
+          "thrive"
+        ],
+        "adjective": [
+          "thriving"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "thrive under"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 63
+    },
+    {
+      "id": 4803,
+      "word": "thumb",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the short thick finger of the hand",
+      "definitionTh": "นิ้วหัวแม่มือ",
+      "example": "The report provides a clear example of “thumb”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "finger",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "thumb example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 62
+    },
+    {
+      "id": 4804,
+      "word": "tide",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the regular rise and fall of the sea",
+      "definitionTh": "น้ำขึ้นน้ำลง",
+      "example": "The report provides a clear example of “tide”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "current",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "tide example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 61
+    },
+    {
+      "id": 4805,
+      "word": "tighten",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to make something tighter",
+      "definitionTh": "ทำให้แน่น",
+      "example": "Tighten the bracket bolts.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "secure",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "loosen",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "tighten securely"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 60
+    },
+    {
+      "id": 4806,
+      "word": "timber",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "wood prepared for building",
+      "definitionTh": "ไม้ซุง",
+      "example": "The report provides a clear example of “timber”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "wood",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "timber example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 59
+    },
+    {
+      "id": 4807,
+      "word": "timely",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "happening at a useful or suitable time",
+      "definitionTh": "ถูกเวลา",
+      "example": "Provide timely feedback after the trial.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "well-timed",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "late",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "timely action"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 58
+    },
+    {
+      "id": 4808,
+      "word": "timing",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the choice of when an action happens",
+      "definitionTh": "จังหวะเวลา",
+      "example": "Adjust the reject timing in the PLC.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "schedule",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "precise timing"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 57
+    },
+    {
+      "id": 4809,
+      "word": "tissue",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a group of similar cells or thin material",
+      "definitionTh": "เนื้อเยื่อ",
+      "example": "The report provides a clear example of “tissue”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "material",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "tissue example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 56
+    },
+    {
+      "id": 4810,
+      "word": "tobacco",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a plant used to make smoking products",
+      "definitionTh": "ยาสูบ",
+      "example": "The report provides a clear example of “tobacco”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "smoking leaf",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "tobacco example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 55
+    },
+    {
+      "id": 4811,
+      "word": "tolerance",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "willingness to accept differences or difficulty",
+      "definitionTh": "ความอดทน",
+      "example": "Set the dimensional tolerance.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "acceptance",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "intolerance",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "design tolerance"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 54
+    },
+    {
+      "id": 4812,
+      "word": "tolerate",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to accept something unpleasant without reacting",
+      "definitionTh": "อดทนต่อ",
+      "example": "The enclosure must tolerate vibration.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "endure",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "tolerance"
+        ],
+        "verb": [
+          "tolerate"
+        ],
+        "adjective": [
+          "tolerant"
+        ],
+        "adverb": [
+          "tolerantly"
+        ]
+      },
+      "collocations": [
+        "tolerate heat"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 53
+    },
+    {
+      "id": 4813,
+      "word": "toll",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a number of deaths or a charge for use",
+      "definitionTh": "ยอดผู้เสียหาย / ค่าธรรมเนียม",
+      "example": "The report provides a clear example of “toll”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "casualty count",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "toll example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 52
+    },
+    {
+      "id": 4814,
+      "word": "top",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to be higher than or exceed",
+      "definitionTh": "อยู่เหนือ",
+      "example": "The camera topped the previous accuracy result.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "exceed",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "top performance"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 51
+    },
+    {
+      "id": 4815,
+      "word": "torture",
+      "pos": "n., v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to cause severe physical or mental suffering",
+      "definitionTh": "ทรมาน",
+      "example": "The report provides a clear example of “torture”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "abuse",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "torture example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 50
+    },
+    {
+      "id": 4816,
+      "word": "toss",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to throw lightly",
+      "definitionTh": "โยน",
+      "example": "The report provides a clear example of “toss”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "throw",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "toss example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 49
+    },
+    {
+      "id": 4817,
+      "word": "total",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to add up to a final amount",
+      "definitionTh": "รวมเป็น",
+      "example": "The report provides a clear example of “total”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "sum",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "total example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 48
+    },
+    {
+      "id": 4818,
+      "word": "tournament",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a competition involving several games",
+      "definitionTh": "การแข่งขัน",
+      "example": "The report provides a clear example of “tournament”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "competition",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "tournament example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 47
+    },
+    {
+      "id": 4819,
+      "word": "toxic",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "poisonous or harmful",
+      "definitionTh": "เป็นพิษ",
+      "example": "Keep toxic chemicals away from the station.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "poisonous",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "toxic substance"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 46
+    },
+    {
+      "id": 4820,
+      "word": "trace",
+      "pos": "v. B2, n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to follow, copy, or a visible sign left behind",
+      "definitionTh": "ติดตาม / ร่องรอย",
+      "example": "Trace each defect to its source.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "track",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "trace data"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 45
+    },
+    {
+      "id": 4821,
+      "word": "trademark",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a legally protected brand name or symbol",
+      "definitionTh": "เครื่องหมายการค้า",
+      "example": "Verify the approved trademark usage.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "brand mark",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "registered trademark"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 44
+    },
+    {
+      "id": 4822,
+      "word": "trading",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the activity of buying and selling",
+      "definitionTh": "การค้า",
+      "example": "The supplier is active in international trading.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "commerce",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "trading activity"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 43
+    },
+    {
+      "id": 4823,
+      "word": "tragedy",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a serious event involving suffering and loss",
+      "definitionTh": "โศกนาฏกรรม",
+      "example": "The report provides a clear example of “tragedy”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "catastrophe",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "tragedy example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 42
+    },
+    {
+      "id": 4824,
+      "word": "tragic",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "causing great sadness or disaster",
+      "definitionTh": "น่าเศร้า",
+      "example": "The report provides a clear example of “tragic”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "disastrous",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "tragedy"
+        ],
+        "verb": [],
+        "adjective": [
+          "tragic"
+        ],
+        "adverb": [
+          "tragically"
+        ]
+      },
+      "collocations": [
+        "tragic example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 41
+    },
+    {
+      "id": 4825,
+      "word": "trail",
+      "pos": "n., v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a track or route through an area",
+      "definitionTh": "เส้นทาง",
+      "example": "The audit trail records every change.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "path",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "audit trail"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 40
+    },
+    {
+      "id": 4826,
+      "word": "trailer",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a vehicle pulled behind another",
+      "definitionTh": "รถพ่วง",
+      "example": "The report provides a clear example of “trailer”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "tow vehicle",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "trailer example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 39
+    },
+    {
+      "id": 4827,
+      "word": "trait",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a distinguishing quality of a person or thing",
+      "definitionTh": "ลักษณะ",
+      "example": "Contrast is an important visual trait.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "characteristic",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "key trait"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 38
+    },
+    {
+      "id": 4828,
+      "word": "transaction",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a business exchange recorded by a system",
+      "definitionTh": "ธุรกรรม",
+      "example": "Log each database transaction.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "deal",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "secure transaction"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 37
+    },
+    {
+      "id": 4829,
+      "word": "transcript",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a written record of spoken words",
+      "definitionTh": "บันทึกคำพูด",
+      "example": "Review the meeting transcript.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "record",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "meeting transcript"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 36
+    },
+    {
+      "id": 4830,
+      "word": "transformation",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a major change in form or condition",
+      "definitionTh": "การเปลี่ยนแปลง",
+      "example": "Automation supports digital transformation.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "conversion",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "process transformation"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 35
+    },
+    {
+      "id": 4831,
+      "word": "transit",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "movement of people or goods through an area",
+      "definitionTh": "การขนส่งผ่าน",
+      "example": "The report provides a clear example of “transit”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "transport",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "transit example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 34
+    },
+    {
+      "id": 4832,
+      "word": "transmission",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the act of sending energy, data, or disease",
+      "definitionTh": "การส่งผ่าน",
+      "example": "Check signal transmission quality.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "transfer",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "data transmission"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 33
+    },
+    {
+      "id": 4833,
+      "word": "transmit",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to send a signal or information",
+      "definitionTh": "ส่งผ่าน",
+      "example": "The sensor transmits data to the PLC.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "send",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "transmission"
+        ],
+        "verb": [
+          "transmit"
+        ],
+        "adjective": [
+          "transmissible"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "transmit a signal"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 32
+    },
+    {
+      "id": 4834,
+      "word": "transparency",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "openness that makes actions easy to understand",
+      "definitionTh": "ความโปร่งใส",
+      "example": "Data transparency supports trust.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "openness",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "process transparency"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 31
+    },
+    {
+      "id": 4835,
+      "word": "transparent",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "easy to see through or openly explained",
+      "definitionTh": "โปร่งใส",
+      "example": "Use a transparent cover only if reflections are controlled.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "clear",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "opaque",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "transparency"
+        ],
+        "verb": [],
+        "adjective": [
+          "transparent"
+        ],
+        "adverb": [
+          "transparently"
+        ]
+      },
+      "collocations": [
+        "transparent material"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 30
+    },
+    {
+      "id": 4836,
+      "word": "trap",
+      "pos": "v., n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a device or situation designed to catch something",
+      "definitionTh": "กับดัก",
+      "example": "Avoid creating a dirt trap near the lens.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "snare",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "safety trap"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 29
+    },
+    {
+      "id": 4837,
+      "word": "trauma",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a deeply disturbing experience or injury",
+      "definitionTh": "บาดแผลทางใจ",
+      "example": "The report provides a clear example of “trauma”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "shock",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "trauma example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 28
+    },
+    {
+      "id": 4838,
+      "word": "treasure",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "valuable objects or something greatly valued",
+      "definitionTh": "สมบัติ",
+      "example": "The report provides a clear example of “treasure”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "valuables",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "treasure example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 27
+    },
+    {
+      "id": 4839,
+      "word": "treaty",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a formal agreement between countries",
+      "definitionTh": "สนธิสัญญา",
+      "example": "The report provides a clear example of “treaty”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "agreement",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "treaty example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 26
+    },
+    {
+      "id": 4840,
+      "word": "tremendous",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "extremely large or impressive",
+      "definitionTh": "มหาศาล",
+      "example": "The report provides a clear example of “tremendous”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "enormous",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "minor",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "tremendous example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 25
+    },
+    {
+      "id": 4841,
+      "word": "tribal",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "relating to a tribe",
+      "definitionTh": "เกี่ยวกับชนเผ่า",
+      "example": "The report provides a clear example of “tribal”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "ethnic",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "tribal example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 24
+    },
+    {
+      "id": 4842,
+      "word": "tribe",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a social group with shared culture or ancestry",
+      "definitionTh": "ชนเผ่า",
+      "example": "The report provides a clear example of “tribe”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "clan",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "tribe example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 23
+    },
+    {
+      "id": 4843,
+      "word": "tribute",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "an act showing respect or gratitude",
+      "definitionTh": "การยกย่อง",
+      "example": "The report provides a clear example of “tribute”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "honor",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "tribute example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 22
+    },
+    {
+      "id": 4844,
+      "word": "trigger",
+      "pos": "v. B2, n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to cause an event; something that causes it",
+      "definitionTh": "กระตุ้น / ตัวกระตุ้น",
+      "example": "The sensor triggers the reject gate.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "activate",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "trigger an alarm"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 21
+    },
+    {
+      "id": 4845,
+      "word": "trillion",
+      "pos": "number",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the number one million million",
+      "definitionTh": "หนึ่งล้านล้าน",
+      "example": "The report provides a clear example of “trillion”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "1000000000000",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "trillion example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 20
+    },
+    {
+      "id": 4846,
+      "word": "trio",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a group of three people or things",
+      "definitionTh": "กลุ่มสามคน",
+      "example": "The report provides a clear example of “trio”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "threesome",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "trio example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 19
+    },
+    {
+      "id": 4847,
+      "word": "triumph",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a great victory or achievement",
+      "definitionTh": "ชัยชนะ",
+      "example": "The report provides a clear example of “triumph”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "victory",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "defeat",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "triumph"
+        ],
+        "verb": [
+          "triumph"
+        ],
+        "adjective": [
+          "triumphant"
+        ],
+        "adverb": [
+          "triumphantly"
+        ]
+      },
+      "collocations": [
+        "triumph example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 18
+    },
+    {
+      "id": 4848,
+      "word": "troop",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a group of soldiers",
+      "definitionTh": "กองกำลัง",
+      "example": "The report provides a clear example of “troop”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "soldiers",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "troop example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 17
+    },
+    {
+      "id": 4849,
+      "word": "trophy",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a prize awarded for success",
+      "definitionTh": "ถ้วยรางวัล",
+      "example": "The report provides a clear example of “trophy”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "award",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "trophy example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 16
+    },
+    {
+      "id": 4850,
+      "word": "troubled",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "experiencing problems or worry",
+      "definitionTh": "มีปัญหา",
+      "example": "The report provides a clear example of “troubled”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "distressed",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "troubled example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 15
+    },
+    {
+      "id": 4851,
+      "word": "trustee",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a person legally responsible for property or an organization",
+      "definitionTh": "ผู้ดูแลผลประโยชน์",
+      "example": "The report provides a clear example of “trustee”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "custodian",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "trustee example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 14
+    },
+    {
+      "id": 4852,
+      "word": "tsunami",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a very large sea wave caused by underwater movement",
+      "definitionTh": "สึนามิ",
+      "example": "The report provides a clear example of “tsunami”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "tidal wave",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "tsunami example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 13
+    },
+    {
+      "id": 4853,
+      "word": "tuition",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "money paid for teaching, especially at college",
+      "definitionTh": "ค่าเล่าเรียน",
+      "example": "The report provides a clear example of “tuition”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "education fee",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "tuition example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 12
+    },
+    {
+      "id": 4854,
+      "word": "tumor",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "an abnormal mass of tissue",
+      "definitionTh": "เนื้องอก",
+      "example": "The report provides a clear example of “tumor”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "growth",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "tumor example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 11
+    },
+    {
+      "id": 4855,
+      "word": "turnout",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the number of people who participate",
+      "definitionTh": "จำนวนผู้เข้าร่วม",
+      "example": "The report provides a clear example of “turnout”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "attendance",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "turnout example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 10
+    },
+    {
+      "id": 4856,
+      "word": "turnover",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the rate of staff replacement or business sales",
+      "definitionTh": "อัตราการเปลี่ยนคน / รายได้หมุนเวียน",
+      "example": "Track staff turnover and inventory turnover separately.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "staff rotation",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "annual turnover"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 9
+    },
+    {
+      "id": 4857,
+      "word": "twist",
+      "pos": "v., n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to bend into a new shape; a turning movement",
+      "definitionTh": "บิด / การบิด",
+      "example": "Do not twist the fiber cable.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "turn",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "twist the wire"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 8
+    },
+    {
+      "id": 4858,
+      "word": "ultimate",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "final or most important",
+      "definitionTh": "สูงสุด",
+      "example": "The ultimate goal is reliable automatic detection.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "final",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "ultimate objective"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 7
+    },
+    {
+      "id": 4859,
+      "word": "unacceptable",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "not satisfactory or allowed",
+      "definitionTh": "ยอมรับไม่ได้",
+      "example": "The report provides a clear example of “unacceptable”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "intolerable",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "acceptable",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "unacceptable example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 6
+    },
+    {
+      "id": 4860,
+      "word": "uncertainty",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "lack of certainty",
+      "definitionTh": "ความไม่แน่นอน",
+      "example": "Quantify measurement uncertainty.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "doubt",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "certainty",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "high uncertainty"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 5
+    },
+    {
+      "id": 4861,
+      "word": "unconstitutional",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "not permitted by a constitution",
+      "definitionTh": "ขัดรัฐธรรมนูญ",
+      "example": "The report provides a clear example of “unconstitutional”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "illegal",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "constitutional",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "unconstitutional example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 4
+    },
+    {
+      "id": 4862,
+      "word": "undergo",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to experience or be subjected to something",
+      "definitionTh": "ผ่าน / ประสบ",
+      "example": "The system must undergo validation.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "experience",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "undergo testing"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 3
+    },
+    {
+      "id": 4863,
+      "word": "undergraduate",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a university student before a first degree",
+      "definitionTh": "นักศึกษาปริญญาตรี",
+      "example": "The report provides a clear example of “undergraduate”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "college student",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "undergraduate example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 2
+    },
+    {
+      "id": 4864,
+      "word": "underlying",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "basic but not obvious and supporting what is seen",
+      "definitionTh": "ที่อยู่เบื้องล่าง",
+      "example": "Investigate the underlying cause.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "fundamental",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "underlying issue"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 1
+    }
+  ]
+}

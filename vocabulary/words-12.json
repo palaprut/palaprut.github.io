@@ -1,0 +1,4131 @@
+{
+  "version": 2,
+  "source": "Oxford 3000",
+  "batch": 12,
+  "level": "Mixed",
+  "totalWords": 100,
+  "metadata": {
+    "created": "2026-07-13",
+    "language": "en",
+    "description": "Batch 12 of 50 — Oxford 3000 words 1101-1200; lexical fields reviewed"
+  },
+  "words": [
+    {
+      "id": 1101,
+      "word": "fourth",
+      "pos": "number",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the number 4 in an ordered series",
+      "definitionTh": "ที่สี่",
+      "example": "She finished fourth in the race.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "4th",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "fourth floor"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 100
+    },
+    {
+      "id": 1102,
+      "word": "frame",
+      "pos": "n., v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a structure surrounding something; to put something in a frame",
+      "definitionTh": "กรอบ / ใส่กรอบ",
+      "example": "The photograph has a wooden frame.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "border",
+          "level": "B1"
+        },
+        {
+          "word": "structure",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "window frame"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 99
+    },
+    {
+      "id": 1103,
+      "word": "free",
+      "pos": "adj., adv., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "not controlled, occupied, or costing money; to release",
+      "definitionTh": "อิสระ / ฟรี / ปล่อย",
+      "example": "The software is free to use.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "available",
+          "level": "A1"
+        },
+        {
+          "word": "release",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "restricted",
+          "level": "A1"
+        },
+        {
+          "word": "occupied",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "freedom"
+        ],
+        "verb": [
+          "free"
+        ],
+        "adjective": [],
+        "adverb": [
+          "freely"
+        ]
+      },
+      "collocations": [
+        "free time"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 98
+    },
+    {
+      "id": 1104,
+      "word": "freedom",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the right or ability to do what you choose",
+      "definitionTh": "เสรีภาพ",
+      "example": "Everyone values freedom of choice.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "liberty",
+          "level": "B2"
+        },
+        {
+          "word": "independence",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "restriction",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "free"
+        ],
+        "adverb": [
+          "freely"
+        ]
+      },
+      "collocations": [
+        "freedom of choice"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 97
+    },
+    {
+      "id": 1105,
+      "word": "freeze",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to become hard because of cold or to make very cold",
+      "definitionTh": "แข็งตัว / แช่แข็ง",
+      "example": "Water freezes at zero degrees Celsius.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "solidify",
+          "level": "B1"
+        },
+        {
+          "word": "chill",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "melt",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "freezer"
+        ],
+        "verb": [],
+        "adjective": [
+          "frozen",
+          "freezing"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "freeze food"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 96
+    },
+    {
+      "id": 1106,
+      "word": "frequency",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the rate at which something happens",
+      "definitionTh": "ความถี่",
+      "example": "We increased the inspection frequency.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "rate",
+          "level": "B2"
+        },
+        {
+          "word": "occurrence",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "frequent"
+        ],
+        "adverb": [
+          "frequently"
+        ]
+      },
+      "collocations": [
+        "high frequency"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 95
+    },
+    {
+      "id": 1107,
+      "word": "frequently",
+      "pos": "adv.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "often",
+      "definitionTh": "บ่อยครั้ง",
+      "example": "The filter should be checked frequently.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "often",
+          "level": "B1"
+        },
+        {
+          "word": "regularly",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "rarely",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "frequency"
+        ],
+        "verb": [],
+        "adjective": [
+          "frequent"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "frequently used"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 94
+    },
+    {
+      "id": 1108,
+      "word": "fresh",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "new, recently made, or not preserved",
+      "definitionTh": "สด / ใหม่",
+      "example": "Use fresh ingredients for the product.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "new",
+          "level": "A2"
+        },
+        {
+          "word": "recent",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "stale",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "fresh food"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 93
+    },
+    {
+      "id": 1109,
+      "word": "Friday",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the day after Thursday and before Saturday",
+      "definitionTh": "วันศุกร์",
+      "example": "The meeting is on Friday.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "on Friday"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 92
+    },
+    {
+      "id": 1110,
+      "word": "fridge",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a machine that keeps food cold",
+      "definitionTh": "ตู้เย็น",
+      "example": "Keep the sample in the fridge.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "refrigerator",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "in the fridge"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 91
+    },
+    {
+      "id": 1111,
+      "word": "friend",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a person you know and like",
+      "definitionTh": "เพื่อน",
+      "example": "She met a friend after work.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "companion",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "friend",
+          "friendship"
+        ],
+        "verb": [],
+        "adjective": [
+          "friendly"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "close friend"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 90
+    },
+    {
+      "id": 1112,
+      "word": "friendly",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "kind and pleasant",
+      "definitionTh": "เป็นมิตร",
+      "example": "The staff were friendly and helpful.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "kind",
+          "level": "A1"
+        },
+        {
+          "word": "welcoming",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unfriendly",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "friend",
+          "friendship"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "friendlily"
+        ]
+      },
+      "collocations": [
+        "friendly service"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 89
+    },
+    {
+      "id": 1113,
+      "word": "friendship",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a relationship between friends",
+      "definitionTh": "มิตรภาพ",
+      "example": "Their friendship lasted for many years.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "companionship",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "friend"
+        ],
+        "verb": [],
+        "adjective": [
+          "friendly"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "close friendship"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 88
+    },
+    {
+      "id": 1114,
+      "word": "frighten",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to make someone afraid",
+      "definitionTh": "ทำให้กลัว",
+      "example": "The loud alarm frightened the child.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "scare",
+          "level": "B1"
+        },
+        {
+          "word": "alarm",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "reassure",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "fright"
+        ],
+        "verb": [],
+        "adjective": [
+          "frightened",
+          "frightening"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "frighten someone"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 87
+    },
+    {
+      "id": 1115,
+      "word": "frightened",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "feeling afraid",
+      "definitionTh": "หวาดกลัว",
+      "example": "She was frightened by the sudden noise.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "afraid",
+          "level": "B1"
+        },
+        {
+          "word": "scared",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "calm",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "fright"
+        ],
+        "verb": [
+          "frighten"
+        ],
+        "adjective": [
+          "frightening"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "feel frightened"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 86
+    },
+    {
+      "id": 1116,
+      "word": "frightening",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "making someone feel afraid",
+      "definitionTh": "น่ากลัว",
+      "example": "It was a frightening experience.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "scary",
+          "level": "B1"
+        },
+        {
+          "word": "terrifying",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "reassuring",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "fright"
+        ],
+        "verb": [
+          "frighten"
+        ],
+        "adjective": [
+          "frightened"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "frightening experience"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 85
+    },
+    {
+      "id": 1117,
+      "word": "frog",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a small animal that lives on land and in water",
+      "definitionTh": "กบ",
+      "example": "A frog jumped into the pond.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "green frog"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 84
+    },
+    {
+      "id": 1118,
+      "word": "from",
+      "pos": "prep.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "used to show the starting point, origin, or source",
+      "definitionTh": "จาก",
+      "example": "The train travels from Bangkok to Pattaya.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "from start to finish"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 83
+    },
+    {
+      "id": 1119,
+      "word": "front",
+      "pos": "n., adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the part that faces forward",
+      "definitionTh": "ด้านหน้า",
+      "example": "Wait at the front entrance.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "forepart",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "back",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "front door"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 82
+    },
+    {
+      "id": 1120,
+      "word": "frozen",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "kept at a very low temperature or turned to ice",
+      "definitionTh": "แช่แข็ง",
+      "example": "Store the frozen product below minus eighteen degrees.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "icy",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "melted",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "freezer"
+        ],
+        "verb": [
+          "freeze"
+        ],
+        "adjective": [
+          "freezing"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "frozen food"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 81
+    },
+    {
+      "id": 1121,
+      "word": "fruit",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the part of a plant containing seeds and often eaten",
+      "definitionTh": "ผลไม้",
+      "example": "Fresh fruit is available in the canteen.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "produce",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "tropical fruit"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 80
+    },
+    {
+      "id": 1122,
+      "word": "fry",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to cook food in hot oil or fat",
+      "definitionTh": "ทอด",
+      "example": "Fry the onions for two minutes.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "cook in oil",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "frying"
+        ],
+        "verb": [
+          "fry"
+        ],
+        "adjective": [
+          "fried"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "deep-fry food"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 79
+    },
+    {
+      "id": 1123,
+      "word": "fuel",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a substance used to produce heat or power",
+      "definitionTh": "เชื้อเพลิง",
+      "example": "The generator needs more fuel.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "energy source",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "fuel consumption"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 78
+    },
+    {
+      "id": 1124,
+      "word": "full",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "containing as much as possible",
+      "definitionTh": "เต็ม",
+      "example": "The storage tank is full.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "filled",
+          "level": "A1"
+        },
+        {
+          "word": "complete",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "empty",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "fullness"
+        ],
+        "verb": [],
+        "adjective": [
+          "full"
+        ],
+        "adverb": [
+          "fully"
+        ]
+      },
+      "collocations": [
+        "full capacity"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 77
+    },
+    {
+      "id": 1125,
+      "word": "fully",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "completely",
+      "definitionTh": "อย่างเต็มที่",
+      "example": "The machine is fully automatic.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "completely",
+          "level": "B2"
+        },
+        {
+          "word": "entirely",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "partly",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "fullness"
+        ],
+        "verb": [],
+        "adjective": [
+          "full"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "fully operational"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 76
+    },
+    {
+      "id": 1126,
+      "word": "fun",
+      "pos": "n., adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "enjoyment or something enjoyable",
+      "definitionTh": "ความสนุก / สนุก",
+      "example": "The training activity was fun.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "enjoyment",
+          "level": "A1"
+        },
+        {
+          "word": "amusement",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "boredom",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "fun"
+        ],
+        "verb": [],
+        "adjective": [
+          "funny"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "have fun"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 75
+    },
+    {
+      "id": 1127,
+      "word": "function",
+      "pos": "n., v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "the purpose of something; to work correctly",
+      "definitionTh": "หน้าที่ / ทำงาน",
+      "example": "The sensor functions correctly.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "purpose",
+          "level": "B1"
+        },
+        {
+          "word": "operate",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "malfunction",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "function"
+        ],
+        "verb": [
+          "function"
+        ],
+        "adjective": [
+          "functional"
+        ],
+        "adverb": [
+          "functionally"
+        ]
+      },
+      "collocations": [
+        "main function"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 74
+    },
+    {
+      "id": 1128,
+      "word": "fund",
+      "pos": "n., v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "money saved for a purpose; to provide money",
+      "definitionTh": "กองทุน / สนับสนุนเงิน",
+      "example": "The company funded the improvement project.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "finance",
+          "level": "B2"
+        },
+        {
+          "word": "capital",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "fund",
+          "funding"
+        ],
+        "verb": [
+          "fund"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "research fund"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 73
+    },
+    {
+      "id": 1129,
+      "word": "fundamental",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "basic and very important",
+      "definitionTh": "พื้นฐานและสำคัญ",
+      "example": "Safety is a fundamental requirement.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "basic",
+          "level": "B2"
+        },
+        {
+          "word": "essential",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "minor",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "fundamental"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "fundamentally"
+        ]
+      },
+      "collocations": [
+        "fundamental principle"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 72
+    },
+    {
+      "id": 1130,
+      "word": "funding",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "money provided for a purpose",
+      "definitionTh": "เงินทุน",
+      "example": "The project received additional funding.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "finance",
+          "level": "B2"
+        },
+        {
+          "word": "support",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "fund"
+        ],
+        "verb": [
+          "fund"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "government funding"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 71
+    },
+    {
+      "id": 1131,
+      "word": "funny",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "making you laugh or seeming strange",
+      "definitionTh": "ตลก / แปลก",
+      "example": "He told a funny story.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "amusing",
+          "level": "A1"
+        },
+        {
+          "word": "humorous",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "serious",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "fun"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "funnily"
+        ]
+      },
+      "collocations": [
+        "funny story"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 70
+    },
+    {
+      "id": 1132,
+      "word": "fur",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "the thick soft hair covering some animals",
+      "definitionTh": "ขนสัตว์",
+      "example": "The animal has thick fur.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "animal hair",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "thick fur"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 69
+    },
+    {
+      "id": 1133,
+      "word": "furniture",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "large movable objects such as tables and chairs",
+      "definitionTh": "เฟอร์นิเจอร์",
+      "example": "The office needs new furniture.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "furnishings",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "office furniture"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 68
+    },
+    {
+      "id": 1134,
+      "word": "further",
+      "pos": "adj., adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "additional or to a greater distance or degree",
+      "definitionTh": "เพิ่มเติม / ไกลออกไป",
+      "example": "Further testing is required.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "additional",
+          "level": "B2"
+        },
+        {
+          "word": "more",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "less",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "further"
+        ],
+        "adverb": [
+          "further"
+        ]
+      },
+      "collocations": [
+        "further information"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 67
+    },
+    {
+      "id": 1135,
+      "word": "future",
+      "pos": "n., adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the time after the present",
+      "definitionTh": "อนาคต",
+      "example": "We are planning future improvements.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "coming time",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "past",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "future plans"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 66
+    },
+    {
+      "id": 1136,
+      "word": "gain",
+      "pos": "v., n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to obtain or increase; an improvement or benefit",
+      "definitionTh": "ได้รับ / ผลประโยชน์",
+      "example": "The team gained valuable experience.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "obtain",
+          "level": "B2"
+        },
+        {
+          "word": "increase",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "lose",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "gain"
+        ],
+        "verb": [
+          "gain"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "gain experience"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 65
+    },
+    {
+      "id": 1137,
+      "word": "gallery",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a place where art is displayed",
+      "definitionTh": "หอศิลป์",
+      "example": "The photographs are displayed in the gallery.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "exhibition hall",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "art gallery"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 64
+    },
+    {
+      "id": 1138,
+      "word": "game",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an activity played for enjoyment or competition",
+      "definitionTh": "เกม / การแข่งขัน",
+      "example": "They played a card game after dinner.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "match",
+          "level": "A1"
+        },
+        {
+          "word": "contest",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "play a game"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 63
+    },
+    {
+      "id": 1139,
+      "word": "gap",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "an empty space or difference between things",
+      "definitionTh": "ช่องว่าง",
+      "example": "There is a small gap between the parts.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "space",
+          "level": "A2"
+        },
+        {
+          "word": "difference",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "close the gap"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 62
+    },
+    {
+      "id": 1140,
+      "word": "garage",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a building where vehicles are kept or repaired",
+      "definitionTh": "โรงรถ / อู่ซ่อมรถ",
+      "example": "The car is parked in the garage.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "workshop",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "parking garage"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 61
+    },
+    {
+      "id": 1141,
+      "word": "garden",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an area where plants are grown",
+      "definitionTh": "สวน",
+      "example": "They grow vegetables in the garden.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "yard",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "flower garden"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 60
+    },
+    {
+      "id": 1142,
+      "word": "gas",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a substance like air that is not solid or liquid",
+      "definitionTh": "ก๊าซ",
+      "example": "The sensor detected a gas leak.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "vapour",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "gas pressure"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 59
+    },
+    {
+      "id": 1143,
+      "word": "gate",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a movable barrier in a fence or entrance",
+      "definitionTh": "ประตูรั้ว",
+      "example": "Meet me at the factory gate.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "entrance",
+          "level": "A2"
+        },
+        {
+          "word": "barrier",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "main gate"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 58
+    },
+    {
+      "id": 1144,
+      "word": "gather",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to collect things or come together",
+      "definitionTh": "รวบรวม / รวมตัว",
+      "example": "We gathered data from three lines.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "collect",
+          "level": "B1"
+        },
+        {
+          "word": "assemble",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "scatter",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "gathering"
+        ],
+        "verb": [
+          "gather"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "gather information"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 57
+    },
+    {
+      "id": 1145,
+      "word": "general",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "affecting most people or things; not specific",
+      "definitionTh": "ทั่วไป",
+      "example": "This is a general safety rule.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "overall",
+          "level": "A1"
+        },
+        {
+          "word": "broad",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "specific",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "generality"
+        ],
+        "verb": [],
+        "adjective": [
+          "general"
+        ],
+        "adverb": [
+          "generally"
+        ]
+      },
+      "collocations": [
+        "general information"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 56
+    },
+    {
+      "id": 1146,
+      "word": "generally",
+      "pos": "adv.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "usually or in most cases",
+      "definitionTh": "โดยทั่วไป",
+      "example": "The system is generally reliable.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "usually",
+          "level": "B1"
+        },
+        {
+          "word": "typically",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "specifically",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "general"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "generally accepted"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 55
+    },
+    {
+      "id": 1147,
+      "word": "generate",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to produce or create something",
+      "definitionTh": "สร้าง / ผลิต",
+      "example": "The report generates useful insights.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "produce",
+          "level": "B2"
+        },
+        {
+          "word": "create",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "consume",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "generation",
+          "generator"
+        ],
+        "verb": [],
+        "adjective": [
+          "generative"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "generate electricity"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 54
+    },
+    {
+      "id": 1148,
+      "word": "generation",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a group born at a similar time or the production of something",
+      "definitionTh": "รุ่น / การผลิต",
+      "example": "The new generation of cameras is faster.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "age group",
+          "level": "B1"
+        },
+        {
+          "word": "production",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "generator"
+        ],
+        "verb": [
+          "generate"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "next generation"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 53
+    },
+    {
+      "id": 1149,
+      "word": "generous",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "willing to give more than expected",
+      "definitionTh": "ใจกว้าง",
+      "example": "She made a generous donation.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "giving",
+          "level": "B1"
+        },
+        {
+          "word": "kind",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "stingy",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "generosity"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "generously"
+        ]
+      },
+      "collocations": [
+        "generous offer"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 52
+    },
+    {
+      "id": 1150,
+      "word": "genre",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a particular type of art, music, or literature",
+      "definitionTh": "ประเภทงานศิลปะ",
+      "example": "Science fiction is a popular genre.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "category",
+          "level": "B2"
+        },
+        {
+          "word": "type",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "music genre"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 51
+    },
+    {
+      "id": 1151,
+      "word": "gentle",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "kind, calm, or not strong",
+      "definitionTh": "อ่อนโยน / เบา",
+      "example": "Use gentle pressure on the sensor.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "mild",
+          "level": "B1"
+        },
+        {
+          "word": "soft",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "rough",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "gentleness"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "gently"
+        ]
+      },
+      "collocations": [
+        "gentle touch"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 50
+    },
+    {
+      "id": 1152,
+      "word": "gentleman",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a polite man",
+      "definitionTh": "สุภาพบุรุษ",
+      "example": "A gentleman held the door open.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "man",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "ladies and gentlemen"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 49
+    },
+    {
+      "id": 1153,
+      "word": "geography",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the study of places and the Earth's surface",
+      "definitionTh": "ภูมิศาสตร์",
+      "example": "She studies geography at school.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "earth science",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "physical geography"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 48
+    },
+    {
+      "id": 1154,
+      "word": "get",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to obtain, receive, become, or arrive",
+      "definitionTh": "ได้รับ / กลายเป็น",
+      "example": "We need to get more information.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "obtain",
+          "level": "A1"
+        },
+        {
+          "word": "receive",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "give",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [
+          "get"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "get ready"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 47
+    },
+    {
+      "id": 1155,
+      "word": "ghost",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "the spirit of a dead person",
+      "definitionTh": "ผี",
+      "example": "The children told a story about a ghost.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "spirit",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "ghost story"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 46
+    },
+    {
+      "id": 1156,
+      "word": "giant",
+      "pos": "adj., n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "extremely large; a very large person or organization",
+      "definitionTh": "ยักษ์ / ใหญ่มาก",
+      "example": "A giant screen displays the results.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "huge",
+          "level": "B1"
+        },
+        {
+          "word": "enormous",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "tiny",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "giant"
+        ],
+        "verb": [],
+        "adjective": [
+          "giant"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "giant company"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 45
+    },
+    {
+      "id": 1157,
+      "word": "gift",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "something given to someone without payment",
+      "definitionTh": "ของขวัญ",
+      "example": "She received a birthday gift.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "present",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "gift box"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 44
+    },
+    {
+      "id": 1158,
+      "word": "girl",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a female child or young woman",
+      "definitionTh": "เด็กผู้หญิง",
+      "example": "The girl is reading a book.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "young girl"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 43
+    },
+    {
+      "id": 1159,
+      "word": "girlfriend",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a female romantic partner",
+      "definitionTh": "แฟนสาว",
+      "example": "He introduced his girlfriend to his family.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "partner",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "steady girlfriend"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 42
+    },
+    {
+      "id": 1160,
+      "word": "give",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to provide or hand something to someone",
+      "definitionTh": "ให้",
+      "example": "Please give me the report.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "provide",
+          "level": "A1"
+        },
+        {
+          "word": "hand",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "take",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "giver"
+        ],
+        "verb": [
+          "give"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "give advice"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 41
+    },
+    {
+      "id": 1161,
+      "word": "glad",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "pleased and happy",
+      "definitionTh": "ดีใจ",
+      "example": "I am glad the test was successful.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "pleased",
+          "level": "B1"
+        },
+        {
+          "word": "happy",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "sorry",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "gladness"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "gladly"
+        ]
+      },
+      "collocations": [
+        "glad to hear"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 40
+    },
+    {
+      "id": 1162,
+      "word": "glass",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a hard transparent material or a container made from it",
+      "definitionTh": "แก้ว / กระจก",
+      "example": "The window is made of glass.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "crystal",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "glass bottle"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 39
+    },
+    {
+      "id": 1163,
+      "word": "global",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "relating to the whole world",
+      "definitionTh": "ทั่วโลก",
+      "example": "The company operates in a global market.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "worldwide",
+          "level": "B1"
+        },
+        {
+          "word": "international",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "local",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "globe"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "globally"
+        ]
+      },
+      "collocations": [
+        "global economy"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 38
+    },
+    {
+      "id": 1164,
+      "word": "glove",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a covering for the hand",
+      "definitionTh": "ถุงมือ",
+      "example": "Wear a protective glove when handling chemicals.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "hand covering",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "safety gloves"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 37
+    },
+    {
+      "id": 1165,
+      "word": "go",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to move or travel to a place",
+      "definitionTh": "ไป",
+      "example": "I go to work by bus.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "move",
+          "level": "A1"
+        },
+        {
+          "word": "travel",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "stay",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "go"
+        ],
+        "verb": [
+          "go"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "go home"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 36
+    },
+    {
+      "id": 1166,
+      "word": "goal",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "something you aim to achieve",
+      "definitionTh": "เป้าหมาย",
+      "example": "Our goal is to reduce defects.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "aim",
+          "level": "A2"
+        },
+        {
+          "word": "objective",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "goal"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "achieve a goal"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 35
+    },
+    {
+      "id": 1167,
+      "word": "god",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a being worshipped in a religion",
+      "definitionTh": "พระเจ้า / เทพเจ้า",
+      "example": "The temple was built for a god.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "deity",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "Greek god"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 34
+    },
+    {
+      "id": 1168,
+      "word": "gold",
+      "pos": "n., adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a valuable yellow metal; made of or coloured like gold",
+      "definitionTh": "ทอง / สีทอง",
+      "example": "The ring is made of gold.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "precious metal",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "gold"
+        ],
+        "verb": [],
+        "adjective": [
+          "golden"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "gold medal"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 33
+    },
+    {
+      "id": 1169,
+      "word": "golf",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a game played by hitting a small ball into holes",
+      "definitionTh": "กอล์ฟ",
+      "example": "They played golf on Sunday.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "golf course"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 32
+    },
+    {
+      "id": 1170,
+      "word": "good",
+      "pos": "adj., n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "of high quality or morally right",
+      "definitionTh": "ดี / ความดี",
+      "example": "The product is in good condition.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "fine",
+          "level": "A1"
+        },
+        {
+          "word": "excellent",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "bad",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "good",
+          "goodness"
+        ],
+        "verb": [],
+        "adjective": [
+          "good"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "good quality"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 31
+    },
+    {
+      "id": 1171,
+      "word": "goodbye",
+      "pos": "exclam., n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "used when leaving someone",
+      "definitionTh": "ลาก่อน",
+      "example": "She said goodbye and left.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "farewell",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "hello",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "say goodbye"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 30
+    },
+    {
+      "id": 1172,
+      "word": "goods",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "items for sale or transport",
+      "definitionTh": "สินค้า",
+      "example": "The goods arrived on time.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "products",
+          "level": "B1"
+        },
+        {
+          "word": "merchandise",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "consumer goods"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 29
+    },
+    {
+      "id": 1173,
+      "word": "govern",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to control or rule a country or organization",
+      "definitionTh": "ปกครอง / ควบคุม",
+      "example": "The policy governs how data is stored.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "rule",
+          "level": "B2"
+        },
+        {
+          "word": "control",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "government",
+          "governor"
+        ],
+        "verb": [
+          "govern"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "govern a country"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 28
+    },
+    {
+      "id": 1174,
+      "word": "government",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the group of people who control a country",
+      "definitionTh": "รัฐบาล",
+      "example": "The government announced a new policy.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "administration",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "governor"
+        ],
+        "verb": [
+          "govern"
+        ],
+        "adjective": [
+          "governmental"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "local government"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 27
+    },
+    {
+      "id": 1175,
+      "word": "grab",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to take hold of something quickly",
+      "definitionTh": "คว้า",
+      "example": "Grab the handle firmly.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "seize",
+          "level": "B2"
+        },
+        {
+          "word": "snatch",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "release",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "grab hold of"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 26
+    },
+    {
+      "id": 1176,
+      "word": "grade",
+      "pos": "n., v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a level or mark; to assess and give a mark",
+      "definitionTh": "เกรด / ให้คะแนน",
+      "example": "The material meets the required grade.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "level",
+          "level": "B1"
+        },
+        {
+          "word": "mark",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "grade"
+        ],
+        "verb": [
+          "grade"
+        ],
+        "adjective": [
+          "graded"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "high grade"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 25
+    },
+    {
+      "id": 1177,
+      "word": "gradually",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "slowly over a period of time",
+      "definitionTh": "ค่อย ๆ",
+      "example": "The temperature gradually increased.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "slowly",
+          "level": "B2"
+        },
+        {
+          "word": "progressively",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "suddenly",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "gradual"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "gradually improve"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 24
+    },
+    {
+      "id": 1178,
+      "word": "graduate",
+      "pos": "n., v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a person who completed a course; to complete a course",
+      "definitionTh": "บัณฑิต / สำเร็จการศึกษา",
+      "example": "She graduated from university last year.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "finish",
+          "level": "B1"
+        },
+        {
+          "word": "alumnus",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "graduate",
+          "graduation"
+        ],
+        "verb": [
+          "graduate"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "university graduate"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 23
+    },
+    {
+      "id": 1179,
+      "word": "grain",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a seed of crops such as rice or wheat",
+      "definitionTh": "เมล็ดธัญพืช",
+      "example": "Rice is an important grain.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "cereal",
+          "level": "B1"
+        },
+        {
+          "word": "seed",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "whole grain"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 22
+    },
+    {
+      "id": 1180,
+      "word": "grand",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "impressive, large, or important",
+      "definitionTh": "ยิ่งใหญ่",
+      "example": "The hotel has a grand entrance.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "magnificent",
+          "level": "B2"
+        },
+        {
+          "word": "impressive",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "modest",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "grandeur"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "grandly"
+        ]
+      },
+      "collocations": [
+        "grand plan"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 21
+    },
+    {
+      "id": 1181,
+      "word": "grandfather",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the father of your mother or father",
+      "definitionTh": "ปู่ / ตา",
+      "example": "My grandfather lives in the countryside.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "grandpa",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "maternal grandfather"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 20
+    },
+    {
+      "id": 1182,
+      "word": "grandmother",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the mother of your mother or father",
+      "definitionTh": "ย่า / ยาย",
+      "example": "Her grandmother taught her to cook.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "grandma",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "paternal grandmother"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 19
+    },
+    {
+      "id": 1183,
+      "word": "grandparent",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a grandfather or grandmother",
+      "definitionTh": "ปู่ย่าตายาย",
+      "example": "Each grandparent received an invitation.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "elderly grandparent"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 18
+    },
+    {
+      "id": 1184,
+      "word": "grant",
+      "pos": "v., n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to give or allow officially; money given for a purpose",
+      "definitionTh": "อนุมัติ / เงินสนับสนุน",
+      "example": "The organization granted funding to the project.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "award",
+          "level": "B2"
+        },
+        {
+          "word": "allow",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "refuse",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "grant"
+        ],
+        "verb": [
+          "grant"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "research grant"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 17
+    },
+    {
+      "id": 1185,
+      "word": "grass",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a common green plant covering the ground",
+      "definitionTh": "หญ้า",
+      "example": "The grass is wet after the rain.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "lawn",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "cut the grass"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 16
+    },
+    {
+      "id": 1186,
+      "word": "grateful",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "feeling thankful",
+      "definitionTh": "รู้สึกขอบคุณ",
+      "example": "We are grateful for your support.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "thankful",
+          "level": "B1"
+        },
+        {
+          "word": "appreciative",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "ungrateful",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "gratitude"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "gratefully"
+        ]
+      },
+      "collocations": [
+        "grateful for"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 15
+    },
+    {
+      "id": 1187,
+      "word": "great",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "very good, important, or large",
+      "definitionTh": "ยอดเยี่ยม / ยิ่งใหญ่",
+      "example": "The team made great progress.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "excellent",
+          "level": "A1"
+        },
+        {
+          "word": "major",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "poor",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "greatness"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "greatly"
+        ]
+      },
+      "collocations": [
+        "great success"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 14
+    },
+    {
+      "id": 1188,
+      "word": "green",
+      "pos": "adj., n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the colour of grass",
+      "definitionTh": "สีเขียว",
+      "example": "The indicator light is green.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "green light"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 13
+    },
+    {
+      "id": 1189,
+      "word": "greet",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to welcome or say hello to someone",
+      "definitionTh": "ทักทาย",
+      "example": "She greeted the visitors warmly.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "welcome",
+          "level": "A2"
+        },
+        {
+          "word": "salute",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "ignore",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "greeting"
+        ],
+        "verb": [
+          "greet"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "greet warmly"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 12
+    },
+    {
+      "id": 1190,
+      "word": "grey",
+      "pos": "adj., n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a colour between black and white",
+      "definitionTh": "สีเทา",
+      "example": "The sky was grey.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "grey area"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 11
+    },
+    {
+      "id": 1191,
+      "word": "ground",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the surface of the earth",
+      "definitionTh": "พื้นดิน",
+      "example": "The box fell to the ground.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "earth",
+          "level": "A2"
+        },
+        {
+          "word": "soil",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "ground level"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 10
+    },
+    {
+      "id": 1192,
+      "word": "group",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a number of people or things together; to arrange together",
+      "definitionTh": "กลุ่ม / จัดกลุ่ม",
+      "example": "Divide the items into three groups.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "team",
+          "level": "A1"
+        },
+        {
+          "word": "cluster",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "individual",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "group"
+        ],
+        "verb": [
+          "group"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "group of people"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 9
+    },
+    {
+      "id": 1193,
+      "word": "grow",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to increase in size or develop",
+      "definitionTh": "เติบโต",
+      "example": "The business continues to grow.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "develop",
+          "level": "A1"
+        },
+        {
+          "word": "increase",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "shrink",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "growth",
+          "grower"
+        ],
+        "verb": [
+          "grow"
+        ],
+        "adjective": [
+          "growing"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "grow rapidly"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 8
+    },
+    {
+      "id": 1194,
+      "word": "growth",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "the process of increasing or developing",
+      "definitionTh": "การเติบโต",
+      "example": "The company reported strong growth.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "increase",
+          "level": "B1"
+        },
+        {
+          "word": "development",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "decline",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "grower"
+        ],
+        "verb": [
+          "grow"
+        ],
+        "adjective": [
+          "growing"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "economic growth"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 7
+    },
+    {
+      "id": 1195,
+      "word": "guarantee",
+      "pos": "v., n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to promise that something will happen; a formal promise",
+      "definitionTh": "รับประกัน / การรับประกัน",
+      "example": "The supplier guarantees product quality.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "assure",
+          "level": "B2"
+        },
+        {
+          "word": "warranty",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "doubt",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "guarantee"
+        ],
+        "verb": [
+          "guarantee"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "money-back guarantee"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 6
+    },
+    {
+      "id": 1196,
+      "word": "guard",
+      "pos": "n., v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a person who protects; to protect",
+      "definitionTh": "ยาม / ป้องกัน",
+      "example": "The machine guard prevents contact with moving parts.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "protect",
+          "level": "B1"
+        },
+        {
+          "word": "watch",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "expose",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "guard"
+        ],
+        "verb": [
+          "guard"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "security guard"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 5
+    },
+    {
+      "id": 1197,
+      "word": "guess",
+      "pos": "v., n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to answer without being certain; an uncertain answer",
+      "definitionTh": "เดา / การคาดเดา",
+      "example": "Can you guess the correct answer?",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "estimate",
+          "level": "A1"
+        },
+        {
+          "word": "suppose",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "know",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "guess"
+        ],
+        "verb": [
+          "guess"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "make a guess"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 4
+    },
+    {
+      "id": 1198,
+      "word": "guest",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a person invited to visit or stay",
+      "definitionTh": "แขก",
+      "example": "The hotel welcomed each guest.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "visitor",
+          "level": "A2"
+        },
+        {
+          "word": "invitee",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "host",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "hotel guest"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 3
+    },
+    {
+      "id": 1199,
+      "word": "guide",
+      "pos": "n., v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a person or document that gives direction; to direct",
+      "definitionTh": "คู่มือ / นำทาง",
+      "example": "Use this guide to install the software.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "manual",
+          "level": "A2"
+        },
+        {
+          "word": "direct",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "mislead",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "guide",
+          "guidance"
+        ],
+        "verb": [
+          "guide"
+        ],
+        "adjective": [
+          "guided"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "user guide"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 2
+    },
+    {
+      "id": 1200,
+      "word": "guilty",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "responsible for doing something wrong",
+      "definitionTh": "มีความผิด",
+      "example": "The court found him guilty.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "responsible",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "innocent",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "guilt"
+        ],
+        "verb": [],
+        "adjective": [],
+        "adverb": [
+          "guiltily"
+        ]
+      },
+      "collocations": [
+        "feel guilty"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 1
+    }
+  ]
+}

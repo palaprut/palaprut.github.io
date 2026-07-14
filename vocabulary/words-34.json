@@ -1,0 +1,3440 @@
+{
+  "version": 2,
+  "source": "Oxford 5000 (American English)",
+  "batch": 34,
+  "level": "B2-C1",
+  "totalWords": 100,
+  "metadata": {
+    "created": "2026-07-14",
+    "language": "en-US",
+    "description": "Batch 34 — additional Oxford 5000 words 301-400; rebuilt"
+  },
+  "words": [
+    {
+      "id": 3265,
+      "word": "collaboration",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the act of working with someone to produce something",
+      "definitionTh": "การร่วมมือ",
+      "example": "The trial required close collaboration with maintenance.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "partnership",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "collaboration"
+        ],
+        "verb": [
+          "collaborate"
+        ],
+        "adjective": [
+          "collaborative"
+        ],
+        "adverb": [
+          "collaboratively"
+        ]
+      },
+      "collocations": [
+        "close collaboration"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 100
+    },
+    {
+      "id": 3266,
+      "word": "collective",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "shared by all members of a group",
+      "definitionTh": "โดยรวม / กลุ่ม",
+      "example": "The team took a collective decision.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "shared",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "individual",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "collective effort"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 99
+    },
+    {
+      "id": 3267,
+      "word": "collector",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a person who gathers items",
+      "definitionTh": "ผู้สะสม",
+      "example": "The engineer replaced the dust collector filter.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "gatherer",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "dust collector"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 98
+    },
+    {
+      "id": 3268,
+      "word": "collision",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "an incident in which vehicles hit each other",
+      "definitionTh": "การชน",
+      "example": "A guard prevents accidental collision.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "crash",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "head-on collision"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 97
+    },
+    {
+      "id": 3269,
+      "word": "colonial",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "relating to colonial control",
+      "definitionTh": "ทางอาณานิคม",
+      "example": "The report provides a clear example of “colonial”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "colonial example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 96
+    },
+    {
+      "id": 3270,
+      "word": "colony",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "an area controlled by another country",
+      "definitionTh": "อาณานิคม",
+      "example": "The report provides a clear example of “colony”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "colony example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 95
+    },
+    {
+      "id": 3271,
+      "word": "colorful",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "full of bright colors",
+      "definitionTh": "มีสีสัน",
+      "example": "The report provides a clear example of “colorful”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "dull",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "colorful example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 94
+    },
+    {
+      "id": 3272,
+      "word": "columnist",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a writer of a regular publication column",
+      "definitionTh": "นักเขียนคอลัมน์",
+      "example": "The report provides a clear example of “columnist”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "columnist example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 93
+    },
+    {
+      "id": 3273,
+      "word": "combat",
+      "pos": "n., v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "armed fighting; to fight against",
+      "definitionTh": "การรบ / ต่อสู้",
+      "example": "The team combats defects with new sensors.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "fight",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "combat defects"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 92
+    },
+    {
+      "id": 3274,
+      "word": "comic",
+      "pos": "adj., n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "funny; a humorous performer",
+      "definitionTh": "ตลก",
+      "example": "The report provides a clear example of “comic”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "humorous",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "comic example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 91
+    },
+    {
+      "id": 3275,
+      "word": "commander",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a person in charge of a group",
+      "definitionTh": "ผู้บังคับบัญชา",
+      "example": "The report provides a clear example of “commander”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "commander example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 90
+    },
+    {
+      "id": 3276,
+      "word": "commence",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to formally begin",
+      "definitionTh": "เริ่มต้นอย่างเป็นทางการ",
+      "example": "Testing will commence next week.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "begin",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "commence operations"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 89
+    },
+    {
+      "id": 3277,
+      "word": "commentary",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "an explanation of events",
+      "definitionTh": "บทวิจารณ์",
+      "example": "The report provides a clear example of “commentary”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "commentary example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 88
+    },
+    {
+      "id": 3278,
+      "word": "commentator",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a person describing events",
+      "definitionTh": "ผู้บรรยาย",
+      "example": "The report provides a clear example of “commentator”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "commentator example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 87
+    },
+    {
+      "id": 3279,
+      "word": "commerce",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "buying and selling goods and services",
+      "definitionTh": "การพาณิชย์",
+      "example": "The report provides a clear example of “commerce”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "trade",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "commerce example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 86
+    },
+    {
+      "id": 3280,
+      "word": "commissioner",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "an official leading a public department",
+      "definitionTh": "กรรมาธิการ",
+      "example": "The report provides a clear example of “commissioner”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "commissioner example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 85
+    },
+    {
+      "id": 3281,
+      "word": "commodity",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a tradable raw material or product",
+      "definitionTh": "สินค้าโภคภัณฑ์",
+      "example": "The report provides a clear example of “commodity”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "commodity example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 84
+    },
+    {
+      "id": 3282,
+      "word": "communist",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a supporter of communism",
+      "definitionTh": "คอมมิวนิสต์",
+      "example": "The report provides a clear example of “communist”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "communist example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 83
+    },
+    {
+      "id": 3283,
+      "word": "companion",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a person or animal spending time with another",
+      "definitionTh": "เพื่อน / คู่หู",
+      "example": "The report provides a clear example of “companion”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "friend",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "companion example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 82
+    },
+    {
+      "id": 3284,
+      "word": "comparable",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "able to be compared fairly",
+      "definitionTh": "เทียบเคียงได้",
+      "example": "The two sensors deliver comparable accuracy.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "similar",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "comparable results"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 81
+    },
+    {
+      "id": 3285,
+      "word": "comparative",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "involving comparison",
+      "definitionTh": "เชิงเปรียบเทียบ",
+      "example": "The report provides a clear example of “comparative”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "comparative example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 80
+    },
+    {
+      "id": 3286,
+      "word": "compassion",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "sympathy for another person’s suffering",
+      "definitionTh": "ความเมตตา",
+      "example": "The report provides a clear example of “compassion”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "sympathy",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "compassion example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 79
+    },
+    {
+      "id": 3287,
+      "word": "compel",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to force someone to act",
+      "definitionTh": "บังคับ",
+      "example": "The report provides a clear example of “compel”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "force",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "compel example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 78
+    },
+    {
+      "id": 3288,
+      "word": "compelling",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "forceful and convincing",
+      "definitionTh": "น่าเชื่อ",
+      "example": "The data provides compelling proof.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "convincing",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "compelling evidence"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 77
+    },
+    {
+      "id": 3289,
+      "word": "compensate",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to pay for loss or effort",
+      "definitionTh": "ชดเชย",
+      "example": "The report provides a clear example of “compensate”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "reimburse",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "compensation"
+        ],
+        "verb": [
+          "compensate"
+        ],
+        "adjective": [
+          "compensatory"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "compensate example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 76
+    },
+    {
+      "id": 3290,
+      "word": "compensation",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "payment for damage or effort",
+      "definitionTh": "การชดเชย",
+      "example": "The report provides a clear example of “compensation”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "payment",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "compensation example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 75
+    },
+    {
+      "id": 3291,
+      "word": "competence",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "ability to perform well",
+      "definitionTh": "ความสามารถ",
+      "example": "The report provides a clear example of “competence”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "skill",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "competence example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 74
+    },
+    {
+      "id": 3292,
+      "word": "competent",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "having the necessary skills",
+      "definitionTh": "มีความสามารถ",
+      "example": "Only competent staff may operate the machine.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "capable",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "incompetent",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "competence"
+        ],
+        "verb": [],
+        "adjective": [
+          "competent"
+        ],
+        "adverb": [
+          "competently"
+        ]
+      },
+      "collocations": [
+        "competent authority"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 73
+    },
+    {
+      "id": 3293,
+      "word": "compile",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to collect and arrange information",
+      "definitionTh": "รวบรวม",
+      "example": "Compile the results in a single report.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "assemble",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "compilation"
+        ],
+        "verb": [
+          "compile"
+        ],
+        "adjective": [
+          "compiled"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "compile a report"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 72
+    },
+    {
+      "id": 3294,
+      "word": "complement",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to add something that improves another",
+      "definitionTh": "เติมเต็ม",
+      "example": "Sensors complement the existing system.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "complement each other"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 71
+    },
+    {
+      "id": 3295,
+      "word": "completion",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the act of finishing",
+      "definitionTh": "การเสร็จสมบูรณ์",
+      "example": "The report provides a clear example of “completion”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "finish",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "completion example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 70
+    },
+    {
+      "id": 3296,
+      "word": "complexity",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the state of being complex",
+      "definitionTh": "ความซับซ้อน",
+      "example": "The report provides a clear example of “complexity”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "complication",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "complexity example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 69
+    },
+    {
+      "id": 3297,
+      "word": "compliance",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "following required rules and standards",
+      "definitionTh": "การปฏิบัติตาม",
+      "example": "Ensure compliance with the standard.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "obedience",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "compliance"
+        ],
+        "verb": [
+          "comply"
+        ],
+        "adjective": [
+          "compliant"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "regulatory compliance"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 68
+    },
+    {
+      "id": 3298,
+      "word": "complication",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a problem making a situation harder",
+      "definitionTh": "ภาวะแทรกซ้อน",
+      "example": "The report provides a clear example of “complication”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "complication example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 67
+    },
+    {
+      "id": 3299,
+      "word": "comply",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to obey a rule",
+      "definitionTh": "ปฏิบัติตาม",
+      "example": "All departments must comply with the rule.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "obey",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "comply with"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 66
+    },
+    {
+      "id": 3300,
+      "word": "compose",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to create music or formal writing",
+      "definitionTh": "แต่งเพลง",
+      "example": "The report provides a clear example of “compose”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "write",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "composer",
+          "composition"
+        ],
+        "verb": [
+          "compose"
+        ],
+        "adjective": [
+          "composed"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "compose example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 65
+    },
+    {
+      "id": 3301,
+      "word": "composer",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a person who writes music",
+      "definitionTh": "นักแต่งเพลง",
+      "example": "The report provides a clear example of “composer”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "composer example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 64
+    },
+    {
+      "id": 3302,
+      "word": "composition",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the arrangement of combined parts",
+      "definitionTh": "องค์ประกอบ",
+      "example": "The report provides a clear example of “composition”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "arrangement",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "composition example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 63
+    },
+    {
+      "id": 3303,
+      "word": "compound",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a substance of multiple elements",
+      "definitionTh": "สารประกอบ",
+      "example": "The report provides a clear example of “compound”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "compound example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 62
+    },
+    {
+      "id": 3304,
+      "word": "comprehensive",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "complete and detailed",
+      "definitionTh": "ครอบคลุม",
+      "example": "Prepare a comprehensive risk plan.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "thorough",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "limited",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "comprehensive review"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 61
+    },
+    {
+      "id": 3305,
+      "word": "comprise",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to be made up of",
+      "definitionTh": "ประกอบด้วย",
+      "example": "The report provides a clear example of “comprise”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "consist of",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "comprise example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 60
+    },
+    {
+      "id": 3306,
+      "word": "compromise",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "an agreement involving mutual concessions",
+      "definitionTh": "การประนีประนอม",
+      "example": "The report provides a clear example of “compromise”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "settlement",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "compromise example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 59
+    },
+    {
+      "id": 3307,
+      "word": "compulsory",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "required by a rule",
+      "definitionTh": "บังคับ",
+      "example": "The report provides a clear example of “compulsory”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "mandatory",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "voluntary",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "compulsory example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 58
+    },
+    {
+      "id": 3308,
+      "word": "compute",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to calculate using a computer",
+      "definitionTh": "คำนวณ",
+      "example": "The system computes the reject rate.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "calculate",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "compute a value"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 57
+    },
+    {
+      "id": 3309,
+      "word": "conceal",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to hide from view",
+      "definitionTh": "ซ่อน",
+      "example": "Do not conceal defects.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "hide",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "reveal",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "conceal information"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 56
+    },
+    {
+      "id": 3310,
+      "word": "concede",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to admit something unwillingly",
+      "definitionTh": "ยอมรับ",
+      "example": "The report provides a clear example of “concede”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "admit",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "deny",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "concede example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 55
+    },
+    {
+      "id": 3311,
+      "word": "conceive",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to form an idea in the mind",
+      "definitionTh": "ก่อรูปในใจ",
+      "example": "The report provides a clear example of “conceive”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "imagine",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "conception"
+        ],
+        "verb": [
+          "conceive"
+        ],
+        "adjective": [
+          "conceived"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "conceive example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 54
+    },
+    {
+      "id": 3312,
+      "word": "conception",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the formation of an idea",
+      "definitionTh": "แนวคิด",
+      "example": "The report provides a clear example of “conception”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "conception example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 53
+    },
+    {
+      "id": 3313,
+      "word": "concession",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "something yielded in negotiation",
+      "definitionTh": "การยอม",
+      "example": "The report provides a clear example of “concession”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "concession example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 52
+    },
+    {
+      "id": 3314,
+      "word": "concrete",
+      "pos": "adj., n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "real, specific, or made of building material",
+      "definitionTh": "เป็นรูปธรรม",
+      "example": "Provide concrete evidence.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "specific",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "abstract",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "concrete example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 51
+    },
+    {
+      "id": 3315,
+      "word": "condemn",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to strongly criticize",
+      "definitionTh": "ประณาม",
+      "example": "The report provides a clear example of “condemn”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "criticize",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "praise",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "condemn example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 50
+    },
+    {
+      "id": 3316,
+      "word": "confer",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to discuss with others",
+      "definitionTh": "มอบ / ปรึกษาหารือ",
+      "example": "The report provides a clear example of “confer”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "confer example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 49
+    },
+    {
+      "id": 3317,
+      "word": "confess",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to admit wrongdoing",
+      "definitionTh": "สารภาพ",
+      "example": "The report provides a clear example of “confess”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "admit",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "confession"
+        ],
+        "verb": [
+          "confess"
+        ],
+        "adjective": [
+          "confessed"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "confess example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 48
+    },
+    {
+      "id": 3318,
+      "word": "confession",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "an admission of wrongdoing",
+      "definitionTh": "คำสารภาพ",
+      "example": "The report provides a clear example of “confession”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "confession example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 47
+    },
+    {
+      "id": 3319,
+      "word": "configuration",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the arrangement of system settings",
+      "definitionTh": "การกำหนดค่า",
+      "example": "Save the current sensor configuration.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "setup",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "configuration"
+        ],
+        "verb": [
+          "configure"
+        ],
+        "adjective": [
+          "configured"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "system configuration"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 46
+    },
+    {
+      "id": 3320,
+      "word": "confine",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to keep within limits",
+      "definitionTh": "จำกัด",
+      "example": "The report provides a clear example of “confine”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "confine example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 45
+    },
+    {
+      "id": 3321,
+      "word": "confirmation",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "verification that something is true",
+      "definitionTh": "การยืนยัน",
+      "example": "Wait for supervisor confirmation.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "verification",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "confirmation"
+        ],
+        "verb": [
+          "confirm"
+        ],
+        "adjective": [
+          "confirmed"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "written confirmation"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 44
+    },
+    {
+      "id": 3322,
+      "word": "confront",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to face a difficult issue directly",
+      "definitionTh": "เผชิญหน้า",
+      "example": "The report provides a clear example of “confront”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "face",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "confrontation"
+        ],
+        "verb": [
+          "confront"
+        ],
+        "adjective": [
+          "confrontational"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "confront example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 43
+    },
+    {
+      "id": 3323,
+      "word": "confrontation",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a hostile encounter",
+      "definitionTh": "การเผชิญหน้า",
+      "example": "The report provides a clear example of “confrontation”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "confrontation example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 42
+    },
+    {
+      "id": 3324,
+      "word": "confusion",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the state of being unclear",
+      "definitionTh": "ความสับสน",
+      "example": "Clear instructions prevent confusion.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "disorder",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "clarity",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "avoid confusion"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 41
+    },
+    {
+      "id": 3325,
+      "word": "congratulate",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to praise an achievement",
+      "definitionTh": "แสดงความยินดี",
+      "example": "The report provides a clear example of “congratulate”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "praise",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "congratulate example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 40
+    },
+    {
+      "id": 3326,
+      "word": "congregation",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a group gathered for worship",
+      "definitionTh": "ที่ประชุมทางศาสนา",
+      "example": "The report provides a clear example of “congregation”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "congregation example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 39
+    },
+    {
+      "id": 3327,
+      "word": "congressional",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "relating to a legislature",
+      "definitionTh": "ทางรัฐสภา",
+      "example": "The report provides a clear example of “congressional”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "congressional example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 38
+    },
+    {
+      "id": 3328,
+      "word": "conquer",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to overcome or take control",
+      "definitionTh": "พิชิต",
+      "example": "The report provides a clear example of “conquer”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "overcome",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "conquer example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 37
+    },
+    {
+      "id": 3329,
+      "word": "conscience",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a sense of right and wrong",
+      "definitionTh": "มโนธรรม",
+      "example": "The report provides a clear example of “conscience”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "conscience example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 36
+    },
+    {
+      "id": 3330,
+      "word": "consciousness",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the state of being aware",
+      "definitionTh": "จิตสำนึก",
+      "example": "The report provides a clear example of “consciousness”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "consciousness example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 35
+    },
+    {
+      "id": 3331,
+      "word": "consecutive",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "following without interruption",
+      "definitionTh": "ต่อเนื่อง",
+      "example": "The report provides a clear example of “consecutive”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "consecutive example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 34
+    },
+    {
+      "id": 3332,
+      "word": "consensus",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "general agreement",
+      "definitionTh": "ฉันทามติ",
+      "example": "The team reached consensus.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "agreement",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "general consensus"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 33
+    },
+    {
+      "id": 3333,
+      "word": "consent",
+      "pos": "n., v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "permission for something",
+      "definitionTh": "ความยินยอม",
+      "example": "The report provides a clear example of “consent”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "permission",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "consent example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 32
+    },
+    {
+      "id": 3334,
+      "word": "consequently",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "as a result",
+      "definitionTh": "จึง / ดังนั้น",
+      "example": "The report provides a clear example of “consequently”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "therefore",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "consequently example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 31
+    },
+    {
+      "id": 3335,
+      "word": "conservation",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "protection of natural resources",
+      "definitionTh": "การอนุรักษ์",
+      "example": "The plant follows water conservation.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "preservation",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "waste",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "conservation"
+        ],
+        "verb": [
+          "conserve"
+        ],
+        "adjective": [
+          "conservative"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "energy conservation"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 30
+    },
+    {
+      "id": 3336,
+      "word": "conserve",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to protect from overuse",
+      "definitionTh": "อนุรักษ์",
+      "example": "New pumps conserve energy.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "preserve",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "conserve resources"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 29
+    },
+    {
+      "id": 3337,
+      "word": "considerable",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "large in amount or degree",
+      "definitionTh": "มาก",
+      "example": "The report provides a clear example of “considerable”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "significant",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "considerable example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 28
+    },
+    {
+      "id": 3338,
+      "word": "considerably",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to a large degree",
+      "definitionTh": "อย่างมาก",
+      "example": "The report provides a clear example of “considerably”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "considerably example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 27
+    },
+    {
+      "id": 3339,
+      "word": "consistency",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the quality of remaining uniform",
+      "definitionTh": "ความคงเส้นคงวา",
+      "example": "The trial focused on process consistency.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "uniformity",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "consistency"
+        ],
+        "verb": [],
+        "adjective": [
+          "consistent"
+        ],
+        "adverb": [
+          "consistently"
+        ]
+      },
+      "collocations": [
+        "maintain consistency"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 26
+    },
+    {
+      "id": 3340,
+      "word": "consistently",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "in a reliable and uniform way",
+      "definitionTh": "อย่างสม่ำเสมอ",
+      "example": "The system performs consistently.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "consistently reliable"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 25
+    },
+    {
+      "id": 3341,
+      "word": "consolidate",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to combine and strengthen",
+      "definitionTh": "รวบรวมเข้าด้วยกัน",
+      "example": "Consolidate reports into one dashboard.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "combine",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "consolidate data"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 24
+    },
+    {
+      "id": 3342,
+      "word": "conspiracy",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a secret harmful plan",
+      "definitionTh": "การสมรู้ร่วมคิด",
+      "example": "The report provides a clear example of “conspiracy”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "conspiracy example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 23
+    },
+    {
+      "id": 3343,
+      "word": "constitute",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to form an important part",
+      "definitionTh": "ประกอบเป็น",
+      "example": "The report provides a clear example of “constitute”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "form",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "constitution"
+        ],
+        "verb": [
+          "constitute"
+        ],
+        "adjective": [
+          "constitutional"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "constitute example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 22
+    },
+    {
+      "id": 3344,
+      "word": "constitution",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the basic laws of a country",
+      "definitionTh": "รัฐธรรมนูญ",
+      "example": "The report provides a clear example of “constitution”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "constitution example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 21
+    },
+    {
+      "id": 3345,
+      "word": "constitutional",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "relating to a constitution",
+      "definitionTh": "ทางรัฐธรรมนูญ",
+      "example": "The report provides a clear example of “constitutional”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "constitutional example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 20
+    },
+    {
+      "id": 3346,
+      "word": "constraint",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a limit on action",
+      "definitionTh": "ข้อจำกัด",
+      "example": "Time is the main project constraint.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "restriction",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "budget constraint"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 19
+    },
+    {
+      "id": 3347,
+      "word": "consult",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to seek expert advice",
+      "definitionTh": "ปรึกษา",
+      "example": "Consult the manual before adjustment.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "seek advice",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "consultation",
+          "consultant"
+        ],
+        "verb": [
+          "consult"
+        ],
+        "adjective": [
+          "consultative"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "consult an expert"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 18
+    },
+    {
+      "id": 3348,
+      "word": "consultant",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a professional adviser",
+      "definitionTh": "ที่ปรึกษา",
+      "example": "A consultant reviewed the design.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "adviser",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "technical consultant"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 17
+    },
+    {
+      "id": 3349,
+      "word": "consultation",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a meeting to receive advice",
+      "definitionTh": "การปรึกษา",
+      "example": "Public consultation began this week.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "discussion",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "consultation meeting"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 16
+    },
+    {
+      "id": 3350,
+      "word": "consumption",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the act of using goods or energy",
+      "definitionTh": "การบริโภค",
+      "example": "Energy consumption decreased.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "use",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "consumption"
+        ],
+        "verb": [
+          "consume"
+        ],
+        "adjective": [
+          "consumable"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "power consumption"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 15
+    },
+    {
+      "id": 3351,
+      "word": "contemplate",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to consider carefully",
+      "definitionTh": "พิจารณา",
+      "example": "The report provides a clear example of “contemplate”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "consider",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "contemplate example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 14
+    },
+    {
+      "id": 3352,
+      "word": "contempt",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a feeling that something is worthless",
+      "definitionTh": "ดูหมิ่น",
+      "example": "The report provides a clear example of “contempt”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "respect",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "contempt example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 13
+    },
+    {
+      "id": 3353,
+      "word": "contend",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to compete or argue",
+      "definitionTh": "โต้แย้ง",
+      "example": "The report provides a clear example of “contend”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "compete",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "contender",
+          "contention"
+        ],
+        "verb": [
+          "contend"
+        ],
+        "adjective": [
+          "contested"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "contend example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 12
+    },
+    {
+      "id": 3354,
+      "word": "contender",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a competitor",
+      "definitionTh": "ผู้ท้าชิง",
+      "example": "The report provides a clear example of “contender”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "competitor",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "contender example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 11
+    },
+    {
+      "id": 3355,
+      "word": "content2",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "satisfied with the present situation",
+      "definitionTh": "พอใจ",
+      "example": "The report provides a clear example of “content2”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "satisfied",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "content2 example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 10
+    },
+    {
+      "id": 3356,
+      "word": "contention",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "serious disagreement",
+      "definitionTh": "การโต้แย้ง",
+      "example": "The report provides a clear example of “contention”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "contention example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 9
+    },
+    {
+      "id": 3357,
+      "word": "continually",
+      "pos": "adv.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "repeatedly and frequently",
+      "definitionTh": "อย่างต่อเนื่อง",
+      "example": "The report provides a clear example of “continually”.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "continually example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 8
+    },
+    {
+      "id": 3358,
+      "word": "contractor",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a company hired for work",
+      "definitionTh": "ผู้รับเหมา",
+      "example": "The contractor completed the installation.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "supplier",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "main contractor"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 7
+    },
+    {
+      "id": 3359,
+      "word": "contradiction",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a statement opposing another",
+      "definitionTh": "ความขัดแย้ง",
+      "example": "The report contains a contradiction.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "inconsistency",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "contradiction"
+        ],
+        "verb": [
+          "contradict"
+        ],
+        "adjective": [
+          "contradictory"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "contradiction in terms"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 6
+    },
+    {
+      "id": 3360,
+      "word": "contrary",
+      "pos": "adj., n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "opposite in nature",
+      "definitionTh": "ตรงข้าม",
+      "example": "The report provides a clear example of “contrary”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "opposite",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "similar",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "contrary example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 5
+    },
+    {
+      "id": 3361,
+      "word": "contributor",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a person who gives support or content",
+      "definitionTh": "ผู้มีส่วนร่วม",
+      "example": "The technician is a key contributor.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "supporter",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "contribution",
+          "contributor"
+        ],
+        "verb": [
+          "contribute"
+        ],
+        "adjective": [
+          "contributory"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "major contributor"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 4
+    },
+    {
+      "id": 3362,
+      "word": "controversial",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "causing public disagreement",
+      "definitionTh": "เป็นที่ถกเถียง",
+      "example": "The proposal was controversial.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "uncontroversial",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "controversial issue"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 3
+    },
+    {
+      "id": 3363,
+      "word": "controversy",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a public disagreement",
+      "definitionTh": "ข้อโต้แย้ง",
+      "example": "The change caused controversy.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "dispute",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "controversy"
+        ],
+        "verb": [],
+        "adjective": [
+          "controversial"
+        ],
+        "adverb": [
+          "controversially"
+        ]
+      },
+      "collocations": [
+        "avoid controversy"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 2
+    },
+    {
+      "id": 3364,
+      "word": "convenience",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the quality of being easy to use",
+      "definitionTh": "ความสะดวก",
+      "example": "The dashboard supports user convenience.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "ease",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "inconvenience",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "for convenience"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 1
+    }
+  ]
+}

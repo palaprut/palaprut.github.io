@@ -1,0 +1,3540 @@
+{
+  "version": 2,
+  "source": "Oxford 5000 (American English)",
+  "batch": 47,
+  "level": "B2-C1",
+  "totalWords": 100,
+  "metadata": {
+    "created": "2026-07-14",
+    "language": "en-US",
+    "description": "Batch 47 - additional Oxford 5000 words 1601-1700; source-aligned from attached PDF"
+  },
+  "words": [
+    {
+      "id": 4565,
+      "word": "selective",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "choosing only particular items",
+      "definitionTh": "เลือกเฉพาะ",
+      "example": "Use selective filtering to remove invalid records.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "discriminating",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "indiscriminate",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "selective process"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 100
+    },
+    {
+      "id": 4566,
+      "word": "seminar",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "an educational meeting for discussion",
+      "definitionTh": "สัมมนา",
+      "example": "The report provides a clear example of “seminar”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "workshop",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "seminar example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 99
+    },
+    {
+      "id": 4567,
+      "word": "sensation",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a physical feeling or strong public excitement",
+      "definitionTh": "ความรู้สึก",
+      "example": "The report provides a clear example of “sensation”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "feeling",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "sensation example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 98
+    },
+    {
+      "id": 4568,
+      "word": "sensitivity",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the ability to detect small changes",
+      "definitionTh": "ความไว",
+      "example": "Adjust the sensor sensitivity carefully.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "responsiveness",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "high sensitivity"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 97
+    },
+    {
+      "id": 4569,
+      "word": "sentiment",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a general feeling or opinion",
+      "definitionTh": "ความรู้สึกหรือทัศนคติ",
+      "example": "The report provides a clear example of “sentiment”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "opinion",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "sentiment example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 96
+    },
+    {
+      "id": 4570,
+      "word": "separation",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the act of moving things or people apart",
+      "definitionTh": "การแยก",
+      "example": "The report provides a clear example of “separation”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "division",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "combination",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "separation example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 95
+    },
+    {
+      "id": 4571,
+      "word": "serial",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "forming a numbered or connected series",
+      "definitionTh": "เป็นชุดต่อเนื่อง",
+      "example": "Record the device serial number.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "sequential",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "serial number"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 94
+    },
+    {
+      "id": 4572,
+      "word": "settlement",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "an agreement or a place where people establish homes",
+      "definitionTh": "การตั้งถิ่นฐาน / ข้อตกลง",
+      "example": "The report provides a clear example of “settlement”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "agreement",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "settlement example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 93
+    },
+    {
+      "id": 4573,
+      "word": "settler",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a person who establishes a home in a new area",
+      "definitionTh": "ผู้ตั้งถิ่นฐาน",
+      "example": "The report provides a clear example of “settler”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "colonist",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "settler example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 92
+    },
+    {
+      "id": 4574,
+      "word": "setup",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the arrangement and preparation of a system",
+      "definitionTh": "การตั้งค่า",
+      "example": "Verify the camera setup before production.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "configuration",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "system setup"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 91
+    },
+    {
+      "id": 4575,
+      "word": "severely",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to a very serious degree",
+      "definitionTh": "อย่างรุนแรง",
+      "example": "The report provides a clear example of “severely”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "seriously",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "mildly",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "severely example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 90
+    },
+    {
+      "id": 4576,
+      "word": "sexuality",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "sexual identity, attraction, and related qualities",
+      "definitionTh": "เรื่องเพศ",
+      "example": "The report provides a clear example of “sexuality”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "sexual identity",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "sexuality example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 89
+    },
+    {
+      "id": 4577,
+      "word": "sexy",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "sexually attractive",
+      "definitionTh": "น่าดึงดูด",
+      "example": "The report provides a clear example of “sexy”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "attractive",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "sexy example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 88
+    },
+    {
+      "id": 4578,
+      "word": "shaped",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "having a particular form",
+      "definitionTh": "มีรูปร่าง",
+      "example": "The bracket is shaped to fit the frame.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "formed",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "specially shaped"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 87
+    },
+    {
+      "id": 4579,
+      "word": "shareholder",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "an owner of shares in a company",
+      "definitionTh": "ผู้ถือหุ้น",
+      "example": "The report explains value to each shareholder.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "investor",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "major shareholder"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 86
+    },
+    {
+      "id": 4580,
+      "word": "shatter",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to break suddenly into many pieces",
+      "definitionTh": "แตกละเอียด",
+      "example": "Impact may shatter the protective glass.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "break",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "shatter resistance"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 85
+    },
+    {
+      "id": 4581,
+      "word": "shed",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to release or remove; a simple storage building",
+      "definitionTh": "หลั่ง / โรงเก็บ",
+      "example": "The report provides a clear example of “shed”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "release",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "shed example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 84
+    },
+    {
+      "id": 4582,
+      "word": "sheer",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "complete and nothing except; very steep",
+      "definitionTh": "แท้จริง / สูงชัน",
+      "example": "The report provides a clear example of “sheer”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "absolute",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "sheer example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 83
+    },
+    {
+      "id": 4583,
+      "word": "shipping",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the transport of goods",
+      "definitionTh": "การขนส่ง",
+      "example": "Protect the camera during shipping.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "delivery",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "shipping damage"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 82
+    },
+    {
+      "id": 4584,
+      "word": "shocking",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "causing great surprise or concern",
+      "definitionTh": "น่าตกใจ",
+      "example": "The report provides a clear example of “shocking”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "disturbing",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "reassuring",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "shocking example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 81
+    },
+    {
+      "id": 4585,
+      "word": "shoot",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a photographic session or act of firing",
+      "definitionTh": "การถ่ายทำ",
+      "example": "The report provides a clear example of “shoot”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "filming",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "shoot example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 80
+    },
+    {
+      "id": 4586,
+      "word": "shore",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "land along the edge of water",
+      "definitionTh": "ชายฝั่ง",
+      "example": "The report provides a clear example of “shore”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "coast",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "shore example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 79
+    },
+    {
+      "id": 4587,
+      "word": "shortage",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a situation where there is not enough",
+      "definitionTh": "การขาดแคลน",
+      "example": "A spare-part shortage delayed the repair.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "deficit",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "surplus",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "material shortage"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 78
+    },
+    {
+      "id": 4588,
+      "word": "shortly",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "after a short time",
+      "definitionTh": "ในไม่ช้า",
+      "example": "The report provides a clear example of “shortly”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "soon",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "shortly example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 77
+    },
+    {
+      "id": 4589,
+      "word": "short-term",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "lasting for a limited period",
+      "definitionTh": "ระยะสั้น",
+      "example": "Use a short-term control until installation.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "temporary",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "long-term",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "short-term solution"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 76
+    },
+    {
+      "id": 4590,
+      "word": "shrink",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to become smaller in size",
+      "definitionTh": "หดตัว",
+      "example": "The material may shrink at low temperature.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "contract",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "expand",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "shrink slightly"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 75
+    },
+    {
+      "id": 4591,
+      "word": "shrug",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to raise the shoulders to show uncertainty",
+      "definitionTh": "ยักไหล่",
+      "example": "The report provides a clear example of “shrug”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "gesture",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "shrug example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 74
+    },
+    {
+      "id": 4592,
+      "word": "sibling",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a brother or sister",
+      "definitionTh": "พี่น้อง",
+      "example": "The report provides a clear example of “sibling”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "brother or sister",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "sibling example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 73
+    },
+    {
+      "id": 4593,
+      "word": "sidewalk",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a paved path beside a road",
+      "definitionTh": "ทางเท้า",
+      "example": "The report provides a clear example of “sidewalk”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "pavement",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "sidewalk example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 72
+    },
+    {
+      "id": 4594,
+      "word": "sigh",
+      "pos": "v., n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to breathe out audibly",
+      "definitionTh": "ถอนหายใจ",
+      "example": "The report provides a clear example of “sigh”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "exhale",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "sigh example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 71
+    },
+    {
+      "id": 4595,
+      "word": "signature",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a person’s written name or distinctive feature",
+      "definitionTh": "ลายเซ็น",
+      "example": "Add the approver’s digital signature.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "autograph",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "digital signature"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 70
+    },
+    {
+      "id": 4596,
+      "word": "significance",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "importance or meaning",
+      "definitionTh": "ความสำคัญ",
+      "example": "Explain the statistical significance.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "importance",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "technical significance"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 69
+    },
+    {
+      "id": 4597,
+      "word": "simulate",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to imitate a real process or condition",
+      "definitionTh": "จำลอง",
+      "example": "Simulate the fault before deployment.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "imitate",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "simulation"
+        ],
+        "verb": [
+          "simulate"
+        ],
+        "adjective": [
+          "simulated"
+        ],
+        "adverb": [
+          "simultaneously"
+        ]
+      },
+      "collocations": [
+        "simulate conditions"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 68
+    },
+    {
+      "id": 4598,
+      "word": "simulation",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a model or imitation of a real process",
+      "definitionTh": "การจำลอง",
+      "example": "The simulation predicts product flow.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "model",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "process simulation"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 67
+    },
+    {
+      "id": 4599,
+      "word": "simultaneously",
+      "pos": "adv.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "at the same time",
+      "definitionTh": "พร้อมกัน",
+      "example": "Both cameras capture images simultaneously.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "concurrently",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "operate simultaneously"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 66
+    },
+    {
+      "id": 4600,
+      "word": "sin",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "an act considered morally wrong",
+      "definitionTh": "บาป",
+      "example": "The report provides a clear example of “sin”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "wrongdoing",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "sin example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 65
+    },
+    {
+      "id": 4601,
+      "word": "situated",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "located in a particular place",
+      "definitionTh": "ตั้งอยู่",
+      "example": "The sensor is situated above the conveyor.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "located",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "situated near"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 64
+    },
+    {
+      "id": 4602,
+      "word": "skeptical",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "not easily convinced",
+      "definitionTh": "สงสัย",
+      "example": "The team remained skeptical until validation.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "doubtful",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "convinced",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "skeptical about"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 63
+    },
+    {
+      "id": 4603,
+      "word": "sketch",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a quick rough drawing or outline",
+      "definitionTh": "ภาพร่าง",
+      "example": "Create a wiring sketch for review.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "drawing",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "design sketch"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 62
+    },
+    {
+      "id": 4604,
+      "word": "skilled",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "having training and ability",
+      "definitionTh": "มีทักษะ",
+      "example": "Only skilled technicians should adjust the lens.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "expert",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unskilled",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "skilled worker"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 61
+    },
+    {
+      "id": 4605,
+      "word": "skip",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to omit or move past something",
+      "definitionTh": "ข้าม",
+      "example": "Do not skip the verification step.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "omit",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "skip a step"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 60
+    },
+    {
+      "id": 4606,
+      "word": "skull",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the bones forming the head",
+      "definitionTh": "กะโหลกศีรษะ",
+      "example": "The report provides a clear example of “skull”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "head bone",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "skull example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 59
+    },
+    {
+      "id": 4607,
+      "word": "slam",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to hit or close with great force",
+      "definitionTh": "กระแทก",
+      "example": "The report provides a clear example of “slam”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "crash",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "slam example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 58
+    },
+    {
+      "id": 4608,
+      "word": "slap",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to hit with an open hand",
+      "definitionTh": "ตบ",
+      "example": "The report provides a clear example of “slap”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "hit",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "slap example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 57
+    },
+    {
+      "id": 4609,
+      "word": "slash",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to cut deeply or reduce sharply",
+      "definitionTh": "เฉือน",
+      "example": "The report provides a clear example of “slash”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "cut",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "slash example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 56
+    },
+    {
+      "id": 4610,
+      "word": "slavery",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the system of owning people as property",
+      "definitionTh": "ทาส",
+      "example": "The report provides a clear example of “slavery”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "bondage",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "slavery example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 55
+    },
+    {
+      "id": 4611,
+      "word": "slogan",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a short memorable phrase",
+      "definitionTh": "คำขวัญ",
+      "example": "The report provides a clear example of “slogan”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "motto",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "slogan example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 54
+    },
+    {
+      "id": 4612,
+      "word": "slot",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "an available position or narrow opening",
+      "definitionTh": "ช่อง",
+      "example": "Insert the module into the correct slot.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "opening",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "expansion slot"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 53
+    },
+    {
+      "id": 4613,
+      "word": "smash",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to break violently into pieces",
+      "definitionTh": "ทุบ",
+      "example": "The report provides a clear example of “smash”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "crush",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "smash example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 52
+    },
+    {
+      "id": 4614,
+      "word": "snap",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to break or move with a sudden sharp sound",
+      "definitionTh": "ดีด / หักดังเป๊าะ",
+      "example": "The report provides a clear example of “snap”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "break",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "snap example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 51
+    },
+    {
+      "id": 4615,
+      "word": "soak",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to become very wet in liquid",
+      "definitionTh": "แช่",
+      "example": "Do not soak the electrical enclosure.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "drench",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "soak in"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 50
+    },
+    {
+      "id": 4616,
+      "word": "soar",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to rise rapidly to a high level",
+      "definitionTh": "ทะยาน",
+      "example": "Defect rates may soar after a major fault.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "rise",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "fall",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "soar rapidly"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 49
+    },
+    {
+      "id": 4617,
+      "word": "so-called",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "commonly described by a particular name",
+      "definitionTh": "ที่เรียกกันว่า",
+      "example": "The report provides a clear example of “so-called”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "supposed",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "so-called example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 48
+    },
+    {
+      "id": 4618,
+      "word": "socialist",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "supporting socialist ideas",
+      "definitionTh": "สังคมนิยม",
+      "example": "The report provides a clear example of “socialist”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "left-wing",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "socialist example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 47
+    },
+    {
+      "id": 4619,
+      "word": "sole",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "only one or belonging to one person",
+      "definitionTh": "เพียงผู้เดียว",
+      "example": "The report provides a clear example of “sole”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "only",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "shared",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "sole example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 46
+    },
+    {
+      "id": 4620,
+      "word": "solely",
+      "pos": "adv.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "only and not involving anything else",
+      "definitionTh": "เพียงอย่างเดียว",
+      "example": "The report provides a clear example of “solely”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "exclusively",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "partly",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "solely example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 45
+    },
+    {
+      "id": 4621,
+      "word": "solidarity",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "unity and mutual support within a group",
+      "definitionTh": "ความเป็นหนึ่งเดียว",
+      "example": "The report provides a clear example of “solidarity”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "unity",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "division",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "solidarity example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 44
+    },
+    {
+      "id": 4622,
+      "word": "solo",
+      "pos": "adj., n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "performed by one person",
+      "definitionTh": "เดี่ยว",
+      "example": "The report provides a clear example of “solo”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "individual performance",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "solo example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 43
+    },
+    {
+      "id": 4623,
+      "word": "somehow",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "in an unknown way",
+      "definitionTh": "อย่างใดอย่างหนึ่ง",
+      "example": "The report provides a clear example of “somehow”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "in some way",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "somehow example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 42
+    },
+    {
+      "id": 4624,
+      "word": "sometime",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "at an unspecified time",
+      "definitionTh": "บางเวลา",
+      "example": "The report provides a clear example of “sometime”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "occasionally",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "sometime example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 41
+    },
+    {
+      "id": 4625,
+      "word": "sophisticated",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "advanced, complex, and refined",
+      "definitionTh": "ซับซ้อน",
+      "example": "The system uses a sophisticated vision model.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "advanced",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "simple",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "sophisticated system"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 40
+    },
+    {
+      "id": 4626,
+      "word": "sophomore",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a student in the second year of college",
+      "definitionTh": "นักศึกษาปีสอง",
+      "example": "The report provides a clear example of “sophomore”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "second-year student",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "sophomore example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 39
+    },
+    {
+      "id": 4627,
+      "word": "sound",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "reliable, sensible, or based on valid evidence",
+      "definitionTh": "มั่นคง / สมเหตุผล",
+      "example": "The proposal is technically sound.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "valid",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "flawed",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "sound decision"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 38
+    },
+    {
+      "id": 4628,
+      "word": "sovereignty",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the independent authority of a state",
+      "definitionTh": "อธิปไตย",
+      "example": "The report provides a clear example of “sovereignty”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "independence",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "sovereignty example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 37
+    },
+    {
+      "id": 4629,
+      "word": "spam",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "unwanted electronic messages",
+      "definitionTh": "สแปม",
+      "example": "The filter blocks spam messages.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "junk mail",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "spam filter"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 36
+    },
+    {
+      "id": 4630,
+      "word": "span",
+      "pos": "v., n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to extend across a period or distance",
+      "definitionTh": "ครอบคลุมช่วง",
+      "example": "The project spans three production lines.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "extend",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "time span"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 35
+    },
+    {
+      "id": 4631,
+      "word": "spare",
+      "pos": "adj. B2, v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "extra and available; to avoid harming",
+      "definitionTh": "สำรอง / ไว้ชีวิต",
+      "example": "Keep a spare sensor in the cabinet.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "extra",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "essential",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "spare part"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 34
+    },
+    {
+      "id": 4632,
+      "word": "spark",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to cause the beginning of an activity",
+      "definitionTh": "จุดประกาย",
+      "example": "A loose wire may spark.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "ignite",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "electrical spark"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 33
+    },
+    {
+      "id": 4633,
+      "word": "specialize",
+      "pos": "adj.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to focus on one subject or skill",
+      "definitionTh": "เชี่ยวชาญ",
+      "example": "The supplier specializes in machine vision.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "focus",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "specialty",
+          "specialization",
+          "specification"
+        ],
+        "verb": [
+          "specialize",
+          "specify"
+        ],
+        "adjective": [
+          "specialized",
+          "specific"
+        ],
+        "adverb": [
+          "specifically"
+        ]
+      },
+      "collocations": [
+        "specialize in"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 32
+    },
+    {
+      "id": 4634,
+      "word": "specialized",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "designed for a particular purpose",
+      "definitionTh": "เฉพาะทาง",
+      "example": "Use specialized lighting for the reflective surface.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "customized",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "specialized equipment"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 31
+    },
+    {
+      "id": 4635,
+      "word": "specification",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a precise statement of requirements",
+      "definitionTh": "ข้อกำหนด",
+      "example": "Check the camera specification.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "requirement",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "technical specification"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 30
+    },
+    {
+      "id": 4636,
+      "word": "specify",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to state requirements clearly",
+      "definitionTh": "ระบุ",
+      "example": "Specify the required resolution.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "define",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "specify requirements"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 29
+    },
+    {
+      "id": 4637,
+      "word": "specimen",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "an individual sample used for examination",
+      "definitionTh": "ตัวอย่างชิ้นงาน",
+      "example": "Place the specimen under the camera.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "sample",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "test specimen"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 28
+    },
+    {
+      "id": 4638,
+      "word": "spectacle",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "an impressive public display or event",
+      "definitionTh": "ภาพอันน่าตื่นตา",
+      "example": "The report provides a clear example of “spectacle”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "display",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "spectacle example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 27
+    },
+    {
+      "id": 4639,
+      "word": "spectacular",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "very impressive to watch",
+      "definitionTh": "น่าตื่นตาตื่นใจ",
+      "example": "The trial achieved a spectacular improvement.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "impressive",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "spectacular result"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 26
+    },
+    {
+      "id": 4640,
+      "word": "spectator",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a person who watches an event",
+      "definitionTh": "ผู้ชม",
+      "example": "The report provides a clear example of “spectator”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "viewer",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "spectator example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 25
+    },
+    {
+      "id": 4641,
+      "word": "spectrum",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a complete range of related values",
+      "definitionTh": "สเปกตรัม",
+      "example": "Analyze the light spectrum.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "range",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "visible spectrum"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 24
+    },
+    {
+      "id": 4642,
+      "word": "speculate",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to form an opinion without firm evidence",
+      "definitionTh": "คาดเดา",
+      "example": "Do not speculate without evidence.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "guess",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "speculation"
+        ],
+        "verb": [
+          "speculate"
+        ],
+        "adjective": [
+          "speculative"
+        ],
+        "adverb": [
+          "speculatively"
+        ]
+      },
+      "collocations": [
+        "speculate about"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 23
+    },
+    {
+      "id": 4643,
+      "word": "speculation",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the act of forming an uncertain opinion",
+      "definitionTh": "การคาดเดา",
+      "example": "The report provides a clear example of “speculation”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "conjecture",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "speculation example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 22
+    },
+    {
+      "id": 4644,
+      "word": "spell",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a period under influence; to form a word with letters",
+      "definitionTh": "ช่วงเวลา / สะกด",
+      "example": "The report provides a clear example of “spell”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "period",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "spell example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 21
+    },
+    {
+      "id": 4645,
+      "word": "sphere",
+      "pos": "v., n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "an area of activity or influence",
+      "definitionTh": "ขอบเขต",
+      "example": "The report provides a clear example of “sphere”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "domain",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "sphere example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 20
+    },
+    {
+      "id": 4646,
+      "word": "spice",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a substance used to flavor food",
+      "definitionTh": "เครื่องเทศ",
+      "example": "The report provides a clear example of “spice”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "seasoning",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "spice example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 19
+    },
+    {
+      "id": 4647,
+      "word": "spill",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to accidentally let liquid flow out",
+      "definitionTh": "หก",
+      "example": "Clean any product spill immediately.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "leak",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "chemical spill"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 18
+    },
+    {
+      "id": 4648,
+      "word": "spin",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to turn rapidly around a center",
+      "definitionTh": "หมุน",
+      "example": "The shaft can spin at high speed.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "rotate",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "spin rapidly"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 17
+    },
+    {
+      "id": 4649,
+      "word": "spine",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "the central column of bones in the back",
+      "definitionTh": "กระดูกสันหลัง",
+      "example": "The cable tray forms the network spine.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "backbone",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "central spine"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 16
+    },
+    {
+      "id": 4650,
+      "word": "spite",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a feeling of wanting to hurt or annoy",
+      "definitionTh": "ทั้ง ๆ ที่",
+      "example": "The report provides a clear example of “spite”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "malice",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "spite example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 15
+    },
+    {
+      "id": 4651,
+      "word": "spoil",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "to damage or ruin quality",
+      "definitionTh": "ทำให้เสีย",
+      "example": "Heat can spoil the product.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "ruin",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "spoil quickly"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 14
+    },
+    {
+      "id": 4652,
+      "word": "spokesman",
+      "pos": "n.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "a man who speaks officially for a group",
+      "definitionTh": "โฆษกชาย",
+      "example": "The report provides a clear example of “spokesman”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "male representative",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "spokesman example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 13
+    },
+    {
+      "id": 4653,
+      "word": "spokesperson",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a person who speaks officially for a group",
+      "definitionTh": "โฆษก",
+      "example": "The report provides a clear example of “spokesperson”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "representative",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "spokesperson example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 12
+    },
+    {
+      "id": 4654,
+      "word": "spokeswoman",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a woman who speaks officially for a group",
+      "definitionTh": "โฆษกหญิง",
+      "example": "The report provides a clear example of “spokeswoman”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "female representative",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "spokeswoman example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 11
+    },
+    {
+      "id": 4655,
+      "word": "sponsorship",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "financial or public support for an activity",
+      "definitionTh": "การสนับสนุน",
+      "example": "The project received management sponsorship.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "support",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "executive sponsorship"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 10
+    },
+    {
+      "id": 4656,
+      "word": "spotlight",
+      "pos": "n., v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "public attention or a strong focused light",
+      "definitionTh": "จุดสนใจ",
+      "example": "The audit put traceability in the spotlight.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "focus",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "public spotlight"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 9
+    },
+    {
+      "id": 4657,
+      "word": "spouse",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a husband, wife, or married partner",
+      "definitionTh": "คู่สมรส",
+      "example": "The report provides a clear example of “spouse”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "partner",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "spouse example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 8
+    },
+    {
+      "id": 4658,
+      "word": "spy",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a person secretly collecting information",
+      "definitionTh": "สายลับ",
+      "example": "The report provides a clear example of “spy”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "agent",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "spy example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 7
+    },
+    {
+      "id": 4659,
+      "word": "squad",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "a small organized team",
+      "definitionTh": "ทีมย่อย",
+      "example": "A technical squad supports deployment.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "team",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "project squad"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 6
+    },
+    {
+      "id": 4660,
+      "word": "squeeze",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to press firmly from opposite sides",
+      "definitionTh": "บีบ",
+      "example": "Do not squeeze the fiber cable.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "compress",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "squeeze tightly"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 5
+    },
+    {
+      "id": 4661,
+      "word": "stab",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to push a sharp object into something",
+      "definitionTh": "แทง",
+      "example": "The report provides a clear example of “stab”.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "pierce",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "stab example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 4
+    },
+    {
+      "id": 4662,
+      "word": "stability",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "the quality of remaining steady and reliable",
+      "definitionTh": "เสถียรภาพ",
+      "example": "Monitor model stability over time.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "steadiness",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "instability",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "system stability"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 3
+    },
+    {
+      "id": 4663,
+      "word": "stabilize",
+      "pos": "v.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "to make something steady and less variable",
+      "definitionTh": "ทำให้เสถียร",
+      "example": "The bracket helps stabilize the camera.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "steady",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "destabilize",
+          "level": "C1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "stability"
+        ],
+        "verb": [
+          "stabilize"
+        ],
+        "adjective": [
+          "stable"
+        ],
+        "adverb": [
+          "stably"
+        ]
+      },
+      "collocations": [
+        "stabilize performance"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 2
+    },
+    {
+      "id": 4664,
+      "word": "stake",
+      "pos": "n.",
+      "level": "C1",
+      "ipa": "",
+      "definitionEn": "money or interest at risk in an activity",
+      "definitionTh": "ส่วนได้เสีย",
+      "example": "Quality has a major stake in the project.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "interest",
+          "level": "C1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "have a stake"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford5000-American",
+        "C1"
+      ],
+      "difficulty": 5,
+      "frequencyRank": 1
+    }
+  ]
+}

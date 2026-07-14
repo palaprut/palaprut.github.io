@@ -1,8 +1,8 @@
 *{box-sizing:border-box;margin:0;padding:0}
 button,input,select,textarea{font-family:inherit}
-body{font-family:'Prompt',sans-serif;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);min-height:100vh;padding:20px;color:#333}
+body{font-family:'Prompt',sans-serif;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);min-height:100vh;padding:20px;color:#333;overflow-x:hidden}
 /* .container{max-width:1320px;margin:auto;background:#fff;border-radius:24px;padding:36px 44px;box-shadow:0 20px 60px rgba(0,0,0,.2)} */
-.container{max-width:1320px;margin:auto;background:#fff;border-radius:20px;padding:30px;box-shadow:0 20px 60px rgba(0,0,0,.2)}
+.container{max-width:1320px;width:100%;margin:auto;background:#fff;border-radius:20px;padding:30px;box-shadow:0 20px 60px rgba(0,0,0,.2);overflow:visible;box-sizing:border-box}
 .screen{display:none}.screen.active{display:block}
 /* .screen.active#screen-results{
     background:linear-gradient(180deg,#ffffff 0%,#fbfcff 100%);
@@ -274,24 +274,36 @@ canvas{max-width:500px;display:block;margin:20px auto}
    normal position once you reach the end of the results content. */
 .floating-result-nav{
     position:sticky;
-    bottom:18px;
-    width:min(560px,92%);
-    margin:20px auto 0;
+    bottom:16px;
     z-index:500;
+    width:min(560px, 92%);
+    margin:24px auto 0;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:15px;
+    /* โปร่งใส – แสดงแค่ปุ่มลอย ๆ */
+    background:transparent;
+    padding:0;
+    border-radius:0;
+    box-shadow:none;
+    /* ให้คลิกทะลุพื้นที่ว่าง ๆ ระหว่างปุ่มได้ */
+    pointer-events:none;
 }
 .floating-result-nav .nav-btn,
 .floating-result-nav .vocab-btn{
-    box-shadow:0 8px 22px rgba(16,24,40,.18);
+    pointer-events:auto;
+    box-shadow:0 10px 26px rgba(16,24,40,.22);
     transition:.25s;
 }
 .floating-result-nav .nav-btn:hover,
 .floating-result-nav .vocab-btn:hover{
     transform:translateY(-3px);
-    box-shadow:0 14px 32px rgba(16,24,40,.26);
+    box-shadow:0 16px 36px rgba(16,24,40,.30);
 }
-.results-bottom-spacer{height:6px}
+.results-bottom-spacer{height:12px}
 @media(max-width:600px){
-    .floating-result-nav{bottom:12px;gap:10px}
+    .floating-result-nav{bottom:12px;width:min(560px, 96%);gap:10px}
     .floating-result-nav .nav-btn,
     .floating-result-nav .vocab-btn{flex:1;padding:12px 10px;font-size:14px}
 }
@@ -782,19 +794,33 @@ html[data-theme="dark"] .home-section-head p{color:#a6a9c4}
 }
 
 @media(max-width:600px){
-    #screen-vocab .vocab-word{font-size:30px}
-    #screen-vocab .vocab-card-stage{height:360px;max-width:100%}
+    body{padding:10px}
+    .container{padding:14px;border-radius:16px}
+    #screen-vocab .vocab-word{font-size:clamp(24px,7vw,30px)}
+    #screen-vocab .vocab-card-stage{height:min(60vw, 320px);max-width:100%;margin:8px auto 16px}
+    #screen-vocab .vocab-face{padding:18px 16px}
+    #screen-vocab .vocab-back-content{gap:8px;overflow-y:auto}
+    #screen-vocab .vocab-def-en,#screen-vocab .vocab-def-th,#screen-vocab .vocab-example,#screen-vocab .vocab-extra-content{font-size:14px;line-height:1.45;overflow-wrap:anywhere}
+    #screen-vocab .vocab-controls{flex-wrap:wrap;gap:8px}
+    #screen-vocab .vocab-btn{flex:1 1 calc(50% - 4px);padding:11px 12px;font-size:13px}
+    #screen-vocab .vocab-nav-row{flex-wrap:wrap;gap:8px}
+    #screen-vocab .vocab-nav-btn{flex:1 1 calc(50% - 4px);padding:10px 8px;font-size:12.5px}
     #screen-vocab .vocab-cal-nav{gap:6px;justify-content:center;flex-wrap:nowrap}
     #screen-vocab .vocab-cal-nav-btn{padding:7px 11px;font-size:14px;min-width:36px;min-height:36px}
     #screen-vocab .vocab-cal-month-label{font-size:16px;white-space:nowrap;flex:1;text-align:center}
-    #screen-vocab .vocab-cal-grid{padding:12px;border-radius:16px;width:100%}
-    #screen-vocab .vocab-cal-weekdays span{font-size:9.5px}
-    #screen-vocab .vocab-cal-days{gap:6px}
-    #screen-vocab .vocab-cal-cell{border-radius:10px}
-    #screen-vocab .vocab-cal-cell .vocab-date-num{font-size:12px}
+    #screen-vocab .vocab-cal-grid{padding:10px;border-radius:16px;width:100%}
+    #screen-vocab .vocab-cal-weekdays span{font-size:8.5px}
+    #screen-vocab .vocab-cal-days{gap:4px}
+    #screen-vocab .vocab-cal-cell{border-radius:10px;min-height:0}
+    #screen-vocab .vocab-cal-cell .vocab-date-num{font-size:11px}
     #screen-vocab .vocab-cal-cell.study .vocab-day-tag,
-    #screen-vocab .vocab-cal-cell.quiz .vocab-day-tag{font-size:8px;line-height:1.1}
-    #screen-vocab .vocab-cal-legend{font-size:9px;gap:8px;justify-content:flex-start}
+    #screen-vocab .vocab-cal-cell.quiz .vocab-day-tag{font-size:7.5px;line-height:1.1}
+    #screen-vocab .vocab-cal-cell.today .vocab-date-num{width:24px;height:24px;font-size:10px}
+    #screen-vocab .vocab-cal-legend{font-size:8.5px;gap:8px;justify-content:flex-start}
+    #screen-vocab .vocab-quiz-card{padding:16px;min-height:auto}
+    #screen-vocab .vocab-quiz-sentence{font-size:15px;line-height:1.55}
+    #screen-vocab .vocab-quiz-option{padding:11px 12px;font-size:14px}
+    #screen-vocab .vocab-quiz-result{padding:18px 6px}
 }
 
 /* ============================================================
@@ -1132,4 +1158,10 @@ html[data-theme="dark"] .vocab-extra-fam{background:rgba(99,102,241,.15);color:#
     .vocab-extra-row{font-size:12.5px;gap:8px}
     .vocab-extra-content,.vocab-extra-content .vf-chip{font-size:12.5px}
     .vocab-extra-label{min-width:48px;font-size:9.5px}
+}
+
+/* ============ Sticky floating action bar: dark theme shadows ============ */
+html[data-theme="dark"] .floating-result-nav .nav-btn,
+html[data-theme="dark"] .floating-result-nav .vocab-btn{
+    box-shadow:0 10px 26px rgba(0,0,0,.45);
 }

@@ -1,0 +1,3916 @@
+{
+  "version": 2,
+  "source": "Oxford 3000",
+  "batch": 22,
+  "level": "Mixed",
+  "totalWords": 100,
+  "metadata": {
+    "created": "2026-07-14",
+    "language": "en",
+    "description": "Batch 22 of 50 — Oxford 3000 words 2101-2200; source-aligned sequence"
+  },
+  "words": [
+    {
+      "id": 2101,
+      "word": "qualified",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "having the skills or training needed",
+      "definitionTh": "มีคุณสมบัติ",
+      "example": "A qualified engineer checked the design.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "competent",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unqualified",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "qualified engineer"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 100
+    },
+    {
+      "id": 2102,
+      "word": "qualify",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to gain or provide the required skills",
+      "definitionTh": "ทำให้มีคุณสมบัติ",
+      "example": "The result must qualify for approval.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "be eligible",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "qualification"
+        ],
+        "verb": [
+          "qualify"
+        ],
+        "adjective": [
+          "qualified"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "qualify for"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 99
+    },
+    {
+      "id": 2103,
+      "word": "quality",
+      "pos": "n., v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "how good something is",
+      "definitionTh": "คุณภาพ",
+      "example": "The camera improves product quality.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "standard",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "inferiority",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "quality"
+        ],
+        "verb": [],
+        "adjective": [
+          "qualitative"
+        ],
+        "adverb": [
+          "qualitatively"
+        ]
+      },
+      "collocations": [
+        "product quality"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 98
+    },
+    {
+      "id": 2104,
+      "word": "quantity",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "an amount or number of something",
+      "definitionTh": "ปริมาณ",
+      "example": "Measure the exact quantity.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "amount",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "large quantity"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 97
+    },
+    {
+      "id": 2105,
+      "word": "quarter",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "one of four equal parts or a three-month period",
+      "definitionTh": "หนึ่งในสี่ / ไตรมาส",
+      "example": "The report includes first quarter.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "first quarter"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 96
+    },
+    {
+      "id": 2106,
+      "word": "queen",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a female ruler",
+      "definitionTh": "ราชินี",
+      "example": "The queen visited the city.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "queen example"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 95
+    },
+    {
+      "id": 2107,
+      "word": "question",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a sentence asking for information",
+      "definitionTh": "คำถาม / ตั้งคำถาม",
+      "example": "Please ask a clear question.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "ask a question"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 94
+    },
+    {
+      "id": 2108,
+      "word": "quick",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "done with speed",
+      "definitionTh": "รวดเร็ว",
+      "example": "We need a quick response.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "fast",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "slow",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "quickness"
+        ],
+        "verb": [],
+        "adjective": [
+          "quick"
+        ],
+        "adverb": [
+          "quickly"
+        ]
+      },
+      "collocations": [
+        "quick response"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 93
+    },
+    {
+      "id": 2109,
+      "word": "quickly",
+      "pos": "adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "at a fast speed",
+      "definitionTh": "อย่างรวดเร็ว",
+      "example": "The operator responded quickly.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "rapidly",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "respond quickly"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 92
+    },
+    {
+      "id": 2110,
+      "word": "quiet",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "making little or no noise",
+      "definitionTh": "เงียบ",
+      "example": "The laboratory is quiet.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "silent",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "noisy",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "quiet"
+        ],
+        "verb": [
+          "quiet"
+        ],
+        "adjective": [
+          "quiet"
+        ],
+        "adverb": [
+          "quietly"
+        ]
+      },
+      "collocations": [
+        "quiet area"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 91
+    },
+    {
+      "id": 2111,
+      "word": "quietly",
+      "pos": "adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "with little or no noise",
+      "definitionTh": "อย่างเงียบ ๆ",
+      "example": "The motor runs quietly.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "silently",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "work quietly"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 90
+    },
+    {
+      "id": 2112,
+      "word": "quit",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to stop doing or leave something",
+      "definitionTh": "เลิก",
+      "example": "He decided to quit his job.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "stop",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "continue",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "quit a job"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 89
+    },
+    {
+      "id": 2113,
+      "word": "quite",
+      "pos": "adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to a certain degree",
+      "definitionTh": "ค่อนข้าง",
+      "example": "The test was quite difficult.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "fairly",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "quite difficult"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 88
+    },
+    {
+      "id": 2114,
+      "word": "quote",
+      "pos": "v.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "exact words repeated from another source; to repeat them",
+      "definitionTh": "คำพูดอ้างอิง / อ้าง",
+      "example": "The report includes request a quote.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "cite",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "request a quote"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 87
+    },
+    {
+      "id": 2115,
+      "word": "race",
+      "pos": "n., v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a competition of speed; to compete",
+      "definitionTh": "การแข่งขัน / แข่ง",
+      "example": "She won the race.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "contest",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "race",
+          "racing"
+        ],
+        "verb": [
+          "race"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "win a race"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 86
+    },
+    {
+      "id": 2116,
+      "word": "racing",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the activity of competing in races",
+      "definitionTh": "การแข่ง",
+      "example": "The report includes car racing.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "car racing"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 85
+    },
+    {
+      "id": 2117,
+      "word": "radio",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a device or system for sound broadcasting",
+      "definitionTh": "วิทยุ",
+      "example": "The radio signal was weak.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "radio signal"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 84
+    },
+    {
+      "id": 2118,
+      "word": "railway",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a track and system used by trains",
+      "definitionTh": "ทางรถไฟ",
+      "example": "The report includes railway station.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "railroad",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "railway station"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 83
+    },
+    {
+      "id": 2119,
+      "word": "rain",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "water falling from clouds; to fall as rain",
+      "definitionTh": "ฝน / ฝนตก",
+      "example": "Heavy rain caused flooding.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "rain"
+        ],
+        "verb": [
+          "rain"
+        ],
+        "adjective": [
+          "rainy"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "heavy rain"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 82
+    },
+    {
+      "id": 2120,
+      "word": "raise",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to lift or increase something",
+      "definitionTh": "ยก / เพิ่ม",
+      "example": "Raise the sensor by ten millimetres.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "increase",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "lower",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "raise"
+        ],
+        "verb": [
+          "raise"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "raise a concern"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 81
+    },
+    {
+      "id": 2121,
+      "word": "range",
+      "pos": "n., v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the limits or variety of something",
+      "definitionTh": "ช่วง / ขอบเขต",
+      "example": "The report includes temperature range.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "scope",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "temperature range"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 80
+    },
+    {
+      "id": 2122,
+      "word": "rank",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a position in an ordered list; to place in order",
+      "definitionTh": "อันดับ / จัดอันดับ",
+      "example": "The report includes high rank.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "position",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "rank"
+        ],
+        "verb": [
+          "rank"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "high rank"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 79
+    },
+    {
+      "id": 2123,
+      "word": "rapid",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "happening very fast",
+      "definitionTh": "รวดเร็ว",
+      "example": "The report includes rapid growth.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "fast",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "slow",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "rapid"
+        ],
+        "adverb": [
+          "rapidly"
+        ]
+      },
+      "collocations": [
+        "rapid growth"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 78
+    },
+    {
+      "id": 2124,
+      "word": "rapidly",
+      "pos": "adv.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "at great speed",
+      "definitionTh": "อย่างรวดเร็ว",
+      "example": "The report includes increase rapidly.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "quickly",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "increase rapidly"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 77
+    },
+    {
+      "id": 2125,
+      "word": "rare",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "not common",
+      "definitionTh": "หายาก",
+      "example": "The report includes rare defect.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "uncommon",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "common",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "rarity"
+        ],
+        "verb": [],
+        "adjective": [
+          "rare"
+        ],
+        "adverb": [
+          "rarely"
+        ]
+      },
+      "collocations": [
+        "rare defect"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 76
+    },
+    {
+      "id": 2126,
+      "word": "rarely",
+      "pos": "adv.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "not often",
+      "definitionTh": "นาน ๆ ครั้ง",
+      "example": "The report includes rarely occur.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "seldom",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "often",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "rarely occur"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 75
+    },
+    {
+      "id": 2127,
+      "word": "rate",
+      "pos": "n., v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a measure or value; to assess",
+      "definitionTh": "อัตรา / ให้คะแนน",
+      "example": "The report includes defect rate.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "measure",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "rate"
+        ],
+        "verb": [
+          "rate"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "defect rate"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 74
+    },
+    {
+      "id": 2128,
+      "word": "rather",
+      "pos": "adv.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to some degree or preferably",
+      "definitionTh": "ค่อนข้าง / มากกว่า",
+      "example": "The report includes rather than.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "preferably",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "rather than"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 73
+    },
+    {
+      "id": 2129,
+      "word": "raw",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "not processed or cooked",
+      "definitionTh": "ดิบ",
+      "example": "Inspect the raw material.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "unprocessed",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "processed",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "raw material"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 72
+    },
+    {
+      "id": 2130,
+      "word": "reach",
+      "pos": "n., v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to arrive at or extend to",
+      "definitionTh": "ไปถึง / เอื้อม",
+      "example": "The temperature reached the limit.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "arrive at",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "reach a target"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 71
+    },
+    {
+      "id": 2131,
+      "word": "react",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to respond to an event",
+      "definitionTh": "ตอบสนอง",
+      "example": "The system reacts quickly.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "respond",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "reaction"
+        ],
+        "verb": [
+          "react"
+        ],
+        "adjective": [
+          "reactive"
+        ],
+        "adverb": [
+          "reactively"
+        ]
+      },
+      "collocations": [
+        "react quickly"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 70
+    },
+    {
+      "id": 2132,
+      "word": "reaction",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a response caused by something",
+      "definitionTh": "ปฏิกิริยา",
+      "example": "The report includes chemical reaction.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "response",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "reaction"
+        ],
+        "verb": [
+          "react"
+        ],
+        "adjective": [
+          "reactive"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "chemical reaction"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 69
+    },
+    {
+      "id": 2133,
+      "word": "read",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to understand written words",
+      "definitionTh": "อ่าน",
+      "example": "Read the instruction carefully.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "reader",
+          "reading"
+        ],
+        "verb": [
+          "read"
+        ],
+        "adjective": [
+          "readable"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "read a report"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 68
+    },
+    {
+      "id": 2134,
+      "word": "reader",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a person who reads",
+      "definitionTh": "ผู้อ่าน",
+      "example": "The report includes card reader.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "reader",
+          "reading"
+        ],
+        "verb": [
+          "read"
+        ],
+        "adjective": [
+          "readable"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "card reader"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 67
+    },
+    {
+      "id": 2135,
+      "word": "reading",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the activity of reading",
+      "definitionTh": "การอ่าน",
+      "example": "The report includes sensor reading.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "reader",
+          "reading"
+        ],
+        "verb": [
+          "read"
+        ],
+        "adjective": [
+          "readable"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "sensor reading"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 66
+    },
+    {
+      "id": 2136,
+      "word": "ready",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "prepared for action",
+      "definitionTh": "พร้อม",
+      "example": "The machine is ready for use.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "prepared",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unprepared",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "ready for use"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 65
+    },
+    {
+      "id": 2137,
+      "word": "real",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "true and existing",
+      "definitionTh": "จริง",
+      "example": "This is a real risk.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "genuine",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "fake",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "reality"
+        ],
+        "verb": [
+          "realize"
+        ],
+        "adjective": [
+          "real",
+          "realistic"
+        ],
+        "adverb": [
+          "really"
+        ]
+      },
+      "collocations": [
+        "real problem"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 64
+    },
+    {
+      "id": 2138,
+      "word": "realistic",
+      "pos": "adj.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "appearing like real life",
+      "definitionTh": "สมจริง",
+      "example": "Set a realistic target.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "practical",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unrealistic",
+          "level": "B2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "reality"
+        ],
+        "verb": [
+          "realize"
+        ],
+        "adjective": [
+          "real",
+          "realistic"
+        ],
+        "adverb": [
+          "realistically"
+        ]
+      },
+      "collocations": [
+        "realistic target"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 63
+    },
+    {
+      "id": 2139,
+      "word": "reality",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the actual state of things",
+      "definitionTh": "ความเป็นจริง",
+      "example": "The report includes in reality.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "actuality",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "reality"
+        ],
+        "verb": [
+          "realize"
+        ],
+        "adjective": [
+          "real",
+          "realistic"
+        ],
+        "adverb": [
+          "really"
+        ]
+      },
+      "collocations": [
+        "in reality"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 62
+    },
+    {
+      "id": 2140,
+      "word": "realize",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to become aware of a fact",
+      "definitionTh": "ตระหนัก",
+      "example": "We realized the cause was mechanical.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "understand",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "reality"
+        ],
+        "verb": [
+          "realize"
+        ],
+        "adjective": [
+          "real"
+        ],
+        "adverb": [
+          "really"
+        ]
+      },
+      "collocations": [
+        "realize that"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 61
+    },
+    {
+      "id": 2141,
+      "word": "really",
+      "pos": "adv.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "in fact or very much",
+      "definitionTh": "จริง ๆ",
+      "example": "The report includes really useful.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "really useful"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 60
+    },
+    {
+      "id": 2142,
+      "word": "reason",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "a cause or explanation",
+      "definitionTh": "เหตุผล",
+      "example": "The report includes main reason.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "cause",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "reason"
+        ],
+        "verb": [
+          "reason"
+        ],
+        "adjective": [
+          "reasonable"
+        ],
+        "adverb": [
+          "reasonably"
+        ]
+      },
+      "collocations": [
+        "main reason"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 59
+    },
+    {
+      "id": 2143,
+      "word": "reasonable",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "fair and based on good judgment",
+      "definitionTh": "สมเหตุสมผล",
+      "example": "The report includes reasonable price.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "fair",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unreasonable",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "reason"
+        ],
+        "verb": [
+          "reason"
+        ],
+        "adjective": [
+          "reasonable"
+        ],
+        "adverb": [
+          "reasonably"
+        ]
+      },
+      "collocations": [
+        "reasonable price"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 58
+    },
+    {
+      "id": 2144,
+      "word": "recall",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to remember or officially bring back",
+      "definitionTh": "จำได้ / เรียกคืน",
+      "example": "The report includes product recall.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "remember",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "recall"
+        ],
+        "verb": [
+          "recall"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "product recall"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 57
+    },
+    {
+      "id": 2145,
+      "word": "receive",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to get or accept something",
+      "definitionTh": "ได้รับ",
+      "example": "We received approval.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "get",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "send",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "receipt",
+          "receiver"
+        ],
+        "verb": [
+          "receive"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "receive approval"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 56
+    },
+    {
+      "id": 2146,
+      "word": "recent",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "not long ago",
+      "definitionTh": "ล่าสุด",
+      "example": "Use the most recent data.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "latest",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "old",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [
+          "recent"
+        ],
+        "adverb": [
+          "recently"
+        ]
+      },
+      "collocations": [
+        "recent data"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 55
+    },
+    {
+      "id": 2147,
+      "word": "recently",
+      "pos": "adv.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "not long ago or lately",
+      "definitionTh": "เมื่อเร็ว ๆ นี้",
+      "example": "The software was recently updated.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "lately",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "recently updated"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 54
+    },
+    {
+      "id": 2148,
+      "word": "recipe",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "instructions for preparing food",
+      "definitionTh": "สูตรอาหาร",
+      "example": "The report includes follow a recipe.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "follow a recipe"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 53
+    },
+    {
+      "id": 2149,
+      "word": "recognize",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to identify from previous knowledge",
+      "definitionTh": "จำได้ / ยอมรับ",
+      "example": "The report includes recognize a pattern.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "identify",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "recognition"
+        ],
+        "verb": [
+          "recognize"
+        ],
+        "adjective": [
+          "recognizable"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "recognize a pattern"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 52
+    },
+    {
+      "id": 2150,
+      "word": "recommend",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to advise that something is suitable",
+      "definitionTh": "แนะนำ",
+      "example": "The report includes recommend a solution.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "suggest",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "recommendation"
+        ],
+        "verb": [
+          "recommend"
+        ],
+        "adjective": [
+          "recommended"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "recommend a solution"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 51
+    },
+    {
+      "id": 2151,
+      "word": "recommendation",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "advice about what should be done",
+      "definitionTh": "คำแนะนำ",
+      "example": "The report includes make a recommendation.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "advice",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "recommendation"
+        ],
+        "verb": [
+          "recommend"
+        ],
+        "adjective": [
+          "recommended"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "make a recommendation"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 50
+    },
+    {
+      "id": 2152,
+      "word": "record",
+      "pos": "n., v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "stored information; to store information",
+      "definitionTh": "บันทึก / สถิติ",
+      "example": "The report includes record data.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "record",
+          "recording"
+        ],
+        "verb": [
+          "record"
+        ],
+        "adjective": [
+          "recorded"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "record data"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 49
+    },
+    {
+      "id": 2153,
+      "word": "recording",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "sound or video that has been stored",
+      "definitionTh": "การบันทึก",
+      "example": "The report includes video recording.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "record",
+          "recording"
+        ],
+        "verb": [
+          "record"
+        ],
+        "adjective": [
+          "recorded"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "video recording"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 48
+    },
+    {
+      "id": 2154,
+      "word": "recover",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to return to a normal condition",
+      "definitionTh": "ฟื้นตัว",
+      "example": "The team recovered the lost data.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "restore",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "worsen",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "recovery"
+        ],
+        "verb": [
+          "recover"
+        ],
+        "adjective": [
+          "recoverable"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "recover data"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 47
+    },
+    {
+      "id": 2155,
+      "word": "recycle",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to process waste for reuse",
+      "definitionTh": "รีไซเคิล",
+      "example": "Recycle the plastic waste.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "recycling"
+        ],
+        "verb": [
+          "recycle"
+        ],
+        "adjective": [
+          "recyclable"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "recycle waste"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 46
+    },
+    {
+      "id": 2156,
+      "word": "red",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "the colour of blood",
+      "definitionTh": "สีแดง",
+      "example": "The red light indicates a fault.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "red light"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 45
+    },
+    {
+      "id": 2157,
+      "word": "reduce",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to make something smaller",
+      "definitionTh": "ลด",
+      "example": "The project reduced defects.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "decrease",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "increase",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "reduction"
+        ],
+        "verb": [
+          "reduce"
+        ],
+        "adjective": [
+          "reduced"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "reduce defects"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 44
+    },
+    {
+      "id": 2158,
+      "word": "reduction",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the act of making something smaller",
+      "definitionTh": "การลด",
+      "example": "The report includes cost reduction.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "decrease",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "reduction"
+        ],
+        "verb": [
+          "reduce"
+        ],
+        "adjective": [
+          "reduced"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "cost reduction"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 43
+    },
+    {
+      "id": 2159,
+      "word": "refer",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to mention or direct attention to",
+      "definitionTh": "อ้างถึง",
+      "example": "Refer to the manual.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "mention",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "reference"
+        ],
+        "verb": [
+          "refer"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "refer to"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 42
+    },
+    {
+      "id": 2160,
+      "word": "reference",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a source or mention of information",
+      "definitionTh": "การอ้างอิง",
+      "example": "The report includes reference document.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "source",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "reference"
+        ],
+        "verb": [
+          "refer"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "reference document"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 41
+    },
+    {
+      "id": 2161,
+      "word": "reflect",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to send back light or show thought",
+      "definitionTh": "สะท้อน",
+      "example": "The surface reflects light.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "mirror",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "absorb",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "reflection"
+        ],
+        "verb": [
+          "reflect"
+        ],
+        "adjective": [
+          "reflective"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "reflect light"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 40
+    },
+    {
+      "id": 2162,
+      "word": "refuse",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to say no to something",
+      "definitionTh": "ปฏิเสธ",
+      "example": "The supplier refused the request.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "reject",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "accept",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "refusal"
+        ],
+        "verb": [
+          "refuse"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "refuse permission"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 39
+    },
+    {
+      "id": 2163,
+      "word": "region",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "a particular area of a country or world",
+      "definitionTh": "ภูมิภาค",
+      "example": "The report includes northern region.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "area",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "region"
+        ],
+        "verb": [],
+        "adjective": [
+          "regional"
+        ],
+        "adverb": [
+          "regionally"
+        ]
+      },
+      "collocations": [
+        "northern region"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 38
+    },
+    {
+      "id": 2164,
+      "word": "regional",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "relating to a region",
+      "definitionTh": "ระดับภูมิภาค",
+      "example": "The report includes regional office.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "region"
+        ],
+        "verb": [],
+        "adjective": [
+          "regional"
+        ],
+        "adverb": [
+          "regionally"
+        ]
+      },
+      "collocations": [
+        "regional office"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 37
+    },
+    {
+      "id": 2165,
+      "word": "register",
+      "pos": "n., v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to officially add a name or item to a list",
+      "definitionTh": "ลงทะเบียน",
+      "example": "The report includes register online.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "enrol",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "register",
+          "registration"
+        ],
+        "verb": [
+          "register"
+        ],
+        "adjective": [
+          "registered"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "register online"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 36
+    },
+    {
+      "id": 2166,
+      "word": "regret",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to feel sorry about something",
+      "definitionTh": "เสียใจ",
+      "example": "The report includes deeply regret.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "feel sorry",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "regret"
+        ],
+        "verb": [
+          "regret"
+        ],
+        "adjective": [
+          "regretful"
+        ],
+        "adverb": [
+          "regretfully"
+        ]
+      },
+      "collocations": [
+        "deeply regret"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 35
+    },
+    {
+      "id": 2167,
+      "word": "regular",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "happening repeatedly in a fixed pattern",
+      "definitionTh": "สม่ำเสมอ",
+      "example": "The report includes regular inspection.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "routine",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "irregular",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "regularity"
+        ],
+        "verb": [
+          "regularize"
+        ],
+        "adjective": [
+          "regular"
+        ],
+        "adverb": [
+          "regularly"
+        ]
+      },
+      "collocations": [
+        "regular inspection"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 34
+    },
+    {
+      "id": 2168,
+      "word": "regularly",
+      "pos": "adv.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "at consistent intervals",
+      "definitionTh": "อย่างสม่ำเสมอ",
+      "example": "The report includes check regularly.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "routinely",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "check regularly"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 33
+    },
+    {
+      "id": 2169,
+      "word": "relation",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a connection between things",
+      "definitionTh": "ความสัมพันธ์",
+      "example": "The report includes in relation to.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "connection",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "relation",
+          "relationship"
+        ],
+        "verb": [
+          "relate"
+        ],
+        "adjective": [
+          "relative"
+        ],
+        "adverb": [
+          "relatively"
+        ]
+      },
+      "collocations": [
+        "in relation to"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 32
+    },
+    {
+      "id": 2170,
+      "word": "relationship",
+      "pos": "n., v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "the way people or things are connected",
+      "definitionTh": "ความสัมพันธ์",
+      "example": "The report includes working relationship.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "connection",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "relation",
+          "relationship"
+        ],
+        "verb": [
+          "relate"
+        ],
+        "adjective": [
+          "relative"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "working relationship"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 31
+    },
+    {
+      "id": 2171,
+      "word": "relative",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "connected by family or comparison",
+      "definitionTh": "ญาติ / สัมพันธ์",
+      "example": "The report includes relative importance.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "comparative",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "relation"
+        ],
+        "verb": [
+          "relate"
+        ],
+        "adjective": [
+          "relative"
+        ],
+        "adverb": [
+          "relatively"
+        ]
+      },
+      "collocations": [
+        "relative importance"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 30
+    },
+    {
+      "id": 2172,
+      "word": "relatively",
+      "pos": "adv.",
+      "level": "B2",
+      "ipa": "",
+      "definitionEn": "in comparison with something else",
+      "definitionTh": "โดยเปรียบเทียบ",
+      "example": "The report includes relatively low.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "comparatively",
+          "level": "B2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "relatively low"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B2"
+      ],
+      "difficulty": 4,
+      "frequencyRank": 29
+    },
+    {
+      "id": 2173,
+      "word": "relax",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to become less tense",
+      "definitionTh": "ผ่อนคลาย",
+      "example": "The report includes relax after work.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "rest",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "tense",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "relaxation"
+        ],
+        "verb": [
+          "relax"
+        ],
+        "adjective": [
+          "relaxed",
+          "relaxing"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "relax after work"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 28
+    },
+    {
+      "id": 2174,
+      "word": "relaxed",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "feeling calm and free from tension",
+      "definitionTh": "รู้สึกผ่อนคลาย",
+      "example": "The report includes feel relaxed.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "calm",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "tense",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "relaxation"
+        ],
+        "verb": [
+          "relax"
+        ],
+        "adjective": [
+          "relaxed",
+          "relaxing"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "feel relaxed"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 27
+    },
+    {
+      "id": 2175,
+      "word": "relaxing",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "making someone feel calm",
+      "definitionTh": "ทำให้ผ่อนคลาย",
+      "example": "The report includes relaxing music.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "calming",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "relaxation"
+        ],
+        "verb": [
+          "relax"
+        ],
+        "adjective": [
+          "relaxed",
+          "relaxing"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "relaxing music"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 26
+    },
+    {
+      "id": 2176,
+      "word": "release",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to let go or make available",
+      "definitionTh": "ปล่อย / เผยแพร่",
+      "example": "The report includes release a report.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "publish",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "release"
+        ],
+        "verb": [
+          "release"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "release a report"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 25
+    },
+    {
+      "id": 2177,
+      "word": "relevant",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "connected with the subject",
+      "definitionTh": "เกี่ยวข้อง",
+      "example": "The report includes relevant information.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "related",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "irrelevant",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "relevance"
+        ],
+        "verb": [],
+        "adjective": [
+          "relevant"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "relevant information"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 24
+    },
+    {
+      "id": 2178,
+      "word": "reliable",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "able to be trusted",
+      "definitionTh": "เชื่อถือได้",
+      "example": "The report includes reliable system.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "dependable",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unreliable",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "reliability"
+        ],
+        "verb": [
+          "rely"
+        ],
+        "adjective": [
+          "reliable"
+        ],
+        "adverb": [
+          "reliably"
+        ]
+      },
+      "collocations": [
+        "reliable system"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 23
+    },
+    {
+      "id": 2179,
+      "word": "relief",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "reduction of pain or worry",
+      "definitionTh": "การบรรเทา",
+      "example": "The report includes pain relief.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "comfort",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "relief"
+        ],
+        "verb": [
+          "relieve"
+        ],
+        "adjective": [
+          "relieved"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "pain relief"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 22
+    },
+    {
+      "id": 2180,
+      "word": "religion",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "belief in and worship of a god or gods",
+      "definitionTh": "ศาสนา",
+      "example": "The report includes world religion.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "religion"
+        ],
+        "verb": [],
+        "adjective": [
+          "religious"
+        ],
+        "adverb": [
+          "religiously"
+        ]
+      },
+      "collocations": [
+        "world religion"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 21
+    },
+    {
+      "id": 2181,
+      "word": "religious",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "connected with religion",
+      "definitionTh": "ทางศาสนา",
+      "example": "The report includes religious belief.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "religion"
+        ],
+        "verb": [],
+        "adjective": [
+          "religious"
+        ],
+        "adverb": [
+          "religiously"
+        ]
+      },
+      "collocations": [
+        "religious belief"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 20
+    },
+    {
+      "id": 2182,
+      "word": "rely",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to depend on someone or something",
+      "definitionTh": "พึ่งพา",
+      "example": "The report includes rely on.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "depend",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "reliance"
+        ],
+        "verb": [
+          "rely"
+        ],
+        "adjective": [
+          "reliable"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "rely on"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 19
+    },
+    {
+      "id": 2183,
+      "word": "remain",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to continue to exist or stay",
+      "definitionTh": "ยังคงอยู่",
+      "example": "The temperature remained stable.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "stay",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "leave",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "remainder"
+        ],
+        "verb": [
+          "remain"
+        ],
+        "adjective": [
+          "remaining"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "remain stable"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 18
+    },
+    {
+      "id": 2184,
+      "word": "remark",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a comment; to comment briefly",
+      "definitionTh": "ข้อสังเกต",
+      "example": "The report includes make a remark.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "comment",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "remark"
+        ],
+        "verb": [
+          "remark"
+        ],
+        "adjective": [
+          "remarkable"
+        ],
+        "adverb": [
+          "remarkably"
+        ]
+      },
+      "collocations": [
+        "make a remark"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 17
+    },
+    {
+      "id": 2185,
+      "word": "remember",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to keep something in your memory",
+      "definitionTh": "จดจำ",
+      "example": "Remember to lock the panel.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "forget",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "memory"
+        ],
+        "verb": [
+          "remember"
+        ],
+        "adjective": [
+          "memorable"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "remember to"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 16
+    },
+    {
+      "id": 2186,
+      "word": "remind",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to make someone remember something",
+      "definitionTh": "เตือน",
+      "example": "Remind the team about the meeting.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "reminder"
+        ],
+        "verb": [
+          "remind"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "remind someone"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 15
+    },
+    {
+      "id": 2187,
+      "word": "remote",
+      "pos": "adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "far away or controlled from a distance",
+      "definitionTh": "ห่างไกล",
+      "example": "The report includes remote access.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [],
+        "verb": [],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "remote access"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 14
+    },
+    {
+      "id": 2188,
+      "word": "remove",
+      "pos": "v.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "to take something away",
+      "definitionTh": "เอาออก",
+      "example": "Remove the damaged part.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "take away",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "install",
+          "level": "B1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "removal"
+        ],
+        "verb": [
+          "remove"
+        ],
+        "adjective": [
+          "removable"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "remove a part"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 13
+    },
+    {
+      "id": 2189,
+      "word": "rent",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "money paid to use something; to pay for its use",
+      "definitionTh": "เช่า / ค่าเช่า",
+      "example": "They rent the equipment monthly.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "rent",
+          "rental"
+        ],
+        "verb": [
+          "rent"
+        ],
+        "adjective": [
+          "rented"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "pay rent"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 12
+    },
+    {
+      "id": 2190,
+      "word": "repair",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to fix something damaged",
+      "definitionTh": "ซ่อมแซม",
+      "example": "A technician repaired the machine.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "fix",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "repair"
+        ],
+        "verb": [
+          "repair"
+        ],
+        "adjective": [
+          "repairable"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "repair a machine"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 11
+    },
+    {
+      "id": 2191,
+      "word": "repeat",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "to do or say something again",
+      "definitionTh": "ทำซ้ำ",
+      "example": "Repeat the test three times.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "do again",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "stop",
+          "level": "A1"
+        }
+      ],
+      "family": {
+        "noun": [
+          "repetition"
+        ],
+        "verb": [
+          "repeat"
+        ],
+        "adjective": [
+          "repeated"
+        ],
+        "adverb": [
+          "repeatedly"
+        ]
+      },
+      "collocations": [
+        "repeat a test"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 10
+    },
+    {
+      "id": 2192,
+      "word": "repeated",
+      "pos": "adj.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "done again",
+      "definitionTh": "ซ้ำ",
+      "example": "The report includes repeated failure.",
+      "exampleTh": "",
+      "synonyms": [],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "repetition"
+        ],
+        "verb": [
+          "repeat"
+        ],
+        "adjective": [
+          "repeated"
+        ],
+        "adverb": [
+          "repeatedly"
+        ]
+      },
+      "collocations": [
+        "repeated failure"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 9
+    },
+    {
+      "id": 2193,
+      "word": "replace",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to put something new in place of another",
+      "definitionTh": "แทนที่",
+      "example": "Replace the worn sensor.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "substitute",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "retain",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "replacement"
+        ],
+        "verb": [
+          "replace"
+        ],
+        "adjective": [
+          "replaceable"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "replace a sensor"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 8
+    },
+    {
+      "id": 2194,
+      "word": "reply",
+      "pos": "n., v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to answer in words or writing",
+      "definitionTh": "ตอบกลับ",
+      "example": "Please reply to the message.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "respond",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "ignore",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "reply"
+        ],
+        "verb": [
+          "reply"
+        ],
+        "adjective": [],
+        "adverb": []
+      },
+      "collocations": [
+        "reply to"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 7
+    },
+    {
+      "id": 2195,
+      "word": "report",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an account of information; to give an account",
+      "definitionTh": "รายงาน",
+      "example": "The report summarizes the findings.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "account",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "report",
+          "reporter"
+        ],
+        "verb": [
+          "report"
+        ],
+        "adjective": [
+          "reported"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "inspection report"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 6
+    },
+    {
+      "id": 2196,
+      "word": "representative",
+      "pos": "n., adj.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "a person acting for others",
+      "definitionTh": "ตัวแทน",
+      "example": "The report includes sales representative.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "delegate",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "representative",
+          "representation"
+        ],
+        "verb": [
+          "represent"
+        ],
+        "adjective": [
+          "representative"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "sales representative"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 5
+    },
+    {
+      "id": 2197,
+      "word": "reputation",
+      "pos": "n.",
+      "level": "B1",
+      "ipa": "",
+      "definitionEn": "the general opinion people have of someone or something",
+      "definitionTh": "ชื่อเสียง",
+      "example": "The report includes good reputation.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "standing",
+          "level": "B1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "reputation"
+        ],
+        "verb": [],
+        "adjective": [
+          "reputable"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "good reputation"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "B1"
+      ],
+      "difficulty": 3,
+      "frequencyRank": 4
+    },
+    {
+      "id": 2198,
+      "word": "request",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "",
+      "definitionEn": "an act of asking for something",
+      "definitionTh": "คำขอ",
+      "example": "Submit the purchase request.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "ask for",
+          "level": "A1"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "request"
+        ],
+        "verb": [
+          "request"
+        ],
+        "adjective": [
+          "requested"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "submit a request"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A1"
+      ],
+      "difficulty": 1,
+      "frequencyRank": 3
+    },
+    {
+      "id": 2199,
+      "word": "require",
+      "pos": "v.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "to need something",
+      "definitionTh": "ต้องการ",
+      "example": "The task requires approval.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "need",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "dispense with",
+          "level": "A2"
+        }
+      ],
+      "family": {
+        "noun": [
+          "requirement"
+        ],
+        "verb": [
+          "require"
+        ],
+        "adjective": [
+          "required"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "require approval"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 2
+    },
+    {
+      "id": 2200,
+      "word": "requirement",
+      "pos": "n.",
+      "level": "A2",
+      "ipa": "",
+      "definitionEn": "something that is needed or demanded",
+      "definitionTh": "ข้อกำหนด",
+      "example": "Safety is a key requirement.",
+      "exampleTh": "",
+      "synonyms": [
+        {
+          "word": "need",
+          "level": "A2"
+        }
+      ],
+      "antonyms": [],
+      "family": {
+        "noun": [
+          "requirement"
+        ],
+        "verb": [
+          "require"
+        ],
+        "adjective": [
+          "required"
+        ],
+        "adverb": []
+      },
+      "collocations": [
+        "safety requirement"
+      ],
+      "phrases": [],
+      "tags": [
+        "Oxford3000",
+        "A2"
+      ],
+      "difficulty": 2,
+      "frequencyRank": 1
+    }
+  ]
+}
